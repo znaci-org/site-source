@@ -1,0 +1,42 @@
+body { 
+	background-color: #F0F0F0; 
+}
+img {
+	width: 180px;
+}
+div {
+	width: 185px;
+	display: inline-block;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5px;
+}
+header {
+	text-align: center;
+}
+li {
+	display: inline-block;
+}
+a:link {
+	color:#FF0000;
+}     
+a:visited {
+	color:gray;
+}  
+/* miš iznad */
+a:hover { 
+	color:black;
+}  
+/* trenutni link */ 
+a:active {
+	color:#0000FF;
+}  
+footer {
+	color:black;
+	text-decoration: overline;
+	text-align: center;
+}
+footer img {
+	border-width:0; 
+	width:90px;
+}
