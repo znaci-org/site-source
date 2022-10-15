@@ -45,9 +45,7 @@
 	border-color: DarkSalmon;
 }
 
-.leva-strelica {
-	float:left;
-}
-.desna-strelica {
-	float:right;
+.strelice {
+	display: flex;
+	justify-content: space-between;
 }

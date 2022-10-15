@@ -7,12 +7,6 @@
     <title>Fotogalerija - Biblioteka znaci</title>
     <link href="normal.css" rel="stylesheet" type="text/css">
     <link href="css/fotogalerija.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-    <?php include "includes/header.php"; ?>
-    <h2>Fotogalerija</h2>
-
     <?php
     require_once("includes/povezivanje.php");
 
@@ -32,6 +26,12 @@
         $trenutna_strana = 1;
     }
     ?>
+</head>
+
+<body>
+
+    <?php include "includes/header.php"; ?>
+    <h2>Fotogalerija</h2>
 
     <div class="okvir">
         <p>Ukupno fotografija: <?php echo $ukupno_fotografija; ?></p>
@@ -87,7 +87,7 @@
             $prethodna = $trenutna_strana - 1;
             $naredna = $trenutna_strana + 1;
             ?>
-            <p>
+            <p class="strelice">
                 <button class="leva-strelica" name='stranica' value='<?php echo $prethodna; ?>'>&#8592;</button>
                 <button class="desna-strelica" name='stranica' value='<?php echo $naredna; ?>'>&#8594;</button>
             </p>
@@ -101,3 +101,5 @@
     </footer>
 
 </body>
+
+</html>

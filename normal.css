@@ -1,3 +1,5 @@
+/* GENERAL */
+
 body {
     background-color: #e0f0f6;
     font-family: Verdana, Arial, Helvetica;
@@ -24,27 +26,8 @@ a:hover {
     color: red;
 }
 
-.knjige {
-    background-color: #fff;
-    border: 2px solid #00A;
-    font-weight: bold;
-    padding-top: 4px;
-}
-
-.knjige p {
-    margin: 0;
-}
-
-.knjige h3 {
-    margin-left: 8px;
-}
-
 .svetloplavo {
     background-color: #c0d0ff;
-}
-
-.svetlozeleno {
-    background-color: #d0ffd0;
 }
 
 .srednjezeleno {
@@ -79,20 +62,6 @@ a:hover {
 
 .silver {
     color: #4E4E4E;
-}
-
-.crno {
-    font-family: Arial, Verdana, Helvetica, sans-serif;
-    font-weight: bold;
-    color: black;
-    text-decoration: none;
-}
-
-a.crno:link {
-    font-family: Arial, Verdana, Helvetica, sans-serif;
-    font-weight: bold;
-    color: black;
-    text-decoration: none;
 }
 
 .bigbigTitle {
@@ -212,4 +181,41 @@ a.Bookshelf {
     font-weight: normal;
     text-decoration: none;
     background-color: #000040;
+}
+
+/***** BIBLIOTEKA *****/
+
+.knjige {
+    background-color: #fff;
+    border: 2px solid #00A;
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+.knjige p {
+    margin: 0;
+}
+
+.knjige h3 {
+    margin-left: 8px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    padding: 1rem;
+    padding-top: 0.5em;
+    border-top: 1px solid rgba(69, 54, 37, 0.2);
+    text-align: center;
+}
+
+footer img {
+    vertical-align: middle;
+    height: 26px;
+}
+
+@media (min-width: 768px) {
+    footer {
+        margin-top: 1em;
+    }
 }
