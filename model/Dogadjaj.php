@@ -1,6 +1,6 @@
 <?php
 
-require_once "includes/povezivanje.php";
+require_once __DIR__ . "/../includes/povezivanje.php";
 require_once "Izvor.php";
 
 class Dogadjaj extends Izvor

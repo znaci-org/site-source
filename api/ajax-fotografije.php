@@ -1,7 +1,7 @@
 <?php
 
-require_once("model/Odrednica.php");
-require_once("model/Fotografija.php");
+require_once(dirname(__DIR__).'/model/Odrednica.php');
+require_once(dirname(__DIR__).'/model/Fotografija.php');
 
 $broj_pojma = $_GET['br'];
 $odrednica = new Odrednica($broj_pojma);
@@ -19,5 +19,5 @@ foreach($odrednica->fotografije as $inv){
 }
 
 if ($ucitaj_do < $broj_fotografija) {
-	echo '<p class="ucitavac"><img src="images/ajax-loader.gif" alt="loading" /> Još fotografija se učitava...</p>';
+	echo '<p class="ucitavac"><img src="/images/ajax-loader.gif" alt="loading" /> Još fotografija se učitava...</p>';
 }

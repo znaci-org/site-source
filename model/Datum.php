@@ -1,6 +1,6 @@
 <?php
 
-require_once "includes/povezivanje.php";
+require_once __DIR__ . "/../includes/povezivanje.php";
 require_once "Dogadjaj.php";
 require_once "Dokument.php";
 require_once "Fotografija.php";

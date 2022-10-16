@@ -10,22 +10,22 @@ var broj_oznake = null;
 var dozvoljeno_ucitavanje = true;
 var korak_ucitavanja = 100
 
-// dodaje jos atributa po ucitavanju
+// dodaje jos atributa na objekte po ucitavanju
 var hronologija = {
-  api: "api/ajax-dogadjaji.php"
+  api: "/api/ajax-dogadjaji.php"
 };
 
 var dokumenti = {
-  api: "api/ajax-dokumenti.php"
+  api: "/api/ajax-dokumenti.php"
 };
 
 var fotografije = {
-  api: "api/ajax-fotografije.php"
+  api: "/api/ajax-fotografije.php"
 };
 
 /*** EVENTS ***/
 
-window.addEventListener('load', function () {
+// window.addEventListener('load', function () {
   broj_oznake = $('#odrednica_id').value;
   
   hronologija.target = $("#hronologija-sadrzaj");
@@ -50,13 +50,7 @@ window.addEventListener('load', function () {
   $('#fotografije').addEventListener("scroll", function () {
     ucitajJos(fotografije);
   });
-
-});
-
-document.addEventListener('click', function (e) {
-  var element = e.target;
-  if (element.id == 'promeni-naziv') promeniNaziv(element.nextElementSibling, broj_oznake, $('#pojam').innerText);
-});
+// });
 
 /*** FUNKCIJE ***/
 
@@ -80,14 +74,7 @@ function sakrijUcitavace(target) {
 
 function ucitajJos(predmet) {
   if (!dozvoljeno_ucitavanje || predmet.od >= predmet.ukupno) return;
-  ucitaj(predmet.target, BASE_URL + predmet.api, predmet.od, predmet.od + korak_ucitavanja);
+  ucitaj(predmet.target, predmet.api, predmet.od, predmet.od + korak_ucitavanja);
   predmet.od += korak_ucitavanja;
   dozvoljeno_ucitavanje = false; // brani dalje ucitavanje dok ne stignu podaci
-}
-
-function promeniNaziv(element, broj_oznake, novi_naziv) {
-  const ajax = napraviAjax(element)
-  ajax.open('POST', BASE_URL + 'api/menja-naziv.php')
-  ajax.setRequestHeader('Content-type', 'application/x-www-form-urlencoded')
-  ajax.send('novi_naziv=' + novi_naziv + '&broj_oznake=' + broj_oznake)
 }

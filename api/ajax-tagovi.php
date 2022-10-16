@@ -1,6 +1,6 @@
 <?php
 
-require_once("../includes/povezivanje.php");
+require_once __DIR__ . "/../includes/povezivanje.php";
 $broj_oznake = $_POST['broj_oznake'];
 $svi_tagovi = json_decode(stripslashes($_POST['tagovi']));
 

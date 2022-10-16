@@ -1,7 +1,7 @@
 <?php
 
-require_once("../model/Odrednica.php");
-require_once("../model/Dogadjaj.php");
+require_once(dirname(__DIR__).'/model/Odrednica.php');
+require_once(dirname(__DIR__).'/model/Dogadjaj.php');
 
 $broj_pojma = $_GET['br'];
 $odrednica = new Odrednica($broj_pojma);
@@ -19,5 +19,5 @@ foreach($odrednica->dogadjaji as $id => $data){
 }
 
 if ($ucitaj_do < $broj_dogadjaja) {
-	echo '<p class="ucitavac"><img src="images/ajax-loader.gif" alt="loading" /> Još materijala se učitava...</p>';
+	echo '<p class="ucitavac"><img src="/images/ajax-loader.gif" alt="loading" /> Još materijala se učitava...</p>';
 }
