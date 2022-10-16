@@ -1,64 +1,46 @@
-function $(selektor) {
-  return document.querySelector(selektor)
-}
+const $ = (selektor) => document.querySelector(selektor)
 
-function $$(selektor) {
-  return document.querySelectorAll(selektor)
-}
+const broj_oznake = $('#odrednica_id').value;
+const korak_ucitavanja = 100
 
-var broj_oznake = null;
-var dozvoljeno_ucitavanje = true;
-var korak_ucitavanja = 100
+let dozvoljeno_ucitavanje = true;
 
-// dodaje jos atributa na objekte po ucitavanju
-var hronologija = {
-  api: "/api/ajax-dogadjaji.php"
+const hronologija = {
+  api: "/api/ajax-dogadjaji.php",
+  target: $("#hronologija-sadrzaj"),
+  ukupno: +$('#broj_dogadjaja').value,
 };
 
-var dokumenti = {
-  api: "/api/ajax-dokumenti.php"
+const dokumenti = {
+  api: "/api/ajax-dokumenti.php",
+  target: $("#dokumenti-sadrzaj"),
+  ukupno: +$('#broj_dokumenata').value,
 };
 
-var fotografije = {
-  api: "/api/ajax-fotografije.php"
+const fotografije = {
+  api: "/api/ajax-fotografije.php",
+  target: $("#fotografije-sadrzaj"),
+  ukupno: +$('#broj_fotografija').value,
+  od: +$('#fotografije_limit').value,
 };
+
+hronologija.od = dokumenti.od = +$('#render_limit').value;
 
 /*** EVENTS ***/
 
-// window.addEventListener('load', function () {
-  broj_oznake = $('#odrednica_id').value;
-  
-  hronologija.target = $("#hronologija-sadrzaj");
-  hronologija.ukupno = +$('#broj_dogadjaja').value;
+$('#hronologija').addEventListener("scroll", () => ucitajJos(hronologija));
 
-  dokumenti.target = $("#dokumenti-sadrzaj");
-  dokumenti.ukupno = +$('#broj_dokumenata').value;
-  hronologija.od = dokumenti.od = +$('#render_limit').value;
+$('#dokumenti').addEventListener("scroll", () => ucitajJos(dokumenti));
 
-  fotografije.target = $("#fotografije-sadrzaj");
-  fotografije.ukupno = +$('#broj_fotografija').value;
-  fotografije.od = +$('#fotografije_limit').value;
-
-  $('#hronologija').addEventListener("scroll", function () {
-    ucitajJos(hronologija);
-  });
-
-  $('#dokumenti').addEventListener("scroll", function () {
-    ucitajJos(dokumenti);
-  });
-
-  $('#fotografije').addEventListener("scroll", function () {
-    ucitajJos(fotografije);
-  });
-// });
+$('#fotografije').addEventListener("scroll", () => ucitajJos(fotografije));
 
 /*** FUNKCIJE ***/
 
 function ucitaj(target, url, ucitaj_od, ucitaj_do) {
-  var http = new XMLHttpRequest();
+  const http = new XMLHttpRequest();
   http.open("GET", url + "?br=" + broj_oznake + "&ucitaj_od=" + ucitaj_od + "&ucitaj_do=" + ucitaj_do);
   http.send();
-  http.onreadystatechange = function() {
+  http.onreadystatechange = function () {
     if (http.readyState != 4 || http.status != 200) return;
     sakrijUcitavace(target);
     target.innerHTML += http.responseText; // dodaje tekst i novi učitavač
@@ -67,9 +49,9 @@ function ucitaj(target, url, ucitaj_od, ucitaj_do) {
 }
 
 function sakrijUcitavace(target) {
-  for (var i = 0; i < target.childNodes.length; i++) {
-    if (target.childNodes[i].className == "ucitavac") target.childNodes[i].className = "hide";
-  }
+  [...target.childNodes].forEach(child => {
+    if (child.className == "ucitavac") child.className = "hide";
+  })
 }
 
 function ucitajJos(predmet) {
