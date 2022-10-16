@@ -15,7 +15,7 @@ include_once('css/oblak.php');
 
     <section class="gornji-odeljak">
         <div class="gore-levo">
-            <img class="slika-ustanak" src="/images/ustanak.jpg" alt="ustanak" />
+            <img class="slika-ustanak" src="/images/ustanak.png" alt="ustanak" />
             <h1 id='pojam' class="no-outline"><?php echo $odrednica->naziv ?></h1>
 
             <p class="krasnopis siva-donja-crta padding-sm-bottom inline-block">Za ovaj pojam je pronađeno <span><?php echo $broj_dogadjaja; ?></span> hronoloških zapisa, <span><?php echo $broj_dokumenata; ?></span> dokumenata i <span><?php echo $broj_fotografija; ?></span> fotografija.</p>
