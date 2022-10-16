@@ -63,7 +63,7 @@ if ($trenutna_strana > $ukupno_stranica) {
             $opis = $red_za_fotke['opis'];
 
             if ($j >= $prikazuje_od && $j <= $prikazuje_do) {
-                $izvor_slike = "https://znaci.org/images/$inv.jpg";
+                $izvor_slike = "/images/thumbnails/$inv.jpg";
                 $url = "/fotografija.php?br=$inv";
                 echo "<div class='okvir-slike siva-ivica'>
                     <a href='$url'><img class='galerija-slika' height='200px' title='$opis' src=$izvor_slike></a><br>";
