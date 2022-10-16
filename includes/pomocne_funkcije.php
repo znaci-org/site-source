@@ -26,41 +26,6 @@ function je_li_slobodan($grad, $dan, $mesec, $godina)
 	return $ishod;
 }
 
-function string_slobodni($dan, $mesec, $godina)
-{
-	$konekcija = mysqli_connect("", getenv('MYSQL_UN'), getenv('MYSQL_PW'), getenv('MYSQL_DB'));
-	mysqli_set_charset($konekcija, 'utf8');
-
-	$ii = 0;
-	$nazivi = array();
-	$geo_rang = array();
-	$geo_rang_2 = array();
-	$upit14 = "SELECT distinct(eventu.ko),entia.id as id1,entia.naziv as naziv1,entia.e as e, entia.n as n FROM entia INNER JOIN eventu ON entia.id=eventu.ko WHERE entia.vrsta=2;";
-	$rezultat14 = mysqli_query($konekcija, $upit14);
-	while ($red14 = mysqli_fetch_assoc($rezultat14)) {
-		$nazivi[$ii] = $red14['naziv1'];
-		$idovi[$ii] = $red14['id1'];
-		$geo_rang[$ii] = $red14['n'] - $red14['e'];
-		$geo_rang_2[$ii] = $red14['n'] - $red14['e'];
-		$ii++;
-	}
-	arsort($geo_rang);
-	$sorted_geo_rang = array_keys($geo_rang);
-
-	for ($ii = 0; $ii < count($sorted_geo_rang); $ii++) {
-		$jj = $sorted_geo_rang[$ii];
-		$status = je_li_slobodan($idovi[$jj], $dan, $mesec, $godina);
-		if ($status == 1) {
-			$stil = " class=bigTitle_c";
-		} else {
-			$stil = "";
-		}
-		$strg = $strg . "<span" . $stil . ">" . $nazivi[$jj] . "</span> * ";
-	}
-	$strg = substr($strg, 0, strlen($strg) - 3);
-	return $strg;
-}
-
 function string_divizije($dan, $mesec, $godina)
 {
 	$konekcija = mysqli_connect("", getenv('MYSQL_UN'), getenv('MYSQL_PW'), getenv('MYSQL_DB'));

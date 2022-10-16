@@ -42,12 +42,12 @@ class Datum
 
     private function init_dogadjaji() {
         global $mysqli;
-        $upit = "SELECT id, tekst FROM hr1 
+        $upit = "SELECT id, tekst, rang FROM hr1 
         WHERE yy='$this->godina' AND mm='$this->mesec' AND dd='$this->dan' ";
         $rezultat = $mysqli->query($upit);
         $this->dogadjaji = array();
         while ($red = $rezultat->fetch_assoc()) {
-            $this->dogadjaji[$red['id']] = $red['tekst'];
+            $this->dogadjaji[$red['id']] = array($red['tekst'], $red['rang']);
         }
         $rezultat->close();
     }
@@ -93,8 +93,8 @@ class Datum
         if (!$this->dogadjaji) {
             Dogadjaj::rendaj_prazno();
         }
-        foreach($this->dogadjaji as $id => $tekst){
-            Dogadjaj::rendaj($id, $this->datum, $tekst);
+        foreach($this->dogadjaji as $id => $arr){
+            Dogadjaj::rendaj($id, $this->datum, $arr[0], $arr[1]);
         }
     }
 

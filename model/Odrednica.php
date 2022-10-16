@@ -49,7 +49,7 @@ class Odrednica {
 
     private function init_dogadjaji() {
         global $mysqli;
-        $upit = "SELECT hr1.id, hr1.tekst, hr1.dd, hr1.mm, hr1.yy 
+        $upit = "SELECT hr1.id, hr1.tekst, hr1.rang, hr1.dd, hr1.mm, hr1.yy 
         FROM hr1 
         JOIN hr_int 
         ON hr1.id = hr_int.zapis 
@@ -58,7 +58,7 @@ class Odrednica {
         if($rezultat = $mysqli->query($upit)) {
             while($red = $rezultat->fetch_assoc()) {
                 $datum = Datum::pravi_datum($red["dd"], $red["mm"], $red["yy"]);
-                $data = [$datum, $red["tekst"]];
+                $data = [$datum, $red["tekst"], $red["rang"]];
                 $this->dogadjaji[$red["id"]] = $data;
             }
             $rezultat->close();
@@ -109,7 +109,7 @@ class Odrednica {
         }
         $i = 0;
         foreach($this->dogadjaji as $id => $data){
-            Dogadjaj::rendaj($id, $data[0], $data[1]);
+            Dogadjaj::rendaj($id, $data[0], $data[1], $data[2]);
             $i++;
             if ($i >= $this->render_limit) break;
         }

@@ -27,6 +27,7 @@ class Dogadjaj extends Izvor
         $this->opis = $red["tekst"];
         $this->lokacija = $red["zona"];
         $this->oblast_prevedeno = $red['oblast_prevedeno'];
+        $this->rang = $red["rang"];
 
         $izvor = $red["izvor"];
         if ($izvor == 1) {
@@ -42,15 +43,16 @@ class Dogadjaj extends Izvor
     }
 
     function render() {
-        Dogadjaj::rendaj($this->id, $this->datum, $this->opis);
+        Dogadjaj::rendaj($this->id, $this->datum, $this->opis, $this->rang);
     }
 
     static function rendaj_prazno() {
         echo "Nema hronoloških zapisa za ovaj pojam. ";
     }
 
-    public static function rendaj($id, $datum, $opis) {
+    static function rendaj($id, $datum, $opis, $rang) {
         $url = "/dogadjaj.php?br=$id";
-        echo "<p class='zapisi'><a href='$url'><b>" . $datum . "</b> " . $opis . "</a></p>";
+        $css = $rang == 1 ? 'vazno' : '';
+        echo "<p class='zapisi'><a href='$url'><b>" . $datum . ".</b> <span class='$css'>" . $opis . "</span></a></p>";
     }
 }

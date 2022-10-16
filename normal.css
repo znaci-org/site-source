@@ -166,6 +166,10 @@ h1 {
     line-height: 140%;
 }
 
+.vazno {
+    font-weight: bold;
+}
+
 @media (min-width: 768px) {
     .krasnopis {
         letter-spacing: 0.12em;
