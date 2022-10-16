@@ -16,3 +16,9 @@ Da bi vaše izmene bile trajno integrisane na sajt biće potrebno da nam se javi
 Ako nemate puno iskustva u radu sa git sistemom za održavanje verzija izvornog koda / dokumenata, najtoplije preporučujemo da instalirate Github desktop GUI alat ( https://desktop.github.com/ ), koji omogućava vrlo jednostavnu interakciju sa github repoima. Kroz ovaj alat možete napraviti kopiju repoa kod sebe (clone), pregledati vaše izmene i (kada dobijete status saradnika) integrisati izmene u repo i time i na sajt.
 
 Detalji za kontakt sa radnom grupom za održavanje sajta će biti objavljeni uz najavu poziva za saradnju.
+
+## TODO
+
+- ažurirati nazive jedinica u bazi:
+  - 829: 2. diverzantski bataljon NOVH
+  - 830: 3. diverzantski bataljon NOVH
