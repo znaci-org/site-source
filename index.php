@@ -78,7 +78,7 @@ include "includes/header.php";
   <p>
     <a href="/00003/736.php" target="_blank"><span>&nbsp;&nbsp;&#9658;
         Savez antifašističkih boraca Hrvatske: RUŠENJE ANTIFAŠISTIČKIH SPOMENIKA U HRVATSKOJ 1990–2000.</span></a><br />
-    <img src="/images/736_4m.jpg" width="200"> </p>
+    <img src="/images/thumbnails/736_4m.jpg" width="200"> </p>
   <p>
     <a href="/00003/1001.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;
         Sergej Flere, Rudi Klanjšek: Was Tito’s Yugoslavia totalitarian?</span></a> </p>
@@ -880,10 +880,10 @@ include "includes/header.php";
                       </td>
                     </tr>
                     <tr>
-                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_62.htm"><img width="60%" src="/images/ac062.jpg"></a></td>
-                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_89.htm"><img width="60%" src="/images/ac089.jpg"></a></td>
-                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_155.htm"><img width="60%" src="/images/ac155.jpg"></a></td>
-                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_160.htm"><img width="60%" src="/images/ac160.jpg"></a></td>
+                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_62.htm"><img width="60%" src="/images/thumbnails/ac062.jpg"></a></td>
+                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_89.htm"><img width="60%" src="/images/thumbnails/ac089.jpg"></a></td>
+                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_155.htm"><img width="60%" src="/images/thumbnails/ac155.jpg"></a></td>
+                      <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00001/56_160.htm"><img width="60%" src="/images/thumbnails/ac160.jpg"></a></td>
                     </tr>
                   </table>
                   <p>
@@ -1529,25 +1529,25 @@ include "includes/header.php";
                     </tr>
                     <tr>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/770.php?broj=20">
-                          <center><img width="80%" src="/images/770_563.jpg"><br />
+                          <center><img width="80%" src="/images/thumbnails/770_563.jpg"><br />
                         </a>
                         Žužemberška operacija
                         </center>
                       </td>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/770.php?broj=131">
-                          <center><img width="60%" src="/images/770_566.jpg"><br />
+                          <center><img width="60%" src="/images/thumbnails/770_566.jpg"><br />
                         </a>
                         Wolkenbruch II
                         </center>
                       </td>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/770.php?broj=251">
-                          <center><img width="60%" src="/images/770_571.jpg"><br />
+                          <center><img width="60%" src="/images/thumbnails/770_571.jpg"><br />
                         </a>
                         Boj za Žužemberk od 1. do 4. maja 1944
                         </center>
                       </td>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/770.php?broj=432">
-                          <center><img width="80%" src="/images/770_573.jpg"><br />
+                          <center><img width="80%" src="/images/thumbnails/770_573.jpg"><br />
                         </a>
                         Sovražnikov vdor v Belo krajino od 13. do 15. novembra 1944
                         </center>
@@ -1600,25 +1600,25 @@ include "includes/header.php";
                     </tr>
                     <tr>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/7xx.php?broj=46&bk=823">
-                          <center><img width="80%" src="/images/823_047.jpg"><br />
+                          <center><img width="80%" src="/images/thumbnails/823_047.jpg"><br />
                         </a>
                         Nemška ofenziva *Traufe*
                         </center>
                       </td>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/7xx.php?broj=82&bk=823">
-                          <center><img width="60%" src="/images/823_083.jpg"><br />
+                          <center><img width="60%" src="/images/thumbnails/823_083.jpg"><br />
                         </a>
                         Rušenje proge Rakek-Postojna-Košana
                         </center>
                       </td>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/7xx.php?broj=88&bk=823">
-                          <center><img width="60%" src="/images/823_089.jpg"><br />
+                          <center><img width="60%" src="/images/thumbnails/823_089.jpg"><br />
                         </a>
                         Osvobajanje Bohinja in blejske kotline
                         </center>
                       </td>
                       <td style="margin-left:20px; background-color:#002010; vertical-align:middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="new" href="/00003/7xx.php?broj=176&bk=823">
-                          <center><img width="80%" src="/images/823_176.jpg"><br />
+                          <center><img width="80%" src="/images/thumbnails/823_176.jpg"><br />
                         </a>
                         Napad na Železnike
                         </center>
