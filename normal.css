@@ -19,6 +19,8 @@ body {
 
 button {
     cursor: pointer;
+    min-width: 28px;
+    margin-bottom: 4px;
 }
 
 ul {
@@ -37,6 +39,8 @@ a:hover {
 /* a:hover {
     text-decoration: underline;
 } */
+
+/* BOJE */
 
 .svetloplavo {
     background-color: #c0d0ff;
@@ -75,6 +79,117 @@ a:hover {
 .silver {
     color: #4E4E4E;
 }
+
+/************* POMAGALA ***************/
+
+.full {
+    width: 100%;
+}
+
+.max-100 {
+    max-width: 100%;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.no-outline {
+    outline: none;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.sadrzaj {
+    display: inline-block;
+    padding: 20px 20px 20px 40px;
+}
+
+.relative {
+    position: relative;
+}
+
+.hide {
+    display: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+    .hide-sm {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .hide-lg {
+        display: none;
+    }
+}
+
+/********* TIPOGRAFIJA **********/
+
+h1 {
+    font-size: 2em;
+}
+
+.krasnopis {
+    color: rgba(69, 54, 37, 0.6);
+    font-style: italic;
+}
+
+.krasnopis span {
+    font-style: normal;
+}
+
+.siri-prored {
+    line-height: 140%;
+}
+
+@media (min-width: 768px) {
+    .krasnopis {
+        letter-spacing: 0.12em;
+    }
+}
+
+/***** BIBLIOTEKA *****/
+
+.knjige {
+    background-color: #fff;
+    border: 2px solid #00A;
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+.knjige p {
+    margin: 0;
+}
+
+.knjige h3 {
+    margin-left: 8px;
+}
+
+/* STARO */
 
 .bigbigTitle {
     font-family: Arial, Verdana, Helvetica, sans-serif;
@@ -193,133 +308,4 @@ a.Bookshelf {
     font-weight: normal;
     text-decoration: none;
     background-color: #000040;
-}
-
-/************* OPŠTE KLASE ***************/
-
-.full {
-    width: 100%;
-}
-
-.max-100 {
-    max-width: 100%;
-}
-
-.float-left {
-    float: left;
-}
-
-.float-right {
-    float: right;
-}
-
-.clear {
-    clear: both;
-}
-
-.underline {
-    text-decoration: underline;
-}
-
-.no-outline {
-    outline: none;
-}
-
-.inline-block {
-    display: inline-block;
-}
-
-.sadrzaj {
-    display: inline-block;
-    padding: 20px 20px 20px 40px;
-}
-
-.relative {
-    position: relative;
-}
-
-.hide {
-    display: none;
-}
-
-.flex {
-    display: flex;
-}
-
-.nowrap {
-    white-space: nowrap;
-}
-
-@media (max-width: 767px) {
-    .hide-sm {
-        display: none;
-    }
-}
-
-@media (min-width: 768px) {
-    .hide-lg {
-        display: none;
-    }
-}
-
-/********* TIPOGRAFIJA **********/
-
-h1 {
-    font-size: 2em;
-}
-
-.krasnopis {
-    color: rgba(69, 54, 37, 0.6);
-    font-style: italic;
-}
-
-.krasnopis span {
-    font-style: normal;
-}
-
-.siri-prored {
-    line-height: 140%;
-}
-
-@media (min-width: 768px) {
-    .krasnopis {
-        letter-spacing: 0.12em;
-    }
-}
-
-/***** BIBLIOTEKA *****/
-
-.knjige {
-    background-color: #fff;
-    border: 2px solid #00A;
-    font-weight: bold;
-    padding-top: 4px;
-}
-
-.knjige p {
-    margin: 0;
-}
-
-.knjige h3 {
-    margin-left: 8px;
-}
-
-/***** FOOTER *****/
-
-footer {
-    padding: 1rem;
-    padding-top: 0.5em;
-    border-top: 1px solid rgba(69, 54, 37, 0.2);
-    text-align: center;
-}
-
-footer img {
-    vertical-align: middle;
-    height: 26px;
-}
-
-@media (min-width: 768px) {
-    footer {
-        margin-top: 1em;
-    }
 }
