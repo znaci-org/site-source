@@ -11,7 +11,14 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
   <meta content="Biblioteka Znaci, baza podataka o drugom svetskom ratu na tlu Jugoslavije. " name="description">
   <title><?php echo $naslov; ?> | Biblioteka Znaci</title>
   <link rel="stylesheet" href="/normal.css" />
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+  <?php if ($fotografija) { ?>
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://znaci.org/fotografija.php?br=<?php echo $fotografija->id; ?>" />
+    <meta property="og:title" content="<?php echo $fotografija->getNaslov(); ?>" />
+    <meta property="og:description" content="<?php echo $fotografija->opis; ?>" />
+    <meta property="og:image" content="<?php echo $fotografija->url; ?>" />
+  <?php } ?>
 </head>
 
 <body>
