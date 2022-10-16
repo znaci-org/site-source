@@ -42,10 +42,6 @@ class Dogadjaj extends Izvor
         $rezultat->close();
     }
 
-    function render() {
-        Dogadjaj::rendaj($this->id, $this->datum, $this->opis, $this->rang);
-    }
-
     static function rendaj_prazno() {
         echo "Nema hronoloških zapisa za ovaj pojam. ";
     }

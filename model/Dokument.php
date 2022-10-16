@@ -46,10 +46,6 @@ class Dokument extends Izvor
         $rezultat->close();
     }
 
-    function render() {
-        Dokument::rendaj($this->id, $this->opis);
-    }
-
     static function rendaj_prazno() {
         echo "Nema pronađenih dokumenata za ovaj pojam. ";
     }
