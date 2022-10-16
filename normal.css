@@ -4,18 +4,23 @@ body {
     background-color: #e0f0f6;
     font-family: Verdana, Arial, Helvetica;
     font-size: smaller;
+    margin: 1%;
+}
+
+button {
+    cursor: pointer;
 }
 
 ul {
     list-style-type: none;
 }
 
-h1,
+/* h1,
 h2,
 h3,
 h4 {
     margin: 8px 0;
-}
+} */
 
 a {
     color: #0A3C64;
@@ -181,6 +186,10 @@ a.Bookshelf {
     font-weight: normal;
     text-decoration: none;
     background-color: #000040;
+}
+
+.max-100 {
+    max-width: 100%;
 }
 
 /***** BIBLIOTEKA *****/
