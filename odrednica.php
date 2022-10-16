@@ -92,6 +92,7 @@ include_once('css/oblak.php');
 
 </div>
 
-<script src="/js/odrednica.js"></script>
-
-<?php include_once("includes/footer.php"); ?>
+<?php
+include_once("js/odrednica.php");
+include_once("includes/footer.php");
+?>
