@@ -8,23 +8,23 @@ let dozvoljeno_ucitavanje = true;
 const hronologija = {
   api: "/api/ajax-dogadjaji.php",
   target: $("#hronologija-sadrzaj"),
-  ukupno: +$('#broj_dogadjaja').value,
+  ukupno: Number($('#broj_dogadjaja').value),
 };
 
 const dokumenti = {
   api: "/api/ajax-dokumenti.php",
   target: $("#dokumenti-sadrzaj"),
-  ukupno: +$('#broj_dokumenata').value,
+  ukupno: Number($('#broj_dokumenata').value),
 };
 
 const fotografije = {
   api: "/api/ajax-fotografije.php",
   target: $("#fotografije-sadrzaj"),
-  ukupno: +$('#broj_fotografija').value,
-  od: +$('#fotografije_limit').value,
+  ukupno: Number($('#broj_fotografija').value),
+  od: Number($('#fotografije_limit').value),
 };
 
-hronologija.od = dokumenti.od = +$('#render_limit').value;
+hronologija.od = dokumenti.od = Number($('#render_limit').value);
 
 /*** EVENTS ***/
 
