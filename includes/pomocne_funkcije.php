@@ -8,22 +8,22 @@ function je_li_aktivno($entitet_id, $dan, $mesec, $godina)
 
 	$upit = "SELECT * FROM eventu WHERE ko=$entitet_id order by kadyy, kadmm, kadd;";
 	$rezultat = mysqli_query($konekcija, $upit);
-	$ishod = 2;
+
+	$status = 2;
 	while ($red = mysqli_fetch_assoc($rezultat)) {
 		if (!isset($red)) {
 			break;
 		}
-		$kko = $red['ko'];
 		$dan_akcije = 10497 + strtotime($red['kadyy'] . "-" . $red['kadmm'] . "-" . $red['kadd']) / 86400;
 		if ($dan_akcije > $dan_rata) {
 			break;
 		}
-		$ishod = $red['sta'];
-		if ($ishod > 2) {
-			$ishod = $ishod - 2;
+		$status = $red['sta'];
+		if ($status > 2) {
+			$status = $status - 2;
 		}
 	}
-	return $ishod;
+	return $status == 1;
 }
 
 function string_divizije($dan, $mesec, $godina)
@@ -33,25 +33,28 @@ function string_divizije($dan, $mesec, $godina)
 
 	$i = 0;
 	$nazivi = array();
-	// selektuje sve nemačke divizije u jugoslaviji
-	$upit = "SELECT distinct(eventu.ko), entia.id as entia_id, entia.naziv as entia_naziv FROM entia INNER JOIN eventu ON entia.id=eventu.ko WHERE entia.prip=11;";
+	$brojevi = array();
+	$slugovi = array();
+
+	// selektuje nemačke divizije u jugoslaviji
+	$upit = "SELECT distinct(eventu.ko) AS id, entia.naziv, entia.slug FROM entia 
+	INNER JOIN eventu ON eventu.ko=entia.id 
+	WHERE entia.prip=11";
+
 	$rezultat = mysqli_query($konekcija, $upit);
+
 	while ($red = mysqli_fetch_assoc($rezultat)) {
-		$nazivi[$i] = $red['entia_naziv'];
-		$idovi[$i] = $red['entia_id'];
+		$nazivi[$i] = $red['naziv'];
+		$brojevi[$i] = $red['id'];
+		$slugovi[$i] = $red['slug'];
 		$i++;
 	}
 
 	$strg = "";
-	for ($i = 0; $i < count($nazivi); $i++) {
-		$status = je_li_aktivno($idovi[$i], $dan, $mesec, $godina);
-		if ($status == 1) {
-			$stil = " class=bigTitle_c";
-		} else {
-			$stil = "";
+	for ($i = 0; $i < count($brojevi); $i++) {
+		if (je_li_aktivno($brojevi[$i], $dan, $mesec, $godina)) {
+			$strg = $strg . "<a href=odrednica.php?slug=$slugovi[$i]>" . $nazivi[$i] . "</a> * ";
 		}
-		$strg = $strg . "<span" . $stil . ">" . $nazivi[$i] . "</span> * ";
 	}
-	$strg = substr($strg, 0, strlen($strg) - 3);
 	return $strg;
 }
