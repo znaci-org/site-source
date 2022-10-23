@@ -72,7 +72,7 @@ if ($rezultat_gradovi = $mysqli->query($upit_gradovi)) {
 			color: red;
 		}
 	</style>
-	<link rel="stylesheet" href="/libs/leaflet.css" />
+	<?php include_once('libs/leaflet.css.php'); ?>
 </head>
 
 <body>
@@ -80,9 +80,10 @@ if ($rezultat_gradovi = $mysqli->query($upit_gradovi)) {
 	<div id="mapa"></div>
 	<div id="mesto-za-mapu"></div>
 
-	<script src="/libs/leaflet.js"></script>	
-	<?php include_once('js/mapa.php'); ?>
-
+	<?php
+	include_once('libs/leaflet.js.php');
+	include_once('js/mapa.php');
+	?>
 	<script>
 		window.onload = function() {
 			postaviMapu(<?php echo json_encode($gradovi); ?>);
