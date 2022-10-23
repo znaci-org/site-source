@@ -183,6 +183,8 @@ class Odrednica {
             return;
         }
 
+        include_once('css/oblak.php');
+
         $ucestalost_oznaka = array_count_values($odrednice);
         arsort($ucestalost_oznaka);
         if (count($ucestalost_oznaka) > odrednice_limit) 

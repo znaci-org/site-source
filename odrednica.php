@@ -8,7 +8,6 @@ $broj_fotografija = count($odrednica->fotografije);
 $naslov = $odrednica->naziv;
 include_once('includes/header.php');
 include_once('css/glavno.php');
-include_once('css/oblak.php');
 ?>
 
 <div class="okvir pojam">
