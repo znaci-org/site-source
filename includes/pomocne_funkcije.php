@@ -29,7 +29,7 @@ function get_slobodni_gradovi($dan, $mesec, $godina)
 	global $mysqli;
 	$gradovi = [];
 
-	$upit = sprintf("SELECT * FROM entia WHERE vrsta=2;");
+	$upit = "SELECT * FROM entia WHERE vrsta=2;";
 
 	$rezultat = $mysqli->query($upit);
 
@@ -42,13 +42,13 @@ function get_slobodni_gradovi($dan, $mesec, $godina)
 		$data[] = $red['e'];		// 3
 		$data[] = $red['slug'];		// 4
 
-		$gradovi[] = $data;
+		array_push($gradovi, $data);
 		unset($data);
 	}
 	return $gradovi;
 }
 
-function get_aktivne_divizije($dan, $mesec, $godina)
+function get_prisutne_divizije($dan, $mesec, $godina)
 {
 	global $mysqli;
 	$divizije = [];
@@ -65,7 +65,8 @@ function get_aktivne_divizije($dan, $mesec, $godina)
 		$data[] = $red['id']; // 0
 		$data[] = $red['naziv'];	// 1
 		$data[] = $red['slug'];		// 2
-		$divizije[] = $data;
+
+		array_push($divizije, $data);
 		unset($data);
 	}
 	return $divizije;
@@ -74,7 +75,7 @@ function get_aktivne_divizije($dan, $mesec, $godina)
 function string_divizije($dan, $mesec, $godina)
 {
 
-	$divizije = get_aktivne_divizije($dan, $mesec, $godina);
+	$divizije = get_prisutne_divizije($dan, $mesec, $godina);
 	$strg = "";
 	for ($i = 0; $i < count($divizije); $i++) {
 		$divizija = $divizije[$i];
