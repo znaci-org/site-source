@@ -2,13 +2,13 @@
 
 function je_li_aktivno($entitet_id, $dan, $mesec, $godina)
 {
-	$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
 	$konekcija = mysqli_connect("", getenv('MYSQL_UN'), getenv('MYSQL_PW'), getenv('MYSQL_DB'));
 	mysqli_set_charset($konekcija, 'utf8');
-
+	
 	$upit = "SELECT * FROM eventu WHERE ko=$entitet_id order by kadyy, kadmm, kadd;";
 	$rezultat = mysqli_query($konekcija, $upit);
-
+	
+	$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
 	$status = 2;
 	while ($red = mysqli_fetch_assoc($rezultat)) {
 		if (!isset($red)) {

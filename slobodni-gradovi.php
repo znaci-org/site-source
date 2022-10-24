@@ -5,38 +5,74 @@ include_once "includes/povezivanje.php";
 $dan = $mysqli->real_escape_string($_GET['dan']);
 $mesec = $mysqli->real_escape_string($_GET['mesec']);
 $godina = $mysqli->real_escape_string($_GET['godina']);
-$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
 
-$upit_gradovi = sprintf("SELECT * FROM entia WHERE vrsta=2;");
+function je_li_slobodan($entitet_id, $dan, $mesec, $godina)
+{
+	global $mysqli;
+	
+	$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
+	$status = 2;	// podrazumevano nije slobodan
 
-if ($rezultat_gradovi = $mysqli->query($upit_gradovi)) {
-	$data = [];
+	$upit = "SELECT * FROM eventu WHERE ko=$entitet_id order by kadyy,kadmm,kadd";
+	$rezultat = $mysqli->query($upit);
+	while ($red = $rezultat->fetch_assoc()) {
+		$dan_akcije = 10497 + strtotime($red['kadyy'] . "-" . $red['kadmm'] . "-" . $red['kadd']) / 86400;
+		if ($dan_akcije > $dan_rata) break;
+		$status = $red['sta'];
+	}
+	return $status == 1;
+}
+
+function je_li_aktivno($entitet_id, $dan, $mesec, $godina)
+{
+	global $mysqli;
+	
+	$upit = "SELECT * FROM eventu WHERE ko=$entitet_id order by kadyy, kadmm, kadd;";
+	$rezultat = $mysqli->query($upit);
+	
+	$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
+	$status = 2;
+	while ($red = $rezultat->fetch_assoc()) {
+		if (!isset($red)) {
+			break;
+		}
+		$dan_akcije = 10497 + strtotime($red['kadyy'] . "-" . $red['kadmm'] . "-" . $red['kadd']) / 86400;
+		if ($dan_akcije > $dan_rata) {
+			break;
+		}
+		$status = $red['sta'];
+		if ($status > 2) {
+			$status = $status - 2;
+		}
+	}
+	return $status == 1;
+}
+
+function get_slobodni_gradovi($entitet_id, $dan, $mesec, $godina) {
+	global $mysqli;
+
+	$upit_gradovi = sprintf("SELECT * FROM entia WHERE vrsta=2;");
 	$gradovi = [];
 
-	while ($red = $rezultat_gradovi->fetch_assoc()) {
-		$data[] = $grad_id = $red['id']; // 0
-		$data[] = $red['naziv'];	// 1
-		$data[] = $red['n'];		// 2
-		$data[] = $red['e'];		// 3
-		$data[] = $red['slug'];		// 4
-
-		$slobodan = 2;	// podrazumeva da nije slobodan
-
-		$upit_s = "SELECT * FROM eventu WHERE ko=$grad_id order by kadyy,kadmm,kadd";
-		$rezultat_s = $mysqli->query($upit_s);
-		while ($red_s = $rezultat_s->fetch_assoc()) {
-			$dan_akcije = 10497 + strtotime($red_s['kadyy'] . "-" . $red_s['kadmm'] . "-" . $red_s['kadd']) / 86400;
-			if ($dan_akcije > $dan_rata) break;
-			$slobodan = $red_s['sta'];
+	if ($rezultat_gradovi = $mysqli->query($upit_gradovi)) {
+		$data = [];
+		while ($red = $rezultat_gradovi->fetch_assoc()) {
+			$data[] = $entitet_id = $red['id']; // 0
+			$data[] = $red['naziv'];	// 1
+			$data[] = $red['n'];		// 2
+			$data[] = $red['e'];		// 3
+			$data[] = $red['slug'];		// 4
+	
+			$data[] = je_li_aktivno($entitet_id, $dan, $mesec, $godina);
+			$gradovi[] = $data;
+			unset($data);
 		}
-
-		$data[] = $slobodan;
-		$gradovi[] = $data;
-		unset($data);
+		$rezultat_gradovi->free();
 	}
-
-	$rezultat_gradovi->free();
+	return $gradovi;
 }
+
+$gradovi = get_slobodni_gradovi($entitet_id, $dan, $mesec, $godina);
 ?>
 <!DOCTYPE html>
 <html>
