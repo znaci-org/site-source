@@ -41,14 +41,6 @@ function postaviMapu(gradovi) {
 
   const mapa = L.map('mesto-za-mapu', konfigMape)
 
-  const centerMap = e => {
-    const sidro = mapa.project(e.popup._latlng) // projektuje koordinate u pikselima
-    sidro.y -= e.popup._container.clientHeight / 2
-    mapa.panTo(mapa.unproject(sidro), { animate: true })
-  }
-
-  mapa.on('popupopen', centerMap)
-
   // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   //   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   // }).addTo(mapa)
@@ -60,8 +52,8 @@ function postaviMapu(gradovi) {
   const markeri = L.layerGroup().addTo(mapa)
 
   gradovi.forEach(grad => {
-    // ako nije slobodan
-    if (grad[5] != 1) return
+    if (grad[5] != 1) return // ako nije slobodan
+
     const data = {
       naslov: grad[1],
       lokacija: {
