@@ -11,15 +11,12 @@ function je_li_aktivno($entitet_id, $dan, $mesec, $godina)
 
 	$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
 	$status = 2;
+
 	while ($red = $rezultat->fetch_assoc()) {
 		$dan_akcije = 10497 + strtotime($red['kadyy'] . "-" . $red['kadmm'] . "-" . $red['kadd']) / 86400;
-		if ($dan_akcije > $dan_rata) {
-			break;
-		}
-		$status = $red['sta'];
-		if ($status > 2) {
-			$status = $status - 2;
-		}
+		if ($dan_akcije > $dan_rata) break;
+
+		$status = $red['sta'] > 2 ? $red['sta'] - 2 : $red['sta'];
 	}
 	return $status == 1;
 }
@@ -30,7 +27,6 @@ function get_slobodni_gradovi($dan, $mesec, $godina)
 	$niz = [];
 
 	$upit = "SELECT * FROM entia WHERE vrsta=2;";
-
 	$rezultat = $mysqli->query($upit);
 
 	while ($red = $rezultat->fetch_assoc()) {
@@ -55,7 +51,6 @@ function get_prisutne_divizije($dan, $mesec, $godina)
 	$upit = "SELECT distinct(eventu.ko) AS id, entia.naziv, entia.slug FROM entia 
 	INNER JOIN eventu ON eventu.ko=entia.id 
 	WHERE entia.prip=11";
-
 	$rezultat = $mysqli->query($upit);
 
 	while ($red = $rezultat->fetch_assoc()) {
