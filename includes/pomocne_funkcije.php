@@ -65,7 +65,7 @@ function get_prisutne_divizije($dan, $mesec, $godina)
 	return $niz;
 }
 
-function string_divizije($dan, $mesec, $godina)
+function render_divizije($dan, $mesec, $godina)
 {
 
 	$niz = get_prisutne_divizije($dan, $mesec, $godina);

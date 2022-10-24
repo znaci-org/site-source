@@ -21,7 +21,7 @@ $mmm = $_GET['mesec'] ?: date("m");
 	$pocni_od = $dan_rata1 < 56 ? 1942 : 1941;
 
 	for ($godina = $pocni_od; $godina < $pocni_od + 4; $godina++) {
-		$divizije = string_divizije($ddd, $mmm, $godina);
+		$divizije = render_divizije($ddd, $mmm, $godina);
 		echo "<h1 style=margin-bottom:0>$godina</h1>
 			<h3>Nemačke divizije na teritoriji Jugoslavije dana $ddd.$mmm.$godina:</h3>$divizije";
 	}
