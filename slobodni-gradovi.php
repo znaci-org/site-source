@@ -72,6 +72,28 @@ function get_slobodni_gradovi($entitet_id, $dan, $mesec, $godina) {
 	return $gradovi;
 }
 
+function get_aktivne_divizije($dan, $mesec, $godina) {
+	global $mysqli;
+
+	$divizije = [];
+
+	$upit = "SELECT distinct(eventu.ko) AS id, entia.naziv, entia.slug FROM entia 
+	INNER JOIN eventu ON eventu.ko=entia.id 
+	WHERE entia.prip=11";
+
+	$rezultat = $mysqli->query($upit);
+
+	while ($red = $rezultat->fetch_assoc()) {
+		if (je_li_aktivno($red['id'], $dan, $mesec, $godina)) {
+			$data[] = $red['id']; // 0
+			$data[] = $red['naziv'];	// 1
+			$data[] = $red['slug'];		// 2
+			$divizije[] = $data;
+		}
+	}
+	return $divizije;
+}
+
 $gradovi = get_slobodni_gradovi($entitet_id, $dan, $mesec, $godina);
 ?>
 <!DOCTYPE html>
