@@ -13,16 +13,17 @@ const praviMarker = data => {
   const slika_src = '/images/ustanak.jpg';
 
   const prozor = `<a href='${url}' target='_blank'>
-    <h3>${data.naslov} u oslobodilačkom ratu</h3>
+    <h3>${data.naziv} u oslobodilačkom ratu</h3>
     <img src='${slika_src}' width='200'>
   </a>`
 
   return L
-    .marker([data.lokacija.lat, data.lokacija.lon], { icon: praviIkonicu(data.naslov) })
+    .marker([data.lat, data.lon], { icon: praviIkonicu(data.naziv) })
     .bindPopup(prozor)
 }
 
 function postaviMapu(gradovi) {
+  console.log(gradovi)
   const jajce = [44.341667, 17.269444]
   const mostar = [43.333333, 17.8]
   const center = window.innerWidth < 768 ? mostar : jajce
@@ -52,15 +53,7 @@ function postaviMapu(gradovi) {
   const markeri = L.layerGroup().addTo(mapa)
 
   gradovi.forEach(grad => {
-    const data = {
-      naslov: grad[1],
-      lokacija: {
-        lat: grad[2],
-        lon: grad[3]
-      },
-      slug: grad[4],
-    }
-    markeri.addLayer(praviMarker(data))
+    markeri.addLayer(praviMarker(grad))
   })
 }
 </script>

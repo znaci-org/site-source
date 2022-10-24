@@ -36,11 +36,13 @@ function get_slobodni_gradovi($dan, $mesec, $godina)
 	while ($red = $rezultat->fetch_assoc()) {
 		if (!je_li_aktivno($red['id'], $dan, $mesec, $godina)) continue;
 
-		$data[] = $red['id']; // 0
-		$data[] = $red['naziv'];	// 1
-		$data[] = $red['n'];		// 2
-		$data[] = $red['e'];		// 3
-		$data[] = $red['slug'];		// 4
+		$data = array(
+			"id" => $red['id'],
+			"naziv" => $red['naziv'],
+			"lat" => $red['n'],
+			"lon" => $red['e'],
+			"slug" => $red['slug'],
+		);
 
 		array_push($gradovi, $data);
 		unset($data);
@@ -62,9 +64,11 @@ function get_prisutne_divizije($dan, $mesec, $godina)
 	while ($red = $rezultat->fetch_assoc()) {
 		if (!je_li_aktivno($red['id'], $dan, $mesec, $godina)) continue;
 
-		$data[] = $red['id']; // 0
-		$data[] = $red['naziv'];	// 1
-		$data[] = $red['slug'];		// 2
+		$data = array(
+			"id" => $red['id'],
+			"naziv" => $red['naziv'],
+			"slug" => $red['slug'],
+		);
 
 		array_push($divizije, $data);
 		unset($data);
@@ -77,9 +81,10 @@ function string_divizije($dan, $mesec, $godina)
 
 	$divizije = get_prisutne_divizije($dan, $mesec, $godina);
 	$strg = "";
-	for ($i = 0; $i < count($divizije); $i++) {
-		$divizija = $divizije[$i];
-		$strg = $strg . "<a href=odrednica.php?slug=$divizija[2]>" . $divizija[1] . "</a> * ";
+	foreach ($divizije as $divizija) {
+		$slug = $divizija['slug'];
+		$naziv = $divizija['naziv'];
+		$strg = $strg . "<a href=odrednica.php?slug=$slug>" . $naziv . "</a> * ";
 	}
 	return $strg;
 }
