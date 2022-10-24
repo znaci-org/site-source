@@ -23,7 +23,6 @@ const praviMarker = data => {
 }
 
 function postaviMapu(gradovi) {
-  console.log(gradovi)
   const jajce = [44.341667, 17.269444]
   const mostar = [43.333333, 17.8]
   const center = window.innerWidth < 768 ? mostar : jajce
