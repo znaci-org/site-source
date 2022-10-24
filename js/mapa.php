@@ -52,8 +52,6 @@ function postaviMapu(gradovi) {
   const markeri = L.layerGroup().addTo(mapa)
 
   gradovi.forEach(grad => {
-    if (!grad[5]) return // ako nije slobodan
-
     const data = {
       naslov: grad[1],
       lokacija: {

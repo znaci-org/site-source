@@ -34,13 +34,14 @@ function get_slobodni_gradovi($dan, $mesec, $godina)
 	$rezultat = $mysqli->query($upit);
 
 	while ($red = $rezultat->fetch_assoc()) {
+		if (!je_li_aktivno($red['id'], $dan, $mesec, $godina)) continue;
+
 		$data[] = $red['id']; // 0
 		$data[] = $red['naziv'];	// 1
 		$data[] = $red['n'];		// 2
 		$data[] = $red['e'];		// 3
 		$data[] = $red['slug'];		// 4
 
-		$data[] = je_li_aktivno($red['id'], $dan, $mesec, $godina);
 		$gradovi[] = $data;
 		unset($data);
 	}
@@ -59,12 +60,13 @@ function get_aktivne_divizije($dan, $mesec, $godina)
 	$rezultat = $mysqli->query($upit);
 
 	while ($red = $rezultat->fetch_assoc()) {
-		if (je_li_aktivno($red['id'], $dan, $mesec, $godina)) {
-			$data[] = $red['id']; // 0
-			$data[] = $red['naziv'];	// 1
-			$data[] = $red['slug'];		// 2
-			$divizije[] = $data;
-		}
+		if (!je_li_aktivno($red['id'], $dan, $mesec, $godina)) continue;
+
+		$data[] = $red['id']; // 0
+		$data[] = $red['naziv'];	// 1
+		$data[] = $red['slug'];		// 2
+		$divizije[] = $data;
+		unset($data);
 	}
 	return $divizije;
 }
