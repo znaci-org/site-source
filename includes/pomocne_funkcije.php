@@ -31,10 +31,7 @@ function string_divizije($dan, $mesec, $godina)
 	$konekcija = mysqli_connect("", getenv('MYSQL_UN'), getenv('MYSQL_PW'), getenv('MYSQL_DB'));
 	mysqli_set_charset($konekcija, 'utf8');
 
-	$i = 0;
-	$nazivi = array();
-	$brojevi = array();
-	$slugovi = array();
+	$divizije = [];
 
 	// selektuje nemačke divizije u jugoslaviji
 	$upit = "SELECT distinct(eventu.ko) AS id, entia.naziv, entia.slug FROM entia 
@@ -44,16 +41,19 @@ function string_divizije($dan, $mesec, $godina)
 	$rezultat = mysqli_query($konekcija, $upit);
 
 	while ($red = mysqli_fetch_assoc($rezultat)) {
-		$nazivi[$i] = $red['naziv'];
-		$brojevi[$i] = $red['id'];
-		$slugovi[$i] = $red['slug'];
-		$i++;
+		$data[] = $red['id']; // 0
+		$data[] = $red['naziv'];	// 1
+		$data[] = $red['slug'];		// 2
+		$data[] = je_li_aktivno($red['id'], $dan, $mesec, $godina); // 3
+		$divizije[] = $data;
+		unset($data);
 	}
 
 	$strg = "";
-	for ($i = 0; $i < count($brojevi); $i++) {
-		if (je_li_aktivno($brojevi[$i], $dan, $mesec, $godina)) {
-			$strg = $strg . "<a href=odrednica.php?slug=$slugovi[$i]>" . $nazivi[$i] . "</a> * ";
+	for ($i = 0; $i < count($divizije); $i++) {
+		$divizija = $divizije[$i];
+		if ($divizija[3]) {
+			$strg = $strg . "<a href=odrednica.php?slug=$divizija[2]>" . $divizija[1] . "</a> * ";
 		}
 	}
 	return $strg;
