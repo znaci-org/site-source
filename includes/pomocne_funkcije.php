@@ -10,7 +10,7 @@ function je_li_aktivno($entitet_id, $dan, $mesec, $godina)
 	$rezultat = $mysqli->query($upit);
 
 	$dan_rata = 10497 + strtotime($godina . "-" . $mesec . "-" . $dan) / 86400;
-	$status = 2;
+	$status = 2; // default state
 
 	while ($red = $rezultat->fetch_assoc()) {
 		$dan_akcije = 10497 + strtotime($red['kadyy'] . "-" . $red['kadmm'] . "-" . $red['kadd']) / 86400;
