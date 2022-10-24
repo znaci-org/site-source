@@ -23,7 +23,7 @@ class Datum
         $this->dan = $dan ? $mysqli->real_escape_string($dan) : date("j");
         $this->mesec = $mesec ? $mysqli->real_escape_string($mesec) : date("m");
         $this->godina = $godina ? $mysqli->real_escape_string($godina) : Datum::get_slucajna_godina($mesec);
-        $this->datum = $this->pravi_datum($this->dan, $this->mesec, $this->godina);
+        $this->datum = Datum::pravi_datum($this->dan, $this->mesec, $this->godina);
 
         $this->init_dogadjaji();
         $this->init_dokumenti();

@@ -65,6 +65,7 @@ function get_prisutne_divizije($dan, $mesec, $godina)
 	return $niz;
 }
 
+// TODO: poruka ako nema divizija, http://localhost:8000/na-danasnji-dan.php?dan=24&mesec=4&godina=1941
 function render_divizije($dan, $mesec, $godina)
 {
 
