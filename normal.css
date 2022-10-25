@@ -32,13 +32,13 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: red;
-}
-
 /* a:hover {
-    text-decoration: underline;
+    color: red;
 } */
+
+a:hover {
+    text-decoration: underline;
+}
 
 /* BOJE */
 
