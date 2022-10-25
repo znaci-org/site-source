@@ -41,13 +41,13 @@ function postaviMapu(gradovi) {
 
   const mapa = L.map('mesto-za-mapu', konfigMape)
 
-  // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  //   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  // }).addTo(mapa)
-
-  L.tileLayer('http://tile.stamen.com/terrain-background/{z}/{x}/{y}.jpg', {
-    attribution: '© design by <a href="http://stamen.com">Stamen Design</a>, data by <a href="http://openstreetmap.org">OpenStreetMap</a>.'
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(mapa)
+
+  // L.tileLayer('http://tile.stamen.com/terrain-background/{z}/{x}/{y}.jpg', {
+  //   attribution: '© design by <a href="http://stamen.com">Stamen Design</a>, data by <a href="http://openstreetmap.org">OpenStreetMap</a>.'
+  // }).addTo(mapa)
 
   const markeri = L.layerGroup().addTo(mapa)
 
