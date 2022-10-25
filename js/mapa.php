@@ -2,7 +2,7 @@
   const praviIkonicu = title => L.divIcon({
   className: '',
   html: `<div style="text-align:center">
-      <span style="color:red;font-size:2em;display:inline-block;margin-bottom:-5px;">★</span><span style="white-space: nowrap;font-weight:bold">${title}</span>
+      <span style="color:red;font-size:2em;display:inline-block;margin-bottom:-5px;">★</span><span style="white-space: nowrap;font-weight:bold;color:#fff">${title}</span>
     </div>`,
   iconSize: [30, 42],
   iconAnchor: [10, 20]
@@ -41,12 +41,12 @@ function postaviMapu(gradovi) {
 
   const mapa = L.map('mesto-za-mapu', konfigMape)
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles &copy; Esri.'
   }).addTo(mapa)
 
-  // L.tileLayer('http://tile.stamen.com/terrain-background/{z}/{x}/{y}.jpg', {
-  //   attribution: '© design by <a href="http://stamen.com">Stamen Design</a>, data by <a href="http://openstreetmap.org">OpenStreetMap</a>.'
+  // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  //   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   // }).addTo(mapa)
 
   const markeri = L.layerGroup().addTo(mapa)
