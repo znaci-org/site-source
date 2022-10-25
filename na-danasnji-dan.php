@@ -53,10 +53,10 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
 
     <div class="relative">
         <?php include('includes/prstodrzaci.php'); ?>
-        <section class="podeok tagovi">
+        <section class="podeok divizije">
             <h2>Nemačke divizije na tlu Jugoslavije dana <?php echo $datum->datum; ?></h2>
 
-            <?php echo render_divizije($dan, $mesec, $godina); ?>
+            <?php render_divizije($dan, $mesec, $godina); ?>
         </section>
     </div>
 

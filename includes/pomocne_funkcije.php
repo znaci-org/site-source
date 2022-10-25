@@ -74,7 +74,7 @@ function render_divizije($dan, $mesec, $godina)
 	foreach ($niz as $divizija) {
 		$slug = $divizija['slug'];
 		$naziv = $divizija['naziv'];
-		$strg = $strg . "<a href=odrednica.php?slug=$slug>" . $naziv . "</a> * ";
+		$strg = $strg . "<a href=odrednica.php?slug=$slug>" . $naziv . "</a> <b>✠</b> ";
 	}
-	return $strg;
+	echo $strg;
 }

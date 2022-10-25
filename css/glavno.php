@@ -31,6 +31,11 @@
     margin-top: 10px;
   }
 
+  .divizije {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+
   /***** RESPONSIVE *****/
 
   @media (max-width: 767px) {
