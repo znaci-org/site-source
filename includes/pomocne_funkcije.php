@@ -76,7 +76,7 @@ function rendaj_divizije($niz)
 	foreach ($niz as $divizija) {
 		$slug = $divizija['slug'];
 		$naziv = $divizija['naziv'];
-		$strg = $strg . "<a href=odrednica.php?slug=$slug>" . $naziv . "</a> <b>✠</b> ";
+		$strg = $strg . "<b>✠</b> <a href=odrednica.php?slug=$slug>" . $naziv . "</a> ";
 	}
 	echo $strg;
 }

@@ -52,6 +52,6 @@ class Dokument extends Izvor
 
     static function rendaj($id, $opis) {
         $url = "/dokument.php?br=$id";
-        echo "<p class='opisi'><i><a href='$url'>" . $opis . "</a></i>";
+        echo "<p class='opisi'>📰 <i><a href='$url'>" . $opis . "</a></i>";
     }
 }
