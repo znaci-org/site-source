@@ -65,11 +65,13 @@ function get_prisutne_divizije($dan, $mesec, $godina)
 	return $niz;
 }
 
-// TODO: poruka ako nema divizija, http://localhost:8000/na-danasnji-dan.php?dan=24&mesec=4&godina=1941
-function render_divizije($dan, $mesec, $godina)
+function rendaj_prazno()
 {
+	echo "Nema nemačkih divizija za ovaj datum. ";
+}
 
-	$niz = get_prisutne_divizije($dan, $mesec, $godina);
+function rendaj_divizije($niz)
+{
 	$strg = "";
 	foreach ($niz as $divizija) {
 		$slug = $divizija['slug'];
@@ -77,4 +79,13 @@ function render_divizije($dan, $mesec, $godina)
 		$strg = $strg . "<a href=odrednica.php?slug=$slug>" . $naziv . "</a> <b>✠</b> ";
 	}
 	echo $strg;
+}
+
+function render_divizije($dan, $mesec, $godina)
+{
+	$niz = get_prisutne_divizije($dan, $mesec, $godina);
+	if (!$niz)
+		rendaj_prazno();
+	else
+		rendaj_divizije($niz);
 }
