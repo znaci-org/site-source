@@ -46,8 +46,15 @@ $gradovi = get_slobodni_gradovi($dan, $mesec, $godina);
 			margin-bottom:-5px;
 		}
 
+		.map-label {
+			white-space: nowrap;
+			font-weight:bold;
+			font-size:1.2em;
+			text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+		}
+
 		.leaflet-pane.leaflet-tile-pane {
-			filter: sepia(70%);
+			filter: sepia(55%);
 		}
 	</style>
 	<?php include_once('libs/leaflet.css.php'); ?>

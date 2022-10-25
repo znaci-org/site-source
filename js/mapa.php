@@ -1,11 +1,11 @@
 <script>
-  const praviIkonicu = title => L.divIcon({
+const praviIkonicu = title => L.divIcon({
   className: '',
   html: `<div style="text-align:center">
-      <span class="petokraka">★</span>
+      <span class="petokraka">★</span><span class="map-label">${title}</span>
     </div>`,
   iconSize: [30, 42],
-  iconAnchor: [14, 22]
+  iconAnchor: [12, 24]
 })
 
 const praviMarker = data => {
