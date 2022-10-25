@@ -10,7 +10,7 @@
 
 const praviMarker = data => {
   const url = '/odrednica.php?slug=' + data.slug;
-  const slika_src = '/images/ustanak.jpg';
+  const slika_src = '/images/ustanak.png';
 
   const prozor = `<a href='${url}' target='_blank'>
     <h3>${data.naziv} u oslobodilačkom ratu</h3>
