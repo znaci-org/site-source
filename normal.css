@@ -80,6 +80,10 @@ a:hover {
     color: #4E4E4E;
 }
 
+.crnobelo {
+    filter: grayscale(1);
+}
+
 /************* POMAGALA ***************/
 
 .full {

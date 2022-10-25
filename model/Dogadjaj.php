@@ -49,6 +49,6 @@ class Dogadjaj extends Izvor
     static function rendaj($id, $datum, $opis, $rang) {
         $url = "/dogadjaj.php?br=$id";
         $css = $rang == 1 ? 'vazno' : '';
-        echo "<p class='zapisi'>⚔️ <a href='$url'><b>" . $datum . ".</b> <span class='$css'>" . $opis . "</span></a></p>";
+        echo "<p class='zapisi'><span class='crnobelo'>⚔️</span> <a href='$url'><b>" . $datum . ".</b> <span class='$css'>" . $opis . "</span></a></p>";
     }
 }
