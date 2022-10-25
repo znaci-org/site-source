@@ -53,8 +53,8 @@ $gradovi = get_slobodni_gradovi($dan, $mesec, $godina);
 			text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 		}
 
-		.leaflet-pane.leaflet-tile-pane {
-			filter: sepia(55%);
+		.leaflet-tile-pane {
+			filter: sepia(55%) grayscale(.2);
 		}
 	</style>
 	<?php include_once('libs/leaflet.css.php'); ?>
