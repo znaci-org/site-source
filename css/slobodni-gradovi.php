@@ -11,6 +11,14 @@
     font-size: 38px;
   }
 
+  .izbor-datuma input {
+    width: 60px;
+  }
+
+  .izbor-datuma button {
+    margin-left: 4px;
+  }
+
   .ratne-godine {
     display: flex;
     flex-wrap: wrap;
