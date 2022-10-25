@@ -82,6 +82,7 @@ a:hover {
 
 .crnobelo {
     filter: grayscale(1);
+    color: white;
 }
 
 /************* POMAGALA ***************/
