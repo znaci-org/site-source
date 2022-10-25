@@ -39,8 +39,12 @@ $gradovi = get_slobodni_gradovi($dan, $mesec, $godina);
 			white-space: nowrap;
 		}
 
-		.gm-style-iw a {
-			color: red;
+		.petokraka {
+			color:red;
+			font-size:2.4em;
+			display:inline-block;
+			margin-bottom:-5px;
+			text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 		}
 	</style>
 	<?php include_once('libs/leaflet.css.php'); ?>
