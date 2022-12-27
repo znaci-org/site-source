@@ -7,6 +7,14 @@ include "includes/header.php";
 
 <section class="knjige">
   <p>
+    <a href="/00002/Guzvica_Komunisticka_partija_Jugoslavije_drugi_print.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+        Stefan Gužvica: PRIJE TITA - Frakcijske borbe u Komunističkoj partiji Jugoslavije 1936-1940</span></a>
+  </p>
+  <p>
+    <a href="/00002/kazna_i_zlocin.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+        Milan Radanović: KAZNA I ZLOČIN - Snage kolaboracije u Srbiji </span></a>
+  </p>
+  <p>
     <a href="/00001/23.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
         Ilija T. Radakovi&#263;: BESMISLENA YU-RATOVANJA 1991-1995</span></a>
   </p>
