@@ -7,6 +7,10 @@ include "includes/header.php";
 
 <section class="knjige">
   <p>
+    <a href="/00002/LjubinkaSkodric-PolozajZeneUOkupiranojSrbiji.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+        Ljubinka Škodrić: POLOŽAJ ŽENE U OKUPIRANOJ SRBIJI 1941-1944 (doktorska disertacija)</span></a>
+  </p>
+  <p>
     <a href="/00002/Guzvica_Komunisticka_partija_Jugoslavije_drugi_print.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
         Stefan Gužvica: PRIJE TITA - Frakcijske borbe u Komunističkoj partiji Jugoslavije 1936-1940</span></a>
   </p>
