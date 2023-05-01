@@ -77,6 +77,12 @@ $sp5='</td></tr>';
 ?>
 <html>
 <head>
+<?php
+if($broj_poglavlja < 3) {
+        $redirectUrl="https://znaci.org/00003/" . $broj_knjige . ".pdf";
+        echo '<meta http-equiv="refresh" content="0;url='. $redirectUrl .'">';
+}
+?>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?php echo $autor . ": " . $nasl_knj; ?>
 </title>
@@ -123,30 +129,33 @@ function freg(smer){
 </form>
 
 <?php
-for ($ii=1;$ii<$broj_poglavlja;$ii++) {
-	$bold1="";
-	$bold2="";
-	$bold3="";
-	$bold4="";
-	$ispred="";
-	if ($tip[$ii-1]==1) {$bold1="<b>"; $bold2="</b>";}
-	if ($tip[$ii-1]==2) {$bold3="<i>"; $bold4="</i>";}
-	if ($tip[$ii-1]==0) {$ispred=" - ";}
-	if($ova_strana != 0) {
-		$hlink1='<a href=' . '"' . $_SERVER['PHP_SELF'] . '?broj=' . $niz_strana[$ii-1] . '&bk=' . $broj_knjige . '"' . '>';
-	}else{
-		$hlink1='';
-	}
-	if($ova_strana != 0) {$bold4='</a>' . $bold4;}
-	$spx='<tr><td' . $boja[$ii] . '>' . $hlink1 . $bold1 . $bold3 . $ispred . $naslov[$ii-1] . $bold4 . $bold2 . '</td><td align=right' . $boja[$ii] . '>' . $niz_oznaka[$ii-1] . $sp5;
-	if ($ii==1) {
-		echo substr($spx,0,strlen($spx)-5) . '<td vAlign=' . '"' . 'top' . '"' . ' rowspan=' . $broj_poglavlja . ' style=' . '"' . 'text-align: left; width:60%;' . '"' . '><center><iframe src=' . '"' . '/00003/' . $broj_knjige . '.pdf#page=' . $ova_strana . '"' . ' style=' . '"' . 'width:110%; height:1600;' . '"' . '></iframe></td></tr>';
-	} else {
-		echo $spx;
-	}
-		
-	echo "\n";
+if($broj_poglavlja >= 3) {
+        for ($ii=1;$ii<$broj_poglavlja;$ii++) {
+                $bold1="";
+                $bold2="";
+                $bold3="";
+                $bold4="";
+                $ispred="";
+                if ($tip[$ii-1]==1) {$bold1="<b>"; $bold2="</b>";}
+                if ($tip[$ii-1]==2) {$bold3="<i>"; $bold4="</i>";}
+                if ($tip[$ii-1]==0) {$ispred=" - ";}
+                if($ova_strana != 0) {
+                        $hlink1='<a href=' . '"' . $_SERVER['PHP_SELF'] . '?broj=' . $niz_strana[$ii-1] . '&bk=' . $broj_knjige . '"' . '>';
+                }else{
+                        $hlink1='';
+                }
+                if($ova_strana != 0) {$bold4='</a>' . $bold4;}
+                $spx='<tr><td' . $boja[$ii] . '>' . $hlink1 . $bold1 . $bold3 . $ispred . $naslov[$ii-1] . $bold4 . $bold2 . '</td><td align=right' . $boja[$ii] . '>' . $niz_oznaka[$ii-1] . $sp5;
+                if ($ii==1) {
+                        echo substr($spx,0,strlen($spx)-5) . '<td vAlign=' . '"' . 'top' . '"' . ' rowspan=' . $broj_poglavlja . ' style=' . '"' . 'text-align: left; width:60%;' . '"' . '><center><iframe src=' . '"' . '/00003/' . $broj_knjige . '.pdf#page=' . $ova_strana . '"' . ' style=' . '"' . 'width:110%; height:1600;' . '"' . '></iframe></td></tr>';
+                } else {
+                        echo $spx;
+                }
+
+                echo "\n";
+        }
 }
+
 ?>
 </TABLE>
 </div>
