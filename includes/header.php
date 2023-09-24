@@ -83,5 +83,5 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
       </ul>
     </div>
 
-    <b class="silver">Dokumenti i knjige o drugom svetskom ratu na teritoriji Jugoslavije i povezanim zbivanjima <small><a href="/PoezijuCeSviPisati.html">[priredio:&nbsp;Goran Despotović (1957-2022)]</a></small> <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **** 30.07.2023: 8 novih knjiga ****</small></b>
+    <b class="silver">Dokumenti i knjige o drugom svetskom ratu na teritoriji Jugoslavije i povezanim zbivanjima <small><a href="/PoezijuCeSviPisati.html">[priredio:&nbsp;Goran Despotović (1957-2022)]</a></small> <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **** 24.09.2023: 3 nove knjige ****</small></b>
   </header>
