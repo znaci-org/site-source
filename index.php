@@ -7,16 +7,8 @@ include "includes/header.php";
 
 <section class="knjige">
   <p>
-    <a href="/00002/LjubinkaSkodric-PolozajZeneUOkupiranojSrbiji.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
-        Ljubinka Škodrić: POLOŽAJ ŽENE U OKUPIRANOJ SRBIJI 1941-1944 (doktorska disertacija)</span></a>
-  </p>
-  <p>
     <a href="/00002/Guzvica_Komunisticka_partija_Jugoslavije_drugi_print.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
         Stefan Gužvica: PRIJE TITA - Frakcijske borbe u Komunističkoj partiji Jugoslavije 1936-1940</span></a>
-  </p>
-  <p>
-    <a href="/00002/kazna_i_zlocin.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
-        Milan Radanović: KAZNA I ZLOČIN - Snage kolaboracije u Srbiji </span></a>
   </p>
   <p>
     <a href="/00001/23.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
@@ -40,7 +32,8 @@ include "includes/header.php";
   </p>
   <p>
     <a href="/00003/736.php" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
-        Savez antifašističkih boraca Hrvatske: RUŠENJE ANTIFAŠISTIČKIH SPOMENIKA U HRVATSKOJ 1990–2000.</span></a>
+        Savez antifašističkih boraca Hrvatske: RUŠENJE ANTIFAŠISTIČKIH SPOMENIKA U HRVATSKOJ 1990–2000.</span></a><br>
+        <img src="/images/thumbnails/736_4m.jpg" width="200"> </p>
   </p>
   <p>
     <a href="/00003/700.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
@@ -87,20 +80,8 @@ include "includes/header.php";
     echo "\n";
   }
   ?>
-  <p>
-    <a href="/00003/736.php" target="_blank"><span>&nbsp;&nbsp;&#9658;
-        Savez antifašističkih boraca Hrvatske: RUŠENJE ANTIFAŠISTIČKIH SPOMENIKA U HRVATSKOJ 1990–2000.</span></a><br />
-    <img src="/images/thumbnails/736_4m.jpg" width="200"> </p>
-  <p>
     <a href="/00003/1001.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;
         Sergej Flere, Rudi Klanjšek: Was Tito’s Yugoslavia totalitarian?</span></a> </p>
-  <p>
-    <a href="/00003/766.php" target="_blank"><span>&nbsp;&nbsp;&#9658;
-        Grupa autora: VOJNOTEHNI&#268;KA RADIONICA VRHOVNOG &#352;TABA NOV I POJ U GRME&#268;U</span></a> </p>
-  <p>
-    <a href="/00003/764.php" target="_blank"><span>&nbsp;&nbsp;&#9658;
-        Suđenje članovima političkog i vojnog rukovodstva organizacije Draže Mihailovića – STENOGRAFSKE BELEŠKE </span></a>
-  </p>
 
   <tr>
     <td>
@@ -806,6 +787,10 @@ include "includes/header.php";
             <p>
               <a href="/00003/446.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
                   Prof. dr Smail &#268;eki&#263;: GENOCID NAD BO&#352;NJACIMA U DRUGOM SVJETSKOM RATU - DOKUMENTI</span></a>
+            </p>
+            <p>
+              <a href="/00003/764.php" target="_blank"><span>&nbsp;&nbsp;&#9658;
+                  Suđenje članovima političkog i vojnog rukovodstva organizacije Draže Mihailovića – STENOGRAFSKE BELEŠKE </span></a>
             </p>
           </td>
         </tr>
@@ -2034,6 +2019,10 @@ include "includes/header.php";
                   ITALIAN CRIMES IN YUGOSLAVIA (YUGOSLAV INFORMATION OFFICE LONDON 1945).</span></a>
             </p>
             <p>
+              <a href="/00002/LjubinkaSkodric-PolozajZeneUOkupiranojSrbiji.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+                  Ljubinka Škodrić: POLOŽAJ ŽENE U OKUPIRANOJ SRBIJI 1941-1944 (doktorska disertacija)</span></a>
+            </p>
+            <p>
               <a href="/00003/614.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
                   Grupa autora: &#381;ENE SRBIJE U NOB</span></a>
             </p>
@@ -2931,6 +2920,10 @@ include "includes/header.php";
             <p>
               <a href="/00003/665.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
                   PARTIZANSKA I KOMUNISTI&#268;KA REPRESIJA I ZLO&#268;INI U HRVATSKOJ 1944. - 1946.; DOKUMENTI 3 &#8211; Zagreb i sredi&#353;nja Hrvatska</span></a>
+            </p>
+            <p>
+              <a href="/00002/kazna_i_zlocin.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+                  Milan Radanović: KAZNA I ZLOČIN - Snage kolaboracije u Srbiji </span></a>
             </p>
       </table>
       <table width="100%" border="1">
