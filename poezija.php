@@ -3,11 +3,23 @@ $naslov = "Poezija NOB";
 include "includes/header.php";
 ?>
 
-<h2>Poezija NOB</h2>
+<h2>Poezija</h2>
 
 <div class="knjige">
 
-    <h2>Međuratna socijalna poezija</h2>
+    <h2>Predratna socijalna poezija</h2>
+
+    <h3>Kosta Abrašević</h3>
+
+    <ul>
+        <li><a href="poezija/crvena.php">Crvena</a></li>
+    </ul>
+
+    <h3>Gavrilo Princip</h3>
+
+    <ul>
+        <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
+    </ul>
 
     <h3>Miroslav Krleža</h3>
 
@@ -26,8 +38,12 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/crveni-makovi.php">Crveni makovi</a></li>
     </ul>
+</div>
 
-    <h2>Poezija narodno oslobodilačke borbe</h2>
+<br>
+
+<div class="knjige">
+    <h2>Poezija NOB</h2>
 
     <h3>Branko Ćopić</h3>
 
@@ -117,8 +133,12 @@ include "includes/header.php";
         <li><a href="poezija/evropa-1942.php">Evropa godine tisuću devet stotina četrdeset i druge</a></li>
         <li><a href="poezija/o-titu.php">O Titu</a></li>
     </ul>
+</div>
 
-    <h3>Narodne pesme</h3>
+<br>
+
+<div class="knjige">
+    <h2>Narodne pesme iz NOB</h2>
 
     <ul>
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
@@ -130,7 +150,6 @@ include "includes/header.php";
         <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
-
 </div>
 
 <?php include "includes/footer.php"; ?>
