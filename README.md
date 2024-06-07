@@ -1,4 +1,7 @@
-# ZNACI.ORG: Stvar je u tome da se svet promeni (poziv za saradnju)
+# ZNACI.ORG
+
+## Stvar je u tome da se svet promeni (poziv za saradnju)
+
 Ovo je repo sa HTML (i CSS) fajlovima sajta *Znaci.org* - arhive dokumentacije iz 2. svetskog rata, koji je originalno pripremio i održavao na domenu *Znaci.net* naš preminuli drug Goran Despotović, a sada ga održava grupa volontera i entuzijasta.
 
 Osim ovih HTML/CSS fajlova, sajt *Znaci.org* sadrži i oko 150GB dokumenata, čiji najvažniji deo sačinjavaju skenirani mikrofilmovi zaplenjene dokumentacije nacističke Nemačke, koju je Vojnoistorijski institut početkom šezdesetih godina dobio od National Archive. 
@@ -15,4 +18,8 @@ Da bi vaše izmene bile trajno integrisane na sajt biće potrebno da nam se javi
 
 Ako nemate puno iskustva u radu sa git sistemom za održavanje verzija izvornog koda / dokumenata, najtoplije preporučujemo da instalirate Github desktop GUI alat ( https://desktop.github.com/ ), koji omogućava vrlo jednostavnu interakciju sa github repoima. Kroz ovaj alat možete napraviti kopiju repoa kod sebe (clone), pregledati vaše izmene i (kada dobijete status saradnika) integrisati izmene u repo i time i na sajt.
 
-Detalji za kontakt sa radnom grupom za održavanje sajta će biti objavljeni uz najavu poziva za saradnju.
+## Development
+
+```
+php -S localhost:8000
+```
