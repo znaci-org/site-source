@@ -7,13 +7,27 @@ include "includes/header.php";
 
 <div class="knjige">
 
+    <h2>Međuratna socijalna poezija</h2>
+
     <h3>Miroslav Krleža</h3>
 
     <ul>
         <li><a href="poezija/veliki petak-1919.php">Veliki petak godine Hiljadu devet stotina i devetnaeste</a></li>
-        <li><a href="poezija/evropa-1942.php">Evropa godine tisuću devet stotina četrdeset i druge</a></li>
-        <li><a href="poezija/o-titu.php">O Titu</a></li>
     </ul>
+
+    <h3>Kosta Kočo Racin</h3>
+
+    <ul>
+        <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
+    </ul>
+
+    <h3>Mihovil Pavlek Miškina</h3>
+
+    <ul>
+        <li><a href="poezija/crveni-makovi.php">Crveni makovi</a></li>
+    </ul>
+
+    <h2>Poezija narodno oslobodilačke borbe</h2>
 
     <h3>Branko Ćopić</h3>
 
@@ -73,6 +87,12 @@ include "includes/header.php";
         <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
     </ul>
 
+    <h3>Jure Kaštelan</h3>
+
+    <ul>
+        <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
+    </ul>
+
     <h3>Dušan Kostić</h3>
 
     <ul>
@@ -83,6 +103,19 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/kadinjaca.php">Kadinjača</a></li>
+    </ul>
+
+    <h3>Branko Miljković</h3>
+
+    <ul>
+        <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
+    </ul>
+
+    <h3>Miroslav Krleža</h3>
+
+    <ul>
+        <li><a href="poezija/evropa-1942.php">Evropa godine tisuću devet stotina četrdeset i druge</a></li>
+        <li><a href="poezija/o-titu.php">O Titu</a></li>
     </ul>
 
     <h3>Narodne pesme</h3>
