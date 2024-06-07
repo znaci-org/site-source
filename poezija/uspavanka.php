@@ -16,6 +16,3 @@ Kao što sam bila ja</p>
 U šumi je njegov grob<br>
 Branio je tebe, sine<br>
 Da ne budeš tuđi rob.</p>
-
-
-<?php include "../includes/footer.php"; ?>

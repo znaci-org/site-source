@@ -31,6 +31,8 @@ include "includes/header.php";
     <h3>Narodne pesme</h3>
 
     <ul>
+        <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
+        <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
 
