@@ -19,14 +19,20 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/cetvrta-ofanziva.php">Četvrta ofanziva</a></li>
+        <li><a href="poezija/pjesma-mrtvih-proletera.php">Pjesma mrtvih proletera</a></li>
         <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
         <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
+        <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
     </ul>
 
     <h3>Ivan Goran Kovačić</h3>
 
     <ul>
         <li><a href="poezija/gariste.php">Garište</a></li>
+        <li><a href="poezija/partizanka.php">Partizanka</a></li>
+        <li><a href="poezija/nasa-pjesma.php">Naša pjesma</a></li>
+        <li><a href="poezija/nasa-sloboda.php">Naša sloboda</a></li>
+        <li><a href="poezija/partizanske-noge.php">Partizanske noge</a></li>
         <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
     </ul>
 
@@ -83,7 +89,12 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
+        <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
+        <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
+        <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
+        <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
+        <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
 
