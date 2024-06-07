@@ -47,6 +47,13 @@ include "includes/header.php";
         <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
     </ul>
 
+
+    <h3>Karel Destovnik Kajuh</h3>
+
+    <ul>
+        <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
+    </ul>
+
     <h3>Dušan Kostić</h3>
 
     <ul>
