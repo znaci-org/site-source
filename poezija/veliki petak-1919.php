@@ -7,7 +7,6 @@ include "../includes/header.php";
 
 <h1>Miroslav Krleža - Veliki petak godine Hiljadu devet stotina i devetnaeste</h1>
 
-
 <p><i>Karlu Liebknechtu u spomen</i></p>
 
 <p>O, Veliko Bezglavo Nešto, prokleto ime tvoje,<br>

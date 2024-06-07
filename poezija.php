@@ -7,20 +7,11 @@ include "includes/header.php";
 
 <div class="knjige">
 
-    <!-- <ul class="sadrzaj svetlosiva-pozadina siva-ivica">
-        <a href="#Jedinice"><li>Jedinice</li></a>
-        <a href="#Bitke i operacije"><li>Bitke i operacije</li></a>
-        <a href="#Organizacije"><li>Organizacije</li></a>
-        <a href="#Ličnosti"><li>Ličnosti</li></a>
-        <a href="#Gradovi"><li>Gradovi</li></a>
-        <a href="#Zločini"><li>Zločini</li></a>
-        <a href="#Teme"><li>Teme</li></a>
-    </ul> -->
-
     <h3>Miroslav Krleža</h3>
 
     <ul>
         <li><a href="poezija/veliki petak-1919.php">Veliki petak godine Hiljadu devet stotina i devetnaeste</a></li>
+        <li><a href="poezija/evropa-1942.php">Evropa godine tisuću devet stotina četrdeset i druge</a></li>
     </ul>
 
     <h3>Slavko Vukosavljević</h3>
