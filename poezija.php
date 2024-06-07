@@ -23,6 +23,12 @@ include "includes/header.php";
         <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
     </ul>
 
+    <h3>Ivan Goran Kovačić</h3>
+
+    <ul>
+        <li><a href="poezija/gariste.php">Garište</a></li>
+    </ul>
+
     <h3>Radovan Zogović</h3>
 
     <ul>
