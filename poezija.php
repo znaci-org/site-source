@@ -40,6 +40,18 @@ include "includes/header.php";
         <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
     </ul>
 
+    <h3>Matej Bor</h3>
+
+    <ul>
+        <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
+    </ul>
+
+    <h3>Dušan Kostić</h3>
+
+    <ul>
+        <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
+    </ul>
+
     <h3>Slavko Vukosavljević</h3>
 
     <ul>
