@@ -12,6 +12,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/veliki petak-1919.php">Veliki petak godine Hiljadu devet stotina i devetnaeste</a></li>
         <li><a href="poezija/evropa-1942.php">Evropa godine tisuću devet stotina četrdeset i druge</a></li>
+        <li><a href="poezija/o-titu.php">O Titu</a></li>
     </ul>
 
     <h3>Branko Ćopić</h3>

@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Miroslav Krleža - Evropa godine tisuću devet stotina četrdeset i druge</h1>
 
-<p>(IZ DNEVNIKA 1942)</p>
+<p>(<i>IZ DNEVNIKA 1942</i>)</p>
 
 <p>Samo se stihom može reći to<br>
 što znači ovo podlo, suludo umorstvo<br>
