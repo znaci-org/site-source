@@ -28,6 +28,12 @@ include "includes/header.php";
         <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
     </ul>
 
+    <h3>Razija Handžić</h3>
+
+    <ul>
+        <li><a href="poezija/noc-1941.php">Noć 1941</a></li>
+    </ul>
+
     <h3>Vladimir Čerkez</h3>
 
     <ul>
