@@ -91,8 +91,10 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
+        <li><a href="poezija/mitraljeza.php">Mitraljeza</a></li>
         <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>
         <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
+        <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
         <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
     </ul>
 
@@ -208,6 +210,7 @@ include "includes/header.php";
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
+        <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
         <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
