@@ -216,6 +216,9 @@ include "includes/header.php";
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
         <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
+        <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
+        <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
+
         <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
