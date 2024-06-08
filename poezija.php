@@ -100,10 +100,22 @@ include "includes/header.php";
         <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
     </ul>
 
+    <h4>Mira Alečković</h4>
+
+    <ul>
+        <li><a href="poezija/balada-sa-neretve.php">Balada sa Neretve</a></li>
+    </ul>
+
     <h4>Razija Handžić</h4>
 
     <ul>
         <li><a href="poezija/noc-1941.php">Noć 1941</a></li>
+    </ul>
+
+    <h4>Miloš Popović Đurin</h4>
+
+    <ul>
+        <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
     </ul>
 
     <h4>Vladimir Čerkez</h4>
@@ -180,6 +192,7 @@ include "includes/header.php";
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
         <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
         <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
+        <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
         <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
         <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
