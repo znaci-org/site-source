@@ -202,6 +202,7 @@ include "includes/header.php";
         <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
         <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
         <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
+        <li><a href="poezija/romanija-ivo.php">Romanija, Ivo</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Srbije</h3>
@@ -227,6 +228,7 @@ include "includes/header.php";
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
+        <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Crne Gore</h3>
@@ -249,6 +251,8 @@ include "includes/header.php";
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
         <li><a href="poezija/primi-pozdrav-drugarice.php">Primi pozdrav drugarice</a></li>
+        <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
+        <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
     </ul>
 </div>
 
