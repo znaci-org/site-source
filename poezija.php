@@ -193,6 +193,7 @@ include "includes/header.php";
     <h2>Narodne pesme iz NOB</h2>
 
     <ul>
+        <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
         <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
         <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
@@ -218,7 +219,9 @@ include "includes/header.php";
         <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
         <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
-
+        <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
+        <li><a href="poezija/oj-mladene-nas-mladene.php">Oj, Mladene, naš Mladene</a></li>
+        <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
         <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
