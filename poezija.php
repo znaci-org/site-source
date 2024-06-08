@@ -201,6 +201,7 @@ include "includes/header.php";
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
         <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
         <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
+        <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Srbije</h3>
@@ -210,6 +211,7 @@ include "includes/header.php";
         <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
         <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
+        <li><a href="poezija/oj-uzice-divni-grade.php">Oj Užice, divni grade</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
