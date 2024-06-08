@@ -213,6 +213,7 @@ include "includes/header.php";
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
         <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
         <li><a href="poezija/oj-uzice-divni-grade.php">Oj Užice, divni grade</a></li>
+        <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
