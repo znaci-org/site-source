@@ -218,6 +218,7 @@ include "includes/header.php";
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
         <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
         <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
+        <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
         <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
         <li><a href="poezija/oj-mladene-nas-mladene.php">Oj, Mladene, naš Mladene</a></li>
