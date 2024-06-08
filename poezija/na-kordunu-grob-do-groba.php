@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1>Na Kordunu grob do groba</h1>
 
+(<i>narodna pjesma</i>)
+
 <p>Na Kordunu grob do groba,<br>
 traži majka sina svoga.<br>
 Našla ga je, na grob klekla<br>

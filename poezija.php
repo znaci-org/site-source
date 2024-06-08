@@ -116,6 +116,12 @@ include "includes/header.php";
         <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
     </ul>
 
+    <h3>Željko Sabol</h3>
+
+    <ul>
+        <li><a href="poezija/el-shatt.php">El Shatt</a></li>
+    </ul>
+
     <h3>Dušan Kostić</h3>
 
     <ul>
@@ -150,6 +156,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
         <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
+        <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>

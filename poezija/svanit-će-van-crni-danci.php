@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1>Svanit će van crni danci</h1>
 
+(<i>narodna pjesma Sinjske krajine</i>)
+
 <p>Oj, Hitlere, ti si prvi,<br>
 mi smo željni tvoje krvi.</p>
 

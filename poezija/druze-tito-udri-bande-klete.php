@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1>Druže Tito udri bande klete</h1>
 
+(<i>narodna pjesma Bosanske krajine</i>)
+
 <p>Kad se sjetim Zemuna i zida.<br>
 Rana mi se sa srca ne skida,</p>
 

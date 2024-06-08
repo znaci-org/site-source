@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1>Poletilo jato vrana</h1>
 
+(<i>narodna pjesma Sinjske krajine</i>)
+
 <p>Poletilo jato vrana,<br>
 jedna četa Talijana,<br>
 kroz Glavice kršno selo<br>
