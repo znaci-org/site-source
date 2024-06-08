@@ -33,6 +33,12 @@ include "includes/header.php";
         <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
     </ul>
 
+    <h4>Dobriša Cesarić</h4>
+
+    <ul>
+        <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
+    </ul>
+
     <h4>Mihovil Pavlek Miškina</h4>
 
     <ul>
@@ -84,6 +90,7 @@ include "includes/header.php";
     <h4>Vladimir Nazor</h4>
 
     <ul>
+        <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
         <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>
     </ul>
 
