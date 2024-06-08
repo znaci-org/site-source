@@ -114,6 +114,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
+        <li><a href="poezija/tifusari.php">Tifusari</a></li>
     </ul>
 
     <h3>Željko Sabol</h3>
