@@ -7,7 +7,7 @@ include "includes/header.php";
 
 <div class="knjige">
 
-    <h2>Socijalna poezija</h2>
+    <h2>Predratna socijalna poezija</h2>
 
     <h4>Kosta Abrašević</h4>
 
@@ -190,39 +190,69 @@ include "includes/header.php";
 <br>
 
 <div class="knjige">
-    <h2>Narodne pesme iz NOB</h2>
+    <h2>Narodne partizanske pesme</h2>
 
+    <h3>Partizanske pesme iz Bosne i Hercegovine</h3>
+    <ul>
+        <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
+        <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
+        <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
+        <li><a href="poezija/oj-mladene-nas-mladene.php">Oj, Mladene, naš Mladene</a></li>
+        <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
+        <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
+        <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
+    </ul>
+
+    <h3>Partizanske pesme iz Srbije</h3>
     <ul>
         <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
+        <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
+        <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
+        <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
+    </ul>
+
+    <h3>Partizanske pesme iz Hrvatske</h3>
+    <ul>
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
-        <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
         <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
-        <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
-        <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
-        <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
-        <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
-        <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
-        <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
-        <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
         <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
-        <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
-        <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
+        <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
-        <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
-        <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
         <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
         <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
-        <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
-        <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
+    </ul>
+
+    <h3>Partizanske pesme iz Crne Gore</h3>
+    <ul>
+        <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
+        <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
+    </ul>
+
+    <h3>Partizanske pesme iz Slovenije</h3>
+    <ul>
         <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
-        <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
-        <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
-        <li><a href="poezija/oj-mladene-nas-mladene.php">Oj, Mladene, naš Mladene</a></li>
-        <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
+    </ul>
+
+    <h3>Opšte jugoslovenske</h3>
+
+    <ul>
+        <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
+        <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
+        <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
+        <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
+        <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
+    </ul>
+</div>
+
+<br>
+
+<div class="knjige">
+    <h2>Posleratne narodne pesme</h2>
+    <ul>
         <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
