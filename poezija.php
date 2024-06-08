@@ -38,6 +38,13 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/crveni-makovi.php">Crveni makovi</a></li>
     </ul>
+
+    <h3>Kosta Novaković</h3>
+
+    <ul>
+        <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a></li>
+    </ul>
+
 </div>
 
 <br>
