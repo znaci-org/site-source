@@ -196,8 +196,10 @@ include "includes/header.php";
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
         <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
         <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
+        <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
         <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
         <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
+        <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
         <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
