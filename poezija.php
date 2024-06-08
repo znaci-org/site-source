@@ -92,6 +92,8 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
         <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>
+        <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
+        <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
     </ul>
 
     <h4>Radovan Zogović</h4>
@@ -198,12 +200,15 @@ include "includes/header.php";
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
+        <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
+        <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
         <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
         <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
+        <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
 </div>
