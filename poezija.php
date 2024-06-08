@@ -206,7 +206,10 @@ include "includes/header.php";
         <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
         <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
         <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
+        <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
+        <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
+        <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
         <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
         <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
