@@ -209,6 +209,7 @@ include "includes/header.php";
         <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
         <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
+        <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -245,6 +246,7 @@ include "includes/header.php";
         <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
+        <li><a href="poezija/primi-pozdrav-drugarice.php">Primi pozdrav drugarice</a></li>
     </ul>
 </div>
 
