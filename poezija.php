@@ -208,13 +208,17 @@ include "includes/header.php";
 
     <h3>Partizanske pesme iz Srbije</h3>
     <ul>
+        <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
+        <li><a href="poezija/ustaj-druze-ustaj-rode.php">Ustaj druže, ustaj rode</a></li>
         <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
+        <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
         <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
-        <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
+        <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
+        <li><a href="poezija/partizani-što-suze-lijete.php">Partizani što suze lijete</a></li>
         <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
         <li><a href="poezija/oj-uzice-divni-grade.php">Oj Užice, divni grade</a></li>
-        <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
+        <li><a href="poezija/o-moj-cacku-o-moj-mili-grade.php">O moj Čačku, o moj mili grade</a></li>
         <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
         <li><a href="poezija/nemam-sestre-a-nemam-ni-brata.php">Nemam sestre, a nemam ni brata</a></li>
         <li><a href="poezija/od-valjeva-pa-do-nisa.php">Od Valjeva pa do Niša</a></li>
@@ -258,14 +262,15 @@ include "includes/header.php";
         <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
         <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
-        <li><a href="poezija/oj-četnici-vi-banditi.php">Oj četnici, vi banditi</a></li>
+        <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
         <li><a href="poezija/primi-pozdrav-drugarice.php">Primi pozdrav drugarice</a></li>
-        <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
         <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
         <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj, seljo, ustaj rode</a></li>
         <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
         <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
         <li><a href="poezija/partizani-pola-roda-moga.php">Partizani, pola roda moga</a></li>
+        <li><a href="poezija/nema-zore-nema-dana.php">Nema zore, nema dana</a></li>
+        <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
     </ul>
 </div>
 

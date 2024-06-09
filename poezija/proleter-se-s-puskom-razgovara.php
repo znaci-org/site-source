@@ -10,10 +10,26 @@ include "../includes/header.php";
 (<i>partizanska narodna pesma</i>)
 
 <p>
+  Vjetar duva, gora se prolama,<br>
+  Proleter se sa puškom razgovara.<br>
+  <br>
+  Puško moja od čelika čista,<br>
+  Ti ćeš tući prokleta fašista.<br>
+  <br>
+  Puška moja duga partizanka,<br>
+  Partizanka prva Užičanka.<br>
+  <br>
+  Izgrađena u tunelu grada,<br>
+  Tog Užica, malog Carigrada.
+</p>
+
+<h2>Druga verzija</h2>
+
+<p>
   Vjetar duva gora se prolama<br>
   Proleter se s puškom razgovara.<br>
   <br>
-  - Puško moja od čelika čista<br>
+  Puško moja od čelika čista<br>
   Ti ćeš tući prokletog fašista.<br>
   <br>
   Puško moja mali karabine,<br>
