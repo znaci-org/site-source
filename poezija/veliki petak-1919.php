@@ -10,16 +10,13 @@ include "../includes/header.php";
 <p><i>Karlu Liebknechtu u spomen</i></p>
 
 <p>O, Veliko Bezglavo Nešto, prokleto ime tvoje,<br>
-u sve vijeke vjekova!</p>
-
-<p>Krvavi čavli opet čovječju ruku gnoje,<br>
+u sve vijeke vjekova!<br>
+Krvavi čavli opet čovječju ruku gnoje,<br>
 a zloguka ptica tmine mrtvačku pjesan poje.<br>
-Zloguka ptica tmine, slijepa ptica sova.</p>
-
-<p>O, Veliko Bezglavo Nešto, prokleto ime tvoje<br>
-u sve vijeke vjekova!</p>
-
-<p>U borbi s krdom lažnih i krivih bogova<br>
+Zloguka ptica tmine, slijepa ptica sova.<br>
+O, Veliko Bezglavo Nešto, prokleto ime tvoje<br>
+u sve vijeke vjekova!<br>
+U borbi s krdom lažnih i krivih bogova<br>
 pao je Čovječji Sin.<br>
 Krstove svoje je golgotski zabio cirkus<br>
 iz gubave Judeje u carski Berlin.</p>
@@ -46,8 +43,5 @@ od Pekinga do Rima, od Transvaala do Kremlja,<br>
 hrvatski čovjek posmrtni žižak pali,<br>
 karmine tužne pije i razbito pjeva:<br>
 jedna je glava opet ko krvavo sjeme pala.<br>
-na jarbolu lađe su opet pribili admirala.</p>
-
-<p>Al Ništa! Sviće. Internacionala.</p>
-
-<?php include "../includes/footer.php"; ?>
+na jarbolu lađe su opet pribili admirala.<br>
+Al Ništa! Sviće. Internacionala.</p>

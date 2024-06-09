@@ -24,7 +24,7 @@ include "includes/header.php";
     <h4>Miroslav Krleža</h4>
 
     <ul>
-        <li><a href="poezija/veliki petak-1919.php">Veliki petak godine Hiljadu devet stotina i devetnaeste</a></li>
+        <li><a href="poezija/veliki petak-1919.php">Veliki petak godine 1919.</a></li>
     </ul>
 
     <h4>Kosta Kočo Racin</h4>
@@ -177,7 +177,7 @@ include "includes/header.php";
     <h4>Miroslav Krleža</h4>
 
     <ul>
-        <li><a href="poezija/evropa-1942.php">Evropa godine tisuću devet stotina četrdeset i druge</a></li>
+        <li><a href="poezija/evropa-1942.php">Evropa godine 1942.</a></li>
         <li><a href="poezija/o-titu.php">O Titu</a></li>
     </ul>
 
