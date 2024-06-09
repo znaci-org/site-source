@@ -265,6 +265,7 @@ include "includes/header.php";
         <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj, seljo, ustaj rode</a></li>
         <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
         <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
+        <li><a href="poezija/partizani-pola-roda-moga.php">Partizani, pola roda moga</a></li>
     </ul>
 </div>
 
