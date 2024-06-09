@@ -203,6 +203,7 @@ include "includes/header.php";
         <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
         <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
         <li><a href="poezija/romanija-ivo.php">Romanija, Ivo</a></li>
+        <li><a href="poezija/kozaracko-kolo.php">Kozaračko kolo</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Srbije</h3>
@@ -216,6 +217,8 @@ include "includes/header.php";
         <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
         <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
         <li><a href="poezija/nemam-sestre-a-nemam-ni-brata.php">Nemam sestre, a nemam ni brata</a></li>
+        <li><a href="poezija/od-valjeva-pa-do-nisa.php">Od Valjeva pa do Niša</a></li>
+        <li><a href="poezija/jedno-jutro-prije-zore.php">Jedno jutro prije zore</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -239,6 +242,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
         <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
+        <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Slovenije</h3>
@@ -260,6 +264,7 @@ include "includes/header.php";
         <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
         <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj, seljo, ustaj rode</a></li>
         <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
+        <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
     </ul>
 </div>
 
