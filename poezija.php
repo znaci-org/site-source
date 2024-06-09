@@ -214,6 +214,8 @@ include "includes/header.php";
         <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
         <li><a href="poezija/oj-uzice-divni-grade.php">Oj Užice, divni grade</a></li>
         <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
+        <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
+        <li><a href="poezija/nemam-sestre-a-nemam-ni-brata.php">Nemam sestre, a nemam ni brata</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -230,6 +232,7 @@ include "includes/header.php";
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
         <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
+        <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Crne Gore</h3>
@@ -241,6 +244,7 @@ include "includes/header.php";
     <h3>Partizanske pesme iz Slovenije</h3>
     <ul>
         <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
+        <li><a href="poezija/nabrusimo-kose.php">Nabrusimo kose</a></li>
     </ul>
 
     <h3>Opšte jugoslovenske</h3>
@@ -254,6 +258,8 @@ include "includes/header.php";
         <li><a href="poezija/primi-pozdrav-drugarice.php">Primi pozdrav drugarice</a></li>
         <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
         <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
+        <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj, seljo, ustaj rode</a></li>
+        <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
     </ul>
 </div>
 
