@@ -10,6 +10,19 @@ include "../includes/header.php";
 (<i>narodna pesma istočne Bosne</i>)
 
 <p>
+  Romanijo visokogo visa<br />
+  Eno Čiča vodi preko klisa<br />
+  <br />
+  Sve mladiće mlade partizane<br />
+  i djevojke mlade partizanke<br />
+  <br />
+  To ustaše primiše za šalu<br />
+  Pa ih mnogo osta u kanalu
+</p>
+
+<h2>Druga verzija</h2>
+
+<p>
   Romanijo visokoga visa,<br>
   Gdje drug Čiča vojnike popisa.<br>
   <br>

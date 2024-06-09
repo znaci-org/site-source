@@ -12,7 +12,7 @@ include "includes/header.php";
     <h4>Kosta Abrašević</h4>
 
     <ul>
-        <li><a href="poezija/crvena.php">Crvena</a></li>
+        <li><a href="poezija/crvena.php">Crvena je krvca</a></li>
     </ul>
 
     <h4>Miroslav Krleža</h4>
@@ -159,6 +159,12 @@ include "includes/header.php";
         <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
     </ul>
 
+    <h4>France Kosmač</h4>
+
+    <ul>
+        <li><a href="poezija/nismo-se-uklonili.php">Nismo se uklonili</a></li>
+    </ul>
+
     <h4>Jure Kaštelan</h4>
 
     <ul>
@@ -214,7 +220,6 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
     </ul>
-
 </div>
 
 <br>
@@ -227,7 +232,8 @@ include "includes/header.php";
         <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
         <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
         <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
-        <li><a href="poezija/oj-mladene-nas-mladene.php">Oj, Mladene, naš Mladene</a></li>
+        <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene, naš Mladene</a></li>
+        <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene, druže mio</a></li>
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
         <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
         <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
@@ -261,8 +267,10 @@ include "includes/header.php";
         <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
         <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
         <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
+        <li><a href="poezija/petrova-mi-gora-mati.php">Petrova mi gora mati</a></li>
         <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
+        <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
         <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
         <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
@@ -301,6 +309,7 @@ include "includes/header.php";
         <li><a href="poezija/partizani-pola-roda-moga.php">Partizani, pola roda moga</a></li>
         <li><a href="poezija/nema-zore-nema-dana.php">Nema zore, nema dana</a></li>
         <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
+        <li><a href="poezija/pesma-u-spomen-ivi-loli-ribaru.php">Pesma u spomen Ivi Loli Ribaru</a></li>
     </ul>
 </div>
 
@@ -310,6 +319,8 @@ include "includes/header.php";
     <h2>Posleratne narodne pesme</h2>
     <ul>
         <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
+        <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
+        <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
         <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
     </ul>
 </div>
