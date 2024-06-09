@@ -24,6 +24,9 @@ include "includes/header.php";
     <h4>Miroslav Krleža</h4>
 
     <ul>
+        <li><a href="poezija/nasa-kuca.php">Naša kuća</a></li>
+        <li><a href="poezija/plameni-vjetar.php">Plameni vjetar</a></li>
+        <li><a href="poezija/rat.php">Rat</a></li>
         <li><a href="poezija/veliki petak-1919.php">Veliki petak godine 1919.</a></li>
     </ul>
 
