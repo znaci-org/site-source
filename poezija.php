@@ -31,6 +31,11 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
+        <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
+        <li><a href="poezija/protivurecnosti.php">U protivurečnostima</a></li>
+        <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
+        <li><a href="poezija/tuga.php">Tuga</a></li>
+        <li><a href="poezija/tatunco.php">Tatunčo</a></li>
     </ul>
 
     <h4>Dobriša Cesarić</h4>
@@ -72,6 +77,7 @@ include "includes/header.php";
         <li><a href="poezija/cetvrta-ofanziva.php">Četvrta ofanziva</a></li>
         <li><a href="poezija/pjesma-mrtvih-proletera.php">Pjesma mrtvih proletera</a></li>
         <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
+        <li><a href="poezija/na-petrovackoj-cesti.php">Na Petrovačkoj cesti</a></li>
         <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
         <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
         <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
