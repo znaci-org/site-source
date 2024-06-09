@@ -15,12 +15,6 @@ include "includes/header.php";
         <li><a href="poezija/crvena.php">Crvena</a></li>
     </ul>
 
-    <h4>Gavrilo Princip</h4>
-
-    <ul>
-        <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
-    </ul>
-
     <h4>Miroslav Krleža</h4>
 
     <ul>
@@ -46,6 +40,21 @@ include "includes/header.php";
         <li><a href="poezija/tatunco.php">Tatunčo</a></li>
     </ul>
 
+    <h4>Oskar Davičo</h4>
+
+    <ul>
+        <li><a href="poezija/mesec-i-mraz.php">Mesec i mraz</a></li>
+        <li><a href="poezija/celija.php">Ćelija</a></li>
+        <li><a href="poezija/srbija.php">Srbija</a></li>
+        <li><a href="poezija/samicari.php">Samičari</a></li>
+    </ul>
+
+    <h4>Gavrilo Princip</h4>
+
+    <ul>
+        <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
+    </ul>
+
     <h4>Dobriša Cesarić</h4>
 
     <ul>
@@ -63,15 +72,6 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a></li>
     </ul>
-
-    <h4>Oskar Davičo</h4>
-
-    <ul>
-        <li><a href="poezija/celija.php">Ćelija</a></li>
-        <li><a href="poezija/mesec-i-mraz.php">Mesec i mraz</a></li>
-        <li><a href="poezija/srbija.php">Srbija</a></li>
-    </ul>
-
 </div>
 
 <br>
