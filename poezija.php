@@ -27,6 +27,11 @@ include "includes/header.php";
         <li><a href="poezija/nasa-kuca.php">Naša kuća</a></li>
         <li><a href="poezija/plameni-vjetar.php">Plameni vjetar</a></li>
         <li><a href="poezija/rat.php">Rat</a></li>
+        <li><a href="poezija/noc-u-provinciji.php">Noć u provinciji</a></li>
+        <li><a href="poezija/badnjak.php">Badnjak</a></li>
+        <li><a href="poezija/rijec-mati-cina.php">Riječ mati čina</a></li>
+        <li><a href="poezija/jeruzalemski-dijalog.php">Jeruzalemski dijalog</a></li>
+        <li><a href="poezija/proljece-1919.php">Proljeće 1918.</a></li>
         <li><a href="poezija/veliki petak-1919.php">Veliki petak godine 1919.</a></li>
     </ul>
 
