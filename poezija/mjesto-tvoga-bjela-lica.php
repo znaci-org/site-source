@@ -33,3 +33,17 @@ include "../includes/header.php";
   Vrtiću se dušo moja,<br>
   Da me grli ruka tvoja.
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>Od ljubavi nema zbora,<br>
+  U borbu se poći mora.</p>
+
+<p>Mjesto tvoga lica fina<br>
+  Grlim pušku karabina,</p>
+
+<p>Mjesto tvoje ruke dvije<br>
+  Stegle su me fišeklije,</p>
+
+<p>Mjesto tvojih poljubaca<br>
+  Brojim čete od boraca.</p>

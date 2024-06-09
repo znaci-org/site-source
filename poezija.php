@@ -74,6 +74,8 @@ include "includes/header.php";
         <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
         <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
         <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
+        <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
+        <li><a href="poezija/za-tita-za-partiju.php">Za Tita! Za Partiju!</a></li>
     </ul>
 
     <h4>Ivan Goran Kovačić</h4>
@@ -150,6 +152,12 @@ include "includes/header.php";
         <li><a href="poezija/tifusari.php">Tifusari</a></li>
     </ul>
 
+    <h4>Jure Franičević Pločar</h4>
+
+    <ul>
+        <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
+    </ul>
+
     <h4>Željko Sabol</h4>
 
     <ul>
@@ -166,6 +174,12 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/kadinjaca.php">Kadinjača</a></li>
+    </ul>
+
+    <h4>Ivica Tomović</h4>
+
+    <ul>
+        <li><a href="poezija/ko-je-tito.php">Ko je Tito?</a></li>
     </ul>
 
     <h4>Desanka Maksimović</h4>
