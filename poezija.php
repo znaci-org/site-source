@@ -84,7 +84,9 @@ include "includes/header.php";
         <li><a href="poezija/nasa-pjesma.php">Naša pjesma</a></li>
         <li><a href="poezija/nasa-sloboda.php">Naša sloboda</a></li>
         <li><a href="poezija/partizanske-noge.php">Partizanske noge</a></li>
+        <li><a href="poezija/o-tesko-je-cetnik-biti.php">O teško je četnik biti</a></li>
         <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
+        <li><a href="poezija/moj-grob.php">Moj grob</a></li>
     </ul>
 
     <h4>Vladimir Nazor</h4>
