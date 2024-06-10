@@ -7,10 +7,11 @@ include "../includes/header.php";
 
 <h1>Miroslav Krleža - O Titu</h1>
 
-<p>(<i>povodom Titovog rođendana 1952</i>)</p>
+<p>(<i>povodom Titovog šezdesetog rođendana</i>)</p>
 
 <p>Kada netko sa svojih šezdeset godina može da kaže:<br>
-Borio sam se po crti svog moralnog uvjerenja četrdeset punih godina,<br> 
+Borio sam se po crti svog moralnog uvjerenja<br>
+četrdeset punih godina,<br> 
 vidio sam mnoge zemlje i gradove,<br> 
 vojske i ratove i civilizacije,<br> 
 društvene sisteme i revolucije,<br> 
@@ -26,4 +27,4 @@ i danas dižem zemlju iz njene zaostalosti u red civiliziranih naroda,<br>
 onda bi takav čovjek mogao s punim pravom da kaže:<br> 
 Izvršio sam svoju ljudsku i građansku dužnost.</p>
 
-<?php include "../includes/footer.php"; ?>
+(1952)
