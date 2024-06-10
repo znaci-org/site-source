@@ -157,17 +157,25 @@ include "includes/header.php";
         <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
     </ul>
 
-
-    <h4>Oskar Davičo</h4>
+    <h4>Vladimir Čerkez</h4>
 
     <ul>
-        <li><a href="poezija/monolog-fratra.php">Monolog fratra</a></li>
+        <li><a href="poezija/pjesma-u-zitu.php">Pjesma u žitu</a></li>
+        <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
+        <li><a href="poezija/bolnicarka.php">Bolničarka</a></li>
     </ul>
 
     <h4>Radovan Zogović</h4>
 
     <ul>
+        <li><a href="poezija/strijeljanoj-maloj-ani-studentkinji.php">Strijeljanoj maloj Ani studentkinji</a></li>
         <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
+    </ul>
+
+    <h4>Oskar Davičo</h4>
+
+    <ul>
+        <li><a href="poezija/monolog-fratra.php">Monolog fratra</a></li>
     </ul>
 
     <h4>Mirko Banjević</h4>
@@ -210,14 +218,6 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/zrak-na-uzetu.php">Zrak na užetu</a></li>
-    </ul>
-
-    <h4>Vladimir Čerkez</h4>
-
-    <ul>
-        <li><a href="poezija/pjesma-u-zitu.php">Pjesma u žitu</a></li>
-        <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
-        <li><a href="poezija/bolnicarka.php">Bolničarka</a></li>
     </ul>
 
     <h4>Vladimir Popović</h4>
