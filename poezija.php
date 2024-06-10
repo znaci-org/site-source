@@ -106,6 +106,7 @@ include "includes/header.php";
         <li><a href="poezija/na-petrovackoj-cesti.php">Na Petrovačkoj cesti</a></li>
         <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
         <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
+        <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
         <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
         <li><a href="poezija/za-tita-za-partiju.php">Za Tita! Za Partiju!</a></li>
     </ul>
@@ -201,6 +202,11 @@ include "includes/header.php";
     <h4>Grigor Vitez</h4>
     <ul>
         <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
+    </ul>
+
+    <h4>Ljubiša Jocić</h4>
+    <ul>
+        <li><a href="poezija/zelengora.php">Zelengora</a></li>
     </ul>
 
     <h4>Matej Bor</h4>
