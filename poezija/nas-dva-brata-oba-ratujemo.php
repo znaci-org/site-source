@@ -20,7 +20,26 @@ include "../includes/header.php";
   Da me švapski konji ne pregaze.<br />
 </p>
 
-<h2>Druga verzije</h2>
+<h2>Druga verzija</h2>
+
+<p>
+  Nas dva brata oba ratujemo,<br />
+  Ne plač majko ako poginemo.<br />
+  <br />
+  Ne plač majko kad u borbu pođem<br />
+  Već ti plači ako ti ne dođem.<br />
+  <br />
+  Mi smo braća ispod Kozarice,<br />
+  Gdje ne rađa majka izdajice.<br />
+  <br />
+  Grmeč goro, gusta jelovita,<br />
+  Kraj Drvara stojiš ponosita.<br />
+  <br />
+  Tvoje jele šire svoje grane,<br />
+  I čuvaju mlade partizane!<br />
+</p>
+
+<h2>Trojna verzija</h2>
 
 <p>
   Nas tri brata, sva tri ratujemo,<br />
