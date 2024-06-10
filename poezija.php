@@ -12,7 +12,8 @@ include "includes/header.php";
     <h4>Kosta Abrašević</h4>
 
     <ul>
-        <li><a href="poezija/crvena.php">Crvena je krvca</a></li>
+        <li><a href="poezija/crvena.php">Crvena</a></li>
+        <li><a href="poezija/zvizdi-vetre.php">Zviždi vetre</a></li>
     </ul>
 
     <h4>Miroslav Krleža</h4>
@@ -46,6 +47,7 @@ include "includes/header.php";
         <li><a href="poezija/mesec-i-mraz.php">Mesec i mraz</a></li>
         <li><a href="poezija/celija.php">Ćelija</a></li>
         <li><a href="poezija/srbija.php">Srbija</a></li>
+        <li><a href="poezija/i-krv.php">I krv...</a></li>
         <li><a href="poezija/samicari.php">Samičari</a></li>
     </ul>
 
@@ -117,7 +119,9 @@ include "includes/header.php";
         <li><a href="poezija/nasa-sloboda.php">Naša sloboda</a></li>
         <li><a href="poezija/partizanske-noge.php">Partizanske noge</a></li>
         <li><a href="poezija/o-tesko-je-cetnik-biti.php">O teško je četnik biti</a></li>
+        <li><a href="poezija/mracno-doba.php">Mračno doba</a></li>
         <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
+        <li><a href="poezija/jama.php">Jama</a></li>
         <li><a href="poezija/moj-grob.php">Moj grob</a></li>
     </ul>
 
@@ -138,6 +142,12 @@ include "includes/header.php";
         <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
     </ul>
 
+    <h4>Mirko Banjević</h4>
+
+    <ul>
+        <li><a href="poezija/razgovor-kostiju.php">Razgovor kostiju</a></li>
+    </ul>
+
     <h4>Mira Alečković</h4>
 
     <ul>
@@ -150,16 +160,47 @@ include "includes/header.php";
         <li><a href="poezija/noc-1941.php">Noć 1941</a></li>
     </ul>
 
+    <h4>Krsto Krivokapić</h4>
+
+    <ul>
+        <li><a href="poezija/ranjenik-na-jahorini.php">Ranjenik na Jahorini</a></li>
+    </ul>
+
+    <h4>Radivoj Koparec</h4>
+
+    <ul>
+        <li><a href="poezija/mladost.php">Mladost</a></li>
+    </ul>
+
     <h4>Miloš Popović Đurin</h4>
 
     <ul>
         <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
     </ul>
 
+    <h4>Enver Đerđeku</h4>
+
+    <ul>
+        <li><a href="poezija/zrak-na-uzetu.php">Zrak na užetu</a></li>
+    </ul>
+
     <h4>Vladimir Čerkez</h4>
 
     <ul>
+        <li><a href="poezija/pjesma-u-zitu.php">Pjesma u žitu</a></li>
         <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
+        <li><a href="poezija/bolnicarka.php">Bolničarka</a></li>
+    </ul>
+
+    <h4>Vladimir Popović</h4>
+
+    <ul>
+        <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
+    </ul>
+
+    <h4>Grigor Vitez</h4>
+    <ul>
+        <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
     </ul>
 
     <h4>Matej Bor</h4>

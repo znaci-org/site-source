@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ivan Goran Kovačić - Mrzimo vas!</h1>
+<h1>Ivan Goran Kovačić - Mračno doba</h1>
 
 <p>Mrzimo vas, hulje,<br>
 Mrzimo, krvnici,<br>

@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kosta Abrašević - Crvena je krvca</h1>
+<h1>Kosta Abrašević - Crvena</h1>
 
 <p>Crvena je krvca, što kipi u nama;<br>
 Crvena je munja, što oblak prolama,</p>
