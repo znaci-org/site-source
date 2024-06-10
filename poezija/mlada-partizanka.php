@@ -24,3 +24,11 @@ Da je mlada partizanka bombe bacala</p>
 <p>Mlada partizanka kolo vodila<br>
 Hej nek se čuje čuje, hej nek se zna<br>
 Da je mlada partizanka kolo vodila</p>
+
+<h2>Varijante</h2>
+
+<p>Mlada partizanka borbu vodila</p>
+...            
+<p>Mlada partizanka pesme pevala </p>
+...
+<p>Mlada partizanka bunker rušila</p>

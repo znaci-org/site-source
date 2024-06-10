@@ -410,6 +410,7 @@ include "includes/header.php";
         <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
         <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
         <li><a href="poezija/kralju-pero-traži-vladu.php">Kralju Pero traži vladu</a></li>
+        <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -434,10 +435,13 @@ include "includes/header.php";
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
         <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
         <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
+        <li><a href="poezija/moj-saro.php">Moj šaro</a></li>
         <li><a href="poezija/vi-zidine.php">Vi zidine</a></li>
         <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
         <li><a href="poezija/zaplakala-i-gora-i-trava.php">Zaplakala i gora i trava</a></li>
         <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
+        <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
+        <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
         <li><a href="poezija/1941.php">1941.</a> (guslarska)</li>
         <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (guslarska)</li>
         <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (guslarska)</li>
