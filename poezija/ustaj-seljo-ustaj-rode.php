@@ -10,6 +10,22 @@ include "../includes/header.php";
 (<i>partizanska narodna pesma</i>)
 
 <p>
+  Ustaj, seljo, ustaj, rode,<br />
+  Bez oblaka nema vode,<br />
+  <br />
+  Bez oblaka nema vode,<br />
+  Ni života bez slobode.<br />
+  <br />
+  Nema boja bez junaka,<br />
+  Ni pobjede bez pušaka.<br />
+  <br />
+  Kad je srca u junaka,<br />
+  Biće boja i pušaka.<br />
+</p>
+
+<h2>Druga verzija</h2>
+
+<p>
   Ustaj, seljo, ustaj rode,<br>
   U narodni front slobode.<br>
   <br>

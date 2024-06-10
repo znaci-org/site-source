@@ -31,3 +31,20 @@ include "../includes/header.php";
   Da ga vidim — moje desno krilo,<br />
   Mislim, majko, lakše bi mi bilo.<br />
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Bolna leži omladinka Mara,<br />
+  Sa svojom se majkom razgovara:<br />
+  <br />
+  — Mila majko, primakni me malko,<br />
+  Primakni me mojemu prozoru,<br />
+  <br />
+  Da ja vidim prije bela dana,<br />
+  Proleterske čete partizana,<br />
+  I pred četom mojega dragana,<br />
+  <br />
+  Da ga vidim, da me želja mine,<br />
+  Da mi lice kao nekad sine.<br />
+</p>

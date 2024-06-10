@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Po šumama i gorama</h1>
 
-(<i>partizanska pjesma</i>)
+(<i>partizanska pjesma, nastala iz pesme <a href="/poezija/lanci-nam-se-kuju-kleti.php">Lanci nam se kuju kleti</a></i>)
 
 <p>
   Po šumama i gorama<br />

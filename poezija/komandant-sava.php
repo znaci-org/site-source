@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Komandant Sava</h1>
 
-(<i>partizanska pjesma</i>)
+(<i>pjesma Puniše Perovića, nastala oktobra 1943, koja je ušla u usmeno predanje stekavši više verzija</i>)
 
 <p>
   Skraja Bosne i mora, zna ga zemlja sva<br />
