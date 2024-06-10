@@ -403,6 +403,8 @@ include "includes/header.php";
         <li><a href="poezija/jedno-jutro-prije-zore.php">Jedno jutro prije zore</a></li>
         <li><a href="poezija/a-sto-pcinja-mutna-teci.php">A što Pčinja mutna teči, babo mori?</a></li>
         <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj, Dražo, izdajico stara</a></li>
+        <li><a href="poezija/bela-vilo-sa-planine.php">Bela vilo sa planine</a></li>
+        <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -418,13 +420,16 @@ include "includes/header.php";
         <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
         <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
         <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
-        <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
+        <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (zasjeda na Čilašu)</li>
+        <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (borba kod Petkovice)</li>
         <li><a href="poezija/svanit-ce-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
         <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
         <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
         <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
+        <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
+        <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
         <li><a href="poezija/1941.php">1941.</a> (epska)</li>
         <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (epska)</li>
         <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epska)</li>
