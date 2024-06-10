@@ -75,6 +75,7 @@ include "includes/header.php";
     <h4>Rastko Petrović</h4>
     <ul>
         <li><a href="poezija/otac-moj-bese-li-zver.php">Majko, otac moj beše li zver?</a></li>
+        <li><a href="poezija/lovcevo-bdenje.php">Lovčevo bdenje</a></li>
     </ul>
 
     <h4>Gavrilo Princip</h4>
@@ -86,6 +87,12 @@ include "includes/header.php";
     <h4>Dušan Vasiljev</h4>
     <ul>
         <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
+    </ul>
+
+    <h4>Stanislav Vinaver</h4>
+
+    <ul>
+        <li><a href="poezija/drugi-dan-na-putu-kroz-haos.php">Drugi dan na putu kroz haos</a></li>
     </ul>
 
     <h4>Dobriša Cesarić</h4>
