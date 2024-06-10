@@ -44,13 +44,14 @@ include "includes/header.php";
     <h4>Oskar Davičo</h4>
 
     <ul>
+        <li><a href="poezija/1929.php">1929.</a></li>
         <li><a href="poezija/mesec-i-mraz.php">Mesec i mraz</a></li>
         <li><a href="poezija/celija.php">Ćelija</a></li>
         <li><a href="poezija/srbija.php">Srbija</a></li>
         <li><a href="poezija/i-krv.php">I krv...</a></li>
         <li><a href="poezija/samicari.php">Samičari</a></li>
-        <li><a href="poezija/1929.php">1929.</a></li>
-        
+        <li><a href="poezija/u-spomen-na-tamnovanje-svetozara-markovica.php">U spomen na tamnovanje Svetozara Markovića</a></li>
+        <li><a href="poezija/skoro-ce-biti-svi-ljudi-siti.php">Skoro će biti svi ljudi siti</a></li>
     </ul>
 
     <h4>Ivan Goran Kovačić</h4>
@@ -66,7 +67,7 @@ include "includes/header.php";
     <h4>Mirko Banjević</h4>
 
     <ul>
-        <li><a href="poezija/1923.php">1923</a></li>
+        <li><a href="poezija/1923.php">1923.</a></li>
         <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>
     </ul>
 
@@ -154,6 +155,7 @@ include "includes/header.php";
         <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
         <li><a href="poezija/mitraljeza.php">Mitraljeza</a></li>
         <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>
+        <li><a href="poezija/titovo-naprijed.php">Titovo "Naprijed"</a></li>
         <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
         <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
         <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
@@ -178,6 +180,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/monolog-fratra.php">Monolog fratra</a></li>
+        <li><a href="poezija/sloboda.php">Sloboda</a></li>
     </ul>
 
     <h4>Mirko Banjević</h4>

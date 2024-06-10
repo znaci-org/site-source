@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - 1923</h1>
+<h1>Mirko Banjević - 1923.</h1>
 
 <p>
   I danima je otac moj stari<br />
