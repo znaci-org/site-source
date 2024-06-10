@@ -49,6 +49,8 @@ include "includes/header.php";
         <li><a href="poezija/srbija.php">Srbija</a></li>
         <li><a href="poezija/i-krv.php">I krv...</a></li>
         <li><a href="poezija/samicari.php">Samičari</a></li>
+        <li><a href="poezija/1929.php">1929.</a></li>
+        
     </ul>
 
     <h4>Ivan Goran Kovačić</h4>
