@@ -90,6 +90,12 @@ include "includes/header.php";
         <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
     </ul>
 
+    <h4>Tin Ujević</h4>
+    <ul>
+        <li><a href="poezija/pobratimstvo-lica-u-svemiru.php">Pobratimstvo lica u svemiru</a></li>
+        <li><a href="poezija/zadrzane-sile-bica.php">Zadržane sile bića</a></li>
+    </ul>
+
     <h4>Stanislav Vinaver</h4>
 
     <ul>
