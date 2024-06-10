@@ -5,13 +5,13 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Pesma u spomen Ivi Loli Ribaru</h1>
+<h1>Bil se mogli mrtvi ustajati?</h1>
 
-(<i>narodna pesma</i>)
+(<i>pesma u spomen Ivi Loli Ribaru</i>)
 
 <p>
   Hej mila mati da je nama znati<br />
-  Hej bil' se mogli mrtvi ustajati<br />
+  Hej bil' se mogli mrtvi ustajati?<br />
   <br />
   Hej digli bismo našega heroja<br />
   Hej druga Lolu sekretara SKOJ-a<br />

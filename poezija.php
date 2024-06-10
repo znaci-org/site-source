@@ -408,6 +408,8 @@ include "includes/header.php";
         <li><a href="poezija/goro-le-goro-zelena.php">Goro le, goro zelena</a></li>
         <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
         <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
+        <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
+        <li><a href="poezija/kralju-pero-traži-vladu.php">Kralju Pero traži vladu</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -480,7 +482,7 @@ include "includes/header.php";
         <li><a href="poezija/nema-zore-nema-dana.php">Nema zore, nema dana</a></li>
         <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
         <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
-        <li><a href="poezija/pesma-u-spomen-ivi-loli-ribaru.php">Pesma u spomen Ivi Loli Ribaru</a></li>
+        <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
         <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
     </ul>
 </div>

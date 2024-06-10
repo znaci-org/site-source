@@ -35,3 +35,13 @@ include "../includes/header.php";
   Kordun, Bosna, Banija i Lika<br />
   To je druže čvršće od čelika<br />
 </p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Kordun, Bosna, Banija i Lika,<br />
+  To je, druže, tvrđe od čelika.<br />
+  <br />
+  Oj, Krajino, sva si popaljena,<br />
+  Al’ ćeš biti ljuto osvećena.<br />
+</p>
