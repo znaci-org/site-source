@@ -51,6 +51,16 @@ include "includes/header.php";
         <li><a href="poezija/samicari.php">Samičari</a></li>
     </ul>
 
+    <h4>Ivan Goran Kovačić</h4>
+
+    <ul>
+        <li><a href="poezija/krvnice.php">Krvniče</a></li>
+        <li><a href="poezija/mi-se-tuze-sa-zivota.php">Mi se tuže sa života</a></li>
+        <li><a href="poezija/kaj-opet-grmi.php">Kaj opet grmi?! (Ne ratujte…)</a></li>
+        <li><a href="poezija/oci-stjepana-radica.php">Oči Stjepana Radića</a></li>
+        <li><a href="poezija/samome-sebi.php">Samome sebi</a></li>
+    </ul>
+
     <h4>Gavrilo Princip</h4>
 
     <ul>
@@ -119,8 +129,11 @@ include "includes/header.php";
         <li><a href="poezija/nasa-pjesma.php">Naša pjesma</a></li>
         <li><a href="poezija/nasa-sloboda.php">Naša sloboda</a></li>
         <li><a href="poezija/partizanske-noge.php">Partizanske noge</a></li>
+        <li><a href="poezija/kljuse.php">Kljuse</a></li>
+        <li><a href="poezija/lesevi-putuju.php">Leševi putuju</a></li>
         <li><a href="poezija/o-tesko-je-cetnik-biti.php">O teško je četnik biti</a></li>
         <li><a href="poezija/mracno-doba.php">Mračno doba</a></li>
+        <li><a href="poezija/komunistickoj-partiji.php">Komunističkoj partiji</a></li>
         <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
         <li><a href="poezija/jama.php">Jama</a></li>
         <li><a href="poezija/moj-grob.php">Moj grob</a></li>

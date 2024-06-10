@@ -20,6 +20,7 @@ include "../includes/header.php";
   sin sna, san bludnog sina što usnom dotiče<br />
   kućni prag, što drhvatom rukom vetra<br />
   neobično kuca na vrata šume.<br />
+  <br />
   Šta gledaš praznim dupljama u duplje kamena,<br />
   i kao kostur sediš na ognjištu zaborava,<br />
   u zaboravu trava, u svetlosti zaborava,<br />
@@ -29,6 +30,7 @@ include "../includes/header.php";
   bršljana taj spomenik od kostura, kao prašuma<br />
   što raste oko gigantskog spomenika Inka,<br />
   i tišina krila beloglavog supa.<br />
+  <br />
   Kao pred napuštenim roditeljskim domom da<br />
   stojiš, stoj kao spomenik, stoj zanesen u misli<br />
   kao vreme zaneseno u vremenu, kao večnost<br />

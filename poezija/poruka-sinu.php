@@ -16,20 +16,24 @@ include "../includes/header.php";
   Utjeha draga: moj se jablan viti<br />
   Sad puškom bori, sloboda ga kiti.<br />
   Ove će patnje osvećene biti!<br />
+  <br />
   I govore mi da ja, stara mati,<br />
   Poručim sinu da se natrag vrati,<br />
   Slobodu će mi, kažu, darovati.<br />
   A tebi mati živom krvlju piše:<br />
   Nemoj, sine, ne vraćaj se više!<br />
+  <br />
   Kad na vas, sine, budu jurišali,<br />
   Tad će nas kažu, pred puškama slati,<br />
   Ne biste l` rad nas srcem zadrhtali,<br />
   Ne biste l` tugo, u jurišu stali,<br />
   A tebi, evo, poručuje mati!<br />
   Pucaj sine, nemoj zadrhtati!<br />
+  <br />
   Učila sam te dok si malen bio,<br />
   Da nježan budeš, da blag budeš, mio,<br />
   I da ne mrziš, ne zgaziš ni mrava.<br />
+  <br />
   Al` danas, eto, smračilo se vrijeme:<br />
   Za grotlo krvi nema zaborava!<br />
   Mrzi, sine, zgazi zmijsko sjeme!<br />
