@@ -61,6 +61,13 @@ include "includes/header.php";
         <li><a href="poezija/samome-sebi.php">Samome sebi</a></li>
     </ul>
 
+    <h4>Mirko Banjević</h4>
+
+    <ul>
+        <li><a href="poezija/1923.php">1923</a></li>
+        <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>
+    </ul>
+
     <h4>Gavrilo Princip</h4>
 
     <ul>
@@ -105,7 +112,7 @@ include "includes/header.php";
 <br>
 
 <div class="knjige">
-    <h2>Poezija iz narodno-oslobodilačke borbe</h2>
+    <h2>Poezija NOB</h2>
 
     <h4>Branko Ćopić</h4>
 
@@ -148,6 +155,13 @@ include "includes/header.php";
         <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
         <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
         <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
+    </ul>
+
+
+    <h4>Oskar Davičo</h4>
+
+    <ul>
+        <li><a href="poezija/monolog-fratra.php">Monolog fratra</a></li>
     </ul>
 
     <h4>Radovan Zogović</h4>
