@@ -405,6 +405,8 @@ include "includes/header.php";
         <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj, Dražo, izdajico stara</a></li>
         <li><a href="poezija/bela-vilo-sa-planine.php">Bela vilo sa planine</a></li>
         <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a></li>
+        <li><a href="poezija/goro-le-goro-zelena.php">Goro le, goro zelena</a></li>
+        <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -416,6 +418,7 @@ include "includes/header.php";
         <li><a href="poezija/petrova-mi-gora-mati.php">Petrova mi gora mati</a></li>
         <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
+        <li><a href="poezija/volim-svakog-ko-ustase-bije.php">Volim svakog ko ustaše bije</a></li>
         <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
         <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
         <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
@@ -428,6 +431,7 @@ include "includes/header.php";
         <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
         <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
         <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
+        <li><a href="poezija/vi-zidine.php">Vi zidine</a></li>
         <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
         <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
         <li><a href="poezija/1941.php">1941.</a> (epska)</li>
