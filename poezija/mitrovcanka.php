@@ -21,3 +21,10 @@ include "../includes/header.php";
   Čujte robijaši, Pevaćemo Mitrovčanku,<br />
   Bez okova naših....<br />
 </p>
+
+<br />
+<hr>
+
+Mnoge revolucionarne pjesme spjevane su u kaznionicama za političke zatvorenike u Bileći, Sremskoj Mitrovici i Lepoglavi. Zbog uvjeta u kojima su nastale, ove pjesme se popularno nazivaju robijaškim. Nastajale su spontano i najčešće im se ne može odrediti autor, jer je u pisanju teksta učestvovalo više zatvorenika, a katkada cijela ćelija ili paviljon.
+
+U Sremskoj Mitrovici je čak organiziran i Prvi festival originalnih revolucionarnih pjesama, tom prilikom su nastale popularne revolucionarne pjesme Nabrusimo kose, Mitrovčanka i Pjesma o Matiji Gupcu.

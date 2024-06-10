@@ -112,6 +112,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/crveni-makovi.php">Crveni makovi</a></li>
+        <li><a href="poezija/matija-gubec.php">Matija Gubec</a></li>
     </ul>
 
     <h4>Kosta Novaković</h4>
@@ -132,6 +133,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
         <li><a href="poezija/pesma-strajkaca-gradjevinskih-radnika.php">Pesma građevinskih radnika u štrajku</a></li>
+        <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
         <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
     </ul>
 
@@ -375,7 +377,6 @@ include "includes/header.php";
         <li><a href="poezija/ustaj-druze-ustaj-rode.php">Ustaj druže, ustaj rode</a></li>
         <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
         <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
-        <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
         <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
         <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
         <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
