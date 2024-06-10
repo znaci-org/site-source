@@ -28,6 +28,29 @@ include "../includes/header.php";
 <h2>Druga verzija</h2>
 
 <p>
+  — Partizani, što suze lijete,<br />
+  kad to dosad činili nijeste?<br />
+  Što idete čela namrštena,<br />
+  da l’ vam nekog od drugova nema?<br />
+  — Nema nama ponosa i nade,<br />
+  pogibe nam komandant brigade;<br />
+  nema nama heroja i tića,<br />
+  iz Toplice Ratka Pavlovića.<br />
+  U borbi je s fašistima bio,<br />
+  pa je mlađan život izgubio.<br />
+  Stari borac iz španskoga rata,<br />
+  na Madridu rane zadobio,<br />
+  na Vlasini život izgubio.<br />
+  Crna Travo, ne belila se,<br />
+  a fašisti, ne veselili se!<br />
+  Oj Vlasino, bolje da propade,<br />
+  no što Ratka heroja nestade!<br />
+  Padaj, Ratko, al’ će i to biti,<br />
+  naše će te puške osvetiti!<br />
+</p>
+
+<h2>Treća verzija</h2>
+<p>
   Kukavčani, što suze lijete?<br />
   To dosada činili nijeste.<br />
   Što idete čela namrštena,<br />
@@ -45,7 +68,7 @@ include "../includes/header.php";
   Drutovi će tebe osvetiti!<br />
 </p>
 
-<h2>Treća verzija</h2>
+<h2>Četvrta verzija</h2>
 
 <p>
   Kukavčani, što suze proliste,<br />
@@ -65,6 +88,6 @@ include "../includes/header.php";
 </p>
 
 <hr>
-Ratko Pavlović Ćićko je poginuo u borbi s Bugarima kod Surdulice 1943. 
+Ratko Pavlović Ćićko je poginuo u borbi s Bugarima kod Surdulice 1943.
 <br><br>
-Blagoje Kostić (Crni Marko), komandant brigade Leskovačkog partizanskog odreda na Kukavici, poginuo 1943. 
+Blagoje Kostić (Crni Marko), komandant brigade Leskovačkog partizanskog odreda na Kukavici, poginuo 1943.

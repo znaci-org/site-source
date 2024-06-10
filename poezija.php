@@ -416,8 +416,10 @@ include "includes/header.php";
 
     <h3>Partizanske pesme iz Hrvatske</h3>
     <ul>
+        <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a></li>
         <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
         <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
+        <li><a href="poezija/sam-je-mirko-pusku-zadobio.php">Sam je Mirko pušku zadobio</a></li>
         <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
         <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
         <li><a href="poezija/petrova-mi-gora-mati.php">Petrova mi gora mati</a></li>
@@ -427,6 +429,7 @@ include "includes/header.php";
         <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
         <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
         <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
+        <li><a href="poezija/sloboda-se-spaliti-ne-može.php">Sloboda se spaliti ne može</a></li>
         <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
         <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (zasjeda na Čilašu)</li>
         <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (borba kod Petkovice)</li>
@@ -443,6 +446,7 @@ include "includes/header.php";
         <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
         <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
         <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
+        <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a></li>
         <li><a href="poezija/1941.php">1941.</a> (guslarska)</li>
         <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (guslarska)</li>
         <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (guslarska)</li>
@@ -472,9 +476,10 @@ include "includes/header.php";
         <li><a href="poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></li>
         <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
         <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata, oba ratujemo</a></li>
+        <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže, tvoja kuća gori</a></li>
         <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
         <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
-        <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže, tvoja kuća gori</a></li>
+        <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
         <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>

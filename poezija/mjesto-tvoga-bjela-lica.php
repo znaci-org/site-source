@@ -47,3 +47,28 @@ include "../includes/header.php";
 
 <p>Mjesto tvojih poljubaca<br>
   Brojim čete od boraca.</p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Po Kordunu boj se bije,<br />
+  Za slobodu krv se lije,<br />
+  <br />
+  Mene prati zaručnica,<br />
+  Od žalosti srce puca.<br />
+  <br />
+  Od ljubavi nema zbora,<br />
+  U borbu se ići mora.<br />
+  <br />
+  Mjesto tvoje ruke dvije<br />
+  Stegle su me fišeklije.<br />
+  <br />
+  Mjesto tvojih poljubaca<br />
+  Granate mi dušman baca.<br />
+  <br />
+  Volim tvoje kose vrane,<br />
+  Al’ boj čujem na sve strane.<br />
+  <br />
+  Ako dođem živ iz boja,<br />
+  Ti ćeš biti ljuba moja.<br />
+</p>
