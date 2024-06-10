@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Ide četa čela namrštena (smrt Ratka Pavlovića)</h1>
 
-(<i>partizanska pesma iz Srbije</i>)
+(<i>narodna pesma iz Srbije, varijanta <a href="/poezija/partizani-sto-suze-lijete.php">Partizani što suze lijete</a></i>)
 
 <p>
   Ide četa čela namrštena,<br>
@@ -49,6 +49,6 @@ nema nama slavnog Popa Mića.<br/>
 
 <br>
 <hr>
-Ratko Pavlović Ćićko je poginuo u borbi s Bugarima 1943. 
+Ratko Pavlović Ćićko je poginuo u borbi s Bugarima kod Surdulice 1943. 
 <br><br>
 Pop-Mića (Vladimir Vukelić), poginuo je 1943. godine.
