@@ -87,6 +87,7 @@ include "includes/header.php";
     <h4>Dušan Vasiljev</h4>
     <ul>
         <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
+        <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
     </ul>
 
     <h4>Stanislav Vinaver</h4>
