@@ -86,14 +86,14 @@ include "includes/header.php";
     </ul>
 
     <h4>Milan Apih</h4>
-    
+
     <ul>
         <li><a href="poezija/nabrusimo-kose.php">Nabrusimo kose</a></li>
         <li><a href="poezija/bilecanka.php">Bilećanka</a></li>
     </ul>
 
     <h4>Anonimne / narodne pesme</h4>
-    
+
     <ul>
         <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
         <li><a href="poezija/pesma-strajkaca-gradjevinskih-radnika.php">Pesma građevinskih radnika u štrajku</a></li>
@@ -105,7 +105,7 @@ include "includes/header.php";
 <br>
 
 <div class="knjige">
-    <h2>Poezija NOB</h2>
+    <h2>Poezija iz narodno-oslobodilačke borbe</h2>
 
     <h4>Branko Ćopić</h4>
 
@@ -266,12 +266,6 @@ include "includes/header.php";
         <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
     </ul>
 
-    <h4>Slavko Vukosavljević</h4>
-
-    <ul>
-        <li><a href="poezija/kadinjaca.php">Kadinjača</a></li>
-    </ul>
-
     <h4>Ivica Tomović</h4>
 
     <ul>
@@ -288,13 +282,6 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/evropa-1942.php">Evropa godine 1942.</a></li>
-        <li><a href="poezija/o-titu.php">O Titu</a></li>
-    </ul>
-
-    <h4>Branko Miljković</h4>
-
-    <ul>
-        <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
     </ul>
 
     <h4>Neznani autor</h4>
@@ -421,7 +408,29 @@ include "includes/header.php";
 <br>
 
 <div class="knjige">
-    <h2>Posleratne pesme</h2>
+
+    <h2>Posleratna poezija</h2>
+
+
+    <h4>Slavko Vukosavljević</h4>
+
+    <ul>
+        <li><a href="poezija/kadinjaca.php">Kadinjača</a></li>
+    </ul>
+
+    <h4>Branko Miljković</h4>
+
+    <ul>
+        <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
+    </ul>
+
+    <h4>Miroslav Krleža</h4>
+
+    <ul>
+        <li><a href="poezija/o-titu.php">O Titu</a></li>
+    </ul>
+
+    <h4>Narodne pesme</h4>
     <ul>
         <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
         <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
