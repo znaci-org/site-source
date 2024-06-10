@@ -240,18 +240,22 @@ include "includes/header.php";
         <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
         <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
         <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
+        <li><a href="poezija/bolna-lezi-omladinka-mara.php">Bolna leži omladinka Mara</a></li>
         <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene, naš Mladene</a></li>
         <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene, druže mio</a></li>
         <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
+        <li><a href="poezija/na-palezu-skupiše-se-momci.php">Na Paležu skupiše se momci</a></li>
         <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
         <li><a href="poezija/oj-kozaro-ne-treba-ti-kise.php">Oj Kozaro ne treba ti kiše</a></li>
-        <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
-        <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
+        <li><a href="poezija/oj-kozarske-vite-jele.php">Oj kozarske vite jele</a></li>
+        <li><a href="poezija/druga-sosu-ubila-je-mina.php">Druga Šošu ubila je mina</a></li>
         <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
+        <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
         <li><a href="poezija/drug-se-tito-po-krajini-sece.php">Drug se Tito po Krajini šeće</a></li>
         <li><a href="poezija/oj-drugovi-iz-pete-brigade.php">Oj drugovi iz Pete brigade</a></li>
         <li><a href="poezija/romanija-ivo.php">Romanija, Ivo</a></li>
         <li><a href="poezija/kozaracko-kolo.php">Kozaračko kolo</a></li>
+        <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Srbije</h3>
@@ -284,6 +288,8 @@ include "includes/header.php";
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
         <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
         <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
+        <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
+        <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
         <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a></li>
         <li><a href="poezija/svanit-će-van-crni-danci.php">Svanit će van crni danci</a></li>
         <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
@@ -305,6 +311,9 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
         <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
+        <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
+        <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
+        <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
         <li><a href="poezija/nabrusimo-kose.php">Nabrusimo kose</a></li>
     </ul>
 
@@ -321,7 +330,6 @@ include "includes/header.php";
         <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
         <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj, seljo, ustaj rode</a></li>
         <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
-        <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
         <li><a href="poezija/suma-lista-rastu-zita.php">Šuma lista, rastu žita</a></li>
         <li><a href="poezija/partizani-pola-roda-moga.php">Partizani, pola roda moga</a></li>
         <li><a href="poezija/nema-zore-nema-dana.php">Nema zore, nema dana</a></li>

@@ -19,3 +19,19 @@ include "../includes/header.php";
   Sastala se Banija sa Likom,<br>
   Pa se ne da pokoriti nikom.
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Kad je bila borba kod Drvara<br />
+  Šesta lička spasila maršala<br />
+  <br />
+  Šesta lička i treća krajiška<br />
+  Te su dvije Titu najmilije<br />
+  <br />
+  Cjela Lika u pepelu leži<br />
+  Lički narod iz borbe ne bježi<br />
+  <br />
+  Kordun, Bosna, Banija i Lika<br />
+  To je druže čvršće od čelika<br />
+</p>
