@@ -49,3 +49,16 @@ include "../includes/header.php";
   Da se širi buna do slobode,<br>
   Sve dok tuđin iz zemlje ne ode.
 </p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Oj, narode Like i Korduna,<br />
+  Došlo vrijeme da se diže buna<br />
+  Protiv sviju tvojih ugnjetača,<br />
+  Ustaša i drugih osvajača.<br />
+  Sastali se Kordunaši s Likom,<br />
+  Ne daju se pokoriti nikom.<br />
+  Kunemo se našem drugu Titi<br />
+  Da ćemo se do kraja boriti.<br />
+</p>

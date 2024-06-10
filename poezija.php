@@ -411,6 +411,7 @@ include "includes/header.php";
         <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
         <li><a href="poezija/kralju-pero-traži-vladu.php">Kralju Pero traži vladu</a></li>
         <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
+        <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>

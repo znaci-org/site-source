@@ -62,3 +62,32 @@ include "../includes/header.php";
   Pobjedama ovjenčana,<br />
   Ta zastava varodna.<br />
 </p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Partizan sam tim se dičim,<br />
+  To ne može biti svak,<br />
+  Umrijeti za slobodu,<br />
+  Može samo div junak.<br />
+  <br />
+  Puška mi je drugarica,<br />
+  Mitraljez mi mio brat,<br />
+  Svake noći bdim na straži,<br />
+  Dok tiranu slomim vrat.<br />
+  <br />
+  Narodu sam zavet dao,<br />
+  Ja narodni partizan,<br />
+  Da ću čuvat steg slobode,<br />
+  Boriti se noć i dan.<br />
+  <br />
+  Crne horde nas ne plaše,<br />
+  Krv herojska u nam vri,<br />
+  Mi ne damo zemlje naše,<br />
+  Da je gaze fašisti.<br />
+  <br />
+  Poći ćemo na granice,<br />
+  Da vodimo krvav boj,<br />
+  Zgazićemo izdajice,<br />
+  Oslobodit narod svoj.<br />
+</p>
