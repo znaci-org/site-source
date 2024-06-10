@@ -45,3 +45,20 @@ include "../includes/header.php";
   Mi ne damo zemlje naše<br />
   Da je gaze fašisti!<br />
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Po šumama i gorama,<br />
+  Naše Bosne ponosne,<br />
+  Idu čete partizana,<br />
+  Slavu borbe pronose.<br />
+  To su deca verna rodu,<br />
+  Pa su danas spremni ti,<br />
+  Da u borbi za slobodu,<br />
+  Poumiru s pesmom svi.<br />
+  Zastava se naša vije,<br />
+  Kao krv je crvena,<br />
+  Pobjedama ovjenčana,<br />
+  Ta zastava varodna.<br />
+</p>

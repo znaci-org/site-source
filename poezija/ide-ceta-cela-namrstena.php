@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ide četa čela namrštena</h1>
+<h1>Ide četa čela namrštena (smrt Ratka Pavlovića)</h1>
 
 (<i>partizanska pesma iz Srbije</i>)
 
@@ -33,3 +33,22 @@ include "../includes/header.php";
   Stari borac iz španskoga rata,<br>
   Žalimo ga ko rođenog brata.
 </p>
+
+<h1>Ide četa čela namrštena (smrt Popa Mića)</h1>
+
+<p>
+Ide četa čela namrštena,<br/>
+a pred četom najboljega nema,<br/>
+<br/>
+nema nama ponosa i nade,<br/>
+pogibe nam komandant brigade,<br/>
+<br/>
+nema nama sokola i tića,<br/>
+nema nama slavnog Popa Mića.<br/>
+</p>
+
+<br>
+<hr>
+Ratko Pavlović Ćićko je poginuo u borbi s Bugarima 1943. 
+<br><br>
+Pop-Mića (Vladimir Vukelić), poginuo je 1943. godine.

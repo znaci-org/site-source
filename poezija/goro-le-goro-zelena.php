@@ -21,3 +21,25 @@ include "../includes/header.php";
   Sinoć ga krvnik pokosi,<br />
   Na Dugoj luki, na kosi.<br />
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Moma kroz goru iđaše,<br />
+  crveno cveće beraše,<br />
+  i tijo gori pevaše:<br />
+  — Goro le, goro zelena,<br />
+  majko le, majko, majčice,<br />
+  tako te pasle ovčice,<br />
+  i sekla oštra sekira,<br />
+  partizanska četa da l’ mina,<br />
+  komandir Mirko pred njima?<br />
+  — Sinoć je četa minala,<br />
+  u goru četa nestala.<br />
+  Pred četom Mirka nemaše,<br />
+  sinoć ga krvnik pokosi,<br />
+  na Dugoj Luki na kosi.<br />
+  Srpkinjo, sele, cveće naberi,<br />
+  cveće naberi, venac opleti,<br />
+  venac opleti, na grob mu meti.<br />
+</p>

@@ -407,6 +407,7 @@ include "includes/header.php";
         <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a></li>
         <li><a href="poezija/goro-le-goro-zelena.php">Goro le, goro zelena</a></li>
         <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
+        <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -433,11 +434,12 @@ include "includes/header.php";
         <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
         <li><a href="poezija/vi-zidine.php">Vi zidine</a></li>
         <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
+        <li><a href="poezija/zaplakala-i-gora-i-trava.php">Zaplakala i gora i trava</a></li>
         <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
-        <li><a href="poezija/1941.php">1941.</a> (epska)</li>
-        <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (epska)</li>
-        <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epska)</li>
-        <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epska)</li>
+        <li><a href="poezija/1941.php">1941.</a> (guslarska)</li>
+        <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (guslarska)</li>
+        <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (guslarska)</li>
+        <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (guslarska)</li>
     </ul>
 
     <h3>Partizanske pesme iz Crne Gore</h3>
@@ -465,6 +467,7 @@ include "includes/header.php";
         <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata, oba ratujemo</a></li>
         <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
         <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
+        <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže, tvoja kuća gori</a></li>
         <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
         <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
         <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
@@ -478,6 +481,7 @@ include "includes/header.php";
         <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
         <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
         <li><a href="poezija/pesma-u-spomen-ivi-loli-ribaru.php">Pesma u spomen Ivi Loli Ribaru</a></li>
+        <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
     </ul>
 </div>
 
