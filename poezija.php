@@ -24,6 +24,7 @@ include "includes/header.php";
         <li><a href="poezija/rat.php">Rat</a></li>
         <li><a href="poezija/noc-u-provinciji.php">Noć u provinciji</a></li>
         <li><a href="poezija/badnjak.php">Badnjak</a></li>
+        <li><a href="poezija/lijecnik-kod-siromaha.php">Liječnik kod siromaha</a></li>
         <li><a href="poezija/rijec-mati-cina.php">Riječ mati čina</a></li>
         <li><a href="poezija/jeruzalemski-dijalog.php">Jeruzalemski dijalog</a></li>
         <li><a href="poezija/proljece-1919.php">Proljeće 1918.</a></li>
@@ -71,10 +72,20 @@ include "includes/header.php";
         <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>
     </ul>
 
+    <h4>Rastko Petrović</h4>
+    <ul>
+        <li><a href="poezija/otac-moj-bese-li-zver.php">Majko, otac moj beše li zver?</a></li>
+    </ul>
+
     <h4>Gavrilo Princip</h4>
 
     <ul>
         <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
+    </ul>
+
+    <h4>Dušan Vasiljev</h4>
+    <ul>
+        <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
     </ul>
 
     <h4>Dobriša Cesarić</h4>
@@ -291,6 +302,11 @@ include "includes/header.php";
         <li><a href="poezija/ko-je-tito.php">Ko je Tito?</a></li>
     </ul>
 
+    <h4>Milan Dedinac</h4>
+    <ul>
+        <li><a href="poezija/najednom-je-banula-glad.php">Najednom je banula glad</a></li>
+    </ul>
+
     <h4>Desanka Maksimović</h4>
 
     <ul>
@@ -448,6 +464,12 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/o-titu.php">O Titu</a></li>
+    </ul>
+
+    <h4>Aleksandar Tišma</h4>
+
+    <ul>
+        <li><a href="poezija/jevrejsko-groblje.php">Jevrejsko groblje</a></li>
     </ul>
 
     <h4>Narodne pesme</h4>

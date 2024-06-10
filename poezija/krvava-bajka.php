@@ -66,3 +66,5 @@ kao da smrt nije ništa.</p>
 <p>Drugova redovi celi<br>
 istog časa se uzneli<br>
 do večnog boravišta.</p>
+
+(1941)
