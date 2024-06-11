@@ -206,8 +206,9 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
         <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
-        <li><a href="poezija/mitraljeza.php">Mitraljeza</a></li>
+        <li><a href="poezija/majka-pravoslavna.php">Majka pravoslavna</a></li>
         <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>
+        <li><a href="poezija/mitraljeza.php">Mitraljeza</a></li>
         <li><a href="poezija/titovo-naprijed.php">Titovo "Naprijed"</a></li>
         <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
         <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
@@ -245,6 +246,7 @@ include "includes/header.php";
     <h4>Skender Kulenović</h4>
     <ul>
         <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a></li>
+        <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
     </ul>
 
     <h4>Mirko Banjević</h4>
@@ -262,7 +264,12 @@ include "includes/header.php";
     <h4>Razija Handžić</h4>
 
     <ul>
-        <li><a href="poezija/noc-1941.php">Noć 1941</a></li>
+        <li><a href="poezija/noc-1941.php">Noć 1941.</a></li>
+    </ul>
+
+    <h4>Jovan Popović</h4>
+    <ul>
+        <li><a href="poezija/prolece-1942.php">Proleće 1942.</a></li>
     </ul>
 
     <h4>Krsto Krivokapić</h4>
