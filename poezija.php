@@ -186,13 +186,14 @@ include "includes/header.php";
     <h4>Vladimir Nazor</h4>
 
     <ul>
+        <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
         <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
         <li><a href="poezija/mitraljeza.php">Mitraljeza</a></li>
         <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>
         <li><a href="poezija/titovo-naprijed.php">Titovo "Naprijed"</a></li>
         <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
         <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
-        <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
+        <li><a href="poezija/koca-i-peko.php">Koča i Peko</a></li>
     </ul>
 
     <h4>Vladimir Čerkez</h4>
@@ -386,6 +387,7 @@ include "includes/header.php";
     <h3>Partizanske pesme iz Srbije</h3>
     <ul>
         <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
+        <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo, ustaj rode</a></li>
         <li><a href="poezija/ustaj-druze-ustaj-rode.php">Ustaj druže, ustaj rode</a></li>
         <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
         <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
@@ -412,6 +414,7 @@ include "includes/header.php";
         <li><a href="poezija/kralju-pero-traži-vladu.php">Kralju Pero traži vladu</a></li>
         <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
         <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
+        <li><a href="poezija/sta-se-cuje-izdaleka.php">Šta se čuje izdaleka</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Hrvatske</h3>
@@ -426,6 +429,7 @@ include "includes/header.php";
         <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
         <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
         <li><a href="poezija/volim-svakog-ko-ustase-bije.php">Volim svakog ko ustaše bije</a></li>
+        <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd’ u partizane</a></li>
         <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
         <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
         <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
@@ -470,6 +474,15 @@ include "includes/header.php";
         <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
     </ul>
 
+    <h3>Partizanske pesme iz Makedonije</h3>
+
+    <ul>
+    <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
+    <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско, реко силна</a></li>
+    <li><a href="poezija/od-sofija-zalen-glas-se-slusa.php">Од Софија жален глас се слуша</a></li>
+    <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа, мамо</a></li>
+    </ul>
+
     <h3>Opšte jugoslovenske</h3>
 
     <ul>
@@ -485,15 +498,15 @@ include "includes/header.php";
         <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
         <li><a href="poezija/primi-pozdrav-drugarice.php">Primi pozdrav drugarice</a></li>
         <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
-        <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj, seljo, ustaj rode</a></li>
         <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
         <li><a href="poezija/suma-lista-rastu-zita.php">Šuma lista, rastu žita</a></li>
         <li><a href="poezija/partizani-pola-roda-moga.php">Partizani, pola roda moga</a></li>
         <li><a href="poezija/nema-zore-nema-dana.php">Nema zore, nema dana</a></li>
         <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
+        <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
         <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
         <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
-        <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
+        <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
     </ul>
 </div>
 

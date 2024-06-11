@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Bil se mogli mrtvi ustajati?</h1>
 
-(<i>pesma u spomen Ivi Loli Ribaru</i>)
+(<i>u spomen Ivi Loli Ribaru</i>)
 
 <p>
   Hej mila mati da je nama znati<br />
@@ -34,4 +34,15 @@ include "../includes/header.php";
   <br />
   Druže Ivo, ti si mog'o znati<br />
   Da će ti se ime spominjati.<br />
+</p>
+
+<h2>Treća verzija</h2>
+
+(<i>u spomen Vladi Ninkoviću</i>)
+
+<p>
+  Mili bože, da l’ ko može znati<br />
+  da l' se mrtvi mogu podizati?<br />
+  Mi bi digli našega mladića,<br />
+  komesara Vladu Ninkovića.<br />
 </p>
