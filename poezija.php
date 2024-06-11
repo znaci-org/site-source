@@ -106,6 +106,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
+        <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
     </ul>
 
     <h4>Čedomir Minderović</h4>
@@ -477,10 +478,10 @@ include "includes/header.php";
     <h3>Partizanske pesme iz Makedonije</h3>
 
     <ul>
-    <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
-    <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско, реко силна</a></li>
-    <li><a href="poezija/od-sofija-zalen-glas-se-slusa.php">Од Софија жален глас се слуша</a></li>
-    <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа, мамо</a></li>
+        <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
+        <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско, реко силна</a></li>
+        <li><a href="poezija/od-sofija-zalen-glas-se-slusa.php">Од Софија жален глас се слуша</a></li>
+        <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа, мамо</a></li>
     </ul>
 
     <h3>Opšte jugoslovenske</h3>
