@@ -115,6 +115,11 @@ include "includes/header.php";
         <li><a href="poezija/siromasi-koji-jedu-od-podne-do-podne.php">Siromasi koji jedu od podne do podne</a></li>
     </ul>
 
+    <h4>August Cesarec</h4>
+    <ul>
+        <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
+    </ul>
+
     <h4>Čedomir Minderović</h4>
 
     <ul>
@@ -132,6 +137,11 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a></li>
+    </ul>
+
+    <h4>Dušan Matić</h4>
+    <ul>
+        <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
     </ul>
 
     <h4>Milan Apih</h4>
