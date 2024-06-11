@@ -109,6 +109,12 @@ include "includes/header.php";
         <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
     </ul>
 
+    <h4>Antun Branko Šimić</h4>
+    <ul>
+        <li><a href="poezija/siromahu.php">Siromahu</a></li>
+        <li><a href="poezija/siromasi-koji-jedu-od-podne-do-podne.php">Siromasi koji jedu od podne do podne</a></li>
+    </ul>
+
     <h4>Čedomir Minderović</h4>
 
     <ul>
