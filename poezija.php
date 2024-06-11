@@ -249,6 +249,12 @@ include "includes/header.php";
         <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
     </ul>
 
+    <h4>Tanasije Mladenović</h4>
+    <ul>
+        <li><a href="poezija/noc-pred-polazak.php">Noć pred polazak</a></li>
+        <li><a href="poezija/golija.php">Golija</a></li>
+    </ul>
+
     <h4>Mirko Banjević</h4>
 
     <ul>
