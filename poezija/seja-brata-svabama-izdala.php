@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Zaplakala i gora i trava</h1>
+<h1>Seja brata Švabama izdala</h1>
 
 (<i>narodna pjesma Korduna</i>)
 

@@ -44,3 +44,19 @@ include "../includes/header.php";
   A drug Pero vojsku predvodio,<br>
   Listaj goro ne žali behara.
 </p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Romanijo visokoga visa,<br />
+  gde je Čiča vojnike popisa;<br />
+  <br />
+  Sve vojnike mlade partizane,<br />
+  partizanke omorike tanke.<br />
+  <br />
+  Zbogom ostaj bunkeru na Drini,<br />
+  a ja odoh gori Romaniji.<br />
+  <br />
+  Na nebu se vijaju oblaci,<br />
+  Romanijom crveni barjaci.<br />
+</p>

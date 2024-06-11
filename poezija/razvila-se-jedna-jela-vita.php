@@ -59,3 +59,34 @@ include "../includes/header.php";
   I sestricu, moje rosno cvijeće,<br>
   Da joj brale više doći neće.
 </p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Povila se jedna jela vita<br />
+  ispod naše gore velebita;<br />
+  <br />
+  I pod njome ranjen junak leži:<br />
+  "drugarice, daj mi rane veži".<br />
+  <br />
+  Ja mu rane zavijam u ruže<br />
+  i pitam ga "kako si mi, druže?"<br />
+  <br />
+  "Teške su mi oko srca rane,<br />
+  kud je prošlo fašističko tane.<br />
+  <br />
+  Ti ponesi moju pušku šaru<br />
+  i podaj je najboljem drugaru.<br />
+  <br />
+  Ko ponese moju pušku šarku,<br />
+  nek pozdravi mog oca i majku.<br />
+  <br />
+  Ko ponese moju kabanicu,<br />
+  nek pozdravi moju drugaricu.<br />
+  <br />
+  Nek pozdravi sve drugove moje,<br />
+  neka hrabro na braniku stoje !<br />
+  <br />
+  I sestricu, moje rosno cveće,<br />
+  da joj bratac više doći neće."<br />
+</p>

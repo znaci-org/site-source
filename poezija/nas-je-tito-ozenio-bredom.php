@@ -46,12 +46,35 @@ include "../includes/header.php";
   <br>
   Sve devojke udajte se redom,<br>
   Nas je Tito oženio «Bredom»,<br>
-  Puškom «Zorkom»<br>
-  Njlepšom devojkom,<br>
-  Curom finom,<br>
-  Lakim karabinom<br>
+  <br />
+  Puškom «Zorkom», njalepšom devojkom,<br>
+  Curom finom, lakim karabinom<br>
+  <br />
   Za djevera – kratka revolvera.<br>
   Fišeklije – svastike i prije<br>
+  <br />
   Mjesto popa – granata od topa,<br>
   Starog svata – «Šarac» oko vrata
+</p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  Romanijo, jezerom se zvala,<br />
+  ti si naše jabuke obrala:<br />
+  <br />
+  Sve jabuke – neženjene momke,<br />
+  ostaše nam sirotne djevojke.<br />
+  <br />
+  Sve djevojke, ugajte se redom,<br />
+  nas je Tito oženio Bredom,<br />
+  <br />
+  Puškom Zorkom – lijepom djevojkom;<br />
+  curom finom – lakim karabinom.<br />
+  <br />
+  Za djevera – laka levorvera,<br />
+  fišeklije – svastike i prije.<br />
+  <br />
+  Mjesto popa – granate od topa,<br />
+  starog svata – šarac oko vrata.<br />
 </p>

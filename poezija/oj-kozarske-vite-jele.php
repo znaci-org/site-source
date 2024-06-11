@@ -16,3 +16,12 @@ include "../includes/header.php";
   I od leda i od kiše,<br />
   Od fašista ponajviše.<br />
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Oj bosanske vite jele,<br />
+  čuvajte nam proletere,<br />
+  I od leda i od kiše,<br />
+  od bacača ponajviše.<br />
+</p>

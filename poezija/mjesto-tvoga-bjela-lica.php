@@ -72,3 +72,32 @@ include "../includes/header.php";
   Ako dođem živ iz boja,<br />
   Ti ćeš biti ljuba moja.<br />
 </p>
+
+<h2>Četvrta verzija</h2>
+
+(<i>zabeležena u Vojvodini</i>)
+
+<p>
+  Kad u borbu ja polazim<br />
+  i zelena polja gazim,<br />
+  sretoh Stevku gde uzdiše,<br />
+  maramicom suze briše.<br />
+  <br />
+  Nemoj mila, nemoj tako,<br />
+  ni mom srcu nije lako,<br />
+  od ljubavi nema zbora,<br />
+  u borbu se ići mora.<br />
+  <br />
+  Suzama se boj ne bije,<br />
+  već se vrela krvca lije.<br />
+  Mjesto tvoje ruke dvije,<br />
+  mene stežu fišeklije.<br />
+  <br />
+  Mjesto tvojeg crna oka,<br />
+  mitraljez me tuče s boka.<br />
+  Mjesto tvoga vitka t’jela,<br />
+  snažno grli parabela.<br />
+  <br />
+  Mjesto tvojih poljubaca,<br />
+  na me švabo bombe baca.<br />
+</p>

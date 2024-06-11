@@ -25,3 +25,16 @@ include "../includes/header.php";
   Partizani pola roda moga,<br>
   Vratite mi brata i dragoga.
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Nema cveća što su jorgovani,<br />
+  ni boraca što su partizani.<br />
+  <br />
+  Partizani – pola roda moga,<br />
+  tamo imam brata i dragoga.<br />
+  <br />
+  Cveta cveće, cveta ruža rana,<br />
+  pobeda je naših partizana.<br />
+</p>
