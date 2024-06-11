@@ -141,6 +141,7 @@ include "includes/header.php";
 
     <h4>Dušan Matić</h4>
     <ul>
+        <li><a href="poezija/umro-je-gorki.php">Umro je Gorki</a></li>
         <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
     </ul>
 
