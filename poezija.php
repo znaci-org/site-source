@@ -68,6 +68,7 @@ include "includes/header.php";
     <h4>Mirko Banjević</h4>
 
     <ul>
+        <li><a href="poezija/rat-banjevic.php">Rat</a></li>
         <li><a href="poezija/1923.php">1923.</a></li>
         <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>
     </ul>
@@ -259,6 +260,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/razgovor-kostiju.php">Razgovor kostiju</a></li>
+        <li><a href="poezija/crna-slova.php">Crna slova</a></li>
     </ul>
 
     <h4>Mira Alečković</h4>
