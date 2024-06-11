@@ -250,6 +250,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a></li>
         <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
+        <li><a href="poezija/na-pravi-put-sam-ti-majko-iziso.php">Na pravi put sam ti, majko, izišo</a></li>
     </ul>
 
     <h4>Tanasije Mladenović</h4>
