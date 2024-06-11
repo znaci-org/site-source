@@ -64,3 +64,51 @@ include "../includes/header.php";
   Slušala sam sa čitanja,<br />
   Lenjinova vaspitanja.<br />
 </p>
+
+<h2>Treća verzija</h2>
+
+<p>
+  u logoru boljševika<br />
+  nalazi se moja dika<br />
+  tri godine – ima više<br />
+  nit dolazi – nit mi piše.<br />
+  <br />
+  b’jela vilo sa planine<br />
+  znaš li gde su baze njine<br />
+  <br />
+  kliče vila sa planina<br />
+  ja sam sinoć kod njih bila<br />
+  gledala sam ustanike,<br />
+  partizane osvetnike<br />
+  <br />
+  ne veruju u čudesa,<br />
+  već u marksa i engelsa.<br />
+  <br />
+  slušala sam čas čitanja<br />
+  lenjinova vaspitanja,<br />
+  videla sam kako žive<br />
+  u drugarske kolektive,<br />
+  <br />
+  samo čuješ riječ – naše<br />
+  to se meni dopadaše,<br />
+  a najlepše kod njih to je<br />
+  što nemaju riječ – moje !<br />
+  <br />
+  drugarice iz mog sela<br />
+  što si tako nevesela<br />
+  <br />
+  nevesela moram biti<br />
+  od drugova neću kriti<br />
+  sinoć me je moja mati<br />
+  za đilkana htela dati<br />
+  <br />
+  a ja neću za đilkana<br />
+  već za mladog partizana<br />
+  đilkani su kratkog veka<br />
+  ja sam mlada proleterka<br />
+  <br />
+  nije staljin vezo mašnu<br />
+  pa pod ruku metno tašnu<br />
+  uzo seme u desnicu<br />
+  seje ječam i pšenicu.<br />
+</p>

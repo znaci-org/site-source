@@ -51,3 +51,16 @@ include "../includes/header.php";
   Ali zato, joj, ali zato,<br>
   Nije pokorena.
 </p>
+
+<h2>Druga verzija</h2>
+
+<p>
+  Oj Kozaro moja gusta šumo,<br />
+  u tebi je partizana puno.<br />
+  <br />
+  Koliko je na Kozari grana,<br />
+  još je više mladih partizana.<br />
+  <br />
+  Koliko je na Kozari lista,<br />
+  još je više mladih komunista.<br />
+</p>
