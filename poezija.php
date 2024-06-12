@@ -182,6 +182,7 @@ include "includes/header.php";
         <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
         <li><a href="poezija/bolna-lezi-omladinka-mara.php">Bolna leži omladinka Mara</a></li>
         <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
+        <li><a href="poezija/bosanski-starci.php">Bosanski starci</a></li>
         <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
         <li><a href="poezija/za-tita-za-partiju.php">Za Tita! Za Partiju!</a></li>
     </ul>
@@ -289,6 +290,11 @@ include "includes/header.php";
         <li><a href="poezija/noc-1941.php">Noć 1941.</a></li>
     </ul>
 
+    <h4>Vera Obrenović</h4>
+    <ul>
+        <li><a href="poezija/pismo-s-fronta.php">Pismo s fronta</a></li>
+    </ul>
+
     <h4>Jovan Popović</h4>
     <ul>
         <li><a href="poezija/prolece-1942.php">Proleće 1942.</a></li>
@@ -324,6 +330,11 @@ include "includes/header.php";
         <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
     </ul>
 
+    <h4>Dušan Matić</h4>
+    <ul>
+        <li><a href="poezija/uspavanka-za-poginule.php">Uspavanka za poginule koji nemaju više od dvadeset godina</a></li>
+    </ul>
+
     <h4>Grigor Vitez</h4>
     <ul>
         <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
@@ -345,6 +356,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
         <li><a href="poezija/bosi-podjimo-devojko-zorom.php">Bosi pođimo, devojko, zorom</a></li>
+        <li><a href="poezija/majke-nase-napacene.php">Majke, majke naše napaćene</a></li>
     </ul>
 
     <h4>Jože Udovič</h4>
