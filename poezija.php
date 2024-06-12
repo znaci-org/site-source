@@ -129,6 +129,11 @@ include "includes/header.php";
         <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
     </ul>
 
+    <h4>Atanasije Mladenović</h4>
+    <ul>
+        <li><a href="poezija/sutjeska-atanasije-mladenovic.php">Sutjeska</a></li>
+    </ul>
+
     <h4>Mihovil Pavlek Miškina</h4>
 
     <ul>
@@ -233,6 +238,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/strijeljanoj-maloj-ani-studentkinji.php">Strijeljanoj maloj Ani studentkinji</a></li>
         <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
+        <li><a href="poezija/bez-granice.php">Bez granice</a></li>
     </ul>
 
     <h4>Oskar Davičo</h4>
@@ -299,6 +305,11 @@ include "includes/header.php";
         <li><a href="poezija/prolece-1942.php">Proleće 1942.</a></li>
     </ul>
 
+    <h4>Vukajlo Kukalj</h4>
+    <ul>
+        <li><a href="poezija/pismo-mojim-djacima.php">Pismo mojim đacima</a></li>
+    </ul>
+
     <h4>Krsto Krivokapić</h4>
 
     <ul>
@@ -327,6 +338,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
+        <li><a href="poezija/mjesec-i-partizani.php">Mjesec i partizani</a></li>
     </ul>
 
     <h4>Dušan Matić</h4>
@@ -409,6 +421,7 @@ include "includes/header.php";
 
     <h4>Radonja Vešović</h4>
     <ul>
+        <li><a href="poezija/nocni-mars.php">Noćni marš</a></li>
         <li><a href="poezija/spavac.php">Spavač</a></li>
     </ul>
 

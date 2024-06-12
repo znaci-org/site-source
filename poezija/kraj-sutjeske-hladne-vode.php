@@ -42,7 +42,7 @@ include "../includes/header.php";
   I u Drinu dok uvire,<br>
   Ne da Savi da umire.</p>
 
-<h2>Druga verzija</h2>
+<h2>II verzija</h2>
 
 <p>
   Kraj Sutjeske hladne vode,<br />
@@ -87,3 +87,41 @@ include "../includes/header.php";
   i u Srinu dok uvire,<br />
   ne da Savi da umire.<br />
 </p>
+
+<h2>III verzija</h2>
+
+Kraj Sutjeske, hladne vode,<br/>
+barjak časti i slobode<br/>
+leprša se iznad glave<br/>
+komandanta druga Save.<br/>
+<br/>
+Fašističke crne čete<br/>
+obruč stežu i prijete,<br/>
+i prelaze uske brane<br/>
+da unište partizane.<br/>
+<br/>
+Mitraljezi brzi kose,<br/>
+ruše bombe, smrt donose,<br/>
+a granata zemlju stresa<br/>
+kroz gomilu ljudskog mesa.<br/>
+<br/>
+Povrh takve strašne muke<br/>
+strmoglave pište štuke.<br/>
+Ah je Sava heroj pravi,<br/>
+na čelo se vojske stavi<br/>
+<br/>
+pa povika iz sveg glasa,<br/>
+Zelengoru zatalasa“<br/>
+— Juriš, braćo partizani,<br/>
+borci moji odabrani!<br/>
+<br/>
+Krv se proli po poljani,<br/>
+probiše se partizani.<br/>
+<br/>
+Na poprištu mnogi osta,<br/>
+neka im je zemlja prosta,<br/>
+i međ njima Heroj Sava,<br/>
+divizije Treće glava.<br/>
+<br/>
+Dok Sutjeska voda teče,<br/>
+umrijeti Sava neće.<br/>
