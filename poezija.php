@@ -280,6 +280,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/balada-sa-neretve.php">Balada sa Neretve</a></li>
+        <li><a href="poezija/da-zivot-bude-ljubav.php">Da život bude ljubav</a></li>
     </ul>
 
     <h4>Razija Handžić</h4>
@@ -393,6 +394,11 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
         <li><a href="poezija/volujak.php">Volujak</a></li>
+    </ul>
+
+    <h4>Radonja Vešović</h4>
+    <ul>
+        <li><a href="poezija/spavac.php">Spavač</a></li>
     </ul>
 
     <h4>Ivica Tomović</h4>
