@@ -339,11 +339,16 @@ include "includes/header.php";
         <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
     </ul>
 
-
     <h4>Karel Destovnik Kajuh</h4>
 
     <ul>
         <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
+        <li><a href="poezija/bosi-podjimo-devojko-zorom.php">Bosi pođimo, devojko, zorom</a></li>
+    </ul>
+
+    <h4>Jože Udovič</h4>
+    <ul>
+        <li><a href="poezija/poslednji-trenutak.php">Poslednji trenutak</a></li>
     </ul>
 
     <h4>France Kosmač</h4>
