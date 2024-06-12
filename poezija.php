@@ -36,7 +36,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
         <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
-        <li><a href="poezija/protivurecnosti.php">U protivurečnostima</a></li>
+        <li><a href="poezija/vatromet.php">Vatromet</a></li>
         <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
         <li><a href="poezija/tuga.php">Tuga</a></li>
         <li><a href="poezija/tatunco.php">Tatunčo</a></li>
