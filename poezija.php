@@ -81,8 +81,12 @@ include "includes/header.php";
         <li><a href="poezija/lovcevo-bdenje.php">Lovčevo bdenje</a></li>
     </ul>
 
-    <h4>Gavrilo Princip</h4>
+    <h4>Jovo Varagić</h4>
+    <ul>
+        <li><a href="poezija/pjesma-siromaha.php">Pjesma siromaha</a></li>
+    </ul>
 
+    <h4>Gavrilo Princip</h4>
     <ul>
         <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
     </ul>
@@ -91,6 +95,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
         <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
+        <li><a href="poezija/pesma-roba-u-podne.php">Pesma roba u podne</a></li>
     </ul>
 
     <h4>Tin Ujević</h4>
@@ -99,14 +104,27 @@ include "includes/header.php";
         <li><a href="poezija/zadrzane-sile-bica.php">Zadržane sile bića</a></li>
     </ul>
 
-    <h4>Stanislav Vinaver</h4>
+    <h4>Vjekoslav Majer</h4>
+    <ul>
+        <li><a href="poezija/ugljenari-u-gori.php">Ugljenari u gori</a></li>
+    </ul>
 
+    <h4>Dušan Jerković</h4>
+    <ul>
+        <li><a href="poezija/radnik-na-pristanistu.php">Radnik na pristaništu</a></li>
+    </ul>
+
+    <h4>Mate Balota</h4>
+    <ul>
+        <li><a href="poezija/koza.php">Koza</a></li>
+    </ul>
+
+    <h4>Stanislav Vinaver</h4>
     <ul>
         <li><a href="poezija/drugi-dan-na-putu-kroz-haos.php">Drugi dan na putu kroz haos</a></li>
     </ul>
 
     <h4>Dobriša Cesarić</h4>
-
     <ul>
         <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
         <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
@@ -286,6 +304,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/balada-sa-neretve.php">Balada sa Neretve</a></li>
+        <li><a href="poezija/u-mrazovita-jutra.php">U mrazovita jutra</a></li>
         <li><a href="poezija/da-zivot-bude-ljubav.php">Da život bude ljubav</a></li>
     </ul>
 
@@ -390,8 +409,9 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
-        <li><a href="poezija/tifusari.php">Tifusari</a></li>
+        <li><a href="poezija/tifusari.php">Tifusari</a> (poema)</li>
         <li><a href="poezija/pjesma-sutrasnjemu.php">Pjesma sutrašnjemu</a></li>
+        <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
     </ul>
 
     <h4>Jure Franičević Pločar</h4>
@@ -638,6 +658,7 @@ include "includes/header.php";
         <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
         <li><a href="poezija/zelengoro.php">Zelengoro</a></li>
         <li><a href="poezija/tjentiste.php">Tjentište</a></li>
+        <li><a href="poezija/odbrana-zemlje.php">Odbrana zemlje</a></li>
     </ul>
 
     <h4>Miroslav Krleža</h4>
@@ -661,6 +682,11 @@ include "includes/header.php";
     <h4>Vasko Popa</h4>
     <ul>
         <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
+    </ul>
+
+    <h4>Jevrem Brković</h4>
+    <ul>
+        <li><a href="poezija/komesar.php">Komesar</a></li>
     </ul>
 
     <h4>Narodne pesme</h4>
