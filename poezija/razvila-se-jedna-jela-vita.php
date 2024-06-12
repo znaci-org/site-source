@@ -29,7 +29,7 @@ include "../includes/header.php";
 <p>nek' se drugar mojom puškom sveti<br>
   napred hrabro ja moram umreti </p>
 
-<h2>Druga verzija</h2>
+<h2>II verzija</h2>
 
 <p>
   Razvila se jedna jela vita,<br>
@@ -60,7 +60,9 @@ include "../includes/header.php";
   Da joj brale više doći neće.
 </p>
 
-<h2>Treća verzija</h2>
+<h2>III verzija</h2>
+
+<p>(<i>zabeležena u Vojvodini</i>)</p>
 
 <p>
   Povila se jedna jela vita<br />
@@ -90,3 +92,28 @@ include "../includes/header.php";
   I sestricu, moje rosno cveće,<br />
   da joj bratac više doći neće."<br />
 </p>
+
+<h2>IV verzija</h2>
+
+<p>(<i>iz Poezija narodnooslobodilačke borbe, 1980</i>)</p>
+
+Razvila se jedna jela vita,<br/>
+ispod naše gore Velebita |<br/>
+i pod njome ranjen junak leži.<br/>
+Tud proljazi pastirica mlada,<br/>
+skromno iduć ispred svoga stada.<br/>
+— Drugarice, hajd mi rane veži!<br/>
+Ne plaši se, već slobodna budi,<br/>
+ja sam ranjen u bijele grudi. |<br/>
+<br/>
+Ja mu rane zavijam u ruže:<br/>
+— Kako ti je, moj predragi druže?<br/>
+<br/>
+— Drugarice, teške su mi rane<br/>
+kud je prošlo zlikovačko tane.<br/>
+Pozdravi mi sve drugove moje<br/>
+neka čvrsto na braniku stoje.<br/>
+Uzmi, draga, moju pušku šaru,<br/>
+pa je podaj najboljem drugaru,<br/>
+nek se drugar mojom puškom sveti!<br/>
+A sad zdravo, ja moram umrijeti.<br/>

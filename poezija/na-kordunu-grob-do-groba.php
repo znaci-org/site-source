@@ -75,3 +75,37 @@ include "../includes/header.php";
   Teže su mi suze tvoje,<br />
   Nego ljute rane moje.<br />
 </p>
+
+<h2>IV verzija</h2>
+
+<p>(<i>iz Poezija narodnooslobodilačke borbe, 1980</i>)</p>
+
+Na Kordunu grob do groba,<br/>
+traži majka sina svoga.<br/>
+<br/>
+Našla ga je, na grob klekla<br/>
+i ovako sinu rekla:<br/>
+<br/>
+„O moj sine, radost moja,<br/>
+gdje počiva mladost tvoja?“<br/>
+<br/>
+Otac plače, majka cvili:<br/>
+„Otvori se, grobe mili.“<br/>
+<br/>
+Grobak se je otvorio,<br/>
+sinak majci govorio:<br/>
+<br/>
+„Ne plač mila majko moja,<br/>
+teška mi je suza tvoja.<br/>
+<br/>
+Teža mi je suza tvoja<br/>
+nego crna zemlja moja.<br/>
+<br/>
+Idi, majko, javi rodu<br/>
+da sam pao za slobodu.<br/>
+<br/>
+Kaži, majko, kaži rodu<br/>
+da se bori za slobodu.<br/>
+<br/>
+Hajle, majko, domu svome,<br/>
+onda dođi grobu mome.<br/>

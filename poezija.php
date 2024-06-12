@@ -200,7 +200,7 @@ include "includes/header.php";
         <li><a href="poezija/mracno-doba.php">Mračno doba</a></li>
         <li><a href="poezija/komunistickoj-partiji.php">Komunističkoj partiji</a></li>
         <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
-        <li><a href="poezija/jama.php">Jama</a></li>
+        <li><a href="poezija/jama.php">Jama</a> (poema)</li>
         <li><a href="poezija/moj-grob.php">Moj grob</a></li>
     </ul>
 
@@ -221,6 +221,7 @@ include "includes/header.php";
     <h4>Vladimir Čerkez</h4>
 
     <ul>
+        <li><a href="poezija/covjekova-pjesma.php">Čovjekova pjesma</a></li>
         <li><a href="poezija/pjesma-u-zitu.php">Pjesma u žitu</a></li>
         <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
         <li><a href="poezija/bolnicarka.php">Bolničarka</a></li>
@@ -248,9 +249,9 @@ include "includes/header.php";
 
     <h4>Skender Kulenović</h4>
     <ul>
-        <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a></li>
+        <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
         <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
-        <li><a href="poezija/na-pravi-put-sam-ti-majko-iziso.php">Na pravi put sam ti, majko, izišo</a></li>
+        <li><a href="poezija/na-pravi-put-sam-ti-majko-iziso.php">Na pravi put sam ti, majko, izišo</a> (poema)</li>
     </ul>
 
     <h4>Tanasije Mladenović</h4>
@@ -351,6 +352,11 @@ include "includes/header.php";
         <li><a href="poezija/nismo-se-uklonili.php">Nismo se uklonili</a></li>
     </ul>
 
+    <h4>Oton Župančič</h4>
+    <ul>
+        <li><a href="poezija/pesnice-znas-svoj-dug.php">Pesniče, znaš svoj dug?</a></li>
+    </ul>
+
     <h4>Jure Kaštelan</h4>
 
     <ul>
@@ -381,6 +387,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
+        <li><a href="poezija/volujak.php">Volujak</a></li>
     </ul>
 
     <h4>Ivica Tomović</h4>
@@ -512,10 +519,11 @@ include "includes/header.php";
         <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
         <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
         <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a></li>
-        <li><a href="poezija/1941.php">1941.</a> (guslarska)</li>
-        <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (guslarska)</li>
-        <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (guslarska)</li>
-        <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (guslarska)</li>
+        <li><a href="poezija/1941.php">1941.</a> (epika)</li>
+        <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (epika)</li>
+        <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
+        <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
+        <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
     </ul>
 
     <h3>Partizanske pesme iz Crne Gore</h3>
@@ -572,6 +580,7 @@ include "includes/header.php";
         <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
         <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
         <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
+        <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
     </ul>
 </div>
 
@@ -585,7 +594,7 @@ include "includes/header.php";
     <h4>Slavko Vukosavljević</h4>
 
     <ul>
-        <li><a href="poezija/kadinjaca.php">Kadinjača</a></li>
+        <li><a href="poezija/kadinjaca.php">Kadinjača</a> (poema)</li>
     </ul>
 
     <h4>Branko Miljković</h4>
