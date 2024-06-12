@@ -397,6 +397,7 @@ include "includes/header.php";
     <h4>Desanka Maksimović</h4>
 
     <ul>
+        <li><a href="poezija/spomen-na-ustanak.php">Spomen na ustanak</a></li>
         <li><a href="poezija/krvava-bajka.php">Krvava bajka</a></li>
     </ul>
 
@@ -592,6 +593,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
         <li><a href="poezija/zelengoro.php">Zelengoro</a></li>
+        <li><a href="poezija/tjentiste.php">Tjentište</a></li>
     </ul>
 
     <h4>Miroslav Krleža</h4>
@@ -604,6 +606,17 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/jevrejsko-groblje.php">Jevrejsko groblje</a></li>
+    </ul>
+
+    <h4>Izet Sarajlić</h4>
+
+    <ul>
+        <li><a href="poezija/rodjeni-1923-streljani-1942.php">Rođeni dvadeset treće, streljani četrdeset druge</a></li>
+    </ul>
+
+    <h4>Vasko Popa</h4>
+    <ul>
+        <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
     </ul>
 
     <h4>Narodne pesme</h4>
