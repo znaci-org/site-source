@@ -269,12 +269,14 @@ include "includes/header.php";
         <li><a href="poezija/crna-slova.php">Crna slova</a></li>
         <li><a href="poezija/ruka.php">Ruka</a></li>
         <li><a href="poezija/razgovor-kostiju.php">Razgovor kostiju</a></li>
-        <li><a href="poezija/o-sutjesko.php">O Sutjesko vodo ledna</a></li>
+        <!-- <li><a href="poezija/o-sutjesko.php">O Sutjesko vodo ledna</a></li> -->
         <li><a href="poezija/zapis.php">Zapis</a></li>
         <li><a href="poezija/i-to-je-slava.php">I to je slava</a></li>
         <li><a href="poezija/nadje-oci-svoje.php">Nađe oči svoje</a></li>
         <li><a href="poezija/povratak.php">Povratak</a></li>
         <li><a href="poezija/nevid.php">Nevid</a></li>
+        <li><a href="poezija/sutjeska.php">Sutjeska I</a> (poema)</li>
+        <li><a href="poezija/sutjeska-2.php">Sutjeska II</a> (poema)</li>
     </ul>
 
     <h4>Mira Alečković</h4>
