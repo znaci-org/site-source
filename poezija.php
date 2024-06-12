@@ -266,8 +266,8 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/moj-grade.php">Moj grade</a></li>
         <li><a href="poezija/na-zgaristu.php">Na zgarištu</a></li>
-        <li><a href="poezija/ruka.php">Ruka</a></li>
         <li><a href="poezija/razgovor-kostiju.php">Razgovor kostiju</a></li>
+        <li><a href="poezija/ruka.php">Ruka</a></li>
         <li><a href="poezija/zapis.php">Zapis</a></li>
         <li><a href="poezija/i-to-je-slava.php">I to je slava</a></li>
         <li><a href="poezija/povratak.php">Povratak</a></li>
