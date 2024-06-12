@@ -5,9 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Sutjeska</h1>
-
-Drugi dio
+<h1>Mirko Banjević - Sutjeska (drugi dio)</h1>
 
 <h2>1: O Sutjesko vodo ledna</h2>
 
@@ -32,7 +30,7 @@ zelen gorom ko zvijezde,<br />
 te divljačne gone psine<br />
 i zasjede lome njine<br />
 <br />
-đe se ljuta guja svila,<br />
+gdje se ljuta guja svila,<br />
 tuđinima krše krila ...<br />
 <br />
 Al cvijeće rosno eno<br />
@@ -41,7 +39,7 @@ kao kosom pokošeno.<br />
 Zelengoru svija tuga –<br />
 tu je pao drug do druga.<br />
 <br />
-Što to vojska sjetno minug<br />
+Što to vojska sjetno minu<br />
 – Žali Savu i družinu.<br />
 <br />
 U borbi su u planini<br />
@@ -50,9 +48,8 @@ pali danas gorski džini.<br />
 Došaptava grana grani:<br />
 probiše se partizani.<br />
 
-<br />
-2 (Ranjene bolničarke)<br />
-<br />
+<h2>2: Sestre, ko će vas previti?</h2>
+
 Zašuštale tužno jasike i ive,<br />
 satrvene stabljike sočne trave,<br />
 utuljene oči vesele, žive<br />
@@ -88,9 +85,9 @@ Ko će vas previti, kad su odmakli<br />
 drugovi u daljinu što se otima?<br />
 Hoće li još ikad jutro se caklit,<br />
 vrhovi vedrit u vašim očima?<br />
-<br />
-3 (Smrt Gorana)<br />
-<br />
+
+<h2>3: Smrt Gorana</h2>
+
 Svuda je jama<br />
 i pokolj i tama<br />
 i rane razrite, jetke,<br />
@@ -122,9 +119,9 @@ i to na zemlji,<br />
 gdje u pjesmi<br />
 J a m a<br />
 izli od tuge biserje!<br />
-<br />
-4 (Smrt Masleše)<br />
-<br />
+
+<h2>4: Smrt Masleše</h2>
+
 Vidjeste li knjigu bijelu<br />
 kroz dim i olovo što se prosu?<br />
 Glava je klonula na ždrijelu,<br />
@@ -152,9 +149,9 @@ zapad<br />
 za gorom zrake sklopi.<br />
 Masleša leži pokraj druma. —<br />
 Još liju lišćem mlazi topli.<br />
-<br />
-5 (Smrt Dušana)<br />
-<br />
+
+<h2>5: Smrt Dušana</h2>
+
 Gdje od plama lišće je svelo,<br />
 gdje tmuša i osvit se bori,<br />
 palo je momačko čelo —<br />
@@ -176,9 +173,9 @@ melemnim ne blistaju blistom.<br />
 Oj,<br />
 Dušane, to gora pusta<br />
 prolista jadovnim listom!<br />
-<br />
-6 (Smrt Save)<br />
-<br />
+
+<h2>6: Smrt Save</h2>
+
 Plotun se po dubravi<br />
 jekom navi<br />
 i dim se rasu iznad bojnog kruga.<br />
@@ -211,9 +208,9 @@ Kraj vode noću, ko šum zrela klasja,<br />
 oživi lužje i zatrepte grane,<br />
 nad Savom prosuti luk zvijezda zasja<br />
 po modrom svodu prije zore rane.<br />
-<br />
-7 (Nađe svoje oči)<br />
-<br />
+
+<h2>7: Majka našla oči svoje</h2>
+
 Majka Ljubica pljaninom se savi,<br />
 milujuć stabla i hvoje,<br />
 i nađe zvijezdu od svite uz pavit —<br />
@@ -233,9 +230,9 @@ Sahrani Dragana gdje omlazje raste,<br />
 gdje humke vječnije traju,<br />
 u marš opet stupi na puteve tmaste,<br />
 rodnom, opustjelom kraju.<br />
-<br />
-8<br />
-<br />
+
+<h2>8: Drug u jutro pao</h2>
+
 Drug u jutro<br />
 pusto<br />
 pokraj puta pao,<br />
@@ -249,7 +246,6 @@ gdje ruke za ruke ko lanac se vežu,<br />
 do visa da stignu, skrate<br />
 teške sate.<br />
 <br />
-<br />
 Dok se na nj odranja<br />
 usov izmeđ granja,<br />
 zrak poslednji pao na tamne mu oči,<br />
@@ -260,9 +256,9 @@ Gdje se sniza kamenje i zemlja suva,<br />
 kao da drum liju po njegovom tragu,<br />
 sad tišina šume neznan ljijes čuva,<br />
 u njedra ga svija, upija mu snagu.<br />
-<br />
-9<br />
-<br />
+
+<h2>9: Iz tame sijevnu vilice</h2>
+
 Ako živiš još u izdahu mučnom,<br />
 iz tame sijevnu vilice ko osti:<br />
 žarom te lizne zvijere učno<br />
@@ -282,9 +278,9 @@ Dugi ljetni dan, gnjile rane, glad,<br />
 piju nas, peku, da srce progori.<br />
 Ali ove pasje čeljusti su — jad<br />
 od bola ljući i od smrti tori.<br />
-<br />
-10 (Susret s tifusarem)<br />
-<br />
+
+<h2>10: Tifusar sjedi kraj stuljene vatre</h2>
+
 Tifusar sjedi otupljen i nijem<br />
 kraj stuljene vatre, pod olovnim zrnjem,<br />
 kao da se ništa dogodilo nije —<br />
@@ -325,9 +321,9 @@ Iskopni tifusar. I trak već se gasi<br />
 sa poslednje žiške, kao njegov život.<br />
 Na gazu Vrbnice romore nam glasi<br />
 u šumu tokova niz kamenje sivo.<br />
-<br />
-11<br />
-<br />
+
+<h2>11: Tamo je ranjene skrila gora</h2>
+
 Gdje je omorika<br />
 vojika<br />
 svela,<br />
@@ -371,9 +367,9 @@ rana gnjila,<br />
 gdje se žeđ suva rosom toli,<br />
 razjela ih glad i muk smrti<br />
 uz hranu gorsku — korijen krti.<br />
-<br />
-12<br />
-<br />
+
+<h2>12: Tuga grudi steže</h2>
+
 Tuga grudi steže:<br />
 hoću li vas ikad<br />
 vidjeti više,<br />
@@ -405,9 +401,9 @@ rude pusta cvanja.<br />
 S divljim nevremenom, pod nebeskim krovom,<br />
 ja se hvatam evo, i bolom odzvanja<br />
 svaki korak dalek - od mog zavičaja.<br />
-<br />
-13 (Umor savladava)<br />
-<br />
+
+<h2>13: Klonemo snom</h2>
+
 Ujutro svane:<br />
 rosa i trava,<br />
 i opet maršuješ:<br />
@@ -443,9 +439,9 @@ I nas opije<br />
 planinsko bilje<br />
 i travna postelja<br />
 ko okrilje.<br />
-<br />
-14<br />
-<br />
+
+<h2>14: Vidjeh lik oca i oba brata</h2>
+
 Već sav sijed! U njemu vidjeh lik oca,<br />
 ali u trenutku željenu i hitnu.<br />
 I dok po drveću rosom lišće svitnu,<br />
@@ -485,9 +481,9 @@ ko samotan putnik... I on<br />
 uza stranu,<br />
 kuda još zalazi osnutak mu čete,<br />
 nestade za gorom i otpusti granu.<br />
-<br />
-15 (Prolazak Tita)<br />
-<br />
+
+<h2>15: Projezdi Tito na konju</h2>
+
 Po ovom<br />
 gorskom<br />
 kraju,<br />
@@ -512,9 +508,9 @@ valovitu,<br />
 i vojsku prevesti<br />
 Tito,<br />
 vojsku silovitu.<br />
-<br />
-16<br />
-<br />
+
+<h2>16: Trava polegla pod srušenim tijelima</h2>
+
 Planino moja, lastave, travne, mile,<br />
 jezero<br />
 zamagljeno,<br />
@@ -550,9 +546,9 @@ sin tvoj —<br />
 ni tebe<br />
 slobodne<br />
 nema!<br />
-<br />
-17 (smrt sina jedinca)<br />
-<br />
+
+<h2>17: Smrt sina jedinca</h2>
+
 U snažnu<br />
 dahu<br />
 naših planina<br />
@@ -575,13 +571,13 @@ Hoću li opet vunata stada<br />
 osuti se tvojim osojem tamnim,<br />
 zaigrati po tebi kao nekada<br />
 hladnom izvoru, otkosom plamnim?<br />
-<br />
-18<br />
-<br />
+
+<h2>18: O oči drage ugašene</h2>
+
 O, oči drage,<br />
 stinjene<br />
 zjene,<br />
-i vi ste planišu gledale<br />
+i vi ste planinu gledale<br />
 širom,<br />
 i vi se radovale<br />
 kad trešnja zrene —<br />

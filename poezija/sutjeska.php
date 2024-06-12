@@ -5,9 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Sutjeska</h1>
-
-Prvi dio
+<h1>Mirko Banjević - Sutjeska (prvi dio)</h1>
 
 <h2>1: Znaš li Sujeska gdje je?</h2>
 
