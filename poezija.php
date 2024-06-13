@@ -488,8 +488,12 @@ include "includes/header.php";
         <li><a href="poezija/samo-jedan-je-zivot.php">Samo jedan je život</a></li>
     </ul>
 
-    <h4>Ivica Tomović</h4>
+    <h4>Aco Šopov</h4>
+    <ul>
+        <li><a href="poezija/oci.php">Oči</a></li>
+    </ul>    
 
+    <h4>Ivica Tomović</h4>
     <ul>
         <li><a href="poezija/ko-je-tito.php">Ko je Tito?</a></li>
     </ul>
@@ -693,6 +697,7 @@ include "includes/header.php";
     <h4>Slavko Vukosavljević</h4>
 
     <ul>
+        <li><a href="poezija/noc-u-titovom-uzicu.php">Noć u Titovom Užicu</a></li>    
         <li><a href="poezija/kadinjaca.php">Kadinjača</a> (poema)</li>
     </ul>
 
