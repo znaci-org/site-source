@@ -86,6 +86,11 @@ include "includes/header.php";
         <li><a href="poezija/pjesma-siromaha.php">Pjesma siromaha</a></li>
     </ul>
 
+    <h4>Vinko Košak</h4>
+    <ul>
+        <li><a href="poezija/v-predmestju.php">V predmestju</a></li>
+    </ul>
+
     <h4>Gavrilo Princip</h4>
     <ul>
         <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
@@ -141,6 +146,7 @@ include "includes/header.php";
 
     <h4>August Cesarec</h4>
     <ul>
+        <li><a href="poezija/monolog-s-kuglom-zemaljskom.php">Monolog s kuglom zemaljskom</a></li>
         <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
     </ul>
 
@@ -160,21 +166,24 @@ include "includes/header.php";
     </ul>
 
     <h4>Mihovil Pavlek Miškina</h4>
-
     <ul>
         <li><a href="poezija/crveni-makovi.php">Crveni makovi</a></li>
         <li><a href="poezija/matija-gubec.php">Matija Gubec</a></li>
     </ul>
 
     <h4>Kosta Novaković</h4>
-
     <ul>
         <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a> (epska)</li>
     </ul>
 
-    <h4>Dušan Matić</h4>
+    <h4>Dušan Matić i Aleksandar Vučo</h4>
     <ul>
         <li><a href="poezija/umro-je-gorki.php">Umro je Gorki</a></li>
+        <li><a href="poezija/gromke-radnicke-stope.php">Gromke radničke stope</a></li>
+    </ul>
+
+    <h4>Dušan Matić</h4>
+    <ul>
         <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
     </ul>
 
@@ -396,6 +405,7 @@ include "includes/header.php";
 
     <ul>
         <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
+        <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
     </ul>
 
     <h4>Karel Destovnik Kajuh</h4>
@@ -420,6 +430,7 @@ include "includes/header.php";
     <h4>Oton Župančič</h4>
     <ul>
         <li><a href="poezija/pesnice-znas-svoj-dug.php">Pesniče, znaš svoj dug?</a></li>
+        <li><a href="poezija/vseh-zivih-dan.php">Vseh živih dan</a></li>
     </ul>
 
     <h4>Jure Kaštelan</h4>
