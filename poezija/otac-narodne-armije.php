@@ -7,6 +7,12 @@ include "../includes/header.php";
 
 <h1>Branko Ćopić - Otac narodne armije</h1>
 
+Dok plotun ječi s gubilišta<br />
+i konopac se njija,<br />
+narodu vjerni ostadoše<br />
+drug Tito <br />
+i Partija<br />
+...........
 <p>
   Beograd,<br />
   straže,<br />
