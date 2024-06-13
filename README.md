@@ -2,7 +2,7 @@
 
 ## Stvar je u tome da se svet promeni (poziv za saradnju)
 
-Ovo je repo sa HTML (i CSS) fajlovima sajta *Znaci.org* - arhive dokumentacije iz 2. svetskog rata, koji je originalno pripremio i održavao na domenu *Znaci.net* naš preminuli drug Goran Despotović, a sada ga održava grupa volontera i entuzijasta.
+Ovo je repo sa HTML (i CSS) fajlovima sajta *[Znaci.org](https://znaci.org/)* - arhive dokumentacije iz 2. svetskog rata, koji je originalno pripremio i održavao na domenu *Znaci.net* naš preminuli drug Goran Despotović, a sada ga održava grupa volontera i entuzijasta.
 
 Osim ovih HTML/CSS fajlova, sajt *Znaci.org* sadrži i oko 150GB dokumenata, čiji najvažniji deo sačinjavaju skenirani mikrofilmovi zaplenjene dokumentacije nacističke Nemačke, koju je Vojnoistorijski institut početkom šezdesetih godina dobio od National Archive. 
 
