@@ -407,7 +407,7 @@ include "includes/header.php";
         <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
         <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
         <li><a href="poezija/jutri-gremo-v-napad.php">Jutri gremo v napad</a></li>
-
+        <li><a href="poezija/hej-brigade.php">Hej brigade</a></li>
     </ul>
 
     <h4>Karel Destovnik Kajuh</h4>
@@ -454,6 +454,11 @@ include "includes/header.php";
     <h4>Junuz Međedović</h4>
     <ul>
         <li><a href="poezija/tece-tara.php">Teče Tara</a></li>
+    </ul>
+
+    <h4>Ante Boglić</h4>
+    <ul>
+        <li><a href="poezija/od-tog-jutra.php">Od tog jutra</a></li>
     </ul>
 
     <h4>Željko Sabol</h4>
