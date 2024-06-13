@@ -126,14 +126,17 @@ include "includes/header.php";
 
     <h4>Dobriša Cesarić</h4>
     <ul>
+        <li><a href="poezija/predgradje.php">Predgrađe</a></li>
         <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
         <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
     </ul>
 
     <h4>Antun Branko Šimić</h4>
     <ul>
-        <li><a href="poezija/siromahu.php">Siromahu</a></li>
+        <li><a href="poezija/zene-pred-uredima.php">Žene pred uredima</a></li>
         <li><a href="poezija/siromasi-koji-jedu-od-podne-do-podne.php">Siromasi koji jedu od podne do podne</a></li>
+        <li><a href="poezija/rucak-siromaha.php">Ručak siromaha</a></li>
+        <li><a href="poezija/siromahu.php">Siromahu</a></li>
     </ul>
 
     <h4>August Cesarec</h4>
@@ -141,15 +144,19 @@ include "includes/header.php";
         <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
     </ul>
 
-    <h4>Čedomir Minderović</h4>
-
+    <h4>Jovan Popović</h4>
     <ul>
-        <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
+        <li><a href="poezija/mesija-bez-portfelja.php">Mesija bez portfelja</a></li>
     </ul>
 
-    <h4>Atanasije Mladenović</h4>
+    <h4>Mile Klopčič</h4>
     <ul>
-        <li><a href="poezija/sutjeska-atanasije-mladenovic.php">Sutjeska</a></li>
+        <li><a href="poezija/drejcnik-andrej-govori.php">Drejčnik Andrej govori</a></li>
+    </ul>
+
+    <h4>Čedomir Minderović</h4>
+    <ul>
+        <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
     </ul>
 
     <h4>Mihovil Pavlek Miškina</h4>
@@ -162,7 +169,7 @@ include "includes/header.php";
     <h4>Kosta Novaković</h4>
 
     <ul>
-        <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a></li>
+        <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a> (epska)</li>
     </ul>
 
     <h4>Dušan Matić</h4>
@@ -338,11 +345,16 @@ include "includes/header.php";
     <h4>Radivoj Koparec</h4>
 
     <ul>
+        <li><a href="poezija/pesnici.php">Pesnici</a></li>
         <li><a href="poezija/mladost.php">Mladost</a></li>
     </ul>
 
-    <h4>Miloš Popović Đurin</h4>
+    <h4>Marko Ristić</h4>
+    <ul>
+        <li><a href="poezija/memento.php">Memento</a></li>
+    </ul>
 
+    <h4>Miloš Popović Đurin</h4>
     <ul>
         <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
     </ul>
@@ -368,6 +380,11 @@ include "includes/header.php";
     <h4>Grigor Vitez</h4>
     <ul>
         <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
+    </ul>
+
+    <h4>Atanasije Mladenović</h4>
+    <ul>
+        <li><a href="poezija/sutjeska-atanasije-mladenovic.php">Sutjeska</a></li>
     </ul>
 
     <h4>Ljubiša Jocić</h4>
@@ -574,10 +591,10 @@ include "includes/header.php";
         <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
         <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
         <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a></li>
-        <li><a href="poezija/1941.php">1941.</a> (epika)</li>
-        <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (epika)</li>
-        <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
-        <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
+        <li><a href="poezija/1941.php">1941.</a> (epska)</li>
+        <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru 1941.</a> (epska)</li>
+        <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epska)</li>
+        <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epska)</li>
         <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
     </ul>
 
