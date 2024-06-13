@@ -276,6 +276,7 @@ include "includes/header.php";
             <li><a href="poezija/radjanje-narodne-vojske.php">Rađanje narodne vojske</a></li>
             <li><a href="poezija/kako-smo-se-naoruzali.php">Kako smo se naoružali</a></li>
             <li><a href="poezija/zasto-smo-rusili.php">Zašto smo rušili</a></li>
+            <li><a href="poezija/nasi-drugovi.php">Naši drugovi</a></li>
         </ul>
     </section>
 
@@ -846,21 +847,20 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Vasko Popa</h4>
-        <ul>
-            <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Branko Ćopić</h4>
         <ul>
             <li><a href="poezija/prvi-koraci.php">Prvi koraci</a></li>
             <li><a href="poezija/odgovor-zemljaku.php">Odgovor zemljaku</a></li>
             <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
             <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
-            <li><a href="poezija/nasi-drugovi.php">Naši drugovi</a></li>
             <li><a href="poezija/nasi-saveznici.php">Naši saveznici</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Vasko Popa</h4>
+        <ul>
+            <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
         </ul>
     </section>
 
