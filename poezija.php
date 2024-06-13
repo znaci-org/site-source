@@ -257,16 +257,18 @@ include "includes/header.php";
     <section>
         <h4>Branko Ćopić</h4>
         <ul>
+            <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
             <li><a href="poezija/cetvrta-ofanziva.php">Četvrta ofanziva</a></li>
+            <li><a href="poezija/na-petrovackoj-cesti.php">Na Petrovačkoj cesti</a></li>
             <li><a href="poezija/pjesma-mrtvih-proletera.php">Pjesma mrtvih proletera</a></li>
             <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
-            <li><a href="poezija/na-petrovackoj-cesti.php">Na Petrovačkoj cesti</a></li>
-            <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
             <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
             <li><a href="poezija/bolna-lezi-omladinka-mara.php">Bolna leži omladinka Mara</a></li>
-            <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
+            <li><a href="poezija/balada-o-zdravku-proleteru.php">Balada o zdravku proleteru</a></li>
+            <li><a href="poezija/pjesma-reke-une.php">Pjesma reke Une</a></li>
+            <li><a href="poezija/prica-o-sest-stotina-oraca.php">Priča o šest stotina orača</a></li>
             <li><a href="poezija/bosanski-starci.php">Bosanski starci</a></li>
-            <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
+            <li><a href="poezija/razgovor-s-cetom.php">Razgovor s četom</a></li>
             <li><a href="poezija/za-tita-za-partiju.php">Za Tita! Za Partiju!</a></li>
         </ul>
     </section>
@@ -841,6 +843,17 @@ include "includes/header.php";
         <h4>Vasko Popa</h4>
         <ul>
             <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Branko Ćopić</h4>
+        <ul>
+            <li><a href="poezija/prvi-koraci.php">Prvi koraci</a></li>
+            <li><a href="poezija/odgovor-zemljaku.php">Odgovor zemljaku</a></li>
+            <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
+            <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
+            <li><a href="poezija/nasi-drugovi.php">Naši drugovi</a></li>
         </ul>
     </section>
 
