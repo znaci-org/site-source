@@ -257,19 +257,25 @@ include "includes/header.php";
     <section>
         <h4>Branko Ćopić</h4>
         <ul>
-            <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
+            <li><a href="poezija/raport-grmeckih-partizana.php">Raport grmečkih partizana</a></li>
             <li><a href="poezija/cetvrta-ofanziva.php">Četvrta ofanziva</a></li>
             <li><a href="poezija/na-petrovackoj-cesti.php">Na Petrovačkoj cesti</a></li>
             <li><a href="poezija/pjesma-mrtvih-proletera.php">Pjesma mrtvih proletera</a></li>
             <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
             <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
             <li><a href="poezija/bolna-lezi-omladinka-mara.php">Bolna leži omladinka Mara</a></li>
-            <li><a href="poezija/balada-o-zdravku-proleteru.php">Balada o zdravku proleteru</a></li>
+            <li><a href="poezija/balada-o-zdravku-proleteru.php">Balada o Zdravku proleteru</a></li>
             <li><a href="poezija/pjesma-reke-une.php">Pjesma reke Une</a></li>
             <li><a href="poezija/prica-o-sest-stotina-oraca.php">Priča o šest stotina orača</a></li>
             <li><a href="poezija/bosanski-starci.php">Bosanski starci</a></li>
+            <li><a href="poezija/mali-heroji.php">Mali heroji</a></li>
             <li><a href="poezija/razgovor-s-cetom.php">Razgovor s četom</a></li>
-            <li><a href="poezija/za-tita-za-partiju.php">Za Tita! Za Partiju!</a></li>
+            <li><a href="poezija/oj-vita-jelo-zelena.php">Oj, vita jelo zelena</a></li>
+            <li><a href="poezija/slom-kraljevske-vojske.php">Slom kraljevske vojske</a></li>
+            <li><a href="poezija/otac-narodne-armije.php">Otac narodne armije</a></li>
+            <li><a href="poezija/radjanje-narodne-vojske.php">Rađanje narodne vojske</a></li>
+            <li><a href="poezija/kako-smo-se-naoruzali.php">Kako smo se naoružali</a></li>
+            <li><a href="poezija/zasto-smo-rusili.php">Zašto smo rušili</a></li>
         </ul>
     </section>
 

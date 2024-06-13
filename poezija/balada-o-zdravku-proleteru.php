@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Balada o zdravku proleteru</h1>
+<h1>Branko Ćopić - Balada o Zdravku proleteru</h1>
 
 Platno mi bijelila djevojka<br />
 djevojka, jabuka, rumena,<br />
