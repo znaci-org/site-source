@@ -13,10 +13,6 @@ body {
     margin: 1%;
 }
 
-/* body {
-    margin: 0;
-} */
-
 button {
     cursor: pointer;
     min-width: 28px;
@@ -25,16 +21,13 @@ button {
 
 ul {
     list-style-type: none;
+    padding-left: 20px;
 }
 
 a {
     color: #0A3C64;
     text-decoration: none;
 }
-
-/* a:hover {
-    color: red;
-} */
 
 a:hover {
     text-decoration: underline;
@@ -196,6 +189,35 @@ h1 {
 
 .knjige h3 {
     margin-left: 8px;
+}
+
+/* POEZIJA */
+
+.columns {
+    columns: 4 350px;
+    padding: 16px;
+}
+
+.columns section {
+    break-inside: avoid-column;
+}
+
+section:first-child h3,
+section:first-child h4 {
+    margin-top: 0;
+}
+
+.columns h3 {
+    margin-bottom: 8px;
+    margin-left: 0;
+}
+
+.columns h4 {
+    margin-bottom: 4px;
+}
+
+.columns ul {
+    margin-top: 0;
 }
 
 /* STARO */

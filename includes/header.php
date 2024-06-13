@@ -79,6 +79,7 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
         <li class="<?php if ($filename == "nemacki-dokumenti.php") echo "active"; ?>"><a href="/nemacki-dokumenti.php">Nemački dokumenti</a></li>
         <li class="<?php if ($filename == "odrednice.php") echo "active"; ?>"><a href="/odrednice.php">Odrednice</a></li>
         <li class="<?php if ($filename == "fotogalerija.php") echo "active"; ?>"><a href="/fotogalerija.php">Fotogalerija</a></li>
+        <li class="<?php if ($filename == "poezija.php") echo "active"; ?>"><a href="/poezija.php">Poezija NOB</a></li>
         <li class="<?php if ($filename == "na-danasnji-dan.php") echo "active"; ?>"><a href="/na-danasnji-dan.php">Na današnji dan</a></li>
       </ul>
     </div>
