@@ -338,6 +338,7 @@ include "includes/header.php";
     <h4>Jovan Popović</h4>
     <ul>
         <li><a href="poezija/prolece-1942.php">Proleće 1942.</a></li>
+        <li><a href="poezija/idbarska-balada.php">Idbarska balada</a></li>
     </ul>
 
     <h4>Vukajlo Kukalj</h4>
@@ -416,11 +417,17 @@ include "includes/header.php";
         <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
         <li><a href="poezija/bosi-podjimo-devojko-zorom.php">Bosi pođimo, devojko, zorom</a></li>
         <li><a href="poezija/majke-nase-napacene.php">Majke, majke naše napaćene</a></li>
+        <li><a href="poezija/materi-padlega-partizana.php">Materi padlega partizana</a></li>
     </ul>
 
     <h4>Jože Udovič</h4>
     <ul>
         <li><a href="poezija/poslednji-trenutak.php">Poslednji trenutak</a></li>
+    </ul>
+
+    <h4>Milorad Panić Surep</h4>
+    <ul>
+        <li><a href="poezija/beograd-tacno-u-ponoc.php">Beograd tačno u ponoć</a></li>
     </ul>
 
     <h4>France Kosmač</h4>
@@ -489,6 +496,7 @@ include "includes/header.php";
     <h4>Milan Dedinac</h4>
     <ul>
         <li><a href="poezija/najednom-je-banula-glad.php">Najednom je banula glad</a></li>
+        <li><a href="poezija/slesko-bdenije.php">Šlesko bdenije</a></li>
     </ul>
 
     <h4>Desanka Maksimović</h4>
