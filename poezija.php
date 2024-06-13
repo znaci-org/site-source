@@ -485,6 +485,7 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/nocni-mars.php">Noćni marš</a></li>
         <li><a href="poezija/spavac.php">Spavač</a></li>
+        <li><a href="poezija/samo-jedan-je-zivot.php">Samo jedan je život</a></li>
     </ul>
 
     <h4>Ivica Tomović</h4>
