@@ -860,6 +860,7 @@ include "includes/header.php";
             <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
             <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
             <li><a href="poezija/nasi-drugovi.php">Naši drugovi</a></li>
+            <li><a href="poezija/nasi-saveznici.php">Naši saveznici</a></li>
         </ul>
     </section>
 
