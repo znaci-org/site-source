@@ -438,6 +438,7 @@ include "includes/header.php";
 
     <h4>Oton Župančič</h4>
     <ul>
+        <li><a href="poezija/izjava.php">Izjava</a></li>
         <li><a href="poezija/pesnice-znas-svoj-dug.php">Pesniče, znaš svoj dug?</a></li>
         <li><a href="poezija/vseh-zivih-dan.php">Vseh živih dan</a></li>
     </ul>
@@ -716,12 +717,6 @@ include "includes/header.php";
         <li><a href="poezija/o-titu.php">O Titu</a></li>
     </ul>
 
-    <h4>Aleksandar Tišma</h4>
-
-    <ul>
-        <li><a href="poezija/jevrejsko-groblje.php">Jevrejsko groblje</a></li>
-    </ul>
-
     <h4>Izet Sarajlić</h4>
 
     <ul>
@@ -736,6 +731,17 @@ include "includes/header.php";
     <h4>Jevrem Brković</h4>
     <ul>
         <li><a href="poezija/komesar.php">Komesar</a></li>
+    </ul>
+
+    <h4>Slobodan Marković</h4>
+    <ul>
+        <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
+    </ul>
+
+    <h4>Aleksandar Tišma</h4>
+
+    <ul>
+        <li><a href="poezija/jevrejsko-groblje.php">Jevrejsko groblje</a></li>
     </ul>
 
     <h4>Narodne pesme</h4>
