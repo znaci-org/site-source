@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Matej Bor - Gazimo, gazimo</h1>
+<h1>Matej Bor - Kri v plamenih</h1>
 
 Ropajte, pustošite, gospodarji,<br/>
 čez vso zemljo<br/>

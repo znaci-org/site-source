@@ -406,6 +406,8 @@ include "includes/header.php";
     <ul>
         <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
         <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
+        <li><a href="poezija/jutri-gremo-v-napad.php">Jutri gremo v napad</a></li>
+
     </ul>
 
     <h4>Karel Destovnik Kajuh</h4>
