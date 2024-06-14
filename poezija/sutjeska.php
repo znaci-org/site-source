@@ -671,3 +671,6 @@ pali su ko stabla jedra:<br/>
 mnoga se ugasila luča<br/>
 za osvanak i jutra vedra.<br/>
 <br/>
+<br/>
+
+<a href="poezija/sutjeska-2.php">Drugi dio poeme Sutjeska</a>
