@@ -118,6 +118,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Marko Ristić</h4>
+        <ul>
+            <li><a href="poezija/memento.php">Memento</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Tin Ujević</h4>
         <ul>
             <li><a href="poezija/pobratimstvo-lica-u-svemiru.php">Pobratimstvo lica u svemiru</a></li>
@@ -416,13 +423,6 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/pesnici.php">Pesnici</a></li>
             <li><a href="poezija/mladost.php">Mladost</a></li>
-        </ul>
-    </section>
-
-    <section>
-        <h4>Marko Ristić</h4>
-        <ul>
-            <li><a href="poezija/memento.php">Memento</a></li>
         </ul>
     </section>
 
