@@ -312,7 +312,7 @@ osamljenu<br />
 i drvo i kami<br />
 u očima zebu: za nama bi luto.<br />
 <br />
-Kud su naše divizije lugom prošle,<br />
+Kud su naše divizije alugom prošle,<br />
 crni se prostrug kao dugi tunel:<br />
 stabla oglodana, podrubljene krošnje,<br />
 stopa i kopito... i šinjel što trune.<br />
