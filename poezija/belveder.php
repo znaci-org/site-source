@@ -7,7 +7,9 @@ include "../includes/header.php";
 
 <h1>Mirko Banjević - Belveder</h1>
 
-1936
+<p>
+  (<i>o demostracijama na Belvederu 1936. koje je vlast u krvi ugušila</i>)
+</p>
 
 <p>
   Belvedere,<br />
@@ -37,3 +39,5 @@ include "../includes/header.php";
   kapi su po tebi – rosa krvava<br />
   na našoj smračenoj vjeđi.<br />
 </p>
+
+(1936)
