@@ -81,8 +81,9 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
         <li class="<?php if ($filename == "fotogalerija.php") echo "active"; ?>"><a href="/fotogalerija.php">Fotogalerija</a></li>
         <li class="<?php if ($filename == "poezija.php") echo "active"; ?>"><a href="/poezija.php">Poezija NOB</a></li>
         <li class="<?php if ($filename == "na-danasnji-dan.php") echo "active"; ?>"><a href="/na-danasnji-dan.php">Na današnji dan</a></li>
+        <li class="<?php if ($filename == "kontakt.php") echo "active"; ?>"><a href="/kontakt.php">Kontakt</a></li>
       </ul>
     </div>
 
-    <b class="silver">Dokumenti i knjige o drugom svetskom ratu na teritoriji Jugoslavije i povezanim zbivanjima <small><a href="/PoezijuCeSviPisati.html">[priredio:&nbsp;Goran Despotović (1957-2022)]</a></small> <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **** 28.04.2024: 3 nove knjige ****</small></b>
+    <b class="silver">Dokumenti i knjige o drugom svetskom ratu na teritoriji Jugoslavije i povezanim zbivanjima</b>
   </header>
