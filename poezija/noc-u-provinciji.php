@@ -34,3 +34,5 @@ include "../includes/header.php";
   svi prolaze i nestaju, a ti na lancu, kao sjena slijepa,<br />
   sudbinu čekaš da s tobom tu pod plotom pasji krepa.
 </p>
+
+(1930)

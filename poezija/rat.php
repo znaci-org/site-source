@@ -40,3 +40,5 @@ include "../includes/header.php";
   A za sivog jutra po ulici se tope<br />
   krvave stope.
 </p>
+
+(1918)

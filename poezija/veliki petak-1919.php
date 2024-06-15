@@ -45,3 +45,5 @@ karmine tužne pije i razbito pjeva:<br>
 jedna je glava opet ko krvavo sjeme pala.<br>
 na jarbolu lađe su opet pribili admirala.<br>
 Al Ništa! Sviće. Internacionala.</p>
+
+(1919)

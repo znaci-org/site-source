@@ -22,3 +22,5 @@ include "../includes/header.php";
   tihe bolne Riječi, trudne žene,<br />
   pred porodom što bolno u predvečerje jeca.
 </p>
+
+(1919)
