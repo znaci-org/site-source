@@ -129,6 +129,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Vladimir Popović</h4>
+        <ul>
+            <li><a href="poezija/ceznja-iz-mrtvoga-doma.php">Čežnja iz mrtvoga doma</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Marko Ristić</h4>
         <ul>
             <li><a href="poezija/memento.php">Memento</a></li>
@@ -454,8 +461,14 @@ include "includes/header.php";
     <section>
         <h4>Vladimir Popović</h4>
         <ul>
-            <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
+            <li><a href="poezija/i-nama-jednom-mater-budi.php">I nama jednom mater budi</a></li>
+            <li><a href="poezija/prvi-koraci-popovic.php">Prvi koraci</a></li>
             <li><a href="poezija/mjesec-i-partizani.php">Mjesec i partizani</a></li>
+            <li><a href="poezija/partizanka-popovic.php">Partizanka</a></li>
+            <li><a href="poezija/suocenja.php">Suočenja</a> (poema)</li>
+            <li><a href="poezija/svjetlo-rijeci.php">Svjetlo riječi</a></li>
+            <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
+            <li><a href="poezija/nas-bog.php">Naš bog</a></li>
         </ul>
     </section>
 
