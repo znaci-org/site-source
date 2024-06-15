@@ -843,6 +843,13 @@ include "includes/header.php";
 
 <div class="knjige columns">
     <section>
+        <h4>Desanka Maksimović</h4>
+        <ul>
+            <li><a href="poezija/majkama.php">Majkama</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Slavko Vukosavljević</h4>
         <ul>
             <li><a href="poezija/noc-u-titovom-uzicu.php">Noć u Titovom Užicu</a></li>
