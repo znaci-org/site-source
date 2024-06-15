@@ -131,6 +131,8 @@ include "includes/header.php";
     <section>
         <h4>Vladimir Popović</h4>
         <ul>
+            <li><a href="poezija/pisem-pjesme.php">Pišem pjesme</a></li>
+            <li><a href="poezija/pjesma-radnici.php">Pjesma radnici</a></li>
             <li><a href="poezija/ceznja-iz-mrtvoga-doma.php">Čežnja iz mrtvoga doma</a></li>
         </ul>
     </section>
@@ -468,6 +470,7 @@ include "includes/header.php";
             <li><a href="poezija/suocenja.php">Suočenja</a> (poema)</li>
             <li><a href="poezija/svjetlo-rijeci.php">Svjetlo riječi</a></li>
             <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
+            <li><a href="poezija/pjesnik-borac.php">Pjesnik - borac</a></li>
             <li><a href="poezija/nas-bog.php">Naš bog</a></li>
         </ul>
     </section>
