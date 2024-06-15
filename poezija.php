@@ -3,7 +3,18 @@ $naslov = "Poezija NOB";
 include "includes/header.php";
 ?>
 
-<h2>Predratna socijalna poezija</h2>
+<h2>Jugoslovenska revolucionarna i socijalna poezija</h2>
+
+<ul>
+    <li><a href="#predratna">I Predratna socijalna poezija</a></li>
+    <li><a href="#poezija-NOB">II Poezija narodno-oslobodilačke borbe</a></li>
+    <li><a href="#narodne-pesme">III Narodne partizanske pesme</a></li>
+    <li><a href="#poratna">IV Poratna jugoslovenska poezija</a></li>
+</ul>
+
+<p>Neki autori se nalaze u više kategorija.</p>
+
+<h2 id="predratna">Predratna socijalna poezija</h2>
 
 <div class="knjige columns">
     <section>
@@ -258,7 +269,7 @@ include "includes/header.php";
 
 </div>
 
-<h2>Poezija NOB</h2>
+<h2 id="poezija-NOB">Poezija NOB</h2>
 
 <div class="knjige columns">
     <section>
@@ -637,7 +648,7 @@ include "includes/header.php";
 </div>
 
 
-<h2>Narodne partizanske pesme</h2>
+<h2 id="narodne-pesme">Narodne partizanske pesme</h2>
 
 <div class="knjige columns">
     <section>
@@ -811,7 +822,7 @@ include "includes/header.php";
     </section>
 </div>
 
-<h2>Poratna jugoslovenska poezija</h2>
+<h2 id="poratna">Poratna jugoslovenska poezija</h2>
 
 <div class="knjige columns">
     <section>
