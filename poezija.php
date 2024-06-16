@@ -484,7 +484,7 @@ include "includes/header.php";
 
     <section>
         <h4>Karel Destovnik Kajuh</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg/200px-Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg" title="Kajuh govori na mitingu v Starem trgu pri Ložu 1943.">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zadnja_fografija_Karla_Destovnika_Kajuha.jpg/200px-Zadnja_fografija_Karla_Destovnika_Kajuha.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
         <ul>
             <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
             <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim drugovima</a></li>
