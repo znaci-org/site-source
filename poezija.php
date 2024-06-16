@@ -71,9 +71,16 @@ include "includes/header.php";
             <li><a href="poezija/izvestaj-iz-srbije.php">Izveštaj iz Srbije</a></li>
             <li><a href="poezija/i-krv.php">I krv...</a></li>
             <li><a href="poezija/samicari.php">Samičari</a></li>
-            <li><a href="poezija/proveriti.php">Proveriti</a></li>
             <li><a href="poezija/u-spomen-na-tamnovanje-svetozara-markovica.php">U spomen na tamnovanje Svetozara Markovića</a> (poema)</li>
             <li><a href="poezija/skoro-ce-biti-svi-ljudi-siti.php">Skoro će biti svi ljudi siti</a></li>
+            <li><a href="poezija/proveriti.php">Proveriti</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Igo Gruden</h4>
+        <ul>
+            <li><a href="poezija/balada-o-otroku.php">Balada o otroku</a></li>
         </ul>
     </section>
 
@@ -203,6 +210,7 @@ include "includes/header.php";
         <h4>Mate Balota</h4>
         <ul>
             <li><a href="poezija/koza.php">Koza</a></li>
+            <li><a href="poezija/sipe-piva.php">Sipe piva</a></li>
         </ul>
     </section>
 
