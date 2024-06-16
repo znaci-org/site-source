@@ -200,6 +200,7 @@ h1 {
 .columns {
     columns: 4 350px;
     padding: 16px;
+    column-gap: 20px;
 }
 
 .columns section {
@@ -222,6 +223,11 @@ section:first-child h4 {
 
 .columns ul {
     margin-top: 0;
+}
+
+.columns img {
+    float: right;
+    height: 100px;
 }
 
 /* STARO */

@@ -28,6 +28,7 @@ include "includes/header.php";
 
     <section>
         <h4>Miroslav Krleža</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/sh/3/36/Miroslav_Krle%C5%BEa.jpg" alt="">
         <ul>
             <li><a href="poezija/nasa-kuca.php">Naša kuća</a></li>
             <li><a href="poezija/plameni-vjetar.php">Plameni vjetar</a></li>
@@ -45,6 +46,7 @@ include "includes/header.php";
 
     <section>
         <h4>Oskar Davičo</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/sh/8/8e/Oskar_Davico.jpg" alt="">
         <ul>
             <li><a href="poezija/1929.php">1929.</a></li>
             <li><a href="poezija/mesec-i-mraz.php">Mesec i mraz</a></li>
@@ -96,6 +98,7 @@ include "includes/header.php";
 
     <section>
         <h4>Kosta Kočo Racin</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник.">
         <ul>
             <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
             <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
@@ -268,6 +271,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Karel Destovnik Kajuh</h4>
+        <ul>
+            <li><a href="poezija/spanija.php">Španija</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Milan Apih</h4>
         <ul>
             <li><a href="poezija/nabrusimo-kose.php">Nabrusimo kose</a></li>
@@ -292,6 +302,7 @@ include "includes/header.php";
 <div class="knjige columns">
     <section>
         <h4>Branko Ćopić</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/%D0%9C%D0%B8%D1%80%D0%B0_%D0%90%D0%BB%D0%B5%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B_%D1%83_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0.jpg" title="Pesnici Branko Ćopić, Mira Alečković i Aco Šopov u partizanima.">
         <ul>
             <li><a href="poezija/raport-grmeckih-partizana.php">Raport grmečkih partizana</a></li>
             <li><a href="poezija/cetvrta-ofanziva.php">Četvrta ofanziva</a></li>
@@ -318,6 +329,7 @@ include "includes/header.php";
 
     <section>
         <h4>Ivan Goran Kovačić</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg/200px-Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg" title="Ivan Goran Kovačić recituje svoju poeziju saborcima na Sutjesci.">
         <ul>
             <li><a href="poezija/gariste.php">Garište</a></li>
             <li><a href="poezija/partizanka.php">Partizanka</a></li>
@@ -412,6 +424,7 @@ include "includes/header.php";
 
     <section>
         <h4>Vladimir Nazor</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vladimir_Nazor_u_Splitu_1944.jpg/200px-Vladimir_Nazor_u_Splitu_1944.jpg" title="Vladimir Nazor u Splitu 1944.">
         <ul>
             <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
             <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
@@ -470,28 +483,15 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Vladimir Popović</h4>
-        <ul>
-            <li><a href="poezija/i-nama-jednom-mater-budi.php">I nama jednom mater budi</a></li>
-            <li><a href="poezija/prvi-koraci-popovic.php">Prvi koraci</a></li>
-            <li><a href="poezija/mjesec-i-partizani.php">Mjesec i partizani</a></li>
-            <li><a href="poezija/partizanka-popovic.php">Partizanka</a></li>
-            <li><a href="poezija/suocenja.php">Suočenja</a> (poema)</li>
-            <li><a href="poezija/svjetlo-rijeci.php">Svjetlo riječi</a></li>
-            <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
-            <li><a href="poezija/pjesnik-borac.php">Pjesnik - borac</a></li>
-            <li><a href="poezija/nas-bog.php">Naš bog</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Karel Destovnik Kajuh</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg/200px-Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg" title="Kajuh govori na mitingu v Starem trgu pri Ložu 1943.">
         <ul>
             <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
-            <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
-            <li><a href="poezija/bosi-podjimo-devojko-zorom.php">Bosi pođimo, devojko, zorom</a></li>
-            <li><a href="poezija/majke-nase-napacene.php">Majke, majke naše napaćene</a></li>
+            <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim drugovima</a></li>
+            <li><a href="poezija/bosa-pojdiva-dekle-obsorej.php">Bosi pođimo, devojko, zorom</a></li>
+            <li><a href="poezija/matere-nase-trpece.php">Majke, majke naše napaćene</a></li>
             <li><a href="poezija/materi-padlega-partizana.php">Materi padlega partizana</a></li>
+            <li><a href="poezija/nemskemu-proletariatu.php">Nemškemu proletariatu</a></li>
         </ul>
     </section>
 
@@ -594,6 +594,22 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
             <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Vladimir Popović</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vladimir_Popovi%C4%87_u_Bosni.jpg/200px-Vladimir_Popovi%C4%87_u_Bosni.jpg" title="Vladimir Popović u Bosni">
+        <ul>
+            <li><a href="poezija/i-nama-jednom-mater-budi.php">I nama jednom mater budi</a></li>
+            <li><a href="poezija/prvi-koraci-popovic.php">Prvi koraci</a></li>
+            <li><a href="poezija/mjesec-i-partizani.php">Mjesec i partizani</a></li>
+            <li><a href="poezija/partizanka-popovic.php">Partizanka</a></li>
+            <li><a href="poezija/suocenja.php">Suočenja</a> (poema)</li>
+            <li><a href="poezija/svjetlo-rijeci.php">Svjetlo riječi</a></li>
+            <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
+            <li><a href="poezija/pjesnik-borac.php">Pjesnik - borac</a></li>
+            <li><a href="poezija/nas-bog.php">Naš bog</a></li>
         </ul>
     </section>
 
@@ -877,6 +893,7 @@ include "includes/header.php";
 
     <section>
         <h4>Branko Miljković</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/sr/0/01/Brankomiljkovic.jpg" alt="">
         <ul>
             <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
             <li><a href="poezija/zelengoro.php">Zelengoro</a></li>
