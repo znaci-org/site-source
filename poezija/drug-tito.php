@@ -36,3 +36,5 @@ drug nam Tito, Tito, Tito.</p>
 složno, hitro, ponosito,<br>
 pohitajmo kud nas vodi,<br>
 kličuć: Tito, Tito, Tito!</p>
+
+<img src="https://znaci.org/images/118.jpg">

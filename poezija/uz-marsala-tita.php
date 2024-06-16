@@ -32,3 +32,6 @@ partizanska složila svijest.</p>
 <p>Pa sad, kad i treba,<br>
 do sunca do neba,<br>
 visoko mi dižemo pest!</p>
+
+<img src="https://znaci.org/images/8241.jpg"><br>
+<small>Tito sa drugovima u Jajcu 1943.</small>
