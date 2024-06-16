@@ -7,9 +7,10 @@ include "includes/header.php";
 
 <ul>
     <li><a href="#predratna">I Predratna socijalna poezija</a></li>
-    <li><a href="#poezija-NOB">II Poezija narodno-oslobodilačke borbe</a></li>
-    <li><a href="#narodne-pesme">III Narodne partizanske pesme</a></li>
-    <li><a href="#poratna">IV Poratna jugoslovenska poezija</a></li>
+    <li><a href="#spanske">II Poezija španske revolucije</a></li>
+    <li><a href="#poezija-NOB">III Poezija narodno-oslobodilačke borbe</a></li>
+    <li><a href="#narodne-pesme">IV Narodne partizanske pesme</a></li>
+    <li><a href="#poratna">V Poratna jugoslovenska poezija</a></li>
 </ul>
 
 <p>Neki autori se nalaze u više kategorija.</p>
@@ -285,20 +286,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Dušan Matić</h4>
-        <ul>
-            <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
-        </ul>
-    </section>
-
-    <section>
-        <h4>Karel Destovnik Kajuh</h4>
-        <ul>
-            <li><a href="poezija/spanija.php">Španija</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Milan Apih</h4>
         <ul>
             <li><a href="poezija/nabrusimo-kose.php">Nabrusimo kose</a></li>
@@ -315,7 +302,47 @@ include "includes/header.php";
             <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
         </ul>
     </section>
+</div>
 
+<h2 id="spanske">Poezija španske revolucije</h2>
+
+<div class="knjige columns">
+    <section>
+        <h4>Dušan Matić</h4>
+        <ul>
+            <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Karel Destovnik Kajuh</h4>
+        <ul>
+            <li><a href="poezija/spanija.php">Španija</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Kosta Kočo Racin</h4>
+        <ul>
+            <li><a href="poezija/ispanska-balada.php">Испанска балада</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Ratko Pavlović Ćićko</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Latinovic%2C_Krsmanovic%2C_Kova%C4%8Devi%C4%87%2C_Cicko%2C_Braco_Vajs.png" title="Jugosloveni borci u Španiji 1938. godine. Dole u sredini Ratko Pavlović Ćićko.">
+        <ul>
+            <li><a href="poezija/majko.php">Majko!</a></li>
+            <li><a href="poezija/drugovima-iz-andaluzije.php">Drugovima iz Andaluzije i Asturije</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Anonimne / narodne pesme</h4>
+        <ul>
+            <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
+        </ul>
+    </section>
 </div>
 
 <h2 id="poezija-NOB">Poezija NOB</h2>
