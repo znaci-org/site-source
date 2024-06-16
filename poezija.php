@@ -114,7 +114,7 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Kočo Racin</h4>
+        <h4>Kosta Kočo Racin</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник.">
         <ul>
             <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
@@ -255,6 +255,7 @@ include "includes/header.php";
         <h4>Čedomir Minderović</h4>
         <ul>
             <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
+            <li><a href="poezija/uspavanka-minderovic.php">Uspavanka</a></li>
         </ul>
     </section>
 
@@ -349,6 +350,7 @@ include "includes/header.php";
         <h4>Ivan Goran Kovačić</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg/200px-Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg" title="Ivan Goran Kovačić recituje svoju poeziju saborcima na Sutjesci.">
         <ul>
+            <li><a href="poezija/jama.php">Jama</a> (poema)</li>
             <li><a href="poezija/gariste.php">Garište</a></li>
             <li><a href="poezija/partizanka.php">Partizanka</a></li>
             <li><a href="poezija/nasa-pjesma.php">Naša pjesma</a></li>
@@ -356,12 +358,12 @@ include "includes/header.php";
             <li><a href="poezija/partizanske-noge.php">Partizanske noge</a></li>
             <li><a href="poezija/kljuse.php">Kljuse</a></li>
             <li><a href="poezija/lesevi-putuju.php">Leševi putuju</a></li>
-            <li><a href="poezija/o-tesko-je-cetnik-biti.php">O teško je četnik biti</a></li>
             <li><a href="poezija/mracno-doba.php">Mračno doba</a></li>
-            <li><a href="poezija/komunistickoj-partiji.php">Komunističkoj partiji</a></li>
             <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
+            <li><a href="poezija/o-tesko-je-cetnik-biti.php">O teško je četnik biti</a></li>
+            <li><a href="poezija/komunistickoj-partiji.php">Komunističkoj partiji</a></li>
+            <li><a href="poezija/ognjeni-vlak.php">Ognjeni vlak</a></li>
             <li><a href="poezija/trajanje.php">Trajanje</a></li>
-            <li><a href="poezija/jama.php">Jama</a> (poema)</li>
             <li><a href="poezija/moj-grob.php">Moj grob</a></li>
         </ul>
     </section>
@@ -1001,6 +1003,21 @@ include "includes/header.php";
         <h4>Oskar Davičo</h4>
         <ul>
             <li><a href="poezija/cinjenice.php">Činjenice (O Španijo)</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Miroslav Mika Antić</h4>
+        <ul>
+            <li><a href="poezija/nadničar-1940.php">Nadničar 1940</a></li>
+            <li><a href="poezija/jedna-istina-iz-aprila.php">Jedna istina iz aprila</a></li>
+        </ul>
+    </section>
+    
+    <section>
+        <h4>Jovan Popović</h4>
+        <ul>
+            <li><a href="poezija/pesma-o-iskovanoj-sreci.php">Pesma o iskovanoj sreći</a></li>
         </ul>
     </section>
 
