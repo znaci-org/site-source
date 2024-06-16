@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Atanasije Mladenović - Sutjeska</h1>
+<h1>Tanasije Mladenović - Sutjeska</h1>
 
 Otvorite širom prozore —<br/>
 Oči Evrope gledaju na nas,<br/>

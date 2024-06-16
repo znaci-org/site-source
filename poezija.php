@@ -455,6 +455,8 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/noc-pred-polazak.php">Noć pred polazak</a></li>
             <li><a href="poezija/golija.php">Golija</a></li>
+            <li><a href="poezija/sutjeska-mladenovic.php">Sutjeska</a></li>
+            <li><a href="poezija/cvece-rata.php">Cveće rata</a></li>
         </ul>
     </section>
 
@@ -549,6 +551,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Zdenko Štambuk</h4>
+        <ul>
+            <li><a href="poezija/kuriri.php">Kuriri</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Karel Destovnik Kajuh</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg/164px-Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
         <ul>
@@ -592,13 +601,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Atanasije Mladenović</h4>
-        <ul>
-            <li><a href="poezija/sutjeska-atanasije-mladenovic.php">Sutjeska</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Ljubiša Jocić</h4>
         <ul>
             <li><a href="poezija/zelengora.php">Zelengora</a></li>
@@ -627,6 +629,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/beograd-tacno-u-ponoc.php">Beograd tačno u ponoć</a></li>
             <li><a href="poezija/oci-palog-druga.php">Oči palog druga</a></li>
+            <li><a href="poezija/zeravica-bez-supraske.php">Žeravica bez supraške</a></li>
         </ul>
     </section>
 
@@ -1080,6 +1083,13 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/nadničar-1940.php">Nadničar 1940.</a></li>
             <li><a href="poezija/jedna-istina-iz-aprila.php">Jedna istina iz aprila</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Augustin Stipčević</h4>
+        <ul>
+            <li><a href="poezija/sunce-u-celiji.php">Sunce u ćeliji</a> (poema)</li>
         </ul>
     </section>
 

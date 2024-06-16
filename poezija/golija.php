@@ -39,4 +39,4 @@ Ha nebu belom ko krečnjak<br/>
 Užareni kotur se nija.<br/>
 </p>
 
-(1952)
+(objavljena 1952)
