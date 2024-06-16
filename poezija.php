@@ -677,6 +677,7 @@ include "includes/header.php";
         <h4>Aco Šopov</h4>
         <ul>
             <li><a href="poezija/oci.php">Oči</a></li>
+            <li><a href="poezija/ko-celik-sme-nie.php">Ко челик сме ние</a></li>
         </ul>
     </section>
 
@@ -1009,11 +1010,11 @@ include "includes/header.php";
     <section>
         <h4>Miroslav Mika Antić</h4>
         <ul>
-            <li><a href="poezija/nadničar-1940.php">Nadničar 1940</a></li>
+            <li><a href="poezija/nadničar-1940.php">Nadničar 1940.</a></li>
             <li><a href="poezija/jedna-istina-iz-aprila.php">Jedna istina iz aprila</a></li>
         </ul>
     </section>
-    
+
     <section>
         <h4>Jovan Popović</h4>
         <ul>
