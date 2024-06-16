@@ -1001,6 +1001,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Blaže Koneski</h4>
+        <ul>
+            <li><a href="poezija/teskoto.php">Тешкото</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Jevrem Brković</h4>
         <ul>
             <li><a href="poezija/komesar.php">Komesar</a></li>
