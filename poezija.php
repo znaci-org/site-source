@@ -123,7 +123,9 @@ include "includes/header.php";
             <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
             <li><a href="poezija/pecal.php">Tuga</a></li>
             <li><a href="poezija/tatunco.php">Tatunčo</a></li>
-            <li><a href="poezija/denovi.php">Denovi</a></li>
+            <li><a href="poezija/denovi.php">Денови</a></li>
+            <li><a href="poezija/prostavanje.php">Проштавање</a></li>
+            <li><a href="poezija/da-bides-covek.php">Да бидеш човек</a></li>
         </ul>
     </section>
 

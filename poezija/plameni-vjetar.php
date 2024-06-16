@@ -48,4 +48,8 @@ include "../includes/header.php";
   Pobjednice Smrti.
 </p>
 
-(1918)
+<p>(1918)</p>
+
+<hr>
+
+<p>Slovi kao najpoznatija pjesma Krležina mladenačkog razdoblja s jasnim reminiscencijama na oktobarsku revoluciju.</p>

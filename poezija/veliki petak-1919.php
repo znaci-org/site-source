@@ -46,4 +46,8 @@ jedna je glava opet ko krvavo sjeme pala.<br>
 na jarbolu lađe su opet pribili admirala.<br>
 Al Ništa! Sviće. Internacionala.</p>
 
-(1919)
+<p>(1919)</p>
+
+<hr>
+
+Pjesma prvi put objavljena u Plamenu 1919, s naslovom Veliki Petak 1919. Započeta kao kletva nepersonificiranog metafizičkog zla (»Veliko Bezglavo Nešto«) pjesma je parafraza novozavjetne legende o razapinjanju Isusa na Golgoti. Krleža proklinje zlo koje stoljećima »razapinje Ideal«. Nedvosmislenu usporedbu Golgote i Berlina iznosi u stihovima: »U borbi s krdom lažnih i krivih bogova / pao je Čovječji Sin. / Krstove svoje je golgotski prenio cirkus / iz gubave Judeje u carski Berlin.« 
