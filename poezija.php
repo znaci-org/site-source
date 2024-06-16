@@ -467,6 +467,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Slavko Janevski</h4>
+        <ul>
+            <li><a href="poezija/svadbarska-pesna.php">Свадбарска песна</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Tanasije Mladenović</h4>
         <ul>
             <li><a href="poezija/noc-pred-polazak.php">Noć pred polazak</a></li>
