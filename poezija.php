@@ -44,18 +44,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Kosta Kočo Racin</h4>
-        <ul>
-            <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
-            <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
-            <li><a href="poezija/vatromet.php">Vatromet</a></li>
-            <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
-            <li><a href="poezija/tuga.php">Tuga</a></li>
-            <li><a href="poezija/tatunco.php">Tatunčo</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Oskar Davičo</h4>
         <ul>
             <li><a href="poezija/1929.php">1929.</a></li>
@@ -107,6 +95,19 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Kosta Kočo Racin</h4>
+        <ul>
+            <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
+            <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
+            <li><a href="poezija/vatromet.php">Vatromet</a></li>
+            <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
+            <li><a href="poezija/tuga.php">Tuga</a></li>
+            <li><a href="poezija/tatunco.php">Tatunčo</a></li>
+            <li><a href="poezija/denovi.php">Denovi</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Vinko Košak</h4>
         <ul>
             <li><a href="poezija/v-predmestju.php">V predmestju</a></li>
@@ -117,6 +118,13 @@ include "includes/header.php";
         <h4>Gavrilo Princip</h4>
         <ul>
             <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Janko Đonović</h4>
+        <ul>
+            <li><a href="poezija/crnci-i-crnogorci.php">Crnci i Crnogorci</a></li>
         </ul>
     </section>
 
@@ -645,6 +653,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/najednom-je-banula-glad.php">Najednom je banula glad</a></li>
             <li><a href="poezija/slesko-bdenije.php">Šlesko bdenije</a></li>
+            <li><a href="poezija/upamti.php">Upamti!</a></li>
         </ul>
     </section>
 
@@ -859,6 +868,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Marin Franičević</h4>
+        <ul>
+            <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Branko Miljković</h4>
         <ul>
             <li><a href="poezija/jugoslavija.php">Jugoslavija</a></li>
@@ -897,6 +913,13 @@ include "includes/header.php";
         <h4>Vasko Popa</h4>
         <ul>
             <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Radovan Zogović</h4>
+        <ul>
+            <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
         </ul>
     </section>
 

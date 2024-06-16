@@ -35,4 +35,4 @@ Da noći ove još nema!...<br/>
 <br/>
 Noć neka dovek traje!...<br/>
 <br/>
-(<i>Pesme iz dnevnika zarobljenika broj 60211</i> )<br/>
+(<i>Pesme iz dnevnika zarobljenika broj 60211</i>)<br/>
