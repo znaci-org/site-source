@@ -901,6 +901,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Gvido Tartalja</h4>
+        <ul>
+            <li><a href="poezija/banovici.php">Banovići</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Jevrem Brković</h4>
         <ul>
             <li><a href="poezija/komesar.php">Komesar</a></li>
