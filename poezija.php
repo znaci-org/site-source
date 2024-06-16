@@ -13,7 +13,7 @@ include "includes/header.php";
     <li><a href="#poratna">V Poratna jugoslovenska poezija</a></li>
 </ul>
 
-<p>Neki autori se nalaze u više kategorija.</p>
+<p>Neki autori se sa različitim pesmama nalaze u više kategorija.</p>
 
 <h2 id="predratna">Predratna socijalna poezija</h2>
 
@@ -429,6 +429,8 @@ include "includes/header.php";
             <li><a href="poezija/pjesma-u-zitu.php">Pjesma u žitu</a></li>
             <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
             <li><a href="poezija/bolnicarka.php">Bolničarka</a></li>
+            <li><a href="poezija/djevojka-kurir.php">Djevojka kurir</a></li>
+            <li><a href="poezija/jablanka.php">Jablanka</a> (poema)</li>
         </ul>
     </section>
 
@@ -1134,6 +1136,13 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/pjesma-o-mojoj-zemlji.php">Pjesma o mojoj zemlji</a></li>
             <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Mark Krasnići</h4>
+        <ul>
+            <li><a href="poezija/uspomene-iz-detinjstva.php">Uspomene iz detinjstva</a></li>
         </ul>
     </section>
 
