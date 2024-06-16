@@ -120,6 +120,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
             <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
+            <li><a href="poezija/kopacite.php">Kopači</a></li>
             <li><a href="poezija/vatromet.php">Vatromet</a></li>
             <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
             <li><a href="poezija/pecal.php">Tuga</a></li>
