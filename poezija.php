@@ -444,6 +444,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Branko V. Radičević</h4>
+        <ul>
+            <li><a href="poezija/noc-iza-resetaka.php">Noć iza rešetaka</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Risto Tošović</h4>
         <ul>
             <li><a href="poezija/ni-tebe-djevojko-nema.php">Ni tebe, djevojko, nema</a></li>
@@ -986,6 +993,7 @@ include "includes/header.php";
             <li><a href="poezija/zelengoro.php">Zelengoro</a></li>
             <li><a href="poezija/tjentiste.php">Tjentište</a></li>
             <li><a href="poezija/odbrana-zemlje.php">Odbrana zemlje</a></li>
+            <li><a href="poezija/tito.php">Tito</a></li>
         </ul>
     </section>
 
@@ -999,7 +1007,7 @@ include "includes/header.php";
     <section>
         <h4>Izet Sarajlić</h4>
         <ul>
-            <li><a href="poezija/rodjeni-1923-streljani-1942.php">Rođeni dvadeset treće, streljani četrdeset druge</a></li>
+            <li><a href="poezija/rodjeni-1923-streljani-1942.php">Rođeni 23, streljani 42.</a></li>
         </ul>
     </section>
 
@@ -1060,6 +1068,7 @@ include "includes/header.php";
         <h4>Slobodan Marković</h4>
         <ul>
             <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
+            <li><a href="poezija/hlebovi.php">Hlebovi</a></li>
         </ul>
     </section>
 

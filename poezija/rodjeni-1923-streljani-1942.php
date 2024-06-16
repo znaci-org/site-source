@@ -7,6 +7,10 @@ include "../includes/header.php";
 
 <h1>Izet Sarajlić - Rođeni dvadeset treće, streljani četrdeset druge</h1>
 
+<p>
+  <i>Bratu Eši, streljanom na Mamuli 16 juna 1942. Njemu i svima koji behu kao on.</i>
+</p>
+
 Večeras ćemo za njih voljeti.<br/>
 Bilo ih je 28.<br/>
 Bilo ih je pet hiljada i 28.<br/>
@@ -58,3 +62,7 @@ Mala velika moja,<br/>
 večeras ćemo za njih voljeti.<br/>
 <br/>
 (1953)<br/>
+<br>
+
+<img src="https://znaci.org/images/12643.jpg"><br>
+<small>Prva masovna streljanja u Celju, 22 jula 1942.</small>

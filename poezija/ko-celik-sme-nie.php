@@ -40,5 +40,9 @@ include "../includes/header.php";
 Стив Наумов стои пред нас като штит,<br/>
 Карпошова злоба тече во нашите жили,<br/>
 Бригадата наша ко чекан е свит.<br/>
-<br/>
-(1944)
+
+<p>(1944)</p>
+
+<img src="https://znaci.org/images/13204.jpg"><br>
+
+<small>Borci partizanskog bataljona Stevan Naumov 3. makedonske brigade, 1944.</small>

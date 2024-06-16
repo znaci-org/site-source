@@ -33,3 +33,7 @@ include "../includes/header.php";
   U sanitetskoj torbi<br />
   S okrvavljenim zavojima<br />
 </p>
+
+<img src="https://znaci.org/images/16337.jpg"><br>
+
+<small>Previjanje ranjenika 13. proleterske brigade na Sremskom frontu, april 1945. godine</small>

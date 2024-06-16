@@ -93,3 +93,5 @@ include "../includes/header.php";
   Hej, haj, hej, haj,<br />
   Slavni komandant.<br />
 </p>
+
+<img src="https://znaci.org/images/8810.jpg">

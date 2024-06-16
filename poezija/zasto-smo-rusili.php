@@ -161,3 +161,6 @@ heroj rada.<br/>
 <br/>
 Od srca se ote Pani:<br/>
 "Neka žive partizani!"<br/>
+<br/>
+
+<img src="https://znaci.org/images/11873.jpg" alt="">

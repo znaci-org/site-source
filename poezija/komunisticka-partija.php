@@ -84,7 +84,7 @@ O, gledaj mladost rumena se javlja<br/>
 po crnom drumu<br/>
 moga zavičaja.<br/>
 <br/>
-Ctarica moja ništa ne razume,<br/>
+Starica moja ništa ne razume,<br/>
 al' grli mene,<br/>
 unuka u sreći.<br/>
 I dvoseče sišle su iz šume,<br/>
@@ -111,3 +111,7 @@ tu se negde rodi.<br/>
 O, slušaj korak i ne pitaj ništa...<br/>
 To oktobarsko<br/>
 pokolenje hodi!<br/>
+<br/>
+
+<img src="https://znaci.org/images/4972.jpg"><br>
+<small>Prvi okružni zbor omladine posle oslobođenja Prokuplja 1944. </small>

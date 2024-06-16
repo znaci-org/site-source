@@ -50,3 +50,6 @@ include "../includes/header.php";
   Eto tebi sina iz daleka,<br />
   izgrađena novoga čoveka.<br />
 </p>
+
+<img src="https://znaci.org/images/9523.jpg"><br>
+<small>Pokret boraca VIII i IX crnogorske brigade kroz Crnu Goru 1944.</small>

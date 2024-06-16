@@ -35,3 +35,5 @@ Ni smrtno ranjen ne pušta krika.<br>
 Prostrana je duša vojnika<br>
 Od rodnog praga<br>
 Do rova.</p>
+
+<img src="/images/vojnik-i-cvijet.jpg" alt="">

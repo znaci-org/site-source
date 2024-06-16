@@ -76,3 +76,6 @@ strijele odapete.<br/>
 Borka i mlada Mica<br/>
 paloga brata svete.<br/>
 <br/>
+
+<img src="https://znaci.org/images/3956.jpg"><br>
+<small>Milan Ostojić, dete borac slavonske omladinske brigade Joža Vlahović.</small>

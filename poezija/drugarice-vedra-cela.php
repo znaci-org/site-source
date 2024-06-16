@@ -27,3 +27,7 @@ include "../includes/header.php";
   Imaš srce od čelika,<br>
   Partizanska ti si dika.
 </p>
+
+<img src="https://znaci.org/images/13916.jpg"><br>
+
+<small>Neda Božinović,učesnik NOB od 1941.</small>
