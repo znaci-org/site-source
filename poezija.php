@@ -505,7 +505,7 @@ include "includes/header.php";
 
     <section>
         <h4>Karel Destovnik Kajuh</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zadnja_fografija_Karla_Destovnika_Kajuha.jpg/200px-Zadnja_fografija_Karla_Destovnika_Kajuha.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg/164px-Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
         <ul>
             <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
             <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim drugovima</a></li>
