@@ -347,6 +347,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Dušan Kostić</h4>
+        <ul>
+            <li><a href="poezija/zvijezde-i-covjek-u-samici.php">Zvijezde i čovjek u samici</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Anonimne / narodne pesme</h4>
         <ul>
             <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
@@ -1097,6 +1104,13 @@ include "includes/header.php";
         <h4>Jovan Popović</h4>
         <ul>
             <li><a href="poezija/pesma-o-iskovanoj-sreci.php">Pesma o iskovanoj sreći</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Dušan Kostić</h4>
+        <ul>
+            <li><a href="poezija/pred-partijom.php">Pred Partijom</a></li>
         </ul>
     </section>
 
