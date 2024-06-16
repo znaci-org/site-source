@@ -19,4 +19,4 @@ Pa i gnev je crven, što nas obuzima.</p>
 <p>O, tirani, čujte – ne treba vam kriti –<br>
 I osveta naša – crvena će biti!</p>
 
-<p>1894.</p>
+<p>(1894)</p>

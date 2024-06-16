@@ -52,3 +52,5 @@ Ko naša bomba, mitraljez i puška.</p>
 Nek tvoje kosti pokrivaju krpe,<br>
 Al jednom iznad naše mrtve hrpe<br>
 Životom ćeš se Smrti da osvetiš.</p>
+
+(1943)

@@ -23,6 +23,7 @@ include "includes/header.php";
             <li><a href="poezija/crvena.php">Crvena</a></li>
             <li><a href="poezija/potoku.php">Potoku</a></li>
             <li><a href="poezija/zvizdi-vetre.php">Zviždi vetre</a></li>
+            <li><a href="poezija/svet-je-nasa-otadzbina.php">Svet je naša otadžbina</a></li>
         </ul>
     </section>
 
@@ -53,15 +54,24 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Esad Mekuli</h4>
+        <ul>
+            <li><a href="poezija/na-putu.php">Na putu</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Oskar Davičo</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sh/8/8e/Oskar_Davico.jpg" alt="">
         <ul>
             <li><a href="poezija/1929.php">Sećanje na prvomajski miting u Izbištu 1929.</a></li>
-            <li><a href="poezija/celija.php">Ćelija</a></li>
             <li><a href="poezija/srbija.php">Srbija</a></li>
+            <li><a href="poezija/celija.php">Ćelija</a></li>
+            <li><a href="poezija/izvestaj-iz-srbije.php">Izveštaj iz Srbije</a></li>
             <li><a href="poezija/i-krv.php">I krv...</a></li>
             <li><a href="poezija/samicari.php">Samičari</a></li>
-            <li><a href="poezija/u-spomen-na-tamnovanje-svetozara-markovica.php">U spomen na tamnovanje Svetozara Markovića</a></li>
+            <li><a href="poezija/proveriti.php">Proveriti</a></li>
+            <li><a href="poezija/u-spomen-na-tamnovanje-svetozara-markovica.php">U spomen na tamnovanje Svetozara Markovića</a> (poema)</li>
             <li><a href="poezija/skoro-ce-biti-svi-ljudi-siti.php">Skoro će biti svi ljudi siti</a></li>
         </ul>
     </section>
@@ -350,6 +360,7 @@ include "includes/header.php";
             <li><a href="poezija/mracno-doba.php">Mračno doba</a></li>
             <li><a href="poezija/komunistickoj-partiji.php">Komunističkoj partiji</a></li>
             <li><a href="poezija/mrzimo-vas.php">Mrzimo vas!</a></li>
+            <li><a href="poezija/trajanje.php">Trajanje</a></li>
             <li><a href="poezija/jama.php">Jama</a> (poema)</li>
             <li><a href="poezija/moj-grob.php">Moj grob</a></li>
         </ul>
@@ -632,6 +643,7 @@ include "includes/header.php";
         <h4>Ante Boglić</h4>
         <ul>
             <li><a href="poezija/od-tog-jutra.php">Od tog jutra</a></li>
+            <li><a href="poezija/tamo-na-savskoj.php">Tamo na Savskoj...</a></li>
         </ul>
     </section>
 
@@ -973,6 +985,7 @@ include "includes/header.php";
     <section>
         <h4>Tanasije Mladenović</h4>
         <ul>
+            <li><a href="poezija/oblaci.php">Oblaci</a></li>
             <li><a href="poezija/poema-za-nas.php">Poema za nas</a></li>
         </ul>
     </section>
@@ -981,6 +994,20 @@ include "includes/header.php";
         <h4>Aleksandar Tišma</h4>
         <ul>
             <li><a href="poezija/jevrejsko-groblje.php">Jevrejsko groblje</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Oskar Davičo</h4>
+        <ul>
+            <li><a href="poezija/cinjenice.php">Činjenice (O Španijo)</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Čedomir Minderović</h4>
+        <ul>
+            <li><a href="poezija/nasa-jesen.php">Naša jesen</a></li>
         </ul>
     </section>
 

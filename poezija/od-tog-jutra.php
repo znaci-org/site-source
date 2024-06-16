@@ -37,3 +37,5 @@ Od toga jutra planule su iskre požara,<br/>
 krca se zavjerila<br/>
 a ruke stegnule<br/>
 za jedno dugo i krvavo oranje.<br/>
+<br/>
+(1941)<br/>

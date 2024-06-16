@@ -487,3 +487,5 @@ include "../includes/header.php";
   Vaša mi pjesma vraća svjetlo oka,<br />
   Ko narod silna, ko sunce visoka.<br />
 </p>
+
+(1941-1943)

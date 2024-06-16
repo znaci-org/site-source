@@ -34,3 +34,5 @@ Ko draguljne zrake sjaju. Tane<br>
 U grudima svijetlom krvi plane.<br>
 Obukle se u skrlet ti rane,<br>
 Drugarice!</p>
+
+(1943)
