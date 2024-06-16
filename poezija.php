@@ -13,7 +13,7 @@ include "includes/header.php";
     <li><a href="#poratna">V Poratna jugoslovenska poezija</a></li>
 </ul>
 
-<p>Neki autori se sa različitim pesmama nalaze u više kategorija.</p>
+<p>Neki autori se nalaze u više kategorija.</p>
 
 <h2 id="predratna">Predratna socijalna poezija</h2>
 
@@ -31,7 +31,7 @@ include "includes/header.php";
 
     <section>
         <h4>Miroslav Krleža</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/sh/3/36/Miroslav_Krle%C5%BEa.jpg" alt="">
+        <img src="/images/krleza-1934.jpg" title="Miroslav Krleža 1934.">
         <ul>
             <li><a href="poezija/nasa-kuca.php">Naša kuća</a></li>
             <li><a href="poezija/plameni-vjetar.php">Plameni vjetar</a></li>
@@ -116,7 +116,7 @@ include "includes/header.php";
 
     <section>
         <h4>Kosta Kočo Racin</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник.">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник во 1920-тите">
         <ul>
             <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
             <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
@@ -440,6 +440,13 @@ include "includes/header.php";
             <li><a href="poezija/strijeljanoj-maloj-ani-studentkinji.php">Strijeljanoj maloj Ani studentkinji</a></li>
             <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
             <li><a href="poezija/bez-granice.php">Bez granice</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Risto Tošović</h4>
+        <ul>
+            <li><a href="poezija/ni-tebe-djevojko-nema.php">Ni tebe, djevojko, nema</a></li>
         </ul>
     </section>
 
