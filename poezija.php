@@ -296,6 +296,15 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Radivoj Koparec</h4>
+        <ul>
+            <li><a href="poezija/pesnici.php">Pesnici</a></li>
+            <li><a href="poezija/mladost.php">Mladost</a></li>
+            <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Anonimne / narodne pesme</h4>
         <ul>
             <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
@@ -536,14 +545,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Radivoj Koparec</h4>
-        <ul>
-            <li><a href="poezija/pesnici.php">Pesnici</a></li>
-            <li><a href="poezija/mladost.php">Mladost</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Miloš Popović Đurin</h4>
         <ul>
             <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
@@ -662,15 +663,6 @@ include "includes/header.php";
             <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
             <li><a href="poezija/tifusari.php">Tifusari</a> (poema)</li>
             <li><a href="poezija/pjesma-sutrasnjemu.php">Pjesma sutrašnjemu</a></li>
-            <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
-        </ul>
-    </section>
-
-    <section>
-        <h4>Jure Franičević Pločar</h4>
-        <ul>
-            <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
-            <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
         </ul>
     </section>
 
@@ -1108,6 +1100,15 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Jure Franičević Pločar</h4>
+        <ul>
+            <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
+            <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
+            <li><a href="poezija/dubine-i-jarboli.php">Dubine i jarboli</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Dušan Kostić</h4>
         <ul>
             <li><a href="poezija/pred-partijom.php">Pred Partijom</a></li>
@@ -1118,6 +1119,14 @@ include "includes/header.php";
         <h4>Čedomir Minderović</h4>
         <ul>
             <li><a href="poezija/nasa-jesen.php">Naša jesen</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Jure Kaštelan</h4>
+        <ul>
+            <li><a href="poezija/pjesma-o-mojoj-zemlji.php">Pjesma o mojoj zemlji</a></li>
+            <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
         </ul>
     </section>
 
