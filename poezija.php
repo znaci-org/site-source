@@ -468,6 +468,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Kole Nedelkovski</h4>
+        <ul>
+            <li><a href="poezija/glas-od-makedonija.php">Глас од Македонија</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Razija Handžić</h4>
         <ul>
             <li><a href="poezija/noc-1941.php">Noć 1941.</a></li>
@@ -619,6 +626,7 @@ include "includes/header.php";
         <h4>Milorad Panić Surep</h4>
         <ul>
             <li><a href="poezija/beograd-tacno-u-ponoc.php">Beograd tačno u ponoć</a></li>
+            <li><a href="poezija/oci-palog-druga.php">Oči palog druga</a></li>
         </ul>
     </section>
 
