@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Popović - Pjesnik - borac</h1>
+<h1>Vladimir Popović - Pjesnik-borac</h1>
 
 <i>U spomen Augustu Cesarcu</i><br/>
 <br/>

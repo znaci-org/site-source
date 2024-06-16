@@ -258,6 +258,7 @@ include "includes/header.php";
     <section>
         <h4>Čedomir Minderović</h4>
         <ul>
+            <li><a href="poezija/u-suton.php">U suton</a></li>
             <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
             <li><a href="poezija/uspavanka-minderovic.php">Uspavanka</a></li>
         </ul>
@@ -308,6 +309,13 @@ include "includes/header.php";
 <h2 id="spanske">Poezija španske revolucije</h2>
 
 <div class="knjige columns">
+    <section>
+        <h4>Čedomir Minderović</h4>
+        <ul>
+            <li><a href="poezija/posle-iruna.php">Posle Iruna</a></li>
+        </ul>
+    </section>
+
     <section>
         <h4>Dušan Matić</h4>
         <ul>
@@ -659,7 +667,7 @@ include "includes/header.php";
             <li><a href="poezija/suocenja.php">Suočenja</a> (poema)</li>
             <li><a href="poezija/svjetlo-rijeci.php">Svjetlo riječi</a></li>
             <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
-            <li><a href="poezija/pjesnik-borac.php">Pjesnik - borac</a></li>
+            <li><a href="poezija/pjesnik-borac.php">Pjesnik-borac</a></li>
             <li><a href="poezija/nas-bog.php">Naš bog</a></li>
         </ul>
     </section>
@@ -1009,6 +1017,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Vladimir Popović</h4>
+        <ul>
+            <li><a href="poezija/oci-popovic.php">Oči</a> (poema)</li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Jevrem Brković</h4>
         <ul>
             <li><a href="poezija/komesar.php">Komesar</a></li>
@@ -1019,6 +1034,14 @@ include "includes/header.php";
         <h4>Slobodan Marković</h4>
         <ul>
             <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Šime Vučetić</h4>
+        <ul>
+            <li><a href="poezija/zvijezda.php">Zvijezda</a></li>
+            <li><a href="poezija/biokovo.php">Biokovo</a></li>
         </ul>
     </section>
 
