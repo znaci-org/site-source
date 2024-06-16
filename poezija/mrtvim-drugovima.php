@@ -5,7 +5,49 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Mrtvim drugovima</h1>
+<h1>Karel Destovnik Kajuh - Mrtvim tovarišem</h1>
+
+Nisem te poznal<br/>
+in vendar sem dobro te poznal,<br/>
+tovariš, ki si v partizanih pal.<br/>
+Ne vem, če sive si imel oči,<br/>
+ne vem, če trde, hrapave dlani,<br/>
+a vendar sem natanko te poznal,<br/>
+ker si življenje za življenje dal.<br/>
+<br/>
+Nisem te poznal<br/>
+in vendar sem dodobra te poznal,<br/>
+tovariš, ki ob zidu klecnil si krvav.<br/>
+Ne vem, če tvoja mati še živi,<br/>
+ne vem, če ljubico imel si ti,<br/>
+a vendar sem natanko te poznal,<br/>
+ker si s krvjo nam pot zaznamoval.<br/>
+<br/>
+Nisem te poznal<br/>
+in vendar sem dodobra te poznal,<br/>
+tovariš, ki si na Iztoku pal.<br/>
+Ne vem, če velike si bil rasti,<br/>
+ne vem, če bil s sibirske si strani,<br/>
+a vendar sem natanko te poznal,<br/>
+ker si v Armadi Rdeči pal.<br/>
+<br/>
+Poznal sem vas,<br/>
+tovariši,<br/>
+prav vse sem vas poznal,<br/>
+vsakogar,<br/>
+ki je v naših vrstah stal,<br/>
+vsakogar,<br/>
+ki s krvjo je svojo<br/>
+znamenja<br/>
+klesàl,<br/>
+znamenja,<br/>
+ki jih bo vsak iskal,<br/>
+znamenja,<br/>
+ki se po njih bo naš korak ravnal,<br/>
+čeprav<br/>
+še huje bi vihar divjal.<br/>
+
+<h1>Mrtvim drugovima</h1>
 
 <p>Nisam te poznavao<br>
 a dobro sam te znao,<br>

@@ -487,6 +487,7 @@ include "includes/header.php";
     <section>
         <h4>Karel Destovnik Kajuh</h4>
         <ul>
+            <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
             <li><a href="poezija/mrtvim-drugovima.php">Mrtvim drugovima</a></li>
             <li><a href="poezija/bosi-podjimo-devojko-zorom.php">Bosi pođimo, devojko, zorom</a></li>
             <li><a href="poezija/majke-nase-napacene.php">Majke, majke naše napaćene</a></li>

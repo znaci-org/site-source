@@ -5,7 +5,27 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Majke, majke naše napaćene</h1>
+<h1>Karel Destovnik Kajuh - Matere, matere naše trpeče</h1>
+
+Matere, matere naše trpeče,<br/>
+lačne in blede,<br/>
+žene noseče,<br/>
+v mesecu zadnjem zajete v barake,<br/>
+nosijo v sebi mrtvake, mrtvake ...<br/>
+<br/>
+Trupelca plava,<br/>
+mrzla – krvava<br/>
+bodo rodile<br/>
+in omahnile ...<br/>
+<br/>
+Matere, matere,<br/>
+žene noseče,<br/>
+lačne in blede,<br/>
+grozno trpeče,<br/>
+nosijo v sebi mrtvake, mrtvake,<br/>
+vse bolj je čuti svobode korake ...<br/>
+
+<h1>Majke, majke naše napaćene</h1>
 
 Majke, majke naše napaćene,<br/>
 gladne i blede,<br/>
