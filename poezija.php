@@ -1108,6 +1108,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Mak Dizdar</h4>
+        <ul>
+            <li><a href="poezija/tezak-put.php">Težak put</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Narodne pesme</h4>
         <ul>
             <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
