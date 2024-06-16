@@ -60,3 +60,7 @@ i uspavanka uz kolevku skrita.<br/>
 <p>O ovoj pesmi pesnikinja je rekla sledeće:</p>
 
 <p>„U jesen 1941. godine našla sam se u selu Slovcu blizu Valjeva kada su partizani pokvarili prugu i porušili most preko kojeg je pruga prelazila. Nemački oklopni voz koji je jurio od Valjeva prema Beogradu bio je zaustavljen. Iz šumara, u oktobarskom plamenu, posmatrala sam kako je naglo splasla nemačka samouverenost, kako su se uzmuvali oko prepreke, naizgled tako male, koja je zaustavila njihovu silu; kako su se osvrtali uznemireno na male kućice po polju, na njive i šumarke; kako su s podozrenjem gledali seosku decu i starice koje bi se pojavile po dvorištima. Najednom je u meni nabujao ponos, mada sama nisam doprinela ovom njihovom strahu. Sve u meni je zapevalo od sreće što su bar za trenutak zaustavljeni u svojoj oholosti i samouverenosti. Bilo mi je milo što pripadam narodu koji ume da plaši one kojih se ceo svet tada plašio – i rodio se središnji stih pesme ’Spomen na ustanak’ koji glasi: ’Srbija je velika tajna’. Pesmu sam bila tako i nazvala, s tim naslovom je čekala skrivena među hartijama; ali posle oslobođenja, po savetu jednog od drugova, nazvala sam je ’Spomen na ustanak’ jer se zbilja u njoj govori o prvom ustanku u Srbiji, o onim prvim svetlim danima kada se narod posle sloma prenuo...“</p>
+
+<img src="https://znaci.org/images/15675.jpg" alt="Diverzantska akcija partizana u Srbiji na pruzi Čačak - Užice 1941.">
+
+<small>Diverzantska akcija smallartizana u Srbiji na pruzi Čačak - Užice 1941.</p>

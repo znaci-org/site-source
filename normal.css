@@ -13,6 +13,10 @@ body {
     margin: 1%;
 }
 
+img {
+    max-width: 100%;
+}
+
 button {
     cursor: pointer;
     min-width: 28px;
