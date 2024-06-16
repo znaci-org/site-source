@@ -310,7 +310,6 @@ include "includes/header.php";
             <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
             <li><a href="poezija/himna-zidara.php">Himna zidara</a></li>
             <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
-            <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
         </ul>
     </section>
 </div>
