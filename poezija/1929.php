@@ -5,9 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - 1929.</h1>
-
-<i>Sećanje na prvomajski miting u Izbištu 1929.</i>
+<h1>Oskar Davičo - Sećanje na prvomajski miting u Izbištu 1929.</h1>
 
 <p>
   Bila je tada dvaest deveta,<br />
@@ -316,3 +314,5 @@ include "../includes/header.php";
   širom svih polja<br />
   stali da kose.<br />
 </p>
+
+(1929)

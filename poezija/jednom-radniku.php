@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kosta Kočo Racin - Jednom radniku</h1>
+<h1>Kočo Racin - Jednom radniku</h1>
 
 <p>Da budeš čovek, krv toplu da imaš,<br>
 da misliš glavom i da rukama radiš,<br>

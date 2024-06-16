@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kosta Kočo Racin - U predvečerje</h1>
+<h1>Kočo Racin - U predvečerje</h1>
 
 <p>
   Mrtve smo stvari, mašine od krvi:<br />

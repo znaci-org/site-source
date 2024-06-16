@@ -21,6 +21,7 @@ include "includes/header.php";
         <h4>Kosta Abrašević</h4>
         <ul>
             <li><a href="poezija/crvena.php">Crvena</a></li>
+            <li><a href="poezija/potoku.php">Potoku</a></li>
             <li><a href="poezija/zvizdi-vetre.php">Zviždi vetre</a></li>
         </ul>
     </section>
@@ -45,11 +46,17 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Oton Župančič</h4>
+        <ul>
+            <li><a href="poezija/kovaska.php">Kovaška</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Oskar Davičo</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sh/8/8e/Oskar_Davico.jpg" alt="">
         <ul>
-            <li><a href="poezija/1929.php">1929.</a></li>
-            <li><a href="poezija/mesec-i-mraz.php">Mesec i mraz</a></li>
+            <li><a href="poezija/1929.php">Sećanje na prvomajski miting u Izbištu 1929.</a></li>
             <li><a href="poezija/celija.php">Ćelija</a></li>
             <li><a href="poezija/srbija.php">Srbija</a></li>
             <li><a href="poezija/i-krv.php">I krv...</a></li>
@@ -97,14 +104,14 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Kosta Kočo Racin</h4>
+        <h4>Kočo Racin</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник.">
         <ul>
             <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
             <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
             <li><a href="poezija/vatromet.php">Vatromet</a></li>
             <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
-            <li><a href="poezija/tuga.php">Tuga</a></li>
+            <li><a href="poezija/pecal.php">Tuga</a></li>
             <li><a href="poezija/tatunco.php">Tatunčo</a></li>
             <li><a href="poezija/denovi.php">Denovi</a></li>
         </ul>
@@ -229,6 +236,7 @@ include "includes/header.php";
     <section>
         <h4>Mile Klopčič</h4>
         <ul>
+            <li><a href="poezija/pogreb.php">Pogreb</a></li>
             <li><a href="poezija/drejcnik-andrej-govori.php">Drejčnik Andrej govori</a></li>
         </ul>
     </section>
@@ -959,6 +967,13 @@ include "includes/header.php";
         <h4>Slobodan Marković</h4>
         <ul>
             <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Tanasije Mladenović</h4>
+        <ul>
+            <li><a href="poezija/poema-za-nas.php">Poema za nas</a></li>
         </ul>
     </section>
 
