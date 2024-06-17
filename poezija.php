@@ -13,7 +13,7 @@ include "includes/header.php";
     <li><a href="#poratna">V Poratna jugoslovenska poezija</a></li>
 </ul>
 
-<p>Neki autori se nalaze u više kategorija.</p>
+<p>Mnogi autori se nalaze u više kategorija.</p>
 
 <h2 id="predratna">Predratna socijalna poezija</h2>
 
@@ -269,6 +269,13 @@ include "includes/header.php";
             <li><a href="poezija/predgradje.php">Predgrađe</a></li>
             <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
             <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
+        </ul>
+    </article>
+
+    <article>
+        <h4>Gvido Tartalja</h4>
+        <ul>
+            <li><a href="poezija/bratstvo-putuje-i-peva.php">Bratstvo putuje i peva</a></li>
         </ul>
     </article>
 
@@ -1366,6 +1373,13 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/pjesma-o-mojoj-zemlji.php">Pjesma o mojoj zemlji</a></li>
             <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
+        </ul>
+    </article>
+
+    <article>
+        <h4>Esad Mekuli</h4>
+        <ul>
+            <li><a href="poezija/i-mi-smo-ljudi.php">I mi smo ljudi</a></li>
         </ul>
     </article>
 
