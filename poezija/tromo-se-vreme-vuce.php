@@ -26,3 +26,5 @@ Pa to je za mene smrt.</p>
 Žerajić soko sivi:<br>
 Ko hoće da živi nek mre,<br>
 Ko hoće da mre nek živi.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Drawing_of_Thomas_Low_Nichols_in_jail.png/640px-Drawing_of_Thomas_Low_Nichols_in_jail.png" alt="">

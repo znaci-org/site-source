@@ -350,6 +350,20 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Novak Simić</h4>
+        <ul>
+            <li><a href="poezija/u-samici.php">U samici</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Hamid Dizdar</h4>
+        <ul>
+            <li><a href="poezija/pjesma-zidarskih-radnika.php">Pjesma zidarskih radnika</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Anonimne / narodne pesme</h4>
         <ul>
             <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
@@ -471,6 +485,13 @@ include "includes/header.php";
             <li><a href="poezija/trajanje.php">Trajanje</a></li>
             <li><a href="poezija/pastiri.php">Pastiri</a></li>
             <li><a href="poezija/moj-grob.php">Moj grob</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Ivo Frol</h4>
+        <ul>
+            <li><a href="poezija/krajisnik.php">Krajišnik</a></li>
         </ul>
     </section>
 
