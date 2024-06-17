@@ -67,4 +67,7 @@ kao da smrt nije ništa.</p>
 istog časa se uzneli<br>
 do večnog boravišta.</p>
 
-(1941)
+<p>(1941)</p>
+
+<img src="http://www.znaci.org/images/12647.jpg" alt=""><br>
+<small>Streljanje talaca u Kragujevcu oktobra 1941.</small>

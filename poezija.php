@@ -785,13 +785,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Velimir Milošević</h4>
-        <ul>
-            <li><a href="poezija/prelaz-preko-neretve.php">Prelaz preko Neretve</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Vladimir Popović</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vladimir_Popovi%C4%87_u_Bosni.jpg/200px-Vladimir_Popovi%C4%87_u_Bosni.jpg" title="Vladimir Popović u Bosni">
         <ul>
@@ -1149,6 +1142,7 @@ include "includes/header.php";
     <section>
         <h4>Radovan Zogović</h4>
         <ul>
+            <li><a href="poezija/iako-nece-doci.php">Iako neće doći</a></li>
             <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
         </ul>
     </section>
@@ -1186,6 +1180,13 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
             <li><a href="poezija/hlebovi.php">Hlebovi</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Radoje Radovanović</h4>
+        <ul>
+            <li><a href="poezija/kragujevac.php">Kragujevac</a></li>
         </ul>
     </section>
 
@@ -1231,6 +1232,14 @@ include "includes/header.php";
         <h4>Augustin Stipčević</h4>
         <ul>
             <li><a href="poezija/sunce-u-celiji.php">Sunce u ćeliji</a> (poema)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Velimir Milošević</h4>
+        <ul>
+            <li><a href="poezija/prelaz-preko-neretve.php">Prelaz preko Neretve</a></li>
+            <li><a href="poezija/ratnik.php">Ratnik</a></li>
         </ul>
     </section>
 
