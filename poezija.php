@@ -78,7 +78,7 @@ include "includes/header.php";
             <li><a href="poezija/i-krv.php">I krv...</a></li>
             <li><a href="poezija/samicari.php">Samičari</a></li>
             <li><a href="poezija/u-spomen-na-tamnovanje-svetozara-markovica.php">U spomen na tamnovanje Svetozara Markovića</a> (poema)</li>
-            <li><a href="poezija/skoro-ce-biti-svi-ljudi-siti.php">Skoro će biti svi ljudi siti</a></li>
+            <li><a href="poezija/nemir.php">Nemir</a></li>
             <li><a href="poezija/proveriti.php">Proveriti</a></li>
         </ul>
     </article>
@@ -111,8 +111,8 @@ include "includes/header.php";
     <article>
         <h4>Mirko Banjević</h4>
         <ul>
-            <li><a href="poezija/rat-banjevic.php">Rat</a></li>
             <li><a href="poezija/lageri.php">Lageri</a></li>
+            <li><a href="poezija/rat-banjevic.php">Rat</a></li>
             <li><a href="poezija/1923.php">1923.</a></li>
             <li><a href="poezija/belveder.php">Belveder</a></li>
             <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>

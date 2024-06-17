@@ -5,9 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - Skoro će biti svi ljudi siti</h1>
-
-(<i>poznata i kao Nemir</i>)
+<h1>Oskar Davičo - Nemir</h1>
 
 <p>
 Skoro će doći, skoro će proći,<br/>
@@ -29,4 +27,9 @@ O, tada će, tada će svud biti palače,<br/>
 svud biće kikota, smeha,<br/>
 sanjaće, pevaće ljubav i proleće<br/>
 s cvrkutom ispod streha.<br/>
+</p>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Jelena_%C4%86etkovi%C4%87.jpg" alt=""><br>
+  <small>Jelena Ćetković govori na sahrani ubijene drugarice Božane Vučinić 1937. godine.</small>
 </p>
