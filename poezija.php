@@ -215,6 +215,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Pere Ljubić</h4>
+        <ul>
+            <li><a href="poezija/matij-ivanic.php">Matij Ivanić</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Stanislav Vinaver</h4>
         <ul>
             <li><a href="poezija/drugi-dan-na-putu-kroz-haos.php">Drugi dan na putu kroz haos</a></li>
@@ -630,12 +637,13 @@ include "includes/header.php";
             <li><a href="poezija/na-zgaristu.php">Na zgarištu</a></li>
             <li><a href="poezija/razgovor-kostiju.php">Razgovor kostiju</a></li>
             <li><a href="poezija/ruka.php">Ruka</a></li>
-            <li><a href="poezija/zapis.php">Zapis</a></li>
             <li><a href="poezija/i-to-je-slava.php">I to je slava</a></li>
-            <li><a href="poezija/povratak.php">Povratak</a></li>
-            <li><a href="poezija/nevid.php">Nevid</a></li>
+            <li><a href="poezija/zvijezda-banjevic.php">Zvijezda</a></li>
             <li><a href="poezija/sutjeska.php">Sutjeska I</a> (poema)</li>
             <li><a href="poezija/sutjeska-2.php">Sutjeska II</a> (poema)</li>
+            <li><a href="poezija/povratak.php">Povratak</a></li>
+            <li><a href="poezija/nevid.php">Nevid</a></li>
+            <li><a href="poezija/zapis.php">Zapis</a></li>
         </ul>
     </section>
 
@@ -685,6 +693,13 @@ include "includes/header.php";
             <li><a href="poezija/izjava.php">Izjava</a></li>
             <li><a href="poezija/pesnice-znas-svoj-dug.php">Pesniče, znaš svoj dug?</a></li>
             <li><a href="poezija/vseh-zivih-dan.php">Vseh živih dan</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Drago Gervais</h4>
+        <ul>
+            <li><a href="poezija/kmet-se-je-stal.php">Kmet se je stal</a></li>
         </ul>
     </section>
 
@@ -1016,6 +1031,13 @@ include "includes/header.php";
         <h4>Izet Sarajlić</h4>
         <ul>
             <li><a href="poezija/rodjeni-1923-streljani-1942.php">Rođeni 23, streljani 42.</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Miroslav Feldman</h4>
+        <ul>
+            <li><a href="poezija/odjekuju-rafali.php">Odjekuju rafali</a></li>
         </ul>
     </section>
 

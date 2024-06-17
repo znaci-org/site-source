@@ -28,3 +28,7 @@ onda bi takav čovjek mogao s punim pravom da kaže:<br>
 Izvršio sam svoju ljudsku i građansku dužnost.</p>
 
 (1952)
+
+<p>
+  <img src="https://znaci.org/images/116.jpg" alt="Tito">
+</p>
