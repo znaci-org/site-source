@@ -21,3 +21,7 @@ Le nikar ne jočite za nami,<br/>
 žene, matere, dekleta.<br/>
 Jutri pademo v gramozni jami,<br/>
 kakor dobra zvesta četa.<br/>
+<br>
+
+<img src="http://www.znaci.org/images/16244.jpg" alt=""><br>
+<small>Streljanje talaca u Gorenjskoj, Slovenija 22. avgusta 1941. godine.</small>

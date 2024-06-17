@@ -415,6 +415,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Slavko Mandić</h4>
+        <ul>
+            <li><a href="poezija/ko-smo.php">Ko smo</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Ivan Goran Kovačić</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg/200px-Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg" title="Ivan Goran Kovačić recituje svoju poeziju saborcima na Sutjesci.">
         <ul>
@@ -491,6 +498,7 @@ include "includes/header.php";
         <h4>Marin Franičević</h4>
         <ul>
             <li><a href="poezija/susret.php">Susret</a></li>
+            <li><a href="poezija/vidjeh-split-u-zici.php">Vidjeh Split u žici</a></li>
             <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
         </ul>
     </section>
@@ -659,6 +667,7 @@ include "includes/header.php";
         <h4>Karel Destovnik Kajuh</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg/164px-Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
         <ul>
+            <li><a href="poezija/zakaj-tovaris.php">Zašto, druže</a></li>
             <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
             <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim drugovima</a></li>
             <li><a href="poezija/bosa-pojdiva-dekle-obsorej.php">Bosi pođimo, devojko, zorom</a></li>
@@ -1266,6 +1275,13 @@ include "includes/header.php";
         <h4>Gojko Dapčević</h4>
         <ul>
             <li><a href="poezija/himna-za-nepokorenu-zemlju.php">Himna za nepokorenu zemlju</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Momčilo Popadić</h4>
+        <ul>
+            <li><a href="poezija/oporucna-balada.php">Oporučna balada</a></li>
         </ul>
     </section>
 

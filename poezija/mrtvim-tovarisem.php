@@ -84,3 +84,6 @@ metar po metar<br>
 znamenja<br>
 što smer kazuju lako,<br>
 pa makar strašnije duvao vetar.</p>
+
+<img src="http://www.znaci.org/images/7194.jpg" alt=""><br>
+<small>Zarobljena partizanka - borac Savinjskog partizanskog odreda Marna Puntz pred streljanje. </small>
