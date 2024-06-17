@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - Činjenice (O Španijo)</h1>
+<h1>Oskar Davičo - Činjenice</h1>
 
 Sećaš li se ovog što i sad vidiš?<br/>
 Sećaš se, ova noć, ova škrgutava peć puna ljudi bez krova,<br/>

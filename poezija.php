@@ -71,7 +71,6 @@ include "includes/header.php";
         <h4>Oskar Davičo</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sh/8/8e/Oskar_Davico.jpg" alt="">
         <ul>
-            <li><a href="poezija/1929.php">Sećanje na prvomajski miting u Izbištu 1929.</a></li>
             <li><a href="poezija/srbija.php">Srbija</a></li>
             <li><a href="poezija/celija.php">Ćelija</a></li>
             <li><a href="poezija/izvestaj-iz-srbije.php">Izveštaj iz Srbije</a></li>
@@ -1182,6 +1181,7 @@ include "includes/header.php";
 
     <section>
         <h4>Branko Ćopić</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Branko_Copic.jpg">
         <ul>
             <li><a href="poezija/prvi-koraci.php">Prvi koraci</a></li>
             <li><a href="poezija/odgovor-zemljaku.php">Odgovor zemljaku</a></li>
@@ -1321,9 +1321,18 @@ include "includes/header.php";
 
     <section>
         <h4>Oskar Davičo</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/192px-Oskar_Davico_1951.jpg">
         <ul>
             <li><a href="poezija/zrenjanin.php">Zrenjanin</a> (poema)</li>
-            <li><a href="poezija/cinjenice.php">Činjenice (O Španijo)</a></li>
+            <li>
+                <ul>
+                    <li><a href="poezija/zrenjanin.php#izbiste">Sećanje na prvomajski miting u Izbištu 1929.</a></li>
+                    <li><a href="poezija/zrenjanin.php#skupna-soba">Dolazak u skupnu sobu</a></li>
+                    <li><a href="poezija/zrenjanin.php#strajk-gladi">U štrajku gladi</a></li>
+                    <li><a href="poezija/zrenjanin.php#ponovni-susret">Ponovni susret u jutro</a></li>
+                </ul>
+            </li>
+            <li><a href="poezija/cinjenice.php">Činjenice</a></li>
         </ul>
     </section>
 
