@@ -203,12 +203,12 @@ h1 {
     column-gap: 20px;
 }
 
-.columns section {
+.columns article {
     break-inside: avoid-column;
 }
 
-section:first-child h3,
-section:first-child h4 {
+article:first-child h3,
+article:first-child h4 {
     margin-top: 0;
 }
 

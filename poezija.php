@@ -18,7 +18,7 @@ include "includes/header.php";
 <h2 id="predratna">Predratna socijalna poezija</h2>
 
 <div class="knjige columns">
-    <section>
+    <article>
         <h4>Kosta Abrašević</h4>
         <ul>
             <li><a href="poezija/crvena.php">Crvena</a></li>
@@ -26,16 +26,16 @@ include "includes/header.php";
             <li><a href="poezija/zvizdi-vetre.php">Zviždi vetre</a></li>
             <li><a href="poezija/svet-je-nasa-otadzbina.php">Svet je naša otadžbina</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ljubica Ivošević</h4>
         <ul>
             <li><a href="poezija/napred.php">Napred!</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Miroslav Krleža</h4>
         <img src="/images/krleza-1934.jpg" title="Miroslav Krleža 1934.">
         <ul>
@@ -51,23 +51,23 @@ include "includes/header.php";
             <li><a href="poezija/gospodja-u-posjeti-kod-bolesnog-djeteta.php">Gospođa u posjeti kod bolesnog djeteta svoje sluškinje</a></li>
             <li><a href="poezija/jeruzalemski-dijalog.php">Jeruzalemski dijalog</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Oton Župančič</h4>
         <ul>
             <li><a href="poezija/kovaska.php">Kovaška</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Esad Mekuli</h4>
         <ul>
             <li><a href="poezija/na-putu.php">Na putu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Oskar Davičo</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sh/8/8e/Oskar_Davico.jpg" alt="">
         <ul>
@@ -80,16 +80,16 @@ include "includes/header.php";
             <li><a href="poezija/skoro-ce-biti-svi-ljudi-siti.php">Skoro će biti svi ljudi siti</a></li>
             <li><a href="poezija/proveriti.php">Proveriti</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Igo Gruden</h4>
         <ul>
             <li><a href="poezija/balada-o-otroku.php">Balada o otroku</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ivan Goran Kovačić</h4>
         <ul>
             <li><a href="poezija/krvnice.php">Krvniče</a></li>
@@ -98,16 +98,16 @@ include "includes/header.php";
             <li><a href="poezija/oci-stjepana-radica.php">Oči Stjepana Radića</a></li>
             <li><a href="poezija/samome-sebi.php">Samome sebi</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Nedjelko Radić</h4>
         <ul>
             <li><a href="poezija/krik-rudara.php">Krik rudara</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mirko Banjević</h4>
         <ul>
             <li><a href="poezija/rat-banjevic.php">Rat</a></li>
@@ -116,31 +116,31 @@ include "includes/header.php";
             <li><a href="poezija/belveder.php">Belveder</a></li>
             <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vera Obrenović-Delibašić</h4>
         <ul>
             <li><a href="poezija/majka.php">Majka</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Rastko Petrović</h4>
         <ul>
             <li><a href="poezija/otac-moj-bese-li-zver.php">Majko, otac moj beše li zver?</a></li>
             <li><a href="poezija/lovcevo-bdenje.php">Lovčevo bdenje</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jovo Varagić</h4>
         <ul>
             <li><a href="poezija/pjesma-siromaha.php">Pjesma siromaha</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Kosta Kočo Racin</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник во 1920-тите">
         <ul>
@@ -155,116 +155,116 @@ include "includes/header.php";
             <li><a href="poezija/prostavanje.php">Проштавање</a></li>
             <li><a href="poezija/da-bides-covek.php">Да бидеш човек</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vinko Košak</h4>
         <ul>
             <li><a href="poezija/v-predmestju.php">V predmestju</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Gavrilo Princip</h4>
         <ul>
             <li><a href="poezija/tromo-se-vreme-vuce.php">Tromo se vreme vuče</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Janko Đonović</h4>
         <ul>
             <li><a href="poezija/djeca-rata.php">Djeca rata</a></li>
             <li><a href="poezija/crnci-i-crnogorci.php">Crnci i Crnogorci</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Hasan Kikić</h4>
         <ul>
             <li><a href="poezija/bozji-ljudi.php">Božji ljudi</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Vasiljev</h4>
         <ul>
             <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
             <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
             <li><a href="poezija/pesma-roba-u-podne.php">Pesma roba u podne</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vladimir Popović</h4>
         <ul>
             <li><a href="poezija/pisem-pjesme.php">Pišem pjesme</a></li>
             <li><a href="poezija/pjesma-radnici.php">Pjesma radnici</a></li>
             <li><a href="poezija/ceznja-iz-mrtvoga-doma.php">Čežnja iz mrtvoga doma</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Marko Ristić</h4>
         <ul>
             <li><a href="poezija/memento.php">Memento</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Tin Ujević</h4>
         <ul>
             <li><a href="poezija/pobratimstvo-lica-u-svemiru.php">Pobratimstvo lica u svemiru</a></li>
             <li><a href="poezija/zadrzane-sile-bica.php">Zadržane sile bića</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vjekoslav Majer</h4>
         <ul>
             <li><a href="poezija/ugljenari-u-gori.php">Ugljenari u gori</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Jerković</h4>
         <ul>
             <li><a href="poezija/radnik-na-pristanistu.php">Radnik na pristaništu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mate Balota</h4>
         <ul>
             <li><a href="poezija/koza.php">Koza</a></li>
             <li><a href="poezija/sipe-piva.php">Sipe piva</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Pere Ljubić</h4>
         <ul>
             <li><a href="poezija/matij-ivanic.php">Matij Ivanić</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Stanislav Vinaver</h4>
         <ul>
             <li><a href="poezija/drugi-dan-na-putu-kroz-haos.php">Drugi dan na putu kroz haos</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dobriša Cesarić</h4>
         <ul>
             <li><a href="poezija/predgradje.php">Predgrađe</a></li>
             <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
             <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Antun Branko Šimić</h4>
         <ul>
             <li><a href="poezija/zene-pred-uredima.php">Žene pred uredima</a></li>
@@ -272,172 +272,172 @@ include "includes/header.php";
             <li><a href="poezija/rucak-siromaha.php">Ručak siromaha</a></li>
             <li><a href="poezija/siromahu.php">Siromahu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>August Cesarec</h4>
         <ul>
             <li><a href="poezija/monolog-s-kuglom-zemaljskom.php">Monolog s kuglom zemaljskom</a></li>
             <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ilija Grbić</h4>
         <ul>
             <li><a href="poezija/proleteri.php">Proleteri</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jovan Popović</h4>
         <ul>
             <li><a href="poezija/krvavo-zlato.php">Krvavo zlato</a></li>
             <li><a href="poezija/mladici-na-zvonicima.php">Mladići na zvonicima</a></li>
             <li><a href="poezija/mesija-bez-portfelja.php">Mesija bez portfelja</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mile Klopčič</h4>
         <ul>
             <li><a href="poezija/pogreb.php">Pogreb</a></li>
             <li><a href="poezija/drejcnik-andrej-govori.php">Drejčnik Andrej govori</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Čedomir Minderović</h4>
         <ul>
             <li><a href="poezija/u-suton.php">U suton</a></li>
             <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
             <li><a href="poezija/uspavanka-minderovic.php">Uspavanka</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mihovil Pavlek Miškina</h4>
         <ul>
             <li><a href="poezija/crveni-makovi.php">Crveni makovi</a></li>
             <li><a href="poezija/matija-gubec.php">Matija Gubec</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Kosta Novaković</h4>
         <ul>
             <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a> (epska)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Matić i Aleksandar Vučo</h4>
         <ul>
             <li><a href="poezija/umro-je-gorki.php">Umro je Gorki</a></li>
             <li><a href="poezija/gromke-radnicke-stope.php">Gromke radničke stope</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Milan Apih</h4>
         <ul>
             <li><a href="poezija/nabrusimo-kose.php">Nabrusimo kose</a></li>
             <li><a href="poezija/bilecanka.php">Bilećanka</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Radivoj Koparec</h4>
         <ul>
             <li><a href="poezija/pesnici.php">Pesnici</a></li>
             <li><a href="poezija/mladost.php">Mladost</a></li>
             <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Novak Simić</h4>
         <ul>
             <li><a href="poezija/u-samici.php">U samici</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Hamid Dizdar</h4>
         <ul>
             <li><a href="poezija/pjesma-zidarskih-radnika.php">Pjesma zidarskih radnika</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Anonimne / narodne pesme</h4>
         <ul>
             <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
             <li><a href="poezija/himna-zidara.php">Himna zidara</a></li>
             <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
         </ul>
-    </section>
+    </article>
 </div>
 
 <h2 id="spanske">Poezija španske revolucije</h2>
 
 <div class="knjige columns">
-    <section>
+    <article>
         <h4>Čedomir Minderović</h4>
         <ul>
             <li><a href="poezija/posle-iruna.php">Posle Iruna</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Matić</h4>
         <ul>
             <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Karel Destovnik Kajuh</h4>
         <ul>
             <li><a href="poezija/spanija.php">Španija</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Kosta Kočo Racin</h4>
         <ul>
             <li><a href="poezija/ispanska-balada.php">Испанска балада</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ratko Pavlović Ćićko</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Latinovic%2C_Krsmanovic%2C_Kova%C4%8Devi%C4%87%2C_Cicko%2C_Braco_Vajs.png" title="Jugosloveni borci u Španiji 1938. godine. Dole u sredini Ratko Pavlović Ćićko.">
         <ul>
             <li><a href="poezija/majko.php">Majko!</a></li>
             <li><a href="poezija/drugovima-iz-andaluzije.php">Drugovima iz Andaluzije i Asturije</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Kostić</h4>
         <ul>
             <li><a href="poezija/zvijezde-i-covjek-u-samici.php">Zvijezde i čovjek u samici</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Anonimne / narodne pesme</h4>
         <ul>
             <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
         </ul>
-    </section>
+    </article>
 </div>
 
 <h2 id="poezija-NOB">Poezija NOB</h2>
 
 <div class="knjige columns">
-    <section>
+    <article>
         <h4>Branko Ćopić</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/%D0%9C%D0%B8%D1%80%D0%B0_%D0%90%D0%BB%D0%B5%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B_%D1%83_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0.jpg" title="Pesnici Branko Ćopić, Mira Alečković i Aco Šopov u partizanima.">
         <ul>
@@ -462,16 +462,16 @@ include "includes/header.php";
             <li><a href="poezija/zasto-smo-rusili.php">Zašto smo rušili</a></li>
             <li><a href="poezija/nasi-drugovi.php">Naši drugovi</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Slavko Mandić</h4>
         <ul>
             <li><a href="poezija/ko-smo.php">Ko smo</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ivan Goran Kovačić</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg/200px-Ivan_Goran_Kova%C4%8Di%C4%87_1_proleterska_1943.jpg" title="Ivan Goran Kovačić recituje svoju poeziju saborcima na Sutjesci.">
         <ul>
@@ -492,23 +492,23 @@ include "includes/header.php";
             <li><a href="poezija/pastiri.php">Pastiri</a></li>
             <li><a href="poezija/moj-grob.php">Moj grob</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ivo Frol</h4>
         <ul>
             <li><a href="poezija/krajisnik.php">Krajišnik</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Živko Jeličić</h4>
         <ul>
             <li><a href="poezija/pjesma-o-pituru-paski.php">Pjesma o pituru Paški koji se borio sa smrću</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vladimir Čerkez</h4>
         <ul>
             <li><a href="poezija/covjekova-pjesma.php">Čovjekova pjesma</a></li>
@@ -519,108 +519,108 @@ include "includes/header.php";
             <li><a href="poezija/staro-pismo.php">Staro pismo</a></li>
             <li><a href="poezija/jablanka.php">Jablanka</a> (poema)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Sreten Perović</h4>
         <ul>
             <li><a href="poezija/majka-ti-prilazi-liku.php">Majka ti prilazi liku</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Sait Orahovac</h4>
         <ul>
             <li><a href="poezija/smrt-fasizmu.php">Smrt fašizmu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Radovan Zogović</h4>
         <ul>
             <li><a href="poezija/strijeljanoj-maloj-ani-studentkinji.php">Strijeljanoj maloj Ani studentkinji</a></li>
             <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
             <li><a href="poezija/bez-granice.php">Bez granice</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Branko V. Radičević</h4>
         <ul>
             <li><a href="poezija/noc-iza-resetaka.php">Noć iza rešetaka</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Marin Franičević</h4>
         <ul>
             <li><a href="poezija/susret.php">Susret</a></li>
             <li><a href="poezija/vidjeh-split-u-zici.php">Vidjeh Split u žici</a></li>
             <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Risto Tošović</h4>
         <ul>
             <li><a href="poezija/ni-tebe-djevojko-nema.php">Ni tebe, djevojko, nema</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Oskar Davičo</h4>
         <ul>
             <li><a href="poezija/monolog-fratra.php">Monolog fratra</a></li>
             <li><a href="poezija/sloboda.php">Sloboda</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Džemil Džemo Krvavac</h4>
         <ul>
             <li><a href="poezija/zasto-ne-mogu-da-zaspim.php">Zašto ne mogu da zaspim</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Puniša Perović</h4>
         <ul>
             <li><a href="poezija/lanci-nam-se-kuju-kleti.php">Lanci nam se kuju kleti</a></li>
             <li><a href="poezija/komandant-sava.php">Komandant Sava</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Josip Cazi</h4>
         <ul>
             <li><a href="poezija/na-klancu.php">Na klancu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Skender Kulenović</h4>
         <ul>
             <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
             <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
             <li><a href="poezija/na-pravi-put-sam-ti-majko-iziso.php">Na pravi put sam ti, majko, izišo</a> (poema)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Velimir Kovačević</h4>
         <ul>
             <li><a href="poezija/moja-pjesma.php">Moja pjesma</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Slavko Janevski</h4>
         <ul>
             <li><a href="poezija/svadbarska-pesna.php">Свадбарска песна</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Tanasije Mladenović</h4>
         <ul>
             <li><a href="poezija/noc-pred-polazak.php">Noć pred polazak</a></li>
@@ -628,39 +628,39 @@ include "includes/header.php";
             <li><a href="poezija/sutjeska-mladenovic.php">Sutjeska</a></li>
             <li><a href="poezija/cvece-rata.php">Cveće rata</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mira Alečković</h4>
         <ul>
             <li><a href="poezija/balada-sa-neretve.php">Balada sa Neretve</a></li>
             <li><a href="poezija/u-mrazovita-jutra.php">U mrazovita jutra</a></li>
             <li><a href="poezija/da-zivot-bude-ljubav.php">Da život bude ljubav</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Kole Nedelkovski</h4>
         <ul>
             <li><a href="poezija/glas-od-makedonija.php">Глас од Македонија</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Razija Handžić</h4>
         <ul>
             <li><a href="poezija/noc-1941.php">Noć 1941.</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vera Obrenović-Delibašić</h4>
         <ul>
             <li><a href="poezija/pismo-s-fronta.php">Pismo s fronta</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vladimir Nazor</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vladimir_Nazor_u_Splitu_1944.jpg/200px-Vladimir_Nazor_u_Splitu_1944.jpg" title="Vladimir Nazor u Splitu 1944.">
         <ul>
@@ -675,59 +675,59 @@ include "includes/header.php";
             <li><a href="poezija/koca-i-peko.php">Koča i Peko</a></li>
             <li><a href="poezija/osamljeni-dub.php">Osamljeni dub</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jovan Popović</h4>
         <ul>
             <li><a href="poezija/prolece-1942.php">Proleće 1942.</a></li>
             <li><a href="poezija/idbarska-balada.php">Idbarska balada</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vukajlo Kukalj</h4>
         <ul>
             <li><a href="poezija/pismo-mojim-djacima.php">Pismo mojim đacima</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Krsto Krivokapić</h4>
         <ul>
             <li><a href="poezija/ranjenik-na-jahorini.php">Ranjenik na Jahorini</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Janus Međedović</h4>
         <ul>
             <li><a href="poezija/skriveni-grob.php">Skriveni grob</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Miloš Popović Đurin</h4>
         <ul>
             <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Enver Đerđeku</h4>
         <ul>
             <li><a href="poezija/zrak-na-uzetu.php">Zrak na užetu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Zdenko Štambuk</h4>
         <ul>
             <li><a href="poezija/kuriri.php">Kuriri</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Karel Destovnik Kajuh</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg/164px-Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
         <ul>
@@ -740,24 +740,24 @@ include "includes/header.php";
             <li><a href="poezija/nemskemu-proletariatu.php">Nemškemu proletariatu</a></li>
             <li><a href="poezija/preko-smrti-stopamo-v-svobodo.php">Preko smrti stopamo v svobodo</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Matić</h4>
         <ul>
             <li><a href="poezija/uspavanka-za-poginule.php">Uspavanka za poginule koji nemaju više od dvadeset godina</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Grigor Vitez</h4>
         <ul>
             <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
             <li><a href="poezija/san-boraca-u-zoru.php">San boraca u zoru</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mirko Banjević</h4>
         <ul>
             <li><a href="poezija/moj-grade.php">Moj grade</a></li>
@@ -772,16 +772,16 @@ include "includes/header.php";
             <li><a href="poezija/nevid.php">Nevid</a></li>
             <li><a href="poezija/zapis.php">Zapis</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ljubiša Jocić</h4>
         <ul>
             <li><a href="poezija/zelengora.php">Zelengora</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Matej Bor</h4>
         <ul>
             <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
@@ -789,32 +789,32 @@ include "includes/header.php";
             <li><a href="poezija/jutri-gremo-v-napad.php">Jutri gremo v napad</a></li>
             <li><a href="poezija/hej-brigade.php">Hej brigade</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jože Udovič</h4>
         <ul>
             <li><a href="poezija/poslednji-trenutak.php">Poslednji trenutak</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Milorad Panić Surep</h4>
         <ul>
             <li><a href="poezija/beograd-tacno-u-ponoc.php">Beograd tačno u ponoć</a></li>
             <li><a href="poezija/oci-palog-druga.php">Oči palog druga</a></li>
             <li><a href="poezija/zeravica-bez-supraske.php">Žeravica bez supraške</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>France Kosmač</h4>
         <ul>
             <li><a href="poezija/nismo-se-uklonili.php">Nismo se uklonili</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Oton Župančič</h4>
         <ul>
             <li><a href="poezija/izjava.php">Izjava</a></li>
@@ -822,16 +822,16 @@ include "includes/header.php";
             <li><a href="poezija/kar-je-kovina.php">Šta je metal</a></li>
             <li><a href="poezija/vseh-zivih-dan.php">Vseh živih dan</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Drago Gervais</h4>
         <ul>
             <li><a href="poezija/kmet-se-je-stal.php">Kmet se je stal</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jure Kaštelan</h4>
         <ul>
             <li><a href="poezija/dinamit.php">Dinamit</a></li>
@@ -840,9 +840,9 @@ include "includes/header.php";
             <li><a href="poezija/pjesma-sutrasnjemu.php">Pjesma sutrašnjemu</a></li>
             <li><a href="poezija/dvadeset-i-trojica.php">Dvadeset i trojica</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vladimir Popović</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vladimir_Popovi%C4%87_u_Bosni.jpg/200px-Vladimir_Popovi%C4%87_u_Bosni.jpg" title="Vladimir Popović u Bosni">
         <ul>
@@ -856,106 +856,106 @@ include "includes/header.php";
             <li><a href="poezija/pjesnik-borac.php">Pjesnik-borac</a></li>
             <li><a href="poezija/nas-bog.php">Naš bog</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Junuz Međedović</h4>
         <ul>
             <li><a href="poezija/tece-tara.php">Teče Tara</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ante Boglić</h4>
         <ul>
             <li><a href="poezija/od-tog-jutra.php">Od tog jutra</a></li>
             <li><a href="poezija/tamo-na-savskoj.php">Tamo na Savskoj...</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Željko Sabol</h4>
         <ul>
             <li><a href="poezija/el-shatt.php">El Shatt</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Kostić</h4>
         <ul>
             <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
             <li><a href="poezija/volujak.php">Volujak</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Drago Ivanišević</h4>
         <ul>
             <li><a href="poezija/na-grobu-partizana.php">Na grobu partizana</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Radonja Vešović</h4>
         <ul>
             <li><a href="poezija/nocni-mars.php">Noćni marš</a></li>
             <li><a href="poezija/spavac.php">Spavač</a></li>
             <li><a href="poezija/samo-jedan-je-zivot.php">Samo jedan je život</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Antun Barac</h4>
         <ul>
             <li><a href="poezija/casovi-klonuca.php">Časovi klonuća</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Aco Šopov</h4>
         <ul>
             <li><a href="poezija/oci.php">Oči</a></li>
             <li><a href="poezija/ko-celik-sme-nie.php">Ко челик сме ние</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Ivica Tomović</h4>
         <ul>
             <li><a href="poezija/ko-je-tito.php">Ko je Tito?</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Milan Dedinac</h4>
         <ul>
             <li><a href="poezija/najednom-je-banula-glad.php">Najednom je banula glad</a></li>
             <li><a href="poezija/slesko-bdenije.php">Šlesko bdenije</a></li>
             <li><a href="poezija/upamti.php">Upamti!</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Desanka Maksimović</h4>
         <ul>
             <li><a href="poezija/spomen-na-ustanak.php">Spomen na ustanak</a></li>
             <li><a href="poezija/krvava-bajka.php">Krvava bajka</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Miroslav Krleža</h4>
         <ul>
             <li><a href="poezija/evropa-1942.php">Evropa godine 1942.</a></li>
         </ul>
-    </section>
+    </article>
 </div>
 
 
 <h2 id="narodne-pesme">Narodne partizanske pesme</h2>
 
 <div class="knjige columns">
-    <section>
+    <article>
         <h3>Partizanske pesme iz Hrvatske</h3>
         <ul>
             <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a></li>
@@ -997,9 +997,9 @@ include "includes/header.php";
             <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epska)</li>
             <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h3>Partizanske pesme iz Bosne i Hercegovine</h3>
         <ul>
             <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
@@ -1022,9 +1022,9 @@ include "includes/header.php";
             <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
             <li><a href="poezija/bjela-vilo-kazi-pravo.php">B’jela vilo kaži pravo</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h3>Partizanske pesme iz Crne Gore</h3>
         <ul>
             <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
@@ -1033,9 +1033,9 @@ include "includes/header.php";
             <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
             <li><a href="poezija/ono-su-ti-ljute-zmije.php">Ono su ti ljute zmije, druga Peka divizije</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h3>Partizanske pesme iz Srbije</h3>
         <ul>
             <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
@@ -1069,9 +1069,9 @@ include "includes/header.php";
             <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
             <li><a href="poezija/sta-se-cuje-izdaleka.php">Šta se čuje izdaleka</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h3>Partizanske pesme iz Slovenije</h3>
         <ul>
             <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
@@ -1081,9 +1081,9 @@ include "includes/header.php";
             <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
             <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h3>Partizanske pesme iz Makedonije</h3>
 
         <ul>
@@ -1093,9 +1093,9 @@ include "includes/header.php";
             <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа, мамо</a></li>
             <li><a href="poezija/mlada-partizanka-da-stanam.php">Mlada partizanka da stanam</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h3>Opšte jugoslovenske</h3>
 
         <ul>
@@ -1124,29 +1124,29 @@ include "includes/header.php";
             <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
             <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
         </ul>
-    </section>
+    </article>
 </div>
 
 <h2 id="poratna">Poratna jugoslovenska poezija</h2>
 
 <div class="knjige columns">
-    <section>
+    <article>
         <h4>Desanka Maksimović</h4>
         <ul>
             <li><a href="poezija/majkama.php">Majkama</a></li>
             <li><a href="poezija/vukov-utuk.php">Vukov utuk</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Slavko Vukosavljević</h4>
         <ul>
             <li><a href="poezija/noc-u-titovom-uzicu.php">Noć u Titovom Užicu</a></li>
             <li><a href="poezija/kadinjaca.php">Kadinjača</a> (poema)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Branko Miljković</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sr/0/01/Brankomiljkovic.jpg" alt="">
         <ul>
@@ -1156,30 +1156,30 @@ include "includes/header.php";
             <li><a href="poezija/odbrana-zemlje.php">Odbrana zemlje</a></li>
             <li><a href="poezija/tito.php">Tito</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Miroslav Krleža</h4>
         <ul>
             <li><a href="poezija/o-titu.php">O Titu</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Izet Sarajlić</h4>
         <ul>
             <li><a href="poezija/rodjeni-1923-streljani-1942.php">Rođeni 23, streljani 42.</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Miroslav Feldman</h4>
         <ul>
             <li><a href="poezija/odjekuju-rafali.php">Odjekuju rafali</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Branko Ćopić</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Branko_Copic.jpg">
         <ul>
@@ -1190,136 +1190,136 @@ include "includes/header.php";
             <li><a href="poezija/nasi-saveznici.php">Naši saveznici</a></li>
             <li><a href="poezija/prica-o-izgubljenoj.php">Priča o izgubljenoj</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vasko Popa</h4>
         <ul>
             <li><a href="poezija/oci-sutjeske.php">Oči Sutjeske</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Radovan Zogović</h4>
         <ul>
             <li><a href="poezija/iako-nece-doci.php">Iako neće doći</a></li>
             <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Gvido Tartalja</h4>
         <ul>
             <li><a href="poezija/banovici.php">Banovići</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Blaže Koneski</h4>
         <ul>
             <li><a href="poezija/teskoto.php">Тешкото</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Vladimir Popović</h4>
         <ul>
             <li><a href="poezija/oci-popovic.php">Oči</a> (poema)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jevrem Brković</h4>
         <ul>
             <li><a href="poezija/komesar.php">Komesar</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Slobodan Marković</h4>
         <ul>
             <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
             <li><a href="poezija/hlebovi.php">Hlebovi</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Radoje Radovanović</h4>
         <ul>
             <li><a href="poezija/kragujevac.php">Kragujevac</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Šime Vučetić</h4>
         <ul>
             <li><a href="poezija/zvijezda.php">Zvijezda</a></li>
             <li><a href="poezija/biokovo.php">Biokovo</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Tanasije Mladenović</h4>
         <ul>
             <li><a href="poezija/oblaci.php">Oblaci</a></li>
             <li><a href="poezija/poema-za-nas.php">Poema za nas</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Aleksandar Tišma</h4>
         <ul>
             <li><a href="poezija/jevrejsko-groblje.php">Jevrejsko groblje</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Miroslav Mika Antić</h4>
         <ul>
             <li><a href="poezija/nadničar-1940.php">Nadničar 1940.</a></li>
             <li><a href="poezija/jedna-istina-iz-aprila.php">Jedna istina iz aprila</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Augustin Stipčević</h4>
         <ul>
             <li><a href="poezija/sunce-u-celiji.php">Sunce u ćeliji</a> (poema)</li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Velimir Milošević</h4>
         <ul>
             <li><a href="poezija/prelaz-preko-neretve.php">Prelaz preko Neretve</a></li>
             <li><a href="poezija/ratnik.php">Ratnik</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Kosta Kočo Racin</h4>
         <ul>
             <li><a href="poezija/balada-za-nepoznatiot.php">Balada nepoznatom vojniku</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jovan Popović</h4>
         <ul>
             <li><a href="poezija/pesma-o-iskovanoj-sreci.php">Pesma o iskovanoj sreći</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jure Franičević Pločar</h4>
         <ul>
             <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
             <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
             <li><a href="poezija/dubine-i-jarboli.php">Dubine i jarboli</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Oskar Davičo</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/192px-Oskar_Davico_1951.jpg">
         <ul>
@@ -1334,59 +1334,59 @@ include "includes/header.php";
             </li>
             <li><a href="poezija/cinjenice.php">Činjenice</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Dušan Kostić</h4>
         <ul>
             <li><a href="poezija/pred-partijom.php">Pred Partijom</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Čedomir Minderović</h4>
         <ul>
             <li><a href="poezija/nasa-jesen.php">Naša jesen</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Jure Kaštelan</h4>
         <ul>
             <li><a href="poezija/pjesma-o-mojoj-zemlji.php">Pjesma o mojoj zemlji</a></li>
             <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mark Krasnići</h4>
         <ul>
             <li><a href="poezija/uspomene-iz-detinjstva.php">Uspomene iz detinjstva</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Mak Dizdar</h4>
         <ul>
             <li><a href="poezija/tezak-put.php">Težak put</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Gojko Dapčević</h4>
         <ul>
             <li><a href="poezija/himna-za-nepokorenu-zemlju.php">Himna za nepokorenu zemlju</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Momčilo Popadić</h4>
         <ul>
             <li><a href="poezija/oporucna-balada.php">Oporučna balada</a></li>
         </ul>
-    </section>
+    </article>
 
-    <section>
+    <article>
         <h4>Narodne pesme</h4>
         <ul>
             <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
@@ -1397,7 +1397,7 @@ include "includes/header.php";
             <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
             <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
         </ul>
-    </section>
+    </article>
 </div>
 
 <?php include "includes/footer.php"; ?>
