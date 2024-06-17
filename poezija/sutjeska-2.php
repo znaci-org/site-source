@@ -572,7 +572,7 @@ osuti se tvojim osojem tamnim,<br />
 zaigrati po tebi kao nekada<br />
 hladnom izvoru, otkosom plamnim?<br />
 
-<h2>18: O oči drage ugašene</h2>
+<h2>18: Ko znade odakle krenuše oni</h2>
 
 O, oči drage,<br />
 stinjene<br />
@@ -606,3 +606,5 @@ za palim sinom Dalmacije?<br />
 <br />
 Ili će majka da suze roni!...<br />
 <br />
+
+<img src="https://znaci.org/images/9248.jpg" alt="">
