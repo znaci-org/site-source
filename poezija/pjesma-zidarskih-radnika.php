@@ -32,3 +32,7 @@ I psu smo mnogom napravili kuću,<br/>
 gdje će nevremenom skoniti svoje svoje tijelo,<br/>
 samo još svoju kuću nemamo Mi —<br/>
 Zidari!<br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Construction_workers_and_plasterers_standing_in_front_of_building%2C_between_1888_and_1889_%28INDOCC_1809%29.jpg" alt="">
+</p>

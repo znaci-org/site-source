@@ -52,4 +52,6 @@ include "../includes/header.php";
 
 <hr>
 
-<p>Slovi kao najpoznatija pjesma Krležina mladenačkog razdoblja s jasnim reminiscencijama na oktobarsku revoluciju.</p>
+<p>Najpoznatija pjesma Krležina mladenačkog razdoblja s jasnim reminiscencijama na oktobarsku revoluciju.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png" alt="">

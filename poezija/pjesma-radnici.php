@@ -89,3 +89,7 @@ saznanjem o biću stanja u kom su<br/>
 diplome i čast odlike ljudi,<br/>
 i u kom ti mračna klika špijuna,<br/>
 ko crkva nekad heretiku, sudi!<br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Female_worker_from_the_Tredegar_ironworks_-_Unknown_photographer.jpg" alt="">
+</p>

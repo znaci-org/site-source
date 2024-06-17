@@ -28,3 +28,7 @@ include "../includes/header.php";
 </p>
 
 (1939)
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stjepan-Radic.png/807px-Stjepan-Radic.png" alt="">
+</p>

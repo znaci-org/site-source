@@ -73,6 +73,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/srbija.php">Srbija</a></li>
             <li><a href="poezija/celija.php">Ćelija</a></li>
+            <li><a href="poezija/balada-o-robu.php">Balada o robu</a></li>
             <li><a href="poezija/izvestaj-iz-srbije.php">Izveštaj iz Srbije</a></li>
             <li><a href="poezija/i-krv.php">I krv...</a></li>
             <li><a href="poezija/samicari.php">Samičari</a></li>
@@ -94,7 +95,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/krvnice.php">Krvniče</a></li>
             <li><a href="poezija/mi-se-tuze-sa-zivota.php">Mi se tuže sa života</a></li>
-            <li><a href="poezija/kaj-opet-grmi.php">Kaj opet grmi?! (Ne ratujte…)</a></li>
+            <li><a href="poezija/kaj-opet-grmi.php">Kaj opet grmi?</a></li>
             <li><a href="poezija/oci-stjepana-radica.php">Oči Stjepana Radića</a></li>
             <li><a href="poezija/samome-sebi.php">Samome sebi</a></li>
         </ul>
