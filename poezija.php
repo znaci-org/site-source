@@ -831,11 +831,25 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Drago Ivanišević</h4>
+        <ul>
+            <li><a href="poezija/na-grobu-partizana.php">Na grobu partizana</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Radonja Vešović</h4>
         <ul>
             <li><a href="poezija/nocni-mars.php">Noćni marš</a></li>
             <li><a href="poezija/spavac.php">Spavač</a></li>
             <li><a href="poezija/samo-jedan-je-zivot.php">Samo jedan je život</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Antun Barac</h4>
+        <ul>
+            <li><a href="poezija/casovi-klonuca.php">Časovi klonuća</a></li>
         </ul>
     </section>
 
@@ -1007,6 +1021,7 @@ include "includes/header.php";
             <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
             <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
             <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
+            <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
         </ul>
     </section>
 
