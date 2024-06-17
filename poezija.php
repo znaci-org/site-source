@@ -197,6 +197,13 @@ include "includes/header.php";
     </article>
 
     <article>
+        <h4>Sait Orahovac</h4>
+        <ul>
+            <li><a href="poezija/grom.php">Grom</a></li>
+        </ul>
+    </article>
+
+    <article>
         <h4>Vladimir Popović</h4>
         <ul>
             <li><a href="poezija/pisem-pjesme.php">Pišem pjesme</a></li>
@@ -280,6 +287,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/monolog-s-kuglom-zemaljskom.php">Monolog s kuglom zemaljskom</a></li>
             <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
+            <li><a href="poezija/pjesma-o-crvenoj-zvijezdi.php">Pjesma o crvenoj zvijezdi</a></li>
         </ul>
     </article>
 
