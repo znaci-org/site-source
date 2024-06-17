@@ -432,6 +432,7 @@ include "includes/header.php";
             <li><a href="poezija/komunistickoj-partiji.php">Komunističkoj partiji</a></li>
             <li><a href="poezija/ognjeni-vlak.php">Ognjeni vlak</a></li>
             <li><a href="poezija/trajanje.php">Trajanje</a></li>
+            <li><a href="poezija/pastiri.php">Pastiri</a></li>
             <li><a href="poezija/moj-grob.php">Moj grob</a></li>
         </ul>
     </section>
@@ -444,6 +445,7 @@ include "includes/header.php";
             <li><a href="poezija/vojnik-i-cvijet.php">Vojnik i cvijet</a></li>
             <li><a href="poezija/bolnicarka.php">Bolničarka</a></li>
             <li><a href="poezija/djevojka-kurir.php">Djevojka kurir</a></li>
+            <li><a href="poezija/staro-pismo.php">Staro pismo</a></li>
             <li><a href="poezija/jablanka.php">Jablanka</a> (poema)</li>
         </ul>
     </section>
@@ -461,6 +463,14 @@ include "includes/header.php";
         <h4>Branko V. Radičević</h4>
         <ul>
             <li><a href="poezija/noc-iza-resetaka.php">Noć iza rešetaka</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Marin Franičević</h4>
+        <ul>
+            <li><a href="poezija/susret.php">Susret</a></li>
+            <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
         </ul>
     </section>
 
@@ -579,6 +589,13 @@ include "includes/header.php";
         <h4>Krsto Krivokapić</h4>
         <ul>
             <li><a href="poezija/ranjenik-na-jahorini.php">Ranjenik na Jahorini</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Janus Međedović</h4>
+        <ul>
+            <li><a href="poezija/skriveni-grob.php">Skriveni grob</a></li>
         </ul>
     </section>
 
@@ -1002,13 +1019,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Marin Franičević</h4>
-        <ul>
-            <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Branko Miljković</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sr/0/01/Brankomiljkovic.jpg" alt="">
         <ul>
@@ -1196,6 +1206,13 @@ include "includes/header.php";
         <h4>Mak Dizdar</h4>
         <ul>
             <li><a href="poezija/tezak-put.php">Težak put</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Gojko Dapčević</h4>
+        <ul>
+            <li><a href="poezija/himna-za-nepokorenu-zemlju.php">Himna za nepokorenu zemlju</a></li>
         </ul>
     </section>
 
