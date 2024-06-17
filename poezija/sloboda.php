@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - Monolog fratra</h1>
+<h1>Oskar Davičo - Sloboda</h1>
 
 <i>Pesma napisana 28. juna 1944. godine, na Crnom vrhu</i>
 

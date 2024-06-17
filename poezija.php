@@ -102,6 +102,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Nedjelko Radić</h4>
+        <ul>
+            <li><a href="poezija/krik-rudara.php">Krik rudara</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Mirko Banjević</h4>
         <ul>
             <li><a href="poezija/rat-banjevic.php">Rat</a></li>
@@ -161,7 +168,15 @@ include "includes/header.php";
     <section>
         <h4>Janko Đonović</h4>
         <ul>
+            <li><a href="poezija/djeca-rata.php">Djeca rata</a></li>
             <li><a href="poezija/crnci-i-crnogorci.php">Crnci i Crnogorci</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Hasan Kikić</h4>
+        <ul>
+            <li><a href="poezija/bozji-ljudi.php">Božji ljudi</a></li>
         </ul>
     </section>
 
@@ -687,6 +702,7 @@ include "includes/header.php";
             <li><a href="poezija/matere-nase-trpece.php">Majke, majke naše napaćene</a></li>
             <li><a href="poezija/materi-padlega-partizana.php">Materi padlega partizana</a></li>
             <li><a href="poezija/nemskemu-proletariatu.php">Nemškemu proletariatu</a></li>
+            <li><a href="poezija/preko-smrti-stopamo-v-svobodo.php">Preko smrti stopamo v svobodo</a></li>
         </ul>
     </section>
 
@@ -1269,6 +1285,13 @@ include "includes/header.php";
             <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
             <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
             <li><a href="poezija/dubine-i-jarboli.php">Dubine i jarboli</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Oskar Davičo</h4>
+        <ul>
+            <li><a href="poezija/ponovni-susret-u-jutro.php">Ponovni susret u jutro</a></li>
         </ul>
     </section>
 

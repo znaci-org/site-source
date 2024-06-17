@@ -107,3 +107,6 @@ A kad na grlima podzemnih jama<br/>
 Crnce i Crnogorce<br/>
 zemlja vraća —<br/>
 i jedne crne i druge crne...<br/>
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Italian_and_African-American_Clay_Miners_in_Mine_Shaft.jpg/1280px-Italian_and_African-American_Clay_Miners_in_Mine_Shaft.jpg" alt="">
