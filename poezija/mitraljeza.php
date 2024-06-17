@@ -36,3 +36,6 @@ I klance do mora.</p>
 Crnih vrana grak<br>
 Njezin uzvik gromki:<br>
 Traka, traka, trak!</p>
+
+<img src="http://www.znaci.org/images/16003.jpg" alt=""><br>
+<small>Puškomitraljezac VI krajiške NOU brigade, decembra 1944. reon Busovača.</small>

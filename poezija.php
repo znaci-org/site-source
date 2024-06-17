@@ -438,6 +438,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Živko Jeličić</h4>
+        <ul>
+            <li><a href="poezija/pjesma-o-pituru-paski.php">Pjesma o pituru Paški koji se borio sa smrću</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Vladimir Čerkez</h4>
         <ul>
             <li><a href="poezija/covjekova-pjesma.php">Čovjekova pjesma</a></li>
@@ -447,6 +454,20 @@ include "includes/header.php";
             <li><a href="poezija/djevojka-kurir.php">Djevojka kurir</a></li>
             <li><a href="poezija/staro-pismo.php">Staro pismo</a></li>
             <li><a href="poezija/jablanka.php">Jablanka</a> (poema)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Sreten Perović</h4>
+        <ul>
+            <li><a href="poezija/majka-ti-prilazi-liku.php">Majka ti prilazi liku</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Sait Orahovac</h4>
+        <ul>
+            <li><a href="poezija/smrt-fasizmu.php">Smrt fašizmu</a></li>
         </ul>
     </section>
 
@@ -498,11 +519,25 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Josip Cazi</h4>
+        <ul>
+            <li><a href="poezija/na-klancu.php">Na klancu</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Skender Kulenović</h4>
         <ul>
             <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
             <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
             <li><a href="poezija/na-pravi-put-sam-ti-majko-iziso.php">Na pravi put sam ti, majko, izišo</a> (poema)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Velimir Kovačević</h4>
+        <ul>
+            <li><a href="poezija/moja-pjesma.php">Moja pjesma</a></li>
         </ul>
     </section>
 
@@ -644,6 +679,7 @@ include "includes/header.php";
         <h4>Grigor Vitez</h4>
         <ul>
             <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
+            <li><a href="poezija/san-boraca-u-zoru.php">San boraca u zoru</a></li>
         </ul>
     </section>
 
@@ -727,6 +763,7 @@ include "includes/header.php";
             <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
             <li><a href="poezija/tifusari.php">Tifusari</a> (poema)</li>
             <li><a href="poezija/pjesma-sutrasnjemu.php">Pjesma sutrašnjemu</a></li>
+            <li><a href="poezija/dvadeset-i-trojica.php">Dvadeset i trojica</a></li>
         </ul>
     </section>
 
