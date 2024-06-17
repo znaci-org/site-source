@@ -284,9 +284,11 @@ include "includes/header.php";
 
     <article>
         <h4>August Cesarec</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/sh/thumb/c/cd/August_Cesarec_na_radom_mjestu.jpg/200px-August_Cesarec_na_radom_mjestu.jpg" alt="">
         <ul>
             <li><a href="poezija/monolog-s-kuglom-zemaljskom.php">Monolog s kuglom zemaljskom</a></li>
             <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
+            <li><a href="poezija/coveku-sto-puze-na-trgu.php">Čoveku što puže na trgu</a></li>
             <li><a href="poezija/pjesma-o-crvenoj-zvijezdi.php">Pjesma o crvenoj zvijezdi</a></li>
         </ul>
     </article>
