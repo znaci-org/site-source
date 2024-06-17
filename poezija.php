@@ -277,8 +277,17 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Ilija Grbić</h4>
+        <ul>
+            <li><a href="poezija/proleteri.php">Proleteri</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Jovan Popović</h4>
         <ul>
+            <li><a href="poezija/krvavo-zlato.php">Krvavo zlato</a></li>
+            <li><a href="poezija/mladici-na-zvonicima.php">Mladići na zvonicima</a></li>
             <li><a href="poezija/mesija-bez-portfelja.php">Mesija bez portfelja</a></li>
         </ul>
     </section>
@@ -1151,6 +1160,7 @@ include "includes/header.php";
             <li><a href="poezija/lekcije-iz-zemljopisa.php">Lekcije iz zemljopisa</a></li>
             <li><a href="poezija/herojeva-majka.php">Herojeva majka</a></li>
             <li><a href="poezija/nasi-saveznici.php">Naši saveznici</a></li>
+            <li><a href="poezija/prica-o-izgubljenoj.php">Priča o izgubljenoj</a></li>
         </ul>
     </section>
 
