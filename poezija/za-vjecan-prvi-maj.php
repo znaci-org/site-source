@@ -88,3 +88,8 @@ Za bratimstvo čovječje vječno!<br/>
 </p>
 
 (1919)
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Prvi_maj_1924.jpg" alt=""><br>
+  <small>Članovi NRPJ i nezavisnih sindikata pred kinom Balkan u Zagrebu, na proslavi 1. maja 1924. godine.</small>
+</p>

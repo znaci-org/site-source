@@ -1153,6 +1153,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/oslobodjenje-cvete-andric.php">Oslobođenje Cvete Andrić</a></li>
             <li><a href="poezija/majkama.php">Majkama</a></li>
+            <li><a href="poezija/otadzbina-u-prvomajskoj-povorci.php">Otadžbina u prvomajskoj povorci</a></li>
             <li><a href="poezija/vukov-utuk.php">Vukov utuk</a></li>
         </ul>
     </article>
