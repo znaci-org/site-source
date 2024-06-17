@@ -37,17 +37,4 @@
     width: 70%;
     vertical-align: top;
   }
-
-  /* FOTOGRAFIJA */
-
-  .simplesharebuttons img {
-    width: 25px;
-    filter: grayscale(.95);
-    transition: filter .4s ease;
-  }
-
-  .simplesharebuttons img:hover {
-    width: 25px;
-    filter: grayscale(.1);
-  }
 </style>

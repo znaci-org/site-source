@@ -17,14 +17,6 @@ include_once('css/izvor.php');
 <article class="okvir izvor">
     <h1><?php echo $fotografija->getNaslov(); ?></h1>
 
-    <div class="simplesharebuttons">
-        <a href="https://www.facebook.com/sharer.php?u=<?php echo $page_url; ?>" target="_blank"><img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" /></a>
-
-        <a href="https://twitter.com/share?url=<?php echo $page_url; ?>&amp;text=<?php echo $fotografija->opis; ?>" target="_blank"><img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" /></a>
-
-        <a href="http://vkontakte.ru/share.php?url=<?php echo $page_url; ?>" target="_blank"><img src="https://simplesharebuttons.com/images/somacro/vk.png" alt="VK" /></a>
-    </div>
-
     <img src="<?php echo $fotografija->url; ?>" class='max-100'>
 
     <div class="podaci_o_izvoru">
