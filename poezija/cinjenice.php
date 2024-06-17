@@ -81,7 +81,8 @@ nad neizmernim mrakom; ova još uvređena detinjstva<br/>
 što se dižu sa siromašnih ležajeva;<br/>
 ova glad pozelenele krvi; ova noć;<br/>
 ovo još uvek moguće očajanje koje prinosi revolver slepoočnici;<br/>
-ovaj gnev koji se baca na zemlju i grize suvu koru kaldrme izbalegane; ova glad; ove nesrušene straćare nepravde; ove neraskrčene još ruševine duša izbombardiranih<br/>
+ovaj gnev koji se baca na zemlju i grize suvu koru kaldrme izbalegane; ova glad;<br/> 
+ove nesrušene straćare nepravde; ove neraskrčene još ruševine duša izbombardiranih<br/>
 i opoganjenih primitivnošću izotermisanom; ova noć<br/>
 izromponpirana neukusom koji oglašuje<br/>
 da bi se neko ženio<br/>

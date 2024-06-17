@@ -1274,13 +1274,6 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Oskar Davičo</h4>
-        <ul>
-            <li><a href="poezija/cinjenice.php">Činjenice (O Španijo)</a></li>
-        </ul>
-    </section>
-
-    <section>
         <h4>Miroslav Mika Antić</h4>
         <ul>
             <li><a href="poezija/nadničar-1940.php">Nadničar 1940.</a></li>
@@ -1329,7 +1322,8 @@ include "includes/header.php";
     <section>
         <h4>Oskar Davičo</h4>
         <ul>
-            <li><a href="poezija/ponovni-susret-u-jutro.php">Ponovni susret u jutro</a></li>
+            <li><a href="poezija/zrenjanin.php">Zrenjanin</a> (poema)</li>
+            <li><a href="poezija/cinjenice.php">Činjenice (O Španijo)</a></li>
         </ul>
     </section>
 
