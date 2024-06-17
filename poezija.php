@@ -708,7 +708,8 @@ include "includes/header.php";
         <h4>Oton Župančič</h4>
         <ul>
             <li><a href="poezija/izjava.php">Izjava</a></li>
-            <li><a href="poezija/pesnice-znas-svoj-dug.php">Pesniče, znaš svoj dug?</a></li>
+            <li><a href="poezija/ves-poet-svoj-dolg.php">Pesniče, znaš svoj dug?</a></li>
+            <li><a href="poezija/kar-je-kovina.php">Šta je metal</a></li>
             <li><a href="poezija/vseh-zivih-dan.php">Vseh živih dan</a></li>
         </ul>
     </section>
