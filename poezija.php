@@ -120,6 +120,13 @@ include "includes/header.php";
     </section>
 
     <section>
+        <h4>Vera Obrenović-Delibašić</h4>
+        <ul>
+            <li><a href="poezija/majka.php">Majka</a></li>
+        </ul>
+    </section>
+
+    <section>
         <h4>Rastko Petrović</h4>
         <ul>
             <li><a href="poezija/otac-moj-bese-li-zver.php">Majko, otac moj beše li zver?</a></li>
@@ -648,7 +655,7 @@ include "includes/header.php";
     </section>
 
     <section>
-        <h4>Vera Obrenović</h4>
+        <h4>Vera Obrenović-Delibašić</h4>
         <ul>
             <li><a href="poezija/pismo-s-fronta.php">Pismo s fronta</a></li>
         </ul>

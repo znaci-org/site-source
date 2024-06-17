@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1>Oskar Davičo - U spomen na tamnovanje Svetozara Markovića</h1>
 
+(odlomak)
+
 <h4>I</h4>
 
 Mesec i mraz na rešetkama.<br/>
@@ -28,6 +30,43 @@ Kola spora, sve tanji snovi,<br/>
 a dugi dani u gustoj vlazi.<br/>
 Nikoga nema, ej, pustolovi...<br/>
 - Stisni zube i smelo gazi!<br/>
+
+<h4>II</h4>
+
+Ti znaš svjetlejšeg Gospodara,<br/>
+znaš dinastiju, jednu i drugu,<br/>
+znaš činovnika i kaišara<br/>
+i onu našu srpsku tugu.<br/>
+<br/>
+Sam — protiv sviju. Da l bez izlaza?<br/>
+O, snago, tvrđa u tvrdom mraku,<br/>
+ču li za smrt što kosi knjaza,<br/>
+svakog u svome Košutnjaku?<br/>
+<br/>
+Sam — protiv sviju. Možda je rano?<br/>
+Al čemu onda meni dani?<br/>
+Nije mi srce buntovno dano<br/>
+da krotak trunem u ledani.<br/>
+<br/>
+Ja nisam pre jeseni sveo<br/>
+da cvilim tamom i kunem nebo.<br/>
+Zar bih ja gnevan bio smeo,<br/>
+da nisam zemlji za druga trebo?<br/>
+<br/>
+Teče li zato ova krv gorka<br/>
+da teške rane gospodu hrane?<br/>
+Ej, nije i nije duboka ćorka<br/>
+da nam Srbija noć ostane.<br/>
+<br/>
+Sam — protiv sviju. Sam — milioni,<br/>
+jer sutra, druže, nas — tušta i tma.<br/>
+U vreme pred sobom pogled uroni<br/>
+- sa dna se diže Srbija iz sna.<br/>
+<br/>
+Krv nek ti bude čaktar koji budi<br/>
+i bol pretvara u nalet pešaka.<br/>
+Hej, svud po svetu voleće ljudi<br/>
+Srbiju zemlju bez kapi mraka.<br/>
 
 <h4>IX</h4>
 
@@ -60,3 +99,7 @@ i strasno, biće ko duša blaga<br />
 i kad je toplo i kad susnežno,<br />
 življenje biće svima ko draga,<br />
 jednoga dana, jednoga dana.<br />
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Svetozar-Markovi%C4%87.jpg" alt="">
+</p>
