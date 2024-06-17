@@ -20,3 +20,5 @@ Pa i gnev je crven, što nas obuzima.</p>
 I osveta naša – crvena će biti!</p>
 
 <p>(1894)</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gravure_La_Commune_de_Paris.jpg/776px-Gravure_La_Commune_de_Paris.jpg" alt="">

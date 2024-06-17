@@ -28,6 +28,12 @@ include "includes/header.php";
         </ul>
     </section>
 
+    <section>
+        <h4>Ljubica Ivošević</h4>
+        <ul>
+            <li><a href="poezija/napred.php">Napred!</a></li>
+        </ul>
+    </section>
 
     <section>
         <h4>Miroslav Krleža</h4>
