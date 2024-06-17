@@ -760,6 +760,7 @@ include "includes/header.php";
     <section>
         <h4>Jure Kaštelan</h4>
         <ul>
+            <li><a href="poezija/dinamit.php">Dinamit</a></li>
             <li><a href="poezija/oj-mosore.php">Oj Mosore, Mosore</a></li>
             <li><a href="poezija/tifusari.php">Tifusari</a> (poema)</li>
             <li><a href="poezija/pjesma-sutrasnjemu.php">Pjesma sutrašnjemu</a></li>
