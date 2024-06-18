@@ -43,3 +43,8 @@ Bez vođe juri i juri kroz mrak<br/>
 Plamena lokomotiva!<br/>
 <br/>
 (1943)<br/>
+
+<p>
+  <img src="http://www.znaci.org/images/3431.jpg" alt=""><br>
+  <small>Partizanski voz na oslobođenoj teritoriji, Bihać 1942.</small>
+</p>

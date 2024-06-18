@@ -71,3 +71,7 @@ Pobeđena huči reka.</p>
 Svi su prošli… noge bose<br>
 Gaze sneg sa prenja beli,<br>
 k´o Titove bele kose…</p>
+
+<p>
+  <img src="http://www.znaci.org/images/9281.jpg" alt="">
+</p>

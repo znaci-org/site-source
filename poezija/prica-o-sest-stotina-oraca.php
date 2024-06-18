@@ -7,10 +7,10 @@ include "../includes/header.php";
 
 <h1>Branko Ćopić - Priča o šest stotina orača</h1>
 
-<i>
-  U proljeće, 1943, šest stotina seljaka iz novskog i prijedorskog sreza probili su se kroz neprijateljske straže zasjede i obradili opustošenu zemlju dubičkog sreza.
-</i>
-<br /><br />
+<p>
+  <i>U proljeće, 1943, šest stotina seljaka iz novskog i prijedorskog sreza probili su se kroz neprijateljske straže zasjede i obradili opustošenu zemlju dubičkog sreza.</i>
+</p>
+
 Sijači nemili lani su domilili,<br />
 izašli iz gvožda i iz betona,<br />
 po našim selima i našim njivama<br />
@@ -90,3 +90,8 @@ Nad njivom probuđenom vuku se mazglice tanke,<br />
 pred oračima, napete i budne, stražare partizanke.<br />
 <br />
 (1944)<br />
+
+<p>
+  <img src="http://www.znaci.org/images/9847.jpg" alt=""><br>
+  <small>Oslobođeno Livanjsko polje u vreme žetve 1942.</small>
+</p>

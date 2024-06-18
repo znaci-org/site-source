@@ -54,4 +54,4 @@ include "../includes/header.php";
 
 <p>Najpoznatija pjesma Krležina mladenačkog razdoblja s jasnim reminiscencijama na oktobarsku revoluciju.</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png" alt="">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kustodiev_The_Bolshevik.jpg/1280px-Kustodiev_The_Bolshevik.jpg" alt="">

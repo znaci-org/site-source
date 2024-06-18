@@ -35,3 +35,7 @@ include "../includes/header.php";
     Nije ovo sumnja, nije ovo strah,<br>
     samo na trenutak zastao nam dah.
 </p>
+
+<p>
+    <img src="http://www.znaci.org/images/14808.jpg" alt="">
+</p>

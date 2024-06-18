@@ -11,7 +11,7 @@ Svaku noć tako kad šum se dana slegne,<br/>
 žarulje prorijede i duge zamru ulice —<br/>
 ja skidam oklop sa srca i nježno pričamo oboje:<br/>
 de, reci — da li si u ovaj dan izvršio dužnosti svoje<br/>
-pred Partijom — licem u lice!...<br/>
+pred Partijom — licem u lice!<br/>
 <br/>
 I mjerim — koliko vjere, koliko zanosa i žudi<br/>
 pronosim kroz oluj za smijeh proljeća u travi,<br/>
@@ -30,7 +30,7 @@ očvrsla u ognju boja, u mlazu krvi i muka,<br/>
 jesi li oko budno što vidi dalje od sviju,<br/>
 luk napet, i zamah, san vreli što ga sniju<br/>
 — redov sam tvoj, baš tvoj, i danju i kada noć poplavi,<br/>
-Partijo moja, tvoji su putevi pravi!...<br/>
+Partijo moja, tvoji su putevi pravi!<br/>
 <br/>
 Ja bih da oblak mine, da krila široko polete,<br/>
 zanosu svome raskrijem sve prostore!<br/>
@@ -60,4 +60,8 @@ Ostaješ čista i kad su oblaci vrani<br/>
 i hajka gorka, i tutnji razuzdani,<br/>
 pa sad se pitam, Partijo — voljena stroga Mati,<br/>
 jesam li dao, jesad li tebi dao<br/>
-sve što se moglo dati ? ...<br/>
+sve što se moglo dati? <br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Communist_Party_of_Yugoslavia_Flag-cyr_%281920%E2%80%931952%29.png" alt="">
+</p>
