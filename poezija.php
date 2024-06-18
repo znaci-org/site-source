@@ -623,6 +623,13 @@ include "includes/header.php";
     </article>
 
     <article>
+        <h4>Lev Svetek</h4>
+        <ul>
+            <li><a href="poezija/vstala-primorska.php">Vstala Primorska</a></li>
+        </ul>
+    </article>
+
+    <article>
         <h4>Skender Kulenović</h4>
         <ul>
             <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
