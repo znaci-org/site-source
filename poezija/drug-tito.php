@@ -37,4 +37,4 @@ složno, hitro, ponosito,<br>
 pohitajmo kud nas vodi,<br>
 kličuć: Tito, Tito, Tito!</p>
 
-<img src="/images/tito.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg">

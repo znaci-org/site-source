@@ -16,3 +16,5 @@ Kada hoda, led mu pod petama puca.</p>
 sin sadašnjih dana, lik iz drevne priče;<br>
 mi kročimo za njim uvijek čvršće i dalje.<br>
 I u nama vjera još snažnije niče.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">
