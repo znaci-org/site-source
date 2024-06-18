@@ -20,3 +20,5 @@ include "../includes/header.php";
   Divizija naša jaka<br />
   od radnika i seljaka.<br />
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vlado_Segrt_EPLJ.JPG" alt="">

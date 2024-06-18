@@ -1057,6 +1057,7 @@ include "includes/header.php";
             <li><a href="poezija/kozaracko-kolo.php">Kozaračko kolo</a> (Oj Kozaro)</li>
             <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
             <li><a href="poezija/bjela-vilo-kazi-pravo.php">B’jela vilo kaži pravo</a></li>
+            <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a> (razno)</li>
         </ul>
     </article>
 

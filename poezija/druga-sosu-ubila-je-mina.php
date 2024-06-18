@@ -25,3 +25,6 @@ include "../includes/header.php";
   Partizani, to su dobri borci,<br />
   Ne mogu im ništa tromotorci.<br />
 </p>
+
+<img src="http://www.znaci.org/images/15162.jpg" alt=""><br>
+<small>Josip Mažar Šoša</small>

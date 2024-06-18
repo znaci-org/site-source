@@ -107,8 +107,10 @@ include "../includes/header.php";
   đilkani su kratkog veka<br />
   ja sam mlada proleterka<br />
   <br />
-  nije staljin vezo mašnu<br />
+  nije Staljin vezo mašnu<br />
   pa pod ruku metno tašnu<br />
   uzo seme u desnicu<br />
   seje ječam i pšenicu.<br />
 </p>
+
+<img src="http://www.znaci.org/images/7529.jpg" alt="">
