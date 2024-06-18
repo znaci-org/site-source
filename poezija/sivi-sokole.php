@@ -26,3 +26,5 @@ A na travi heroj Sava osta mrtav da leži</p>
 
 <p>Radili smo, radimo, radit ćemo još<br>
 Druže Tito, kunemo se, pobijedićemo</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Banja_Luka-Doboj_1951.png" alt="">

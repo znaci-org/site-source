@@ -37,3 +37,5 @@ include "../includes/header.php";
   <br />
   Kroz polja i šume...<br />
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mladinske_delovne_brigade_Dekle_z_vedrom_1958.jpg/541px-Mladinske_delovne_brigade_Dekle_z_vedrom_1958.jpg" alt="">
