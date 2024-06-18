@@ -351,7 +351,7 @@ include "includes/header.php";
     <article>
         <h4>Kosta Novaković</h4>
         <ul>
-            <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a> (epska)</li>
+            <li><a href="poezija/poslednjem-kralju.php">Posljednjem kralju</a> (epika)</li>
         </ul>
     </article>
 
@@ -1013,7 +1013,8 @@ include "includes/header.php";
             <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd’ u partizane</a></li>
             <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
             <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
-            <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a></li>
+            <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a> (Marku Oreškoviću)</li>
+            <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara, nema partizana</a> (Marku Oreškoviću)</li>
             <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
             <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
             <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
@@ -1032,11 +1033,11 @@ include "includes/header.php";
             <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
             <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
             <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
-            <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a></li>
-            <li><a href="poezija/1941.php">1941.</a> (epska)</li>
-            <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epska)</li>
-            <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epska)</li>
-            <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epska)</li>
+            <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
+            <li><a href="poezija/1941.php">1941.</a> (epika)</li>
+            <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
+            <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
+            <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
             <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
         </ul>
     </article>
@@ -1064,7 +1065,7 @@ include "includes/header.php";
             <li><a href="poezija/kozaracko-kolo.php">Kozaračko kolo</a> (Oj Kozaro)</li>
             <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
             <li><a href="poezija/bjela-vilo-kazi-pravo.php">B’jela vilo kaži pravo</a></li>
-            <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a> (razno)</li>
+            <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a> (slobodni stil)</li>
         </ul>
     </article>
 
@@ -1149,6 +1150,7 @@ include "includes/header.php";
             <li><a href="poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></li>
             <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
             <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata, oba ratujemo</a></li>
+            <li><a href="poezija/padaj-silo-i-nepravdo.php">Padaj silo i nepravdo</a></li>
             <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže, tvoja kuća gori</a></li>
             <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
             <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
