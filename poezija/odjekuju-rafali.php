@@ -33,3 +33,8 @@ ko usijano zlato pali.<br/>
 Čuje se:<br/>
 negdje blizu<br/>
 odjekuju rafali.<br/>
+
+<p>
+  <img src="http://www.znaci.org/images/12853.jpg" alt=""><br>
+  <small>Puškomitraljezac 6. crnogorske brigade u borbi protiv Nemaca u okolini Danilovgrada 1944.</small>
+</p>

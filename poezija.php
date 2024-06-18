@@ -1218,6 +1218,13 @@ include "includes/header.php";
     </article>
 
     <article>
+        <h4>Miroslav Feldman</h4>
+        <ul>
+            <li><a href="poezija/odjekuju-rafali.php">Odjekuju rafali</a></li>
+        </ul>
+    </article>
+
+    <article>
         <h4>Izet Sarajlić</h4>
         <ul>
             <li><a href="poezija/rodjeni-1923-streljani-1942.php">Rođeni 23, streljani 42.</a></li>
@@ -1225,9 +1232,9 @@ include "includes/header.php";
     </article>
 
     <article>
-        <h4>Miroslav Feldman</h4>
+        <h4>Ljubivoje Ršumović</h4>
         <ul>
-            <li><a href="poezija/odjekuju-rafali.php">Odjekuju rafali</a></li>
+            <li><a href="poezija/poema-o-cutanju.php">Poema o ćutanju</a></li>
         </ul>
     </article>
 
