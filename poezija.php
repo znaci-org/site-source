@@ -969,6 +969,8 @@ include "includes/header.php";
             <li><a href="poezija/srbija-se-budi.php">Srbija se budi</a></li>
             <li><a href="poezija/poludeli-vozar-tenka.php">Poludeli vozar tenka</a></li>
             <li><a href="poezija/krvava-bajka.php">Krvava bajka</a></li>
+            <li><a href="poezija/zima-u-zavicaju.php">Zima u zavičaju</a></li>
+            <li><a href="poezija/blaga-vest.php">Blaga vest</a></li>
         </ul>
     </article>
 
@@ -1172,6 +1174,7 @@ include "includes/header.php";
             <li><a href="poezija/majkama.php">Majkama</a></li>
             <li><a href="poezija/otadzbina-u-prvomajskoj-povorci.php">Otadžbina u prvomajskoj povorci</a></li>
             <li><a href="poezija/vukov-utuk.php">Vukov utuk</a></li>
+            <li><a href="poezija/bajka-o-ustanickoj-pusci.php">Bajka o ustaničkoj pušci</a></li>
             <li><a href="poezija/otadzbino-tu-sam.php">Otadžbino, tu sam</a></li>
         </ul>
     </article>
