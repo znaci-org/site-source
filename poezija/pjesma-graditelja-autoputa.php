@@ -38,4 +38,5 @@ include "../includes/header.php";
   Kroz polja i šume...<br />
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mladinske_delovne_brigade_Dekle_z_vedrom_1958.jpg/541px-Mladinske_delovne_brigade_Dekle_z_vedrom_1958.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mladinske_delovne_brigade_Dekle_z_vedrom_1958.jpg/541px-Mladinske_delovne_brigade_Dekle_z_vedrom_1958.jpg"><br>
+<small>Gradnja Ceste bratstva in enotnosti, 1958. </small>
