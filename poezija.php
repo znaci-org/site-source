@@ -664,6 +664,13 @@ include "includes/header.php";
     </article>
 
     <article>
+        <h4>Ive Čaće</h4>
+        <ul>
+            <li><a href="poezija/ive-cace-povratak.php">Povratak</a> (poema)</li>
+        </ul>
+    </article>
+
+    <article>
         <h4>Mira Alečković</h4>
         <ul>
             <li><a href="poezija/balada-sa-neretve.php">Balada sa Neretve</a></li>
@@ -1022,6 +1029,7 @@ include "includes/header.php";
             <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (na Čilašu)</li>
             <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (kod Petkovice)</li>
             <li><a href="poezija/svanit-ce-van-crni-danci.php">Svanit će van crni danci</a></li>
+            <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
             <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
             <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
             <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
@@ -1034,12 +1042,12 @@ include "includes/header.php";
             <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
             <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
             <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
-            <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
+            <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
             <li><a href="poezija/1941.php">1941.</a> (epika)</li>
             <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
             <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
             <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
-            <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
+            <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
         </ul>
     </article>
 
