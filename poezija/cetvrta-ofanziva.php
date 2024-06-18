@@ -43,4 +43,5 @@ Nad ratnom kartom drug Tito bdije<br>
 i pravi raspored.</p>
 
 
-<?php include "../includes/footer.php"; ?>
+<img src="http://www.znaci.org/images/10661.jpg"><br>
+<small>Kolona partizana na ulicama Prozora u zimu 1942/43.</small>

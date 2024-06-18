@@ -206,4 +206,5 @@ i s mnogo tuge<br>
 „Ovdje je nekad učio školu<br>
 dječak Desnica Brane“.</p>
 
-<?php include "../includes/footer.php"; ?>
+<img src="http://www.znaci.org/images/7664.jpg"><br>
+<small>Partizanska škola u Sloveniji 1944.</small>

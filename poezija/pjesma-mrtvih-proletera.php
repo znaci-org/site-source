@@ -47,3 +47,7 @@ nestaće divljih zvijeri,<br>
 s četama Slobode marširaće tada<br>
 i mrtvi proleteri.</p>
 
+<p>
+  <img src="http://www.znaci.org/images/11282.jpg" alt=""><br>
+  <small>Ispraćaj Jurišne čete Proleterskog bataljona Bosanske Krajine iz Podgrmeča u centralnu Bosnu, 1942.</small>
+</p>

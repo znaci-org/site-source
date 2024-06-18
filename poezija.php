@@ -290,6 +290,13 @@ include "includes/header.php";
     </article>
 
     <article>
+        <h4>Desanka Maksimović</h4>
+        <ul>
+            <li><a href="poezija/siromahov-grob.php">Siromahov grob</a></li>
+        </ul>
+    </article>
+
+    <article>
         <h4>August Cesarec</h4>
         <img src="https://upload.wikimedia.org/wikipedia/sh/thumb/c/cd/August_Cesarec_na_radom_mjestu.jpg/200px-August_Cesarec_na_radom_mjestu.jpg" alt="">
         <ul>
@@ -956,7 +963,11 @@ include "includes/header.php";
     <article>
         <h4>Desanka Maksimović</h4>
         <ul>
+            <li><a href="poezija/osvajaci.php">Osvajači</a></li>
+            <li><a href="poezija/u-ropstvu.php">U ropstvu</a></li>
             <li><a href="poezija/spomen-na-ustanak.php">Spomen na ustanak</a></li>
+            <li><a href="poezija/srbija-se-budi.php">Srbija se budi</a></li>
+            <li><a href="poezija/poludeli-vozar-tenka.php">Poludeli vozar tenka</a></li>
             <li><a href="poezija/krvava-bajka.php">Krvava bajka</a></li>
         </ul>
     </article>

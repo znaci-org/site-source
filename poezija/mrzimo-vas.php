@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ivan Goran Kovačić - Mračno doba</h1>
+<h1>Ivan Goran Kovačić - Mrzimo vas!</h1>
 
 <p>Mrzimo vas, hulje,<br>
 Mrzimo, krvnici,<br>
@@ -42,3 +42,5 @@ Na lešine sjeli<br>
 I kliktali bijesno,<br>
 Smrdežima vašim punili bi pluća<br>
 Za pobjede nove, nova nadahnuća.</p>
+
+<img src="http://www.znaci.org/images/7440.jpg" alt="">

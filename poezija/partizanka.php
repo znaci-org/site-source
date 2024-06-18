@@ -36,3 +36,8 @@ Obukle se u skrlet ti rane,<br>
 Drugarice!</p>
 
 (1943)
+
+<p>
+  <img src="http://www.znaci.org/images/5373.jpg" alt=""><br>
+  <small>Partizanka Ana Žilić na Visu, avgusta 1944. </small>
+</p>

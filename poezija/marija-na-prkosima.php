@@ -83,3 +83,8 @@ i kroz trista vatara pronešeno.</p>
 i dijete raste – čarobna bajka!<br>
 Nad njime nevidljivo Marija bdije<br>
 i diše toplinom – djevojka i majka.</p>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Marija_Bursa%C4%87.jpg" alt=""><br>
+  <small>Prva narodna heroina Jugoslavije Marija Bursać</small>
+</p>

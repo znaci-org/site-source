@@ -25,3 +25,6 @@ include "../includes/header.php";
   u meni se razgore poznate sjene<br />
   što tama zgrabi ih noćna.<br />
 </p>
+
+<img src="http://www.znaci.org/images/9244.jpg" alt="">
+<small>Javno streljanje narodnog heroja Čedomira Ljuba Čupića u Nikšiću 5. maja 1942. godine. Ljubo glasno pjeva na streljanju. </small>

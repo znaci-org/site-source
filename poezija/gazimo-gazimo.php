@@ -45,3 +45,6 @@ zapliće, provlači se među granama<br>
 na dugim, klimavim nogama – Pobuna.</p>
 
 <p>(prevela sa slovenačkog Roksanda Njeguš)</p>
+
+<img src="http://www.znaci.org/images/6014.jpg" alt=""><br>
+<small>Deseta ljubljanska brigada u maršu kroz Črnomelj, januara 1945.</small>

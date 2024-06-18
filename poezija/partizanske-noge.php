@@ -131,3 +131,6 @@ Drugovi! već ne idemo…</p>
 Nek ih služe avioni,<br>
 A brdima neka koze –<br>
 Ko i prije – pastir goni</p>
+
+<img src="http://www.znaci.org/images/9201.jpg" alt=""><br>
+<small>Prva dalmatinska brigada u maršu na oslobođenom Hvaru, septembra 1944.</small>

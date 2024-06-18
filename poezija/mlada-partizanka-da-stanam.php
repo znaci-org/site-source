@@ -33,3 +33,7 @@ include "../includes/header.php";
   puškomitrolez da nosam,<br />
   kleti fašisti da kosam!<br />
 </p>
+
+<p>
+  <img src="http://www.znaci.org/images/7269.jpg">
+</p>
