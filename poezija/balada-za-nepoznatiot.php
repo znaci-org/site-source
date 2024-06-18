@@ -165,5 +165,5 @@ u polju vrba žalosna<br/>
 vojnika žali neznanog.<br/>
 <br/>
 
-<img src="http://www.znaci.org/images/5108.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/5108.jpg"><br>
 <small>Dve partizanske polažu venac na grob, Vela Luka, Korčula, oktobar 1943.</small>

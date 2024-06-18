@@ -56,5 +56,5 @@ Na putu gde mi<br/>
 U zagrljaj letiš.<br/>
 <br>
 
-<img src="http://www.znaci.org/images/11150.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/11150.jpg"><br>
 <small>Neretva 1943 godine - borci II proleterske brigade prelaze preko porušenog mosta na Neretvi, početkom marta.</small>

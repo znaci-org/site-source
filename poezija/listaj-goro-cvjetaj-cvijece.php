@@ -71,6 +71,6 @@ dolje lanci i okovi,<br />
 ne vežu se sokolovi.<br />
 
 <p>
-  <img src="http://www.znaci.org/images/3357.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/3357.jpg"><br>
   <small>Zetski partizanski odred za vreme Treće neprijateljske ofanzive u Crnoj Gori</small>
 </p>

@@ -58,5 +58,5 @@ Tražeći oči tvoje, svako ću selo proći,<br />
 vidjeću mladosti srećne čitave domovine.<br />
 
 <p>
-  <img src="http://www.znaci.org/images/4810.jpg" alt="">
+  <img src="http://www.znaci.org/images/4810.jpg">
 </p>

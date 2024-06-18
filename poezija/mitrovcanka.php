@@ -62,5 +62,5 @@ include "../includes/header.php";
 
 <p>U Sremskoj Mitrovici je čak organiziran i Prvi festival originalnih revolucionarnih pjesama, tom prilikom su nastale popularne revolucionarne pjesme Nabrusimo kose, Mitrovčanka i Pjesma o Matiji Gupcu.</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Politi%C4%8Dki_zatvorenici_u_Sremskoj_Mitrovici_1930-ih.jpg" alt=""><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Politi%C4%8Dki_zatvorenici_u_Sremskoj_Mitrovici_1930-ih.jpg"><br>
 <small>Politički zatvorenici u Sremskoj Mitrovici 1930-ih.</small>

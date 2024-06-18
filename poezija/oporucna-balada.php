@@ -52,5 +52,5 @@ Kad se na bunkeru mi budemo sreli:<br/>
 – Nek bude na stijegu i kap vaše krvi!<br/>
 <br>
 
-<img src="http://www.znaci.org/images/5057.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/5057.jpg"><br>
 <small>Podizanje jugoslovenske zastave prilikom formiranja 1. prekomorske brigade, Italija, Monopoli, 1943.</small>

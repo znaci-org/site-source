@@ -26,5 +26,5 @@ poljem, morem gorom – silaze niz brinu.<br/>
 Noćas ćemo, druže, opet u dolinu.<br/>
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Bundesarchiv_Bild_101I-049-1553-13%2C_Kroatien%2C_Split%2C_Mauer_mit_Aufschrift.jpg" alt=""><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Bundesarchiv_Bild_101I-049-1553-13%2C_Kroatien%2C_Split%2C_Mauer_mit_Aufschrift.jpg"><br>
 <small>Nemački ulazak u Split, oktobra 1943.</small>

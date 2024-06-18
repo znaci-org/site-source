@@ -24,6 +24,6 @@ Mi kujemo sebe! Jednom ćemo uzroke zla našeg zdrobiti!<br/>
 <br/>
 
 <p>
-  <img src="/images/kun-krvavo-zlato.jpg" alt=""><br>
+  <img src="/images/kun-krvavo-zlato.jpg"><br>
   <small>Đorđe Andrejević Kun, "Krvavo zlato"</small>
 </p>

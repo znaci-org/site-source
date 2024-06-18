@@ -428,6 +428,6 @@ I biće svakog dana sve bolje.<br/>
 (1949)<br/>
 
 <p>
-  <img src="http://www.znaci.org/images/15456.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/15456.jpg"><br>
   <small>Rumuni Banatskog Novog Sela na proslavi 1. maja 1945.</small>
 </p>

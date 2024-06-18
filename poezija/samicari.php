@@ -43,6 +43,6 @@ tamnici tihoj, gde su samičari<br />
 izbili na sunce iz bezdana kazne!
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Kazniona_Lepoglava.jpg" alt=""><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Kazniona_Lepoglava.jpg"><br>
   <small>Grupa političkih osuđenika u lepoglavskoj kaznioni 1930-ih.</small>
 </p>

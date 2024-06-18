@@ -163,6 +163,6 @@ Stope slobodne<br/>
 <br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Radni%C4%8Dki_zbor_u_Zagorju_1919.jpg" alt=""><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Radni%C4%8Dki_zbor_u_Zagorju_1919.jpg"><br>
   <small>Radnički zbor u Zagorju pred generalni štrajk solidarnosti održan u celoj Jugoslaviji juna 1919. godine protiv intervencija u mladim sovjetskim republikama u Rusiji i Mađarskoj.</small>
 </p>

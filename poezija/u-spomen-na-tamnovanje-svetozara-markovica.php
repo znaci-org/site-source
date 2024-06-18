@@ -101,5 +101,5 @@ i kad je toplo i kad susnežno,<br />
 jednoga dana, jednoga dana.<br />
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Svetozar-Markovi%C4%87.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Svetozar-Markovi%C4%87.jpg">
 </p>

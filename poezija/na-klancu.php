@@ -47,5 +47,5 @@ sa hiljadu strijela.<br/>
   (Štampano u broju 1 “Crvene zvijezde”, listu bataljona “Marka Oreškovića”, krajem januara 1943.)
 </p>
 
-<img src="http://www.znaci.org/images/11008.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/11008.jpg"><br>
 <small>Selo Zrmanja potpaljeno ođ strane Italijana.</small>

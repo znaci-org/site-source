@@ -109,6 +109,6 @@ Veliko srce bratstva svih naroda!<br/>
 <p>Pesma se odnosi na bitku kod Iruna u španskom građanskom ratu, gde su fašisti pobedili.</p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Republican_forces_during_the_Battle_of_Ir%C3%BAn.jpg/1280px-Republican_forces_during_the_Battle_of_Ir%C3%BAn.jpg" alt=""><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Republican_forces_during_the_Battle_of_Ir%C3%BAn.jpg/1280px-Republican_forces_during_the_Battle_of_Ir%C3%BAn.jpg"><br>
   <small>Republikanci na položaju kod Iruna</small>
 </p>

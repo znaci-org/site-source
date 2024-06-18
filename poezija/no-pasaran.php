@@ -32,5 +32,5 @@ Ali Harama će šumeti večno:<br/>
 </p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%C2%A1No_pasar%C3%A1n%21_Madrid.jpg/789px-%C2%A1No_pasar%C3%A1n%21_Madrid.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%C2%A1No_pasar%C3%A1n%21_Madrid.jpg/789px-%C2%A1No_pasar%C3%A1n%21_Madrid.jpg">
 </p>

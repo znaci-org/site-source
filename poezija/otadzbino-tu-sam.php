@@ -226,6 +226,6 @@ zidove što se oko nje stisli,<br />
 (1951)<br />
 
 <p>
-  <img src="http://www.znaci.org/images/15236.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/15236.jpg"><br>
   <small>Streljani rodoljubi u Jajincima kod Beograda, oktobra 1941.</small>
 </p>

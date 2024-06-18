@@ -73,5 +73,5 @@ Gaze sneg sa prenja beli,<br>
 k´o Titove bele kose…</p>
 
 <p>
-  <img src="http://www.znaci.org/images/9281.jpg" alt="">
+  <img src="http://www.znaci.org/images/9281.jpg">
 </p>

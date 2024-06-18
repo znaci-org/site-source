@@ -43,5 +43,5 @@ include "../includes/header.php";
 (1936)
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Belveder-spomen-ploca.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Belveder-spomen-ploca.jpg">
 </p>

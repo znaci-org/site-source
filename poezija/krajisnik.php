@@ -59,5 +59,5 @@ i kako se zove?<br/>
 Sloboda nas čeka.<br/>
 
 <p>
-  <img src="http://www.znaci.org/images/11384.jpg" alt="">
+  <img src="http://www.znaci.org/images/11384.jpg">
 </p>

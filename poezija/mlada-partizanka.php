@@ -34,5 +34,5 @@ Da je mlada partizanka kolo vodila</p>
 <p>Mlada partizanka bunker rušila</p>
 
 <p>
-  <img src="http://www.znaci.org/images/7269.jpg" alt="">
+  <img src="http://www.znaci.org/images/7269.jpg">
 </p>

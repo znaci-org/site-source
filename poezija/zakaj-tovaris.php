@@ -51,5 +51,5 @@ kojima ustanak jedini je spas!<br/>
 (Prepev sa slovenačkog Božidar Milidragović)<br/>
 <br>
 
-<img src="http://www.znaci.org/images/9215.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/9215.jpg"><br>
 <small>Slovenski partizan 1941.</small>

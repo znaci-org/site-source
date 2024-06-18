@@ -32,5 +32,5 @@ Skoro ćemo na more.<br>
 Skoro ćemo svom narodu,<br>
 Donijeti slobodu.</p>
 
-<img src="http://www.znaci.org/images/6198.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/6198.jpg"><br>
 <small>Grupa boraca 2. dalmatinske brigade 1942.</small>

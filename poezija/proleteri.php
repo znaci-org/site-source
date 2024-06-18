@@ -61,5 +61,5 @@ u njujorškim predgrađima kao i na obalama Ganga,<br/>
 na ekvatorijalnom suncu ili pod polarnim nebom.<br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Prol%C3%A9tariat_agricole_1907.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Prol%C3%A9tariat_agricole_1907.jpg">
 </p>

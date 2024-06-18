@@ -19,5 +19,5 @@ Dvadeset i tri rane<br/>
 U srcu Dalmacije....<br/>
 <br/>
 
-<img src="http://www.znaci.org/images/5007.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/5007.jpg"><br>
 <small>Partizani Prvog splitskog odreda koji su posle borbe 14.08.1941. kod sela Košuta na Mosoru razbijeni i pohvatani od ustaša, te posle presude streljani u Sinju (njih 24).</small>

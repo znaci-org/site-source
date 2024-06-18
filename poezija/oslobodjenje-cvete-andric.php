@@ -224,6 +224,6 @@ sudbinu ljudi i kontinenata.<br />
 <p>(1945)</p>
 
 <p>
-  <img src="http://www.znaci.org/images/14177.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/14177.jpg"><br>
   <small>Mensura Šaćiri za vreme govora na mitingu Antifašističkog fronta žena povodom 8. marta 1945.</small>
 </p>

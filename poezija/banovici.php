@@ -38,5 +38,5 @@ da sve dane jadne, sirotne i posne<br/>
 mađijom u dane praznične pretvori.<br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/sr/1/1d/Pruga_brcko-banovici.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/sr/1/1d/Pruga_brcko-banovici.jpg">
 </p>

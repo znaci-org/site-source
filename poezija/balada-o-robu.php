@@ -53,5 +53,5 @@ Tamnu jamu kopam, a užas će u nju.<br/>
 <br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Employment_of_Women_in_Britain%2C_1914-1918_Q31238.jpg/635px-The_Employment_of_Women_in_Britain%2C_1914-1918_Q31238.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Employment_of_Women_in_Britain%2C_1914-1918_Q31238.jpg/635px-The_Employment_of_Women_in_Britain%2C_1914-1918_Q31238.jpg">
 </p>

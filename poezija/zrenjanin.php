@@ -802,5 +802,5 @@ korača korakom čoveka<br />
 i zamišljena mu glava.<br />
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zarko_Zrenjanin_monument.jpg/400px-Zarko_Zrenjanin_monument.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zarko_Zrenjanin_monument.jpg/400px-Zarko_Zrenjanin_monument.jpg">
 </p>

@@ -607,4 +607,4 @@ za palim sinom Dalmacije?<br />
 Ili će majka da suze roni!...<br />
 <br />
 
-<img src="https://znaci.org/images/9248.jpg" alt="">
+<img src="https://znaci.org/images/9248.jpg">

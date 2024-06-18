@@ -33,4 +33,4 @@ Sutjeska buči, penuši i kipi —<br/>
 Gubi sem javlja njen šumni glas.<br/>
 <br/>
 
-<img src="https://znaci.org/images/8143.jpg" alt="">
+<img src="https://znaci.org/images/8143.jpg">

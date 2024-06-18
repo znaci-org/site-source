@@ -38,5 +38,5 @@ kao kad siđeš kao kad nestaneš<br/>
 da bi se mogao pojaviti — zakopano zlato<br/>
 
 <p>
-  <img src="https://znaci.org/images/116.jpg" alt="">
+  <img src="https://znaci.org/images/116.jpg">
 </p>

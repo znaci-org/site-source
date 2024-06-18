@@ -52,5 +52,5 @@ po zemlji na kojoj su pali<br/>
 oni govore i žive – iako neće doći…<br/>
 <br/>
 
-<img src="http://www.znaci.org/images/6852.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/6852.jpg"><br>
 <small>Grobnica sovjetskih vojnika na Trgu Republike u Beogradu.</small>

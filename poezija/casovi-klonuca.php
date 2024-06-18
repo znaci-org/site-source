@@ -35,5 +35,5 @@ Sva naša sramota i sav jad življenja!<br/>
 (1942, u logoru Stare Gradiške)<br/>
 <br>
 
-<img src="http://www.znaci.org/images/9428.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/9428.jpg"><br>
 <small>Deca sa Kozare u logoru Stara Gradiška posle kozaračke ofanzive, jula 1942.</small>

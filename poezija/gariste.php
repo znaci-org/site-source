@@ -39,4 +39,4 @@ I suze teku; gdje netko ti je kriv?</p>
 
 <p>1942.</p>
 
-<img src="http://www.znaci.org/images/42.jpg" alt="">
+<img src="http://www.znaci.org/images/42.jpg">

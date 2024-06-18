@@ -34,6 +34,6 @@ samo još svoju kuću nemamo Mi —<br/>
 Zidari!<br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Radnici_1924.jpg" alt=""><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Radnici_1924.jpg"><br>
   <small>Grupa komunista i naprednih radnika jednog električarskog preduzeća u Beogradu 1924. godine.</small>
 </p>

@@ -23,5 +23,5 @@ Svaka gruda tvog je uglja<br/>
 krvlju našom pokapana.<br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coal_mining_in_Illinois_%281915%29_%2814590895709%29.jpg/1266px-Coal_mining_in_Illinois_%281915%29_%2814590895709%29.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coal_mining_in_Illinois_%281915%29_%2814590895709%29.jpg/1266px-Coal_mining_in_Illinois_%281915%29_%2814590895709%29.jpg">
 </p>

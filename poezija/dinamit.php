@@ -35,5 +35,5 @@ kuglom<br/>
 gori<br/>
 eksplozija dinamita.<br/>
 
-<img src="http://www.znaci.org/images/8504.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/8504.jpg"><br>
 <small>Formiranje Treće dalmatinske brigade u Vrbi, Zlopolje 17.XI.1942.godine. </small>

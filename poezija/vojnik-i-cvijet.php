@@ -36,4 +36,4 @@ Prostrana je duša vojnika<br>
 Od rodnog praga<br>
 Do rova.</p>
 
-<img src="/images/vojnik-i-cvijet.jpg" alt="">
+<img src="/images/vojnik-i-cvijet.jpg">

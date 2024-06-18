@@ -39,5 +39,5 @@ jer je na kormilu bila<br />
 Partija.<br />
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Communist_Party_of_Yugoslavia_Flag-cyr_%281920%E2%80%931952%29.png" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Communist_Party_of_Yugoslavia_Flag-cyr_%281920%E2%80%931952%29.png">
 </p>

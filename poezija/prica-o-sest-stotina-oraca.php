@@ -92,6 +92,6 @@ pred oračima, napete i budne, stražare partizanke.<br />
 (1944)<br />
 
 <p>
-  <img src="http://www.znaci.org/images/9847.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/9847.jpg"><br>
   <small>Oslobođeno Livanjsko polje u vreme žetve 1942.</small>
 </p>

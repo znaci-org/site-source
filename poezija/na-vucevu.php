@@ -83,5 +83,5 @@ mrtvaca nema. –<br>
 I život caruje.</p>
 
 <p>
-  <img src="http://www.znaci.org/images/15185.jpg" alt="">
+  <img src="http://www.znaci.org/images/15185.jpg">
 </p>

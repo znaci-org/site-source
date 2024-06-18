@@ -95,6 +95,6 @@ napred, braćo, svi smo s vama.<br/>
 (1941)<br/>
 
 <p>
-  <img src="http://www.znaci.org/images/16002.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/16002.jpg"><br>
   <small>Polaznici minobacačkog kursa VI krajiške NOU brigade u Benakovcu, Grmeč, septembra 1942.</small>
 </p>

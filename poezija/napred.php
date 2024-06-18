@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Ljubica Ivošević - Napred!</h1>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ljuba_Ivoshevich_Dimitrova_100x140a.jpg" alt=""></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ljuba_Ivoshevich_Dimitrova_100x140a.jpg"></p>
 
 Ćutite, ćutite – ne kunite svet! –<br />
 Je l’ vam sudba grozna; je l’ vam život klet;<br />

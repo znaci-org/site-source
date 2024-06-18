@@ -125,6 +125,6 @@ A sad idem dalje piti!<br/>
 O teško je četnik biti…<br/>
 
 <p>
-  <img src="http://www.znaci.org/images/14896.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/14896.jpg"><br>
   <small>Italijani i četnici u Nikšiću februara 1943, uoči odlaska na Neretvu.</small>
 </p>

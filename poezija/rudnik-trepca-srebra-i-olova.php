@@ -37,5 +37,5 @@ iz rudnika srebra i olova<br>
 što su prvi u vatru hrlili<br>
 i u teškoj borbi izginuli.</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Monument_To_Fallen_Miners_%28105155925%29.jpeg/1280px-Monument_To_Fallen_Miners_%28105155925%29.jpeg" alt=""><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Monument_To_Fallen_Miners_%28105155925%29.jpeg/1280px-Monument_To_Fallen_Miners_%28105155925%29.jpeg"><br>
 <small>Spomenik palim rudarima</small>

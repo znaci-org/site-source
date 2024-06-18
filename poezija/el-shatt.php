@@ -37,5 +37,5 @@ include "../includes/header.php";
 </p>
 
 <p>
-    <img src="http://www.znaci.org/images/14808.jpg" alt="">
+    <img src="http://www.znaci.org/images/14808.jpg">
 </p>

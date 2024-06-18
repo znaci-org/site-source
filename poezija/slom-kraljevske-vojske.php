@@ -55,5 +55,5 @@ Ko će nas opet u boj povesti?<br />
 Je l narod ostao sam?<br />
 
 <p>
-  <img src="http://www.znaci.org/images/6290.jpg" alt="">
+  <img src="http://www.znaci.org/images/6290.jpg">
 </p>

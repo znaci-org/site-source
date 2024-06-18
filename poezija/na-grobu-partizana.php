@@ -28,5 +28,5 @@ nad smilje i kadulju.<br/>
 I tužan sam i radostan.<br/>
 <br>
 
-<img src="http://www.znaci.org/images/3317.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/3317.jpg"><br>
 <small>Pop sveti grobove partizana u Bosni</small>

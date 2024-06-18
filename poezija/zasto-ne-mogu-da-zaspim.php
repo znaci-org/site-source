@@ -55,5 +55,5 @@ Ista stvar.<br />
   Džemil Džemo Krvavac, književnik i pjesik, rođen 1913. godine u selu Velika Gračanica kod Gacka, uhapšen u Sarajevu 1941, ubijen u ustaškom logoru Jasenovac 1942. godine.
 </p>
 
-<img src="http://www.znaci.org/images/15247.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/15247.jpg"><br>
 <small>Logoraši iz konc-logora Jasenovac, 1942.</small>

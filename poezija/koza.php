@@ -38,4 +38,4 @@ nisu ni slutiti mogli<br/>
 ki cilu božju noć proplače za kozon.<br/>
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Bundesarchiv_Bild_183-08287-0005%2C_Linde%2C_Neub%C3%A4uerin%2C_Funktion%C3%A4rin_der_Nationalen_Front.jpg" alt="">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Bundesarchiv_Bild_183-08287-0005%2C_Linde%2C_Neub%C3%A4uerin%2C_Funktion%C3%A4rin_der_Nationalen_Front.jpg">

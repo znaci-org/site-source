@@ -82,4 +82,4 @@ Ja sam budućnost, osmeh i teška sreća nove španije.<br />
 
 <p>(1937)</p>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Bombardeo_del_17_de_noviembre_de_1936_sobre_Madrid.jpg" alt=""></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Bombardeo_del_17_de_noviembre_de_1936_sobre_Madrid.jpg"></p>

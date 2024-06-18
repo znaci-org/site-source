@@ -103,6 +103,6 @@ slobodi nasuprot.<br />
 Čuje se odjek koraka...<br />
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/%C4%90or%C4%91e_Andrejevi%C4%87_Kun_-_logor_Bile%C4%87a.jpg" alt=""><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/%C4%90or%C4%91e_Andrejevi%C4%87_Kun_-_logor_Bile%C4%87a.jpg"><br>
   <small>Đorđe Andrejević Kun - logor Bileća</small>
 </p>

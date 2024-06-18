@@ -43,6 +43,6 @@ umjesto ikone stavila znamenje<br />
 i besmrtnom se sinu poklonila.<br />
 
 <p>
-  <img src="http://www.znaci.org/images/6084.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/6084.jpg"><br>
   <small>Na slici Kata Pejnović, predsednica AFŽ Hrvatske</small>
 </p>

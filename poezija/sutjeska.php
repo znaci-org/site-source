@@ -674,4 +674,4 @@ za osvanak i jutra vedra.<br/>
 
 <p><a href="poezija/sutjeska-2.php">Drugi dio poeme Sutjeska</a></p>
 
-<img src="https://znaci.org/images/8143.jpg" alt="">
+<img src="https://znaci.org/images/8143.jpg">

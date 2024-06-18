@@ -47,6 +47,6 @@ sna,<br />
 tišina popločana snom tišine…<br />
 
 <p>
-  <img src="http://www.znaci.org/images/15178.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/15178.jpg"><br>
   <small>Jedinice Sedme krajiške brigade kod Zelengore, 1943. za vreme Pete neprijateljske ofanzive.</small>
 </p>

@@ -33,5 +33,5 @@ za bolji život crni se ćivot,<br/>
 za život, život sam dao.<br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alcatraz_Cells_%289641518466%29.jpg/576px-Alcatraz_Cells_%289641518466%29.jpg" alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alcatraz_Cells_%289641518466%29.jpg/576px-Alcatraz_Cells_%289641518466%29.jpg">
 </p>

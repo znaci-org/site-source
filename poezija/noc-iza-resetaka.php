@@ -32,5 +32,5 @@ smrt dečaka i ova kosa seda?<br />
 
 <p>Autor je tokom ustanka u Srbiji 1941, kao šesnaestogodišnjak, bio partizanski kurir Čačanskog odreda, nakon čega je uhapšen i zatvoren u logor u Smederevskoj Palanci.</p>
 
-<img src="http://www.znaci.org/images/14414.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/14414.jpg"><br>
 <small>Grupa interniraca u koncentracionom logoru Ustika juna 1942. </small>

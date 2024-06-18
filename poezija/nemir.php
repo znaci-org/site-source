@@ -30,6 +30,6 @@ s cvrkutom ispod streha.<br/>
 </p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Jelena_%C4%86etkovi%C4%87.jpg" alt=""><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Jelena_%C4%86etkovi%C4%87.jpg"><br>
   <small>Jelena Ćetković govori na sahrani ubijene drugarice Božane Vučinić 1937. godine.</small>
 </p>

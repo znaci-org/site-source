@@ -182,6 +182,6 @@ duša nad humkama, cepam krov kolibi<br />
 da streljam dok smrti bude. Smrti, pucaj!<br />
 
 <p>
-  <img src="http://www.znaci.org/images/15651.jpg" alt=""><br>
+  <img src="http://www.znaci.org/images/15651.jpg"><br>
   <small>Fratar Miroslav Filipović, poznat kao Fra Sotona, komandant logora u Jasenovcu i Staroj Gradiški.</small>
 </p>

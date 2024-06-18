@@ -113,5 +113,5 @@ ja držim čas!<br />
   (Posvećeno uspomeni na Miloja Pavlovića, profesora direktora Učiteljske škole u Kragujevcu, streljanog od Nemaca 21. oktobra 1941.g.)
 </p>
 
-<img src="http://www.znaci.org/images/8430.jpg" alt=""><br>
+<img src="http://www.znaci.org/images/8430.jpg"><br>
 <small>Streljani taoci u Kragujevcu oktobra 1941.</small>
