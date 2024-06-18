@@ -58,5 +58,7 @@ include "../includes/header.php";
   Na tri fronta tri maršala,<br />
   Sva tri rušu kapitala,<br />
   Na jugu su sve junaci,<br />
-  Drug Buđopi i Kozaci!...<br />
+  Drug Buđoni i Kozaci!...<br />
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">

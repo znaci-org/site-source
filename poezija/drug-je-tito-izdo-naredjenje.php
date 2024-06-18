@@ -22,3 +22,5 @@ include "../includes/header.php";
   Druže Tito, vođo svih brigada,<br />
   Tvojom borbom ponestaće jada.<br />
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">

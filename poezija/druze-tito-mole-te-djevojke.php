@@ -23,3 +23,5 @@ include "../includes/header.php";
   Nek te pusti kad jesen zarudi,<br>
   Dođi dragi te ljubav probudi.
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">

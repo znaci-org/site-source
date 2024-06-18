@@ -30,3 +30,5 @@ include "../includes/header.php";
   <br />
   Tito! To je Tito!
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">

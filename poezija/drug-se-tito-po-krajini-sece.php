@@ -28,3 +28,5 @@ include "../includes/header.php";
   Druže Tito, titovku nakrivi,<br />
   Svi su tvoji proleteri živi.<br />
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">
