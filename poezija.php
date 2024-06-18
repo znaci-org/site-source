@@ -1408,6 +1408,7 @@ include "includes/header.php";
         <h4>Dušan Kostić</h4>
         <ul>
             <li><a href="poezija/pred-partijom.php">Pred Partijom</a></li>
+            <li><a href="poezija/djecak-na-kamenu.php">Dječak na kamenu</a></li>
         </ul>
     </article>
 

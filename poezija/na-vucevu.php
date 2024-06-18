@@ -83,5 +83,6 @@ mrtvaca nema. –<br>
 I život caruje.</p>
 
 <p>
-  <img src="http://www.znaci.org/images/15185.jpg">
+  <img src="http://www.znaci.org/images/9045.jpg" alt=""><br>
+  <small>Prva proleterska brigada u kratkom odmoru na Vučevu, tokom bitke na Sutjesci 1943.</small>
 </p>

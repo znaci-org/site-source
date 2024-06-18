@@ -53,3 +53,7 @@ Zemljo,<br/>
 zgažena zemljo,.<br/>
 tebi se mnogo daje,<br/>
 tebi se mnogo daje!<br/>
+
+<p>
+  <img src="http://www.znaci.org/images/15185.jpg">
+</p>
