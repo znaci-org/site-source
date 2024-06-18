@@ -581,6 +581,7 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/susret.php">Susret</a></li>
             <li><a href="poezija/vidjeh-split-u-zici.php">Vidjeh Split u žici</a></li>
+            <li><a href="poezija/kolone-zena.php">Kolone žena</a></li>
             <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
         </ul>
     </article>

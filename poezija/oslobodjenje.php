@@ -38,6 +38,5 @@ i biti puna radosti,<br/>
 milošte i pouzdanja.<br/>
 
 <p>
-  <img src="http://www.znaci.org/images/8571.jpg"><br>
-  <small>Miting AFŽ Slovenije u šumi 1944.</small>
+  <img src="http://www.znaci.org/images/9285.jpg"><br>
 </p>
