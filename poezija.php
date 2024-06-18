@@ -1174,12 +1174,16 @@ include "includes/header.php";
         <ul>
             <li><a href="poezija/oslobodjenje.php">Oslobođenje</a></li>
             <li><a href="poezija/oslobodjenje-cvete-andric.php">Oslobođenje Cvete Andrić</a></li>
+            <li><a href="poezija/oprostite.php">Oprostite</a></li>
             <li><a href="poezija/ratnik-desanka-maksimovic.php">Ratnik</a></li>
             <li><a href="poezija/majkama.php">Majkama</a></li>
             <li><a href="poezija/sumnjalicama.php">Sumnjalicama</a></li>
             <li><a href="poezija/otadzbina-u-prvomajskoj-povorci.php">Otadžbina u prvomajskoj povorci</a></li>
+            <li><a href="poezija/nas-sloboda-blagosilja.php">Nas sloboda blagosilja</a></li>
+            <li><a href="poezija/varsava.php">Varšava</a></li>
             <li><a href="poezija/vukov-utuk.php">Vukov utuk</a></li>
             <li><a href="poezija/bajka-o-ustanickoj-pusci.php">Bajka o ustaničkoj pušci</a></li>
+            <li><a href="poezija/bajka-o-zvezdi.php">Bajka o zvezdi</a></li>
             <li><a href="poezija/otadzbino-tu-sam.php">Otadžbino, tu sam</a></li>
         </ul>
     </article>

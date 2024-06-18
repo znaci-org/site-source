@@ -227,6 +227,7 @@ article:first-child h4 {
 
 .columns img {
     float: right;
+    margin-left: 2px;
     height: 100px;
 }
 

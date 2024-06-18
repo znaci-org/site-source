@@ -60,3 +60,7 @@ U steni hteo bih britvom da ga pišem<br/>
 gde večnost duboko svoje reči dube.<br/>
 <br/>
 (1947)<br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/%D0%92%D1%83%D0%BA_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B_%D0%9A%D0%B0%D1%80%D0%B0%D1%9F%D0%B8%D1%9B.%D0%BE%D0%BA%D0%BE_1850..jpg" alt="">
+</p>
