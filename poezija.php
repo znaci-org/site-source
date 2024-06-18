@@ -962,6 +962,7 @@ include "includes/header.php";
 
     <article>
         <h4>Desanka Maksimović</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Desanka_Maksimovi%C4%87_stara_slika.jpg" alt="">
         <ul>
             <li><a href="poezija/osvajaci.php">Osvajači</a></li>
             <li><a href="poezija/u-ropstvu.php">U ropstvu</a></li>
@@ -970,6 +971,7 @@ include "includes/header.php";
             <li><a href="poezija/poludeli-vozar-tenka.php">Poludeli vozar tenka</a></li>
             <li><a href="poezija/krvava-bajka.php">Krvava bajka</a></li>
             <li><a href="poezija/zima-u-zavicaju.php">Zima u zavičaju</a></li>
+            <li><a href="poezija/devojke-­vojnici.php">Devojke-­vojnici</a></li>
             <li><a href="poezija/blaga-vest.php">Blaga vest</a></li>
         </ul>
     </article>
