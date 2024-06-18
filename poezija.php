@@ -771,6 +771,7 @@ include "includes/header.php";
         <h4>Dušan Matić</h4>
         <ul>
             <li><a href="poezija/uspavanka-za-poginule.php">Uspavanka za poginule koji nemaju više od dvadeset godina</a></li>
+            <li><a href="poezija/zabelezeno-posle-bombardovanja-na-uskrs-1944.php">Zabeleženo posle bombardovanja na Uskrs 1944.</a></li>
         </ul>
     </article>
 
