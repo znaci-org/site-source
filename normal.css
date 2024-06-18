@@ -230,6 +230,11 @@ article:first-child h4 {
     height: 100px;
 }
 
+.zastave  img {
+    height: unset;
+    width: 100px;
+}
+
 /* STARO */
 
 .bigbigTitle {

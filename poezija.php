@@ -972,10 +972,10 @@ include "includes/header.php";
 
 <h2 id="narodne-pesme">Narodne partizanske pesme</h2>
 
-<div class="knjige columns">
+<div class="knjige columns zastave">
     <article>
         <h3>Partizanske pesme iz Hrvatske</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_Arms_of_the_Socialist_Republic_of_Croatia.svg/186px-Coat_of_Arms_of_the_Socialist_Republic_of_Croatia.svg.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Croatian_Partisans_%283-5%29.svg/400px-Flag_of_the_Croatian_Partisans_%283-5%29.svg.png" alt="">
         <ul>
             <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a></li>
             <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
@@ -1020,7 +1020,7 @@ include "includes/header.php";
 
     <article>
         <h3>Partizanske pesme iz Bosne i Hercegovine</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Coat_of_Arms_of_the_Socialist_Republic_of_Bosnia_and_Herzegovina.svg/200px-Coat_of_Arms_of_the_Socialist_Republic_of_Bosnia_and_Herzegovina.svg.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bosnian-Herzegovinian_Partisans_flag.svg/320px-Bosnian-Herzegovinian_Partisans_flag.svg.png" alt="">
         <ul>
             <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
             <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
@@ -1046,7 +1046,7 @@ include "includes/header.php";
 
     <article>
         <h3>Partizanske pesme iz Crne Gore</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Coat_of_arms_of_Montenegro_%281945%E2%80%931993%29.svg/198px-Coat_of_arms_of_Montenegro_%281945%E2%80%931993%29.svg.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/400px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
         <ul>
             <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
             <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
@@ -1058,7 +1058,7 @@ include "includes/header.php";
 
     <article>
         <h3>Partizanske pesme iz Srbije</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg/187px-Coat_of_arms_of_Serbia_%281947%E2%80%932004%29.svg.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/400px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
         <ul>
             <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
             <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo, ustaj rode</a></li>
@@ -1095,7 +1095,7 @@ include "includes/header.php";
 
     <article>
         <h3>Partizanske pesme iz Slovenije</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_Arms_of_the_Socialist_Republic_of_Slovenia.svg/235px-Coat_of_Arms_of_the_Socialist_Republic_of_Slovenia.svg.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/400px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
         <ul>
             <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
             <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
@@ -1108,7 +1108,7 @@ include "includes/header.php";
 
     <article>
         <h3>Partizanske pesme iz Makedonije</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat_of_arms_of_North_Macedonia.svg/223px-Coat_of_arms_of_North_Macedonia.svg.png" alt="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg/400px-Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg.png" alt="">
         <ul>
             <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
             <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско, реко силна</a></li>
@@ -1120,7 +1120,7 @@ include "includes/header.php";
 
     <article>
         <h3>Opšte jugoslovenske</h3>
-
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Yugoslavia_%281943-1946%2C_3-2%29.svg/320px-Flag_of_Yugoslavia_%281943-1946%2C_3-2%29.svg.png" alt="">
         <ul>
             <li><a href="poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></li>
             <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
