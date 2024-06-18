@@ -34,3 +34,6 @@ include "../includes/header.php";
   O četnici, vid'te, vid'te<br />
   Da je zemlja druga Tite.<br />
 </p>
+
+<img src="http://www.znaci.org/images/3520.jpg" alt=""><br>
+<small>Partizani sa Kupresa</small>

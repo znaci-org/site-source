@@ -1172,7 +1172,9 @@ include "includes/header.php";
         <h4>Desanka Maksimović</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Desanka_Maksimovi%C4%87_1969.jpg" alt="">
         <ul>
+            <li><a href="poezija/oslobodjenje.php">Oslobođenje</a></li>
             <li><a href="poezija/oslobodjenje-cvete-andric.php">Oslobođenje Cvete Andrić</a></li>
+            <li><a href="poezija/ratnik-desanka-maksimovic.php">Ratnik</a></li>
             <li><a href="poezija/majkama.php">Majkama</a></li>
             <li><a href="poezija/sumnjalicama.php">Sumnjalicama</a></li>
             <li><a href="poezija/otadzbina-u-prvomajskoj-povorci.php">Otadžbina u prvomajskoj povorci</a></li>
