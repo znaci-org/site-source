@@ -887,9 +887,12 @@ include "includes/header.php";
             <h4>Drago Gervais</h4>
             <ul>
                 <li><a href="poezija/kmet-se-je-stal.php">Kmet se je stal</a></li>
+                <li><a href="poezija/mi-smo-ustali.php">Mi smo ustali</a></li>
                 <li><a href="poezija/one-su-hodile.php">One su hodile</a></li>
+                <li><a href="poezija/istarski-partizan.php">Istarski partizan</a></li>
                 <li><a href="poezija/va-beograde-leta-tisucu-devetsto-cetrdeset-i-cetrtega.php">Va Beograde leta tisuću devetsto četrdeset i četrtega</a></li>
                 <li><a href="poezija/va-sremskoj-ravnice.php">Va sremskoj ravnice</a></li>
+                <li><a href="poezija/istrijanski-covek-govori.php">Istrijanski čovek govori</a></li>
             </ul>
         </article>
 
@@ -1372,7 +1375,7 @@ include "includes/header.php";
         <article>
             <h4>Miroslav Mika Antić</h4>
             <ul>
-                <li><a href="poezija/nadničar-1940.php">Nadničar 1940.</a></li>
+                <li><a href="poezija/nadnicar-1940.php">Nadničar 1940.</a></li>
                 <li><a href="poezija/jedna-istina-iz-aprila.php">Jedna istina iz aprila</a></li>
             </ul>
         </article>
