@@ -254,6 +254,7 @@ include "includes/header.php";
             <h4>Mate Balota</h4>
             <ul>
                 <li><a href="poezija/koza.php">Koza</a></li>
+                <li><a href="poezija/moja-mati.php">Moja mati</a></li>
                 <li><a href="poezija/sipe-piva.php">Sipe piva</a></li>
             </ul>
         </article>
@@ -1254,6 +1255,7 @@ include "includes/header.php";
                 <li><a href="poezija/zelengoro.php">Zelengoro</a></li>
                 <li><a href="poezija/tjentiste.php">Tjentište</a></li>
                 <li><a href="poezija/odbrana-zemlje.php">Odbrana zemlje</a></li>
+                <li><a href="poezija/goran.php">Goran</a></li>
                 <li><a href="poezija/tito.php">Tito</a></li>
             </ul>
         </article>
