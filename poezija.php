@@ -182,6 +182,14 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Drago Gervais</h4>
+            <ul>
+                <li><a href="poezija/kmeti.php">Kmeti</a></li>
+                <li><a href="poezija/sni-kmeta.php">Sni kmeta</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Hasan Kikić</h4>
             <ul>
                 <li><a href="poezija/bozji-ljudi.php">Božji ljudi</a></li>
