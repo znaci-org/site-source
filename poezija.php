@@ -850,6 +850,7 @@ include "includes/header.php";
         <article>
             <h4>Milorad Panić Surep</h4>
             <ul>
+                <li><a href="poezija/buntovna-me-macva-rodi.php">Buntovna me Mačva rodi</a></li>
                 <li><a href="poezija/beograd-tacno-u-ponoc.php">Beograd tačno u ponoć</a></li>
                 <li><a href="poezija/oci-palog-druga.php">Oči palog druga</a></li>
                 <li><a href="poezija/zeravica-bez-supraske.php">Žeravica bez supraške</a></li>
@@ -888,6 +889,7 @@ include "includes/header.php";
                 <li><a href="poezija/tifusari.php">Tifusari</a> (poema)</li>
                 <li><a href="poezija/pjesma-sutrasnjemu.php">Pjesma sutrašnjemu</a></li>
                 <li><a href="poezija/dvadeset-i-trojica.php">Dvadeset i trojica</a></li>
+                <li><a href="poezija/jadikovka-kamena.php">Jadikovka kamena</a></li>
             </ul>
         </article>
 

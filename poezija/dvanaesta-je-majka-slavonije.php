@@ -31,3 +31,5 @@ include "../includes/header.php";
   <br />
   Dvanaesta je majka Slavonije, još je nitko pobijedio nije.<br />
 </p>
+
+<img src="http://www.znaci.org/images/15737.jpg" alt="">

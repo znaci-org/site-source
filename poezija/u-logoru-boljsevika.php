@@ -113,4 +113,5 @@ include "../includes/header.php";
   seje ječam i pšenicu.<br />
 </p>
 
-<img src="http://www.znaci.org/images/7529.jpg" alt="">
+<img src="http://www.znaci.org/images/14714.jpg" alt=""><br>
+<small>Za vreme Šeste ofanzive, borci 12. slavonske divizije na Papuku 1944. godine.</small>
