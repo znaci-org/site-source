@@ -783,7 +783,7 @@ include "includes/header.php";
 
         <article>
             <h4>Karel Destovnik Kajuh</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg/164px-Zadnja_fografija_Karla_Destovnika_Kajuha_%28cropped%29.jpg" title="Zadnja fografija Karla Destovnika Kajuha">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg/200px-Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg" title="Kajuh govori na mitingu v Starem trgu pri Ložu 1943.">
             <ul>
                 <li><a href="poezija/zakaj-tovaris.php">Zašto, druže</a></li>
                 <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
@@ -889,6 +889,7 @@ include "includes/header.php";
                 <li><a href="poezija/kmet-se-je-stal.php">Kmet se je stal</a></li>
                 <li><a href="poezija/one-su-hodile.php">One su hodile</a></li>
                 <li><a href="poezija/va-beograde-leta-tisucu-devetsto-cetrdeset-i-cetrtega.php">Va Beograde leta tisuću devetsto četrdeset i četrtega</a></li>
+                <li><a href="poezija/va-sremskoj-ravnice.php">Va sremskoj ravnice</a></li>
             </ul>
         </article>
 
