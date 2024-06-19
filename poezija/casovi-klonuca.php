@@ -32,7 +32,7 @@ glasom, koji ječi preko gora, stijenja,<br/>
 Da odjekne u njem – uz bol nad svršetkom -<br/>
 Sva naša sramota i sav jad življenja!<br/>
 <br/>
-(1942, u logoru Stare Gradiške)<br/>
+(u ustaškom logoru 1942.)<br/>
 <br>
 
 <img src="http://www.znaci.org/images/9428.jpg"><br>

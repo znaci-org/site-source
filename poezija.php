@@ -98,6 +98,7 @@ include "includes/header.php";
                 <li><a href="poezija/kaj-opet-grmi.php">Kaj opet grmi?</a></li>
                 <li><a href="poezija/oci-stjepana-radica.php">Oči Stjepana Radića</a></li>
                 <li><a href="poezija/samome-sebi.php">Samome sebi</a></li>
+                <li><a href="poezija/moj-grob.php">Moj grob</a></li>
             </ul>
         </article>
 
@@ -282,10 +283,13 @@ include "includes/header.php";
         <article>
             <h4>Antun Branko Šimić</h4>
             <ul>
+                <li><a href="poezija/zakonodavci.php">Zakonodavci</a></li>
                 <li><a href="poezija/zene-pred-uredima.php">Žene pred uredima</a></li>
+                <li><a href="poezija/siromasi.php">Siromasi</a></li>
                 <li><a href="poezija/siromasi-koji-jedu-od-podne-do-podne.php">Siromasi koji jedu od podne do podne</a></li>
                 <li><a href="poezija/rucak-siromaha.php">Ručak siromaha</a></li>
                 <li><a href="poezija/siromahu.php">Siromahu</a></li>
+                <li><a href="poezija/raspece.php">Raspeće</a></li>
             </ul>
         </article>
 
@@ -515,7 +519,6 @@ include "includes/header.php";
                 <li><a href="poezija/ognjeni-vlak.php">Ognjeni vlak</a></li>
                 <li><a href="poezija/trajanje.php">Trajanje</a></li>
                 <li><a href="poezija/pastiri.php">Pastiri</a></li>
-                <li><a href="poezija/moj-grob.php">Moj grob</a></li>
             </ul>
         </article>
 
