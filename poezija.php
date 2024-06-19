@@ -307,6 +307,7 @@ include "includes/header.php";
                 <li><a href="poezija/monolog-s-kuglom-zemaljskom.php">Monolog s kuglom zemaljskom</a></li>
                 <li><a href="poezija/za-vjecan-prvi-maj.php">Za vječan Prvi maj</a></li>
                 <li><a href="poezija/coveku-sto-puze-na-trgu.php">Čoveku što puže na trgu</a></li>
+                <li><a href="poezija/ceznja-za-mirom-u-sebi-samome.php">Čežnja za mirom u sebi samome</a></li>
                 <li><a href="poezija/pjesma-o-crvenoj-zvijezdi.php">Pjesma o crvenoj zvijezdi</a></li>
             </ul>
         </article>
