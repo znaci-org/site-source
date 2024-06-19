@@ -740,8 +740,9 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h4>Janus Međedović</h4>
+            <h4>Junus Međedović</h4>
             <ul>
+                <li><a href="poezija/tece-tara.php">Teče Tara</a></li>
                 <li><a href="poezija/skriveni-grob.php">Skriveni grob</a></li>
             </ul>
         </article>
@@ -899,13 +900,6 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-buducima.php">Pjesma budućima</a></li>
                 <li><a href="poezija/pjesnik-borac.php">Pjesnik-borac</a></li>
                 <li><a href="poezija/nas-bog.php">Naš bog</a></li>
-            </ul>
-        </article>
-
-        <article>
-            <h4>Junuz Međedović</h4>
-            <ul>
-                <li><a href="poezija/tece-tara.php">Teče Tara</a></li>
             </ul>
         </article>
 
