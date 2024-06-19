@@ -68,3 +68,7 @@ na svakom koraku tvoje oružje,<br/>
 jer ti si srce svijeta,<br/>
 <br/>
 jedino veliko srce svijeta.<br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fabrike_radnicima_EI.jpg/1024px-Fabrike_radnicima_EI.jpg" alt="">
+</p>

@@ -809,6 +809,9 @@ include "includes/header.php";
             <li><a href="poezija/zvijezda-banjevic.php">Zvijezda</a></li>
             <li><a href="poezija/sutjeska.php">Sutjeska I</a> (poema)</li>
             <li><a href="poezija/sutjeska-2.php">Sutjeska II</a> (poema)</li>
+            <ul>
+                <li><a href="poezija/sutjeska-2.php#oj-sutjesko">O Sutjesko vodo ledna</a></li>
+            </ul>
             <li><a href="poezija/povratak.php">Povratak</a></li>
             <li><a href="poezija/nevid.php">Nevid</a></li>
             <li><a href="poezija/zapis.php">Zapis</a></li>

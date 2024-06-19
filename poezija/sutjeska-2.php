@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Mirko Banjević - Sutjeska (drugi dio)</h1>
 
-<h2>1: O Sutjesko vodo ledna</h2>
+<h2 id="oj-sutjesko">1: O Sutjesko vodo ledna</h2>
 
 O Sutjesko, vodo ledna,<br />
 čija vojska nepobjedna<br />
