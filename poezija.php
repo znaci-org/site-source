@@ -887,6 +887,8 @@ include "includes/header.php";
             <h4>Drago Gervais</h4>
             <ul>
                 <li><a href="poezija/kmet-se-je-stal.php">Kmet se je stal</a></li>
+                <li><a href="poezija/one-su-hodile.php">One su hodile</a></li>
+                <li><a href="poezija/va-beograde-leta-tisucu-devetsto-cetrdeset-i-cetrtega.php">Va Beograde leta tisuću devetsto četrdeset i četrtega</a></li>
             </ul>
         </article>
 
