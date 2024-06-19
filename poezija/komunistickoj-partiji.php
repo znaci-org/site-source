@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ivan Goran Kovačić - Komunističkoj partiji";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ivan Goran Kovačić - Komunističkoj partiji</h1>
+<h1><?php echo $naslov ?></h1>
 
 Izreći zanosno tvoje veliko ime<br />
 I osjetit krepku Slobodu divljeg zraka<br />

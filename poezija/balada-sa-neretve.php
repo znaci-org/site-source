@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mira Alečković - Balada sa Neretve";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mira Alečković - Balada sa Neretve</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Neretva… i ranjenici…<br>
 sneg fijuče… Svi smo stali.<br>

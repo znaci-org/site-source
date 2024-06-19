@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Janko Đonović - Crnci i Crnogorci";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Janko Đonović - Crnci i Crnogorci</h1>
+<h1><?php echo $naslov ?></h1>
 
 1<br/>
 <br/>

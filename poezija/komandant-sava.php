@@ -1,13 +1,13 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Puniša Perović - Komandant Sava";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Komandant Sava</h1>
+<h1><?php echo $naslov ?></h1>
 
-(<i>pjesma Puniše Perovića, nastala oktobra 1943, koja je ušla u usmeno predanje stekavši više verzija</i>)
+(<i>izvorno napisana oktobra 1943, postala narodna pesma sa više verzija</i>)
 
 <p>
   Skraja Bosne i mora, zna ga zemlja sva<br />

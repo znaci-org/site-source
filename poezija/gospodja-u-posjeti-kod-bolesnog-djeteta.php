@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Krleža - Gospođa u posjeti kod bolesnog djeteta svoje sluškinje";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Krleža - Noć u provinciji</h1>
+<h1><?php echo $naslov ?></h1>
 
 <i>Vladimiru Nazoru</i><br/>
 <br/>

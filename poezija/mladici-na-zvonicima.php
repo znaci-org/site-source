@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jovan Popović - Mladići na zvonicima";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jovan Popović - Mladići na zvonicima</h1>
+<h1><?php echo $naslov ?></h1>
 
 U mraku noći, u samoći, mladić je govorio,<br/>
 otvorivši u prostor prozore duše širom.<br/>

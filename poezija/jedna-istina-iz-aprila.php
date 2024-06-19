@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Mika Antić - Jedna istina iz aprila";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Mika Antić - Jedna istina iz aprila</h1>
+<h1><?php echo $naslov ?></h1>
 
 Južnjak opeče dahom vrelim<br/>
 večeri mrke vlažan skut.<br/>

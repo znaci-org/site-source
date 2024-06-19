@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Krleža - Jeruzalemski dijalog";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Krleža - Jeruzalemski dijalog</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   - A tako? On je iz Nazareta?<br />

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Oskar Davičo - Ćelija";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - Ćelija</h1>
+<h1><?php echo $naslov ?></h1>
 
 Ćelija smradna, ćelija gadna.<br/>
 Majko, majčice draga,<br/>

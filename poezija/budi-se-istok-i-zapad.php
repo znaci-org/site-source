@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Čedomir Minderović - Budi se istok i zapad";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Čedomir Minderović - Budi se istok i zapad</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>kasnije postala narodna pesma sa više verzija</i>)
 

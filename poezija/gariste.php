@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ivan Goran Kovačić - Garište";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ivan Goran Kovačić - Garište</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Oboreno selo, crno, mrtvo.<br>
 Ko krik bi ovdje zvučao i smijeh.<br>

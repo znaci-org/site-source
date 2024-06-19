@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Tanasije Mladenović - Golija";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Tanasije Mladenović - Golija</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
 Belo i sivo. Golija je pred nama svučena<br/>

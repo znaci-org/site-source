@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Grob u žitu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Grob u žitu</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>U vijavici slijepoj guši se blijedi dan,<br>
 podmukla veljača, februar u magle zamotan.<br>

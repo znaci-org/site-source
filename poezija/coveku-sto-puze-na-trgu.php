@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "August Cesarec - Čoveku što puže na trgu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>August Cesarec - Čoveku što puže na trgu</h1>
+<h1><?php echo $naslov ?></h1>
 
 Čoveče,<br/>
 ti kljasti, samotni čoveče što pognut si ko svetove da na leđima<br/>

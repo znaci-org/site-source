@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Slobodan Marković - Komunistička partija";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Slobodan Marković - Komunistička partija</h1>
+<h1><?php echo $naslov ?></h1>
 
 I obešeni reko joj je ime ...<br/>
 Sloboda ili Ona,<br/>

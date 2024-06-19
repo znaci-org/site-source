@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Čerkez - Jablanka";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Čerkez - Jablanka</h1>
+<h1><?php echo $naslov ?></h1>
 
 Lice je njeno bilo — snijeg na jelikama,<br/>
 Kose — pšenice vali,<br/>

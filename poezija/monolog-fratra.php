@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Oskar Davičo - Monolog fratra";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - Monolog fratra</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   <i>„U samostanskom podrumu zatekao sam tog fratra naoružanog kamom i revolverom, u času kada je, gazeći, udarao gvozdenom šipkom leš partizanke za koju se utvrdilo da je pripadala Livanjskom odredu. Fratar je vikao, govorio nerazumljive reči, mešao psovke i molitve, i trudio se i posle da ostavi utisak ludog čoveka. Šaljem vam na detaljnije ispitivanje tog ovejanog neprijatelja dijalektike i naše NOB.” (Iz pisma jednog komandira čete, 1943)</i>

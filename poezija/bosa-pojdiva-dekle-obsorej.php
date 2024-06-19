@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Karel Destovnik Kajuh - Bosa pojdiva, dekle, obsorej";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Bosa pojdiva, dekle, obsorej</h1>
+<h1><?php echo $naslov ?></h1>
 
 Bosa pojdiva, dekle, obsorej,<br/>
 bosa pojdiva prek zemlje trpeče,<br/>

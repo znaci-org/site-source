@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radovan Zogović - Bez granice";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radovan Zogović - Bez granice</h1>
+<h1><?php echo $naslov ?></h1>
 
 Jedan po jedan nestaju - iz stroja, s obroka, iz rova:<br/>
 jedan na kraju juriša, kračući posljednji korak,<br/>

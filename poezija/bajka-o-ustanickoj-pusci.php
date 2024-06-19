@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Desanka Maksimović - Bajka o ustaničkoj pušci";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Desanka Maksimović - Bajka o ustaničkoj pušci</h1>
+<h1><?php echo $naslov ?></h1>
 
 Cela planina stade da kuca<br/>
 ustaničke puške srcem mladim,<br/>

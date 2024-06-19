@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Slavko Vukosavljević - Noć u Titovom Užicu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Slavko Vukosavljević - Noć u Titovom Užicu</h1>
+<h1><?php echo $naslov ?></h1>
 
 Noć i Užice. Koraci mrakom.<br/>
 Da li to i sad starim, znanim hodom –<br/>

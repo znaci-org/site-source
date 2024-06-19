@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ацо Шопов - Очи";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ацо Шопов - Очи</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   (<i>посветена на Вера Јоциќ</i>)

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jure Franičević Pločar - Na kormilu je bila Partija";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jure Franičević Pločar - Na kormilu je bila Partija</h1>
+<h1><?php echo $naslov ?></h1>
 
 Neka nitko ne kaže samo: Bili su hrabri, bili su heroji,<br/>
 ljudi posebna kova,<br/>

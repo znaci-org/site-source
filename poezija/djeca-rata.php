@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Janko Đonović - Djeca rata";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Janko Đonović - Djeca rata</h1>
+<h1><?php echo $naslov ?></h1>
 
 Kada mi ludački jauknemo,<br/>
 djeca velikog rata,<br/>

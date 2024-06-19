@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Bil se mogli mrtvi ustajati?";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Bil se mogli mrtvi ustajati?</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>u spomen Ivi Loli Ribaru</i>)
 

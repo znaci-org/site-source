@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Antun Barac - Časovi klonuća";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Antun Barac - Časovi klonuća</h1>
+<h1><?php echo $naslov ?></h1>
 
 Onemogle ruke. Noga jedva gazi.<br/>
 Zaklopljene vjeđe – da iščezne zbilja.<br/>

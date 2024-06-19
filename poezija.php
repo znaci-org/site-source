@@ -1180,7 +1180,7 @@ include "includes/header.php";
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
                 <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
-                <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
+                <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a> (Ivi Loli Ribaru)</li>
                 <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>

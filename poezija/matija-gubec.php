@@ -1,12 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mihovil Pavlek Miškina - Matija Gubec";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mihovil Pavlek Miškina - Matija Gubec</h1>
-
+<h1><?php echo $naslov ?></h1>
 
 <p>
   Ti ustao si prvi,<br />

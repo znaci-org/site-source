@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mate Balota - Koza";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mate Balota - Koza</h1>
+<h1><?php echo $naslov ?></h1>
 
 Četiri ure je mati hodila,<br/>
 pedeset miljari koraki je učinila<br/>

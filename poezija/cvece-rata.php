@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Tanasije Mladenović - Cveće rata";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Tanasije Mladenović - Cveće rata</h1>
+<h1><?php echo $naslov ?></h1>
 
 Sunce je uprlo svoje veliko užareno oko<br/>
 I sipa tečni, beli sjaj i vatru jarosnu sipa<br/>

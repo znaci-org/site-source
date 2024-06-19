@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Nazor - Na Vučevu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Nazor - Na Vučevu</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Pod vatrom s neba i suprotne planine,<br>
 uz goru su se popeli s mukom<br>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Milan Dedinac - Najednom je banula glad";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Milan Dedinac - Najednom je banula glad</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   Najednom je banula glad s velikim očima<br />

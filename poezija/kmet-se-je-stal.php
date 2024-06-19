@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Drago Gervais - Kmet se je stal";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Drago Gervais - Kmet se je stal</h1>
+<h1><?php echo $naslov ?></h1>
 
 Prišal je glas<br/>
 velik i svet:<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Gvido  Tartalja - Banovići";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Gvido  Tartalja - Banovići</h1>
+<h1><?php echo $naslov ?></h1>
 
 Dizalice crna još tog crnog zlata<br/>
 da zahvatiš čvrsto u crne čeljusti!<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jure Kaštelan - Jadikovka kamena";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jure Kaštelan - Jadikovka kamena</h1>
+<h1><?php echo $naslov ?></h1>
 
 Vratite me u gromade, u klisure, u spletove gorja.<br/>
 U zakone vječnosti moje djevičanstvo.<br/>

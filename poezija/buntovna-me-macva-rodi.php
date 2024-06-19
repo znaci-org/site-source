@@ -5,32 +5,32 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1><?php echo $naslov?></h1>
+<h1><?php echo $naslov ?></h1>
 
-Koliko je u noći vatara po razlomijenoj planini,<br/>
-u noći od istoka do zapada<br/>
-i u planini golemoj od jeze samrtne do vrha nade!<br/>
+Buntovna me Mačva rodi<br/>
+i odnjiha uz oluje,<br/>
+te vam velim: Nigde tako<br/>
+ne peva se o slobodi,<br/>
+nit o pravdi lepše snuje.<br/>
 <br/>
-Ali ja, okrenut na sve četiri strane,<br/>
-na jedno samo ognjište u tami vekovnoj mislim,<br/>
-na ono od iskoni, bez supraške,<br/>
-ono s kojeg se buktinje raseljavaju<br/>
-i glavu ja od glavne planinom rascvetava..<br/>
+I sad vetar što njom vatre<br/>
+raspiruje, polja pali,<br/>
+sav plod truda kada satre –<br/>
+u vignju će čelik srca<br/>
+moći samo da okali.<br/>
 <br/>
-Postoji jedno takvo u dubodolini što je Juče zovemo,<br/>
-na visovima što svetio Sutra dozivaju,<br/>
-žarište svih naših vrućica i poleta.<br/>
-Kraj njega, i okolo,<br/>
-svagda je ljudi što o letini i mrtvima razgovaraju<br/>
-i senki što trepereći odlaze s porukama<br/>
-nadaleko<br/>
-do onog silovitoga NE u početku<br/>
-i ovog DA u rukama.<br/>
-I ozebe li duša ma kada, u sumnji, ili okršaju,<br/>
-jedino tu može se duša ogrejati;<br/>
-usne li ispucaju od tuge — krčag je kraj njega neiscrpni.<br/>
+S popaljenih se ognjišta<br/>
+po selima zavet krade:<br/>
+u Mačve srp pretvara,<br/>
+njive naše u bojišta,<br/>
+a ratare u gromade.<br/>
 <br/>
-Ja znam da to ognjište postoji, i da ga je oduvek bilo.<br/>
-Svaki je jezik đavo mu svoje ime.<br/>
-Ako pak moje doba pitaš, čoveče dobri,<br/>
-Sutjeskom mi ga zovemo.<br/>
+Zato kraju u požaru<br/>
+i ja vičem iz sve snage:<br/>
+vekovima na tvom žaru<br/>
+moći će se ogrejati.<br/>
+
+<p>(1941)</p>
+
+<img src="http://www.znaci.org/images/12424.jpg" alt=""><br>
+<small>Nemačka kaznena ekspedicija u Mačvi 1941.</small>

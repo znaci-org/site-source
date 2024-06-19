@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Puniša Perović - Lanci nam se kuju kleti";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Puniša Perović - Lanci nam se kuju kleti</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>preteča čuvene partizanske pesme <a href="/poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></i>)
 

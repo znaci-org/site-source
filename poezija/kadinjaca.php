@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Slavko Vukosavljević - Kadinjača";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Slavko Vukosavljević - Kadinjača</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(odlomak)</p>
 

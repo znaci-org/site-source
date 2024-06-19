@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Mika Antić - Nadničar 1940.";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Mika Antić - Nadničar 1940.</h1>
+<h1><?php echo $naslov ?></h1>
 
 Mene su počele od devete da tuku<br/>
 debele gazde, — banatski zlatni buđ,<br/>

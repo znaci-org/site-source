@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Karel Destovnik Kajuh - Materi padlega partizana";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Materi padlega partizana</h1>
+<h1><?php echo $naslov ?></h1>
 
 Takrat, ko je prvič ročice razprl,<br/>
 takrat si v radosti plašnó vztreptala:<br/>

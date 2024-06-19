@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mihovil Pavlek Miškina - Crveni makovi";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mihovil Pavlek Miškina - Crveni makovi</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Opet su jutros procvali<br>
 u žitu makovi sneni,<br>

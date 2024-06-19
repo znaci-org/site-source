@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ivo Frol - Krajišnik";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ivo Frol - Krajišnik</h1>
+<h1><?php echo $naslov ?></h1>
 
 Tko si? Iz kojeg dolaziš kraja?<br/>
 Gdje ti je selo?<br/>

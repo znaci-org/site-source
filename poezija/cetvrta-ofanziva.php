@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Četvrta ofanziva";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Četvrta ofanziva</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Iz magle sniježne avet se smije,<br>
 kezi se njuška siva,<br>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mirko Banjević - Na zgarištu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Na zgarištu</h1>
+<h1><?php echo $naslov ?></h1>
 
 <i>Od spaljene kuće – stare Kule,<br />
   ostali su 1941. samo Goli zidovi<br />

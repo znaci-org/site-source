@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Karel Destovnik Kajuh - Matere, matere naše trpeče";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Matere, matere naše trpeče</h1>
+<h1><?php echo $naslov ?></h1>
 
 Matere, matere naše trpeče,<br/>
 lačne in blede,<br/>

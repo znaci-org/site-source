@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Pere Ljubić - Matij Ivanić";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Pere Ljubić - Matij Ivanić</h1>
+<h1><?php echo $naslov ?></h1>
 
 Muči se po brodih i pojih,<br/>
 kroz more, nevere pasa,<br/>

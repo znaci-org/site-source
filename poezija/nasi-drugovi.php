@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Naši drugovi";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Naši drugovi</h1>
+<h1><?php echo $naslov ?></h1>
 
 Dobro je imati druga, ma kako daleko bio,<br/>
 makar ga znao po glasu,<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Milorad Panić Surep - Beograd tačno u ponoć";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Milorad Panić Surep - Beograd tačno u ponoć</h1>
+<h1><?php echo $naslov ?></h1>
 
 Živi životom mladosti trajne jedna velika ilegalka<br/>
 s vezama po celom svetu,<br/>

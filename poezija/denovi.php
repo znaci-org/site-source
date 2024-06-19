@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Кочо Рацин - Денови";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Кочо Рацин - Денови</h1>
+<h1><?php echo $naslov ?></h1>
 
 Како на вратот ѓердани<br/>
 ниски камења студени,<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ratko Pavlović - Drugovima iz Andaluzije i Asturije";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ratko Pavlović - Drugovima iz Andaluzije i Asturije</h1>
+<h1><?php echo $naslov ?></h1>
 
 Nisam sam -<br/>
 Sa mnom su hiljade,<br/>

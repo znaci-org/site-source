@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Gvido  Tartalja - Bratstvo putuje i peva";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Gvido  Tartalja - Bratstvo putuje i peva</h1>
+<h1><?php echo $naslov ?></h1>
 
 Polomiše se u dvanaest štropota nejaka moja rebra pod<br/>
 kamenjem terezijanskih ćelija<br/>

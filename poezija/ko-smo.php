@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Slavko Mandić - Ko smo";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Slavko Mandić - Ko smo</h1>
+<h1><?php echo $naslov ?></h1>
 
 Zemlja je naša puna crnih vjetrina,<br/>
 mi smo sinovi vjetrometina.<br/>

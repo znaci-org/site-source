@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jovan Popović - Mesija bez portfelja";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jovan Popović - Mesija bez portfelja</h1>
+<h1><?php echo $naslov ?></h1>
 
 Taj putnik što krade iz sviju očiju mir,<br/>
 šta traži, i ko je, šta krije njegovo ćutanje2<br/>

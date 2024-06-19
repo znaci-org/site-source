@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Bosanski starci";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Bosanski starci</h1>
+<h1><?php echo $naslov ?></h1>
 
 Tone u suton<br/>
 pred kućom klupa<br/>

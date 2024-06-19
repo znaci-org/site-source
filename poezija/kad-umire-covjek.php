@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jure Franičević Pločar - Kad umire čovjek";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jure Franičević Pločar - Kad umire čovjek</h1>
+<h1><?php echo $naslov ?></h1>
 
 Kad umire čovjek<br/>
 zemlja postaje teža<br/>

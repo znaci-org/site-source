@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "August Cesarec - Čežnja za mirom u sebi samome";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>August Cesarec - Čežnja za mirom u sebi samome</h1>
+<h1><?php echo $naslov ?></h1>
 
 Bijesno me razvlači olujni krvavi kovitlac života<br/>
 i ja sebe nemam – o, kako čeznem za mirom!<br/>

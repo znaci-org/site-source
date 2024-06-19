@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Desanka Maksimović - Krvava bajka";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Desanka Maksimović - Krvava bajka</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Bilo je to u nekoj zemlji seljaka<br>
 na brdovitom Balkanu,<br>

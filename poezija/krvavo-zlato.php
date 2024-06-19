@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jovan Popović - Krvavo zlato";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jovan Popović - Krvavo zlato</h1>
+<h1><?php echo $naslov ?></h1>
 
 Plodne naše njive otrovnim plinom uništene<br/>
 U pakleno ždrelo nužda nas gole goni;<br/>

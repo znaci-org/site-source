@@ -1,12 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "August Cesarec - Monolog s kuglom zemaljskom";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>August Cesarec - Monolog s kuglom zemaljskom</h1>
-
+<h1><?php echo $naslov ?></h1>
 
 Kuglo, zemaljska kuglo,<br/>
 za sve blize i daleke planete<br/>

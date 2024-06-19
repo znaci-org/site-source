@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Nazor - Drug Tito";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Nazor - Drug Tito</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Sve što j' bilo pod pepelom<br>
 na dnu naših srca skrito,<br>

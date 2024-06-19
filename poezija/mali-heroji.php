@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Mali heroji";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Mali heroji</h1>
+<h1><?php echo $naslov ?></h1>
 
 Evo junaka malog<br/>
 u strašnom ratnome viru.<br/>

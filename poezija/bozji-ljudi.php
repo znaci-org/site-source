@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Hasan Kikić - Božji ljudi";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Hasan Kikić - Božji ljudi</h1>
+<h1><?php echo $naslov ?></h1>
 
 Da molimo<br/>
 i da ove žuljave ruke sklopimo<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Esad Mekuli - Na putu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Esad Mekuli - Na putu</h1>
+<h1><?php echo $naslov ?></h1>
 
 Na putu sam širokom, o dragi narode moj,<br/>
 prethodnica tvoja što vodi u poslednji, odlučni boj.<br/>

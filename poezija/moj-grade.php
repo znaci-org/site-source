@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mirko Banjević - Moj grade";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Moj grade</h1>
+<h1><?php echo $naslov ?></h1>
 
 <i>Drugovima strijeljanim u Nikšiću</i>
 

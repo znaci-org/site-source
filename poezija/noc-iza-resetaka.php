@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko V. Radičević - Noć iza rešetaka";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko V. Radičević - Noć iza rešetaka</h1>
+<h1><?php echo $naslov ?></h1>
 
 Kada smo zanoćili još smo bili dečaci.<br />
 Na glavama našim nakrivljene kape đačke.<br />

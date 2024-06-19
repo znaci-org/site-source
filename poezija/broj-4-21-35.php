@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Dušan Matić - Broj 4-21-35";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Dušan Matić - Broj 4-21-35</h1>
+<h1><?php echo $naslov ?></h1>
 
 Zovem se Anita<br />
 Anita sam se zvala<br />

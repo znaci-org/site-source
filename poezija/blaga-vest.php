@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Desanka Maksimović - Blaga vest";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Desanka Maksimović - Blaga vest</h1>
+<h1><?php echo $naslov ?></h1>
 
 Zauvek, deco, iziđite iz podruma,<br/>
 nema više gvozdenih strašnih jastreba,<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Krleža - Evropa godine tisuću devet stotina četrdeset i druge";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Krleža - Evropa godine tisuću devet stotina četrdeset i druge</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>IZ DNEVNIKA 1942</i>)</p>
 

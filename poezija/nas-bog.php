@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Popović - Naš bog";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Popović - Naš bog</h1>
+<h1><?php echo $naslov ?></h1>
 
 Otkad su naše zgazili gnijezdo boga<br />
 smo zvali. Al bogova nema.<br />

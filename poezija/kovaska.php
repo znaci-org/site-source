@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Oton Župančič - Kovaška";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oton Župančič - Kovaška</h1>
+<h1><?php echo $naslov ?></h1>
 
 Mi, kar nas je kovačev, mi bomo vsi kovali,<br/>
 kovali svoja srca, kovali svoj značaj,<br/>

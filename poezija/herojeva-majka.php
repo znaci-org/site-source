@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Herojeva majka";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Herojeva majka</h1>
+<h1><?php echo $naslov ?></h1>
 
 U sali svečanoj, tiha kao tuga,<br />
 starica majka znamenje prima:<br />

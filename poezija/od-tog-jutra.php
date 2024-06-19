@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ante Boglić - Od tog jutra";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ante Boglić - Od tog jutra</h1>
+<h1><?php echo $naslov ?></h1>
 
 I toga jutra pročitali smo:<br/>
 Keršovani,<br/>

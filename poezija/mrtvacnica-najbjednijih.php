@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Dobriša Cesarić - Mrtvačnica najbjednijih";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Dobriša Cesarić - Mrtvačnica najbjednijih</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   U bijelo okrečenoj sobi<br />

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Igo Gruden - Balada o otroku";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Igo Gruden - Balada o otroku</h1>
+<h1><?php echo $naslov ?></h1>
 
 Sem rodila te v baraki:<br/>
 ko sem ti postala mati,<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mile Klopčič - Drejčnik Andrej govori";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mile Klopčič - Drejčnik Andrej govori</h1>
+<h1><?php echo $naslov ?></h1>
 
 Zamahnil je s krampom Drejčnik Andrej,<br/>
 z roko je prgišče premoga zajel.<br/>

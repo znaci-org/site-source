@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mirko Banjević - Nevid";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Nevid</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   Noću se probudim –<br />

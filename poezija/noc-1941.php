@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Razija Handžić - Noć 1941";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Razija Handžić - Noć 1941</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Čuješ li, majko, kako Sava ječi?<br>
 Krvave joj vode za mrtvima hode…<br>

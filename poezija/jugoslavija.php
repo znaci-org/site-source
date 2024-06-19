@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Miljković - Jugoslavija";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Miljković - Jugoslavija</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>Evo kako je počela u dan svoje nužnosti<br>
 Sve što nema vatre u sebi sagori<br>

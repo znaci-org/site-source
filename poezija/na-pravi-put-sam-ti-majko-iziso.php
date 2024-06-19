@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Skender Kulenović - Na pravi put sam ti, majko, izišo";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Skender Kulenović - Na pravi put sam ti, majko, izišo</h1>
+<h1><?php echo $naslov ?></h1>
 
 Mati moja:<br />
 Stabljika krhka u saksiji.<br />

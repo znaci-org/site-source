@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radivoj Koparec - Mladost";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radivoj Koparec - Mladost</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   Kad ste mladići bili<br />

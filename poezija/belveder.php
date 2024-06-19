@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mirko Banjević - Belveder";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Belveder</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   (<i>o demostracijama na Belvederu 1936. koje je vlast u krvi ugušila</i>)

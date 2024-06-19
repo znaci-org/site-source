@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Oskar Davičo - Balada o robu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oskar Davičo - Balada o robu</h1>
+<h1><?php echo $naslov ?></h1>
 
 Ako se od gneva dimim, suv od tame,<br/>
 prsa moja vatra davno već ne zgreja,<br/>
