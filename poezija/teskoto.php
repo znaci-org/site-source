@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Блаже Конески - Тешкото";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Блаже Конески - Тешкото</h1>
+<h1><?php echo $naslov ?></h1>
 
 О тешкото! Зурли штом диво ќе писнат,<br />
 штом тапан ќе грмне со подземен екот -<br />

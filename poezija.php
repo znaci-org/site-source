@@ -752,6 +752,15 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Blaže Koneski</h4>
+            <ul>
+                <li><a href="poezija/pesnata-za-zatvornicata.php">Песната за затворницата</a></li>
+                <li><a href="poezija/zakopna-pesna.php">Закопна песна</a></li>
+                <li><a href="poezija/pesna-za-zivotot.php">Песна за животот</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Miloš Popović Đurin</h4>
             <ul>
                 <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
@@ -954,6 +963,8 @@ include "includes/header.php";
                 <li><a href="poezija/casovi-klonuca.php">Časovi klonuća</a></li>
                 <li><a href="poezija/poruga-vremena.php">Poruga vremena</a></li>
                 <li><a href="poezija/na-dan-sv-matije.php">Na dan sv. Matije (1942)</a></li>
+                <li><a href="poezija/popijevka.php">Popijevka</a></li>
+                <li><a href="poezija/molitva-u-logoru.php">Molitva u logoru</a></li>
             </ul>
         </article>
 
