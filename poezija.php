@@ -952,6 +952,8 @@ include "includes/header.php";
             <h4>Antun Barac</h4>
             <ul>
                 <li><a href="poezija/casovi-klonuca.php">Časovi klonuća</a></li>
+                <li><a href="poezija/poruga-vremena.php">Poruga vremena</a></li>
+                <li><a href="poezija/na-dan-sv-matije.php">Na dan sv. Matije (1942)</a></li>
             </ul>
         </article>
 
