@@ -26,3 +26,5 @@ akustika groba: tu se slatko drijema.<br/>
 Mrtvi sveci, trule knjige, boga nema.<br/>
 <br/>
 Meket ovce iz crkvenog trijema.<br/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Libkovice_1998.jpg" alt="">
