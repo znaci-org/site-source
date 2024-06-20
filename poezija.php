@@ -124,8 +124,8 @@ include "includes/header.php";
         <article>
             <h4>Mirko Banjević</h4>
             <ul>
-                <li><a href="poezija/lageri.php">Lageri</a></li>
                 <li><a href="poezija/rat-banjevic.php">Rat</a></li>
+                <li><a href="poezija/lageri.php">Lageri</a></li>
                 <li><a href="poezija/1923.php">1923.</a></li>
                 <li><a href="poezija/belveder.php">Belveder</a></li>
                 <li><a href="poezija/tuzba-svetom-vasiliju-ostroskom.php">Tužba svetom Vasiliju Ostroškom</a></li>
