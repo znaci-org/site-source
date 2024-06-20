@@ -96,6 +96,7 @@ include "includes/header.php";
 
         <article>
             <h4>Ivan Goran Kovačić</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ivan_Goran_Kova%C4%8Di%C4%87.jpg/202px-Ivan_Goran_Kova%C4%8Di%C4%87.jpg" alt="">
             <ul>
                 <li><a href="poezija/krvnice.php">Krvniče</a></li>
                 <li><a href="poezija/mi-se-tuze-sa-zivota.php">Mi se tuže sa života</a></li>
@@ -203,6 +204,7 @@ include "includes/header.php";
 
         <article>
             <h4>Dušan Vasiljev</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dusan_Vasiljev.jpg/158px-Dusan_Vasiljev.jpg" alt="">
             <ul>
                 <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
                 <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
@@ -264,6 +266,7 @@ include "includes/header.php";
 
         <article>
             <h4>Mate Balota</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MateBalota.jpg" alt="">
             <ul>
                 <li><a href="poezija/koza.php">Koza</a></li>
                 <li><a href="poezija/moja-mati.php">Moja mati</a></li>
@@ -312,6 +315,7 @@ include "includes/header.php";
 
         <article>
             <h4>Antun Branko Šimić</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Antun_branko_%C5%A0imi%C4%87.jpg" alt="">
             <ul>
                 <li><a href="poezija/zakonodavci.php">Zakonodavci</a></li>
                 <li><a href="poezija/zene-pred-uredima.php">Žene pred uredima</a></li>
@@ -668,6 +672,7 @@ include "includes/header.php";
 
         <article>
             <h4>Skender Kulenović</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Skender_Kulenovi%C4%87_u_NOB.jpg/177px-Skender_Kulenovi%C4%87_u_NOB.jpg" alt="">
             <ul>
                 <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
                 <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
@@ -738,7 +743,7 @@ include "includes/header.php";
 
         <article>
             <h4>Vladimir Nazor</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vladimir_Nazor_u_Splitu_1944.jpg/200px-Vladimir_Nazor_u_Splitu_1944.jpg" title="Vladimir Nazor u Splitu 1944.">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Nazor.jpg/180px-Vladimir_Nazor.jpg" title="Vladimir Nazor u Splitu 1944.">
             <ul>
                 <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
                 <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
@@ -846,6 +851,7 @@ include "includes/header.php";
 
         <article>
             <h4>Mirko Banjević</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Mirko_Banjevi%C4%87.png" alt="">
             <ul>
                 <li><a href="poezija/moj-grade.php">Moj grade</a></li>
                 <li><a href="poezija/na-zgaristu.php">Na zgarištu</a></li>
@@ -873,6 +879,7 @@ include "includes/header.php";
 
         <article>
             <h4>Matej Bor</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Matej_Bor_1930s.jpg/184px-Matej_Bor_1930s.jpg" alt="">
             <ul>
                 <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
                 <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
