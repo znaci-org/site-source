@@ -49,6 +49,7 @@ include "includes/header.php";
                 <li><a href="poezija/noc-u-provinciji.php">Noć u provinciji</a></li>
                 <li><a href="poezija/lijecnik-kod-siromaha.php">Liječnik kod siromaha</a></li>
                 <li><a href="poezija/gospodja-u-posjeti-kod-bolesnog-djeteta.php">Gospođa u posjeti kod bolesnog djeteta svoje sluškinje</a></li>
+                <li><a href="poezija/seoska-crkva.php">Seoska crkva</a></li>
                 <li><a href="poezija/jeruzalemski-dijalog.php">Jeruzalemski dijalog</a></li>
             </ul>
         </article>
@@ -57,6 +58,9 @@ include "includes/header.php";
             <h4>Oton Župančič</h4>
             <ul>
                 <li><a href="poezija/kovaska.php">Kovaška</a></li>
+                <li><a href="poezija/zemljevid.php">Zemljevid</a></li>
+                <li><a href="poezija/pomlad-v-oktobru.php">Pomlad v oktobru</a></li>
+                <li><a href="poezija/otroci-molijo.php">Otroci molijo</a></li>
             </ul>
         </article>
 
@@ -264,6 +268,15 @@ include "includes/header.php";
             <h4>Pere Ljubić</h4>
             <ul>
                 <li><a href="poezija/matij-ivanic.php">Matij Ivanić</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Srečko Kosovel</h4>
+            <ul>
+                <li><a href="poezija/pesem-ponizanih.php">Pesem ponižanih</a></li>
+                <li><a href="poezija/rdeci-atom.php">Rdeči atom</a></li>
+                <li><a href="poezija/revolucija.php">Revolucija</a></li>
             </ul>
         </article>
 
@@ -1320,7 +1333,11 @@ include "includes/header.php";
         <article>
             <h4>Gvido Tartalja</h4>
             <ul>
-                <li><a href="poezija/banovici.php">Banovići</a></li>
+                <li><a href="poezija/poema-o-pruzi.php">Poema o pruzi</a></li>
+                <ul>
+                    <li><a href="poezija/poema-o-pruzi.php#devojke">Devojke</a></li>
+                    <li><a href="poezija/poema-o-pruzi.php#banovici">Banovići</a></li>
+                </ul>
             </ul>
         </article>
 

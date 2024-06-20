@@ -1,11 +1,49 @@
 <?php
-$naslov = "Gvido  Tartalja - Banovići";
+$naslov = "Gvido  Tartalja - Poema o pruzi";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
 <h1><?php echo $naslov ?></h1>
+
+<p>(odlomak)</p>
+
+5<br/>
+
+<h2 id="devojke">Devojke</h2>
+
+Jutro ruke širi. Drugarice mlade<br/>
+zvečećim oruđem biju radnu bitku.<br/>
+Nasipi su danas čvrste barikade.<br/>
+— Ej, zastavu rope, na tu motku vitku!<br/>
+<br/>
+Šliper do šlipera već ukucan leži:<br/>
+U širine sveta otvorene dveri.<br/>
+— U svoj dnevnik dve tri reči zabeleži<br/>
+o voljenoj zemlji i o njenoj kćeri.<br/>
+<br/>
+Zapis taj da bude o letnjoj seobi<br/>
+mladosti iz rodnih njiva i iz klupa.<br/>
+Rumenilo neba kroz vazduh ce drobi<br/>
+i y vodi reke pod krošnjama kupa.<br/>
+<br/>
+Ovaj dan k’o školjku raspori, unesi<br/>
+biser ovog jutra, devojko, unutra<br/>
+y nedra, y srce — sa sobom ponesi<br/>
+amajliju dragu, y sva tvoja Sutra.<br/>
+<br/>
+— Drugarice, danas još četvrt kubika,<br/>
+a posle na potok, na izvor i česme.<br/>
+Lome ce pejzaži y sto divnih slika,<br/>
+a vazduh ce kida od talasa pesme.<br/>
+<br/>
+Ha ta mlada grla pevaju i Lika<br/>
+i Kordun i Kosmet, sela i zgarišta.<br/>
+— Ponesite, sestre, ovaj dah kubika<br/>
+za buduću sreću domaćeg ognjiigga.<br/>
+
+<h2 id="banovici">Banovići</h2>
 
 Dizalice crna još tog crnog zlata<br/>
 da zahvatiš čvrsto u crne čeljusti!<br/>

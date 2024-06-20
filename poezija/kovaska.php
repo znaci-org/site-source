@@ -40,3 +40,5 @@ trdo kovali, tenko poslušali,<br/>
 da ne bo med nami nepoznan,<br/>
 ko pride čas, ko sine dan,<br/>
 da vstane, plane kladivar, kladivar silni iz nas ...<br/>
+
+<p>(Prvi majnik 1901)</p>

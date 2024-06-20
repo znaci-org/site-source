@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mirko Banjević - Sutjeska (drugi dio)";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Sutjeska (drugi dio)</h1>
+<h1><?php echo $naslov ?></h1>
 
 <h2 id="oj-sutjesko">1: O Sutjesko vodo ledna</h2>
 
