@@ -44,7 +44,7 @@ zob za zob in glavo za glavo!<br/>
 
 <p>1941</p>
 
-<h1>Pesniče, znaš svoj dug?</h1>
+<h1>Pesniče, znaš li svoj dug?</h1>
 
 Pesniče, znaš li svoj dug?<br/>
 Zar ćutiš u ovaj čas?<br/>
