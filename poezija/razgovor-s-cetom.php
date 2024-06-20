@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Razgovor s četom";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Razgovor s četom</h1>
+<h1><?php echo $naslov ?></h1>
 
 Nad grobom borca Radoja<br/>
 bijela breza samuje,<br/>
@@ -94,3 +94,8 @@ i barjaktara Pobjedu,<br/>
 razvio zoru rumenu.<br/>
 <br/>
 (1945)<br/>
+
+<p>
+  <img src="http://www.znaci.org/images/12136.jpg" alt=""><br>
+  <small>Sahrana Petra Biškupa narodnog heroja, komandanta 32. divizije, koji je poginuo aprila 1945. blizu Podravske Slatine.</small>
+</p>

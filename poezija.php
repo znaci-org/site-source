@@ -514,6 +514,7 @@ include "includes/header.php";
                 <li><a href="poezija/kako-smo-se-naoruzali.php">Kako smo se naoružali</a></li>
                 <li><a href="poezija/zasto-smo-rusili.php">Zašto smo rušili</a></li>
                 <li><a href="poezija/nasi-drugovi.php">Naši drugovi</a></li>
+                <li><a href="poezija/vezilja-slobode.php">Vezilja slobode</a></li>
             </ul>
         </article>
 

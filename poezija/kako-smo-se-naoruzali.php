@@ -86,3 +86,8 @@ da boj ne bije<br/>
 oružje martvo,<br/>
 već srce u junaka.<br/>
 <br/>
+
+<p>
+  <img src="http://www.znaci.org/images/10594.jpg" alt=""><br>
+  <small>Zaplenjena italijanska municija u dolini reke Rame za vreme četvrte neprijateljske ofanzive, 1943.</small>
+</p>

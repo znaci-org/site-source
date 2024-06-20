@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Enver Đerđeku - Zrak na užetu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Enver Đerđeku - Zrak na užetu</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>Posvećeno Ganimeti Terbeši, omladinki, obešenoj 1943. g. u Đakovici</i>)
 
@@ -45,3 +45,5 @@ include "../includes/header.php";
   Pevaj mi pesmu započetu<br />
   Sa mojih pustih ustiju …<br />
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/sr/1/1a/Ganimete_Terbe%C5%A1i.jpg" alt="">
