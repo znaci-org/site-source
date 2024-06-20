@@ -151,14 +151,14 @@ include "includes/header.php";
             <h4>Kosta Kočo Racin</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%9A%D0%BE%D1%87%D0%BE_%D0%A0%D0%B0%D1%86%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BA%D0%BE_%D0%B3%D1%80%D0%BD%D1%87%D0%B0%D1%80.jpg" title="Кочо Рацин како грнчарски работник во 1920-тите">
             <ul>
-                <li><a href="poezija/jednom-radniku.php">Jednom radniku</a></li>
                 <li><a href="poezija/sinovi-gladi.php">Sinovi gladi</a></li>
-                <li><a href="poezija/kopacite.php">Kopači</a></li>
                 <li><a href="poezija/vatromet.php">Vatromet</a></li>
                 <li><a href="poezija/u-predvecerje.php">U predvečerje</a></li>
-                <li><a href="poezija/pecal.php">Tuga</a></li>
-                <li><a href="poezija/tatunco.php">Tatunčo</a></li>
-                <li><a href="poezija/denovi.php">Dani</a></li>
+                <li><a href="poezija/jednom-radniku.php">До еден работник</a></li>
+                <li><a href="poezija/kopacite.php">Копачите</a></li>
+                <li><a href="poezija/pecal.php">Печал</a></li>
+                <li><a href="poezija/tatunco.php">Татунчо</a></li>
+                <li><a href="poezija/denovi.php">Денови</a></li>
                 <li><a href="poezija/prostavanje.php">Проштавање</a></li>
                 <li><a href="poezija/da-bides-covek.php">Да бидеш човек</a></li>
             </ul>
@@ -259,19 +259,19 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h4>Dušan Jerković</h4>
-            <ul>
-                <li><a href="poezija/radnik-na-pristanistu.php">Radnik na pristaništu</a></li>
-            </ul>
-        </article>
-
-        <article>
             <h4>Mate Balota</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MateBalota.jpg" alt="">
             <ul>
                 <li><a href="poezija/koza.php">Koza</a></li>
                 <li><a href="poezija/moja-mati.php">Moja mati</a></li>
                 <li><a href="poezija/sipe-piva.php">Sipe piva</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Dušan Jerković</h4>
+            <ul>
+                <li><a href="poezija/radnik-na-pristanistu.php">Radnik na pristaništu</a></li>
             </ul>
         </article>
 
@@ -284,6 +284,7 @@ include "includes/header.php";
 
         <article>
             <h4>Srečko Kosovel</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sre%C4%8Dko_Kosovel_1920s.jpg/149px-Sre%C4%8Dko_Kosovel_1920s.jpg" alt="">
             <ul>
                 <li><a href="poezija/godba-pomladi.php">Godba pomladi</a></li>
                 <li><a href="poezija/pesem-ponizanih.php">Pesem ponižanih</a></li>
@@ -1458,7 +1459,7 @@ include "includes/header.php";
         <article>
             <h4>Kosta Kočo Racin</h4>
             <ul>
-                <li><a href="poezija/balada-za-nepoznatiot.php">Balada nepoznatom vojniku</a></li>
+                <li><a href="poezija/balada-za-nepoznatiot.php">Балада за непознатиот</a></li>
             </ul>
         </article>
 

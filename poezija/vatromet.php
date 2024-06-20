@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Kočo Racin - Vatromet";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kočo Racin - Vatromet</h1>
+<h1><?php echo $naslov ?></h1>
 
 Zagonetno ogrnut plaštom Duh Sviju Stvari zastaje u hodu<br />
 tajanstvom poškropljeni puti dijalektički skreću ulevo:<br />
