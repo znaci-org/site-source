@@ -115,6 +115,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Hamid Dizdar</h4>
+            <ul>
+                <li><a href="poezija/pjesma-zidarskih-radnika.php">Pjesma zidarskih radnika</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Mirko Banjević</h4>
             <ul>
                 <li><a href="poezija/lageri.php">Lageri</a></li>
@@ -438,9 +445,9 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h4>Hamid Dizdar</h4>
+            <h4>Kole Nedelkovski</h4>
             <ul>
-                <li><a href="poezija/pjesma-zidarskih-radnika.php">Pjesma zidarskih radnika</a></li>
+                <li><a href="poezija/na-kinisuenje.php">На кинисуење</a></li>
             </ul>
         </article>
 
