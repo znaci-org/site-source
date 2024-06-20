@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mile Klopčič - Pogreb";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mile Klopčič - Pogreb</h1>
+<h1><?php echo $naslov ?></h1>
 
 In spet so blatne ceste in bregovi,<br/>
 jesen je tu in čas poplav.<br/>

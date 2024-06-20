@@ -956,6 +956,14 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Mile Klopčič</h4>
+            <ul>
+                <li><a href="poezija/lovimo-viharje.php">Lovimo viharje</a></li>
+                <li><a href="poezija/vecerni-motiv.php">Večerni motiv</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Željko Sabol</h4>
             <ul>
                 <li><a href="poezija/el-shatt.php">El Shatt</a></li>
