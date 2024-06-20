@@ -45,19 +45,16 @@ u monopol duhan da slaže ‒<br/>
 lice joj se izmijeni<br/>
 vjeđe klonuše naniže<br/>
 i usne joj se ukrivo svinuše.<br/>
-<br/>
 Ne bješe Lenka rođena<br/>
 za duhan taj pusti!<br/>
 Duhan ‒ žuti otrov<br/>
 i za pluća ‒ cvijet krvavi!<br/>
-<br/>
 Godina prva minu<br/>
 grudva na srcu joj zaliježe,<br/>
 godina druga prođe<br/>
 bolest je u grudima iskide.<br/>
 U trećoj godini<br/>
 zemlja Lenkino tijelo pokri.<br/>
-<br/>
 I noću kada mjesečak<br/>
 nad grobom svilu joj vije,<br/>
 tihi vjetrić nad njom<br/>
@@ -97,3 +94,5 @@ košulja nedovezena?<br/>
 Košulja beše darovna...<br/>
 
 <p>(sa makedonskog preveo Petar Gudelj)</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Galilee_trip._Nazareth%2C_the_Arab_Cigarette_%26_Tobacco_Co._Ltd._%27Tatli-Sert%27_Cigarette_Factory._Group_of_women_separating_tobacco_leaves_for_drying._Close_up_of_workers%2C_Nazareth_types_LOC_matpc.20712.jpg/1024px-thumbnail.jpg" alt="">

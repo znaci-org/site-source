@@ -255,5 +255,7 @@ I tamu noći ispija<br/>
 Silno<br/>
 Zasvijetlio se<br/>
 Dan!<br/>
-<br/>
-(prevod s makedonskog Sande Dodevski)
+
+<p>(prevod s makedonskog Sande Dodevski)</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Man_with_the_Hoe%2C_Markham%2C_1900_DJVU_pg_28a.jpg/800px-The_Man_with_the_Hoe%2C_Markham%2C_1900_DJVU_pg_28a.jpg" alt="">

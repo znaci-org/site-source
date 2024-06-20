@@ -90,3 +90,5 @@ Kantar odnosi lišće zlatno<br/>
 a u grudima ljuto talasi besne<br/>
 od žute muke ‒ žutog duvana<br/>
 i žutog znoja sa ruku naših!<br/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tobacco_pickers_on_Goodrich_Farm%2C_%27Second_picking.%27_The_tobacco_plants_are_often_much_taller_than_the_children%2C_and_the_air_close_and_humid%2C_especially_when_they_are_working_on_the_ground._LOC_cph.3a52722.jpg/1280px-thumbnail.jpg" alt="">
