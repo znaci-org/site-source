@@ -42,3 +42,16 @@ ko pride čas, ko sine dan,<br/>
 da vstane, plane kladivar, kladivar silni iz nas ...<br/>
 
 <p>(Prvi majnik 1901)</p>
+
+<h1>Pesma kovača</h1>
+
+<p>(odlomak)</p>
+
+Zato ćemo mi kovači kovati,<br/>
+kovati čvrsto i budno slušati<br/>
+da ne bude među nama ko nepoznat<br/>
+kad dođe vreme,<br/>
+kad svane dan<br/>
+da ustane, da bukne kovač, kovač slini iz nas...<br/>
+<br/>
+(prevod Desanke Maksimović)<br/>

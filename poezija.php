@@ -245,6 +245,7 @@ include "includes/header.php";
         <article>
             <h4>Tin Ujević</h4>
             <ul>
+                <li><a href="poezija/cin-sputanih-ruku.php">Čin sputanih ruku</a></li>
                 <li><a href="poezija/pobratimstvo-lica-u-svemiru.php">Pobratimstvo lica u svemiru</a></li>
                 <li><a href="poezija/zadrzane-sile-bica.php">Zadržane sile bića</a></li>
             </ul>
@@ -284,9 +285,16 @@ include "includes/header.php";
         <article>
             <h4>Srečko Kosovel</h4>
             <ul>
+                <li><a href="poezija/godba-pomladi.php">Godba pomladi</a></li>
                 <li><a href="poezija/pesem-ponizanih.php">Pesem ponižanih</a></li>
+                <li><a href="poezija/sodobna-mrtvila.php">Sodobna mrtvila</a></li>
+                <li><a href="poezija/svetilka-ob-cesti.php">Svetilka ob cesti</a></li>
                 <li><a href="poezija/rdeci-atom.php">Rdeči atom</a></li>
+                <li><a href="poezija/gospod.php">Gospod</a></li>
+                <li><a href="poezija/odprite-muzeje.php">Odprite muzeje!</a></li>
+                <li><a href="poezija/nad-norisnico.php">Nad norišnico</a></li>
                 <li><a href="poezija/revolucija.php">Revolucija</a></li>
+                <li><a href="poezija/jaz-protestiram.php">Jaz protestiram</a></li>
             </ul>
         </article>
 
