@@ -610,6 +610,7 @@ include "includes/header.php";
                 <li><a href="poezija/vidjeh-split-u-zici.php">Vidjeh Split u žici</a></li>
                 <li><a href="poezija/kolone-zena.php">Kolone žena</a></li>
                 <li><a href="poezija/zapis-o-jednoj-majci.php">Zapis o jednoj majci</a></li>
+                <li><a href="poezija/govorenje-mikule-trudnega.php">Govorenje Mikule Trudnega</a></li>
             </ul>
         </article>
 
