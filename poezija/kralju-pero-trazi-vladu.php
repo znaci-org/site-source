@@ -15,3 +15,5 @@ include "../includes/header.php";
   A drug Tito njemu veli:<br />
   — Gde si kad se megdan deli?<br />
 </p>
+
+<img src="http://www.znaci.org/images/4226.jpg" alt="">

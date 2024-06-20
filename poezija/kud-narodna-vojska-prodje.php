@@ -66,3 +66,5 @@ include "../includes/header.php";
   srećna bit će – srećna bit će,<br />
   srećna bit će zemlja sva.<br />
 </p>
+
+<img src="http://www.znaci.org/images/9222.jpg" alt="">
