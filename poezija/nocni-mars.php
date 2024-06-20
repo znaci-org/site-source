@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radonja Vešović - Noćni marš";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radonja Vešović - Noćni marš</h1>
+<h1><?php echo $naslov ?></h1>
 
 Ognjilo metka<br/>
 kresne o kamen.<br/>

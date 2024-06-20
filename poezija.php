@@ -176,6 +176,7 @@ include "includes/header.php";
         <article>
             <h4>Janko Đonović</h4>
             <ul>
+                <li><a href="poezija/cokula.php">Cokula</a></li>
                 <li><a href="poezija/djeca-rata.php">Djeca rata</a></li>
                 <li><a href="poezija/crnci-i-crnogorci.php">Crnci i Crnogorci</a></li>
             </ul>
@@ -1504,6 +1505,14 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Radonja Vešović</h4>
+            <ul>
+                <li><a href="poezija/skica-za-spomenik-hrabrosti.php">Skica za spomenik hrabrosti</a></li>
+                <li><a href="poezija/oslobadjanje-slobode.php">Oslobađanje slobode</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
@@ -1523,15 +1532,18 @@ include "includes/header.php";
     function showByAuthors() {
         const dict = [...document.querySelectorAll('h4')]
             .reduce((acc, heading) => {
-                const { innerText: key, nextElementSibling: next } = heading
-                const list = next.nodeName == 'IMG' 
-                    ? next.outerHTML + next.nextElementSibling.innerHTML
-                    : next.innerHTML
-            return {
-                ...acc,
-                [key]: key in acc ? (acc[key] + list) : list
-            }
-        }, {})
+                const {
+                    innerText: key,
+                    nextElementSibling: next
+                } = heading
+                const list = next.nodeName == 'IMG' ?
+                    next.outerHTML + next.nextElementSibling.innerHTML :
+                    next.innerHTML
+                return {
+                    ...acc,
+                    [key]: key in acc ? (acc[key] + list) : list
+                }
+            }, {})
 
         const html = Object.entries(dict)
             .filter(([name]) => name != 'Anonimne / narodne pesme')
