@@ -159,8 +159,10 @@ include "includes/header.php";
                 <li><a href="poezija/pecal.php">Печал</a></li>
                 <li><a href="poezija/tatunco.php">Татунчо</a></li>
                 <li><a href="poezija/denovi.php">Денови</a></li>
+                <li><a href="poezija/tutunoberacite.php">Тутуноберачите</a></li>
                 <li><a href="poezija/prostavanje.php">Проштавање</a></li>
                 <li><a href="poezija/da-bides-covek.php">Да бидеш човек</a></li>
+                <li><a href="poezija/lenka.php">Ленка</a></li>
             </ul>
         </article>
 
