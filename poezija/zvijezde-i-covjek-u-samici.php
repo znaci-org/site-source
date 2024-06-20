@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Dušan Kostić - Zvijezde i čovjek u samici";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Dušan Kostić - Zvijezde i čovjek u samici</h1>
+<h1><?php echo $naslov ?></h1>
 
 <i>Španiji 1936</i><br/>
 <br/>
@@ -56,3 +56,6 @@ nemoćan.<br/>
 Zatvaram oči i u noć mi se ovu čini:<br/>
 eto me, drugovi, eto,<br/>
 pusta je moja ćelija daleki brod na pučini!<br/>
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Veave_in_jail.jpg/764px-Veave_in_jail.jpg" alt="">

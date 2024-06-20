@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Novak Simić - U samici";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Novak Simić - U samici</h1>
+<h1><?php echo $naslov ?></h1>
 
 Svako je jutro doziv mraka<br/>
 dan uspomena prikrijem<br/>
@@ -31,3 +31,6 @@ Al često se budim. Svjetiljka svodom<br/>
 radi nje nemirni sni.<br/>
 I krene okno: s nataknutim bodom<br/>
 to zakon nada mnom bdi.<br/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burlington_County_Prison_%28INTERIOR_-_MURDERER%27S_CELL_-_SECOND_FLOOR%29.jpg/346px-Burlington_County_Prison_%28INTERIOR_-_MURDERER%27S_CELL_-_SECOND_FLOOR%29.jpg" alt="">
+

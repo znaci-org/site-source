@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mirko Banjević - Tužba svetom Vasiliju Ostroškom";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Mirko Banjević - Tužba svetom Vasiliju Ostroškom</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   Veliki Ostroški Vasilije sveti,<br />

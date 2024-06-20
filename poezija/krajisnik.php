@@ -57,7 +57,6 @@ Da li je sreća,<br/>
 i kako se zove?<br/>
 — Za cilj, za sreću me pitaš?<br/>
 Sloboda nas čeka.<br/>
-
-<p>
-  <img src="http://www.znaci.org/images/11384.jpg">
-</p>
+<br>
+<img src="http://www.znaci.org/images/3520.jpg" alt=""><br>
+<small>Partizani sa Kupresa</small>
