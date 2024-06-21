@@ -1490,6 +1490,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Vesna Parun</h4>
+            <ul>
+                <li><a href="poezija/o-republici.php">O Republici</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Oskar Davičo</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/100px-Oskar_Davico_1951.jpg">
             <ul>
