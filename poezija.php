@@ -51,6 +51,7 @@ include "includes/header.php";
                 <li><a href="poezija/gospodja-u-posjeti-kod-bolesnog-djeteta.php">Gospođa u posjeti kod bolesnog djeteta svoje sluškinje</a></li>
                 <li><a href="poezija/seoska-crkva.php">Seoska crkva</a></li>
                 <li><a href="poezija/jeruzalemski-dijalog.php">Jeruzalemski dijalog</a></li>
+                <li><a href="poezija/pjesma-covjeka-bez-posla.php">Pjesma čovjeka bez posla</a></li>
             </ul>
         </article>
 
