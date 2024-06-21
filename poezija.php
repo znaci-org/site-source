@@ -1299,8 +1299,8 @@ include "includes/header.php";
         <article>
             <h4>Slavko Vukosavljević</h4>
             <ul>
-                <li><a href="poezija/noc-u-titovom-uzicu.php">Noć u Titovom Užicu</a></li>
                 <li><a href="poezija/kadinjaca.php">Kadinjača</a> (poema)</li>
+                <li><a href="poezija/noc-u-titovom-uzicu.php">Noć u Titovom Užicu</a></li>
             </ul>
         </article>
 
