@@ -774,6 +774,7 @@ include "includes/header.php";
                 <li><a href="poezija/nas-vodja.php">Naš vođa</a></li>
                 <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
                 <li><a href="poezija/koca-i-peko.php">Koča i Peko</a></li>
+                <li><a href="poezija/abdulah-ore.php">Abdulah ore</a></li>
                 <li><a href="poezija/osamljeni-dub.php">Osamljeni dub</a></li>
             </ul>
         </article>
