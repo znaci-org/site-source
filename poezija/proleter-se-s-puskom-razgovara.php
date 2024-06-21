@@ -38,3 +38,6 @@ include "../includes/header.php";
   Puško moja od čelika sjajna,<br>
   U mnogoj si pjesmi opjevana.
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pu%C5%A1ke_partizanke.jpg" alt=""><br>
+<small>Čuvene puške "partizanke" proizvedene u fabrici oružja u oslobođenom Užicu, tokom Užičke republike 1941.</small>
