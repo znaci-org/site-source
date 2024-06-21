@@ -55,3 +55,5 @@ kad svane dan<br/>
 da ustane, da bukne kovač, kovač slini iz nas...<br/>
 <br/>
 (prevod Desanke Maksimović)<br/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/1910_-_Allentown_Blacksmith_Shop.jpg/1024px-1910_-_Allentown_Blacksmith_Shop.jpg" alt="">

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Krleža - Veliki Petak 1919.";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Krleža - Veliki petak godine Hiljadu devet stotina i devetnaeste</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p><i>Karlu Liebknechtu u spomen</i></p>
 
@@ -48,6 +48,4 @@ Al Ništa! Sviće. Internacionala.</p>
 
 <p>(1919)</p>
 
-<hr>
-
-Pjesma prvi put objavljena u Plamenu 1919, s naslovom Veliki Petak 1919. Započeta kao kletva nepersonificiranog metafizičkog zla (»Veliko Bezglavo Nešto«) pjesma je parafraza novozavjetne legende o razapinjanju Isusa na Golgoti. Krleža proklinje zlo koje stoljećima »razapinje Ideal«. Nedvosmislenu usporedbu Golgote i Berlina iznosi u stihovima: »U borbi s krdom lažnih i krivih bogova / pao je Čovječji Sin. / Krstove svoje je golgotski prenio cirkus / iz gubave Judeje u carski Berlin.« 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/K%C3%A4the_Kollwitz_Gedenkblatt_f%C3%BCr_Karl_Liebknecht_1920.jpg/1014px-K%C3%A4the_Kollwitz_Gedenkblatt_f%C3%BCr_Karl_Liebknecht_1920.jpg" alt="">

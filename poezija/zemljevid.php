@@ -24,3 +24,5 @@ Ko drugi grabijo vse dalje, širje,<br/>
 Boš rod, ki bivaš tod, boš v duši čvrst?<br/>
 O, kaj bo z vami, vi mejniki štirje,<br/>
 Celovec, Maribor, Gorica, Trst?...<br/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/New_Map_of_Europe_1918.jpg/1024px-New_Map_of_Europe_1918.jpg" alt="">

@@ -96,7 +96,7 @@ include "includes/header.php";
 
         <article>
             <h4>Ivan Goran Kovačić</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ivan_Goran_Kova%C4%8Di%C4%87.jpg/202px-Ivan_Goran_Kova%C4%8Di%C4%87.jpg" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ivan_Goran_Kova%C4%8Di%C4%87.jpg/100px-Ivan_Goran_Kova%C4%8Di%C4%87.jpg" alt="">
             <ul>
                 <li><a href="poezija/krvnice.php">Krvniče</a></li>
                 <li><a href="poezija/mi-se-tuze-sa-zivota.php">Mi se tuže sa života</a></li>
@@ -213,7 +213,7 @@ include "includes/header.php";
 
         <article>
             <h4>Dušan Vasiljev</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dusan_Vasiljev.jpg/158px-Dusan_Vasiljev.jpg" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dusan_Vasiljev.jpg/100px-Dusan_Vasiljev.jpg" alt="">
             <ul>
                 <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
                 <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
@@ -239,7 +239,7 @@ include "includes/header.php";
             <h4>Vladimir Popović</h4>
             <ul>
                 <li><a href="poezija/pisem-pjesme.php">Pišem pjesme</a></li>
-                <li><a href="poezija/pjesma-radnici.php">Pjesma radnici</a></li>
+                <li><a href="poezija/pjesme-radnici.php">Pjesme radnici</a></li>
                 <li><a href="poezija/ceznja-iz-mrtvoga-doma.php">Čežnja iz mrtvoga doma</a></li>
             </ul>
         </article>
@@ -293,7 +293,7 @@ include "includes/header.php";
 
         <article>
             <h4>Srečko Kosovel</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sre%C4%8Dko_Kosovel_1920s.jpg/149px-Sre%C4%8Dko_Kosovel_1920s.jpg" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sre%C4%8Dko_Kosovel_1920s.jpg/100px-Sre%C4%8Dko_Kosovel_1920s.jpg" alt="">
             <ul>
                 <li><a href="poezija/godba-pomladi.php">Godba pomladi</a></li>
                 <li><a href="poezija/pesem-ponizanih.php">Pesem ponižanih</a></li>
@@ -690,7 +690,7 @@ include "includes/header.php";
 
         <article>
             <h4>Skender Kulenović</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Skender_Kulenovi%C4%87_u_NOB.jpg/177px-Skender_Kulenovi%C4%87_u_NOB.jpg" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Skender_Kulenovi%C4%87_u_NOB.jpg/100px-Skender_Kulenovi%C4%87_u_NOB.jpg" alt="">
             <ul>
                 <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
                 <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
@@ -761,7 +761,7 @@ include "includes/header.php";
 
         <article>
             <h4>Vladimir Nazor</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Nazor.jpg/180px-Vladimir_Nazor.jpg" title="Vladimir Nazor u Splitu 1944.">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Nazor.jpg/100px-Vladimir_Nazor.jpg" title="Vladimir Nazor u Splitu 1944.">
             <ul>
                 <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
                 <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
@@ -897,7 +897,6 @@ include "includes/header.php";
 
         <article>
             <h4>Matej Bor</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Matej_Bor_1930s.jpg/184px-Matej_Bor_1930s.jpg" alt="">
             <ul>
                 <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
                 <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
@@ -932,6 +931,7 @@ include "includes/header.php";
 
         <article>
             <h4>Oton Župančič</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Oton_%C5%BDupan%C4%8Di%C4%8D_1930s.jpg/100px-Oton_%C5%BDupan%C4%8Di%C4%8D_1930s.jpg" alt="">
             <ul>
                 <li><a href="poezija/ves-poet-svoj-dolg.php">Veš, poet, svoj dolg?</a></li>
                 <li><a href="poezija/kar-je-kovina.php">Kar je kovina</a></li>
@@ -1093,7 +1093,7 @@ include "includes/header.php";
     <div class="knjige columns zastave">
         <article>
             <h3>Partizanske pesme iz Hrvatske</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Croatian_Partisans_%283-5%29.svg/400px-Flag_of_the_Croatian_Partisans_%283-5%29.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Croatian_Partisans_%283-5%29.svg/80px-Flag_of_the_Croatian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a></li>
                 <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
@@ -1140,7 +1140,7 @@ include "includes/header.php";
 
         <article>
             <h3>Partizanske pesme iz Bosne i Hercegovine</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bosnian-Herzegovinian_Partisans_flag.svg/320px-Bosnian-Herzegovinian_Partisans_flag.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bosnian-Herzegovinian_Partisans_flag.svg/80px-Bosnian-Herzegovinian_Partisans_flag.svg.png" alt="">
             <ul>
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
@@ -1167,7 +1167,7 @@ include "includes/header.php";
 
         <article>
             <h3>Partizanske pesme iz Crne Gore</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/400px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
@@ -1179,7 +1179,7 @@ include "includes/header.php";
 
         <article>
             <h3>Partizanske pesme iz Srbije</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/400px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
                 <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo, ustaj rode</a></li>
@@ -1216,7 +1216,7 @@ include "includes/header.php";
 
         <article>
             <h3>Partizanske pesme iz Slovenije</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/400px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
                 <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
@@ -1229,7 +1229,7 @@ include "includes/header.php";
 
         <article>
             <h3>Partizanske pesme iz Makedonije</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg/400px-Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg/80px-Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
                 <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско, реко силна</a></li>
@@ -1241,7 +1241,7 @@ include "includes/header.php";
 
         <article>
             <h3>Opšte jugoslovenske</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Yugoslavia_%281943-1946%2C_3-2%29.svg/320px-Flag_of_Yugoslavia_%281943-1946%2C_3-2%29.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Yugoslavia_%281943-1946%2C_3-2%29.svg/80px-Flag_of_Yugoslavia_%281943-1946%2C_3-2%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></li>
                 <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
@@ -1490,7 +1490,7 @@ include "includes/header.php";
 
         <article>
             <h4>Oskar Davičo</h4>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/192px-Oskar_Davico_1951.jpg">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/100px-Oskar_Davico_1951.jpg">
             <ul>
                 <li><a href="poezija/zrenjanin.php">Zrenjanin</a> (poema)</li>
                 <li>
