@@ -16,3 +16,5 @@ Od studi i tupe samoće<br/>
 umreće pesme ove;<br/>
 uzmite mač, o, pesnici,<br/>
 i branite svoje snove!<br/>
+
+<p>(u okupiranom Beogradu)</p>

@@ -137,5 +137,33 @@ i grize meso bodljikav otrovan pauk.<br/>
 Soba je sluškinje prazna.<br/>
 Treperi svijeća.<br/>
 Ko bolesno pseto cvili u polutmini jauk.<br/>
+
+<p>(1931)</p>
+
+<hr>
+<p>Manje poznate riječi:</p>
+
+snatriti – maštati, sanjariti,<br/>
+parhet – pamučna tkanina s dlačicama na jednoj strani<br/>
+meandar – linija koja teče izlomljeno pod pravim kutom ili u spirali<br/>
+sipljiv – astmatičan, zadušljiv, koji teško diše<br/>
+lopte (loptiti) – lipte (liptati), šikljati, teći u mlazovima<br/>
+febra - groznica, vrućica, ognjica<br/>
+bazaltni – koji se sastoji od bazalta, tj. od kamena vulkanskog podrijetla crne ili zelene boje<br/>
+tram – greda, stup, potporanj<br/>
+trojka –  zaprega od tri konja obično upregnuta za vožnju kočijom<br/>
+orma – konjsak oprema za vuču<br/>
+ham – dio konjske opreme koja se stavlja konju oko vrata<br/>
+pleba – fleba, plava boja za ispiranje rublja<br/>
+gvalje –  oteklina koja se javlja u grlu pa djeluje poput ljepljive loptice koja se ne može progutati ni izbaciti iz grla<br/>
+sutonoj -  sutonskoj, u sutonu<br/>
+politura – lakirana površina<br/>
+hipermangan – tamnoljubičasti kristali metalnog sjaja; rastopljeni u vodi služe kao raskužno sredstvo za ispiranje rana i čireva<br/>
+sadrena – gipsana, od gipsa,<br/>
+grede – ide, hoda<br/>
+vižle – lovački pas<br/>
+lagvovi (jedn. lagav, lagvić) -  bačva, bačvica<br/>
+kaloše – galoše; kaljače, gornje cipele od gume za snijeg i blato<br/>
+gumija – guma<br/>
+skrletni – skerletni; grimizan, rumen, crven<br/>
 <br/>
-(1931)

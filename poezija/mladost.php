@@ -44,3 +44,5 @@ Nikad mladost ovako<br/>
 ne beše lepa i velika -<br/>
 sad gnev nas mlade čini<br/>
 džinovima od čelika!<br/>
+
+<p>(u okupiranom Beogradu, najverovatnije 1942.)</p>
