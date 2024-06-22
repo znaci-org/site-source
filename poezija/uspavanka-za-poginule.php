@@ -1,12 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Dušan Matić - Uspavanka za poginule koji nemaju više od dvadeset godina";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Dušan Matić - Uspavanka za poginule koji nemaju više od dvadeset godina</h1>
-
+<h1><?php echo $naslov ?></h1>
 
 Spavaj,<br/>
 Ko nijedno dete živo što ne spava,<br/>

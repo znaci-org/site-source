@@ -947,6 +947,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Janko Đonović</h4>
+            <ul>
+                <li><a href="poezija/slovo-o-savi.php">Slovo o Savi</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Drago Gervais</h4>
             <ul>
                 <li><a href="poezija/kmet-se-je-stal.php">Kmet se je stal</a></li>
@@ -1319,6 +1326,7 @@ include "includes/header.php";
                 <li><a href="poezija/odbrana-zemlje.php">Odbrana zemlje</a></li>
                 <li><a href="poezija/goran.php">Goran</a></li>
                 <li><a href="poezija/tito.php">Tito</a></li>
+                <li><a href="poezija/poeziju-ce-svi-pisati.php">Poeziju će svi pisati</a></li>
             </ul>
         </article>
 
@@ -1351,6 +1359,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Dušan Matić</h4>
+            <ul>
+                <li><a href="poezija/covek-nije-samo.php">Čovek nije samo</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Branko Ćopić</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Branko_Copic.jpg">
             <ul>
@@ -1373,6 +1388,7 @@ include "includes/header.php";
         <article>
             <h4>Radovan Zogović</h4>
             <ul>
+                <li><a href="poezija/prkosne-strofe.php">Prkosne strofe</a></li>
                 <li><a href="poezija/iako-nece-doci.php">Iako neće doći</a></li>
                 <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
             </ul>

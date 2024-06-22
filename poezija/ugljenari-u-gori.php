@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vjekoslav Majer - Ugljenari u gori";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vjekoslav Majer - Ugljenari u gori</h1>
+<h1><?php echo $naslov ?></h1>
 
 Mi smo crni ko i ugljen naš.<br/>
 Obraz nam je od vječnog dima crn,<br/>

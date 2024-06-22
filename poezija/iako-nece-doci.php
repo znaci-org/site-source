@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radovan Zogović - Iako neće doći";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radovan Zogović - Iako neće doći</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   <i>– majkama, udovicama, sestrama crvenoarmejaca koji su pali na našim poljanama –</i>

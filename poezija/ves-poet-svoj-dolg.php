@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Oton Župančič - Veš, poet, svoj dolg?";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Oton Župančič - Veš, poet, svoj dolg?</h1>
+<h1><?php echo $naslov ?></h1>
 
 Veš, poet, svoj dolg!<br/>
 Nimaš nič besed?<br/>
@@ -44,7 +44,7 @@ zob za zob in glavo za glavo!<br/>
 
 <p>1941</p>
 
-<h1>Pesniče, znaš li svoj dug?</h1>
+<h1>Pesniče, znaš li svoj dug? <small>(prevod Petar Vujačić)</small></h1>
 
 Pesniče, znaš li svoj dug?<br/>
 Zar ćutiš u ovaj čas?<br/>
@@ -83,4 +83,39 @@ lovačka grla će klati.<br/>
 Preleti Savu, preplivaj Dravu —<br/>
 zub za zub i glava za gljavu.<br/>
 
-<p>(preveo sa slovenačkog Petar Vujačić)</p>
+<h1>Oton Župančič - Pesniče, dužnost znaš? <small>(prevod Desanka Maksimović)</small></h1>
+
+Pesniče, dužnost znaš?<br/>
+Zar nemaš nijednu reč?<br/>
+Što si utonuo u muk?<br/>
+Backi pesmu u svet,<br/>
+nadahnutu današnjim dobom,<br/>
+mi ćemo je pevati za tobom.<br/>
+<br/>
+Znam dužnost, o, znam:<br/>
+tu, u prsima me peče;<br/>
+kad se otme iz grla zvuk,<br/>
+zaviću kao vuk,<br/>
+pobauljke staću vrh planina,<br/>
+zaječati između pećina.<br/>
+<br/>
+Vrh Možaklje taj dan<br/>
+urliknuću grlom svim,<br/>
+čuće Blegaš, odjeknut Krim<br/>
+kad glas od sebe dam,<br/>
+razvejaću ga niz vetre, kroz, borje,<br/>
+jedan će ga odneti na Pohorje.<br/>
+<br/>
+Poj, šumo, planino, vri,<br/>
+silni dižimo huk,<br/>
+rajo, prekidaj muk,<br/>
+diži se, diži se i ti,<br/>
+staru pravdu urličimo,<br/>
+da tu zimu proguramo mimo.<br/>
+<br/>
+Biće proleće još kad,<br/>
+pokazaće zora lik,<br/>
+vučji čopor, urlik,<br/>
+na lovce jurnuće tad:<br/>
+hitaj preko Save, plovi preko Drave —<br/>
+zub za zub, glave za glave!<br/>
