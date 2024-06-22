@@ -13,6 +13,6 @@ u mračnim podzemljima<br/>
 gde vene im snaga rumena.<br/>
 <br/>
 Od studi i tupe samoće<br/>
-umreće pesme ove:<br/>
+umreće pesme ove;<br/>
 uzmite mač, o, pesnici,<br/>
 i branite svoje snove!<br/>

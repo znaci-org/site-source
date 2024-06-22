@@ -432,15 +432,6 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h4>Radivoj Koparec</h4>
-            <ul>
-                <li><a href="poezija/pesnici.php">Pesnici</a></li>
-                <li><a href="poezija/mladost.php">Mladost</a></li>
-                <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
-            </ul>
-        </article>
-
-        <article>
             <h4>Novak Simić</h4>
             <ul>
                 <li><a href="poezija/u-samici.php">U samici</a></li>
@@ -904,6 +895,15 @@ include "includes/header.php";
             <h4>Ljubiša Jocić</h4>
             <ul>
                 <li><a href="poezija/zelengora.php">Zelengora</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Radivoj Koparec</h4>
+            <ul>
+                <li><a href="poezija/pesnici.php">Pesnici</a></li>
+                <li><a href="poezija/mladost.php">Mladost</a></li>
+                <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
             </ul>
         </article>
 
