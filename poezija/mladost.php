@@ -45,4 +45,4 @@ ne beše lepa i velika -<br/>
 sad gnev nas mlade čini<br/>
 džinovima od čelika!<br/>
 
-<p>(u okupiranom Beogradu, najverovatnije 1942.)</p>
+<p>(u okupiranom Beogradu, oko 1942.)</p>

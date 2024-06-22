@@ -361,6 +361,19 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Radivoj Koparec</h4>
+            <ul>
+                <li><a href="poezija/ja-nisam-boem.php">Ja nisam boem</a></li>
+                <li><a href="poezija/knjiga-lirike.php">Knjiga lirike</a></li>
+                <li><a href="poezija/pesnik-i-glad.php">Pesnik i glad</a></li>
+                <li><a href="poezija/umiranje-osamnaestogodisnjaka.php">Umiranje osamnaestogodišnjaka</a></li>
+                <li><a href="poezija/uragan.php">Uragan</a></li>
+                <li><a href="poezija/uragan.php">Uragan</a></li>
+                <li><a href="poezija/ono-sto-zre.php">Ono što zre</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>August Cesarec</h4>
             <img src="https://upload.wikimedia.org/wikipedia/sh/thumb/c/cd/August_Cesarec_na_radom_mjestu.jpg/200px-August_Cesarec_na_radom_mjestu.jpg" alt="">
             <ul>
