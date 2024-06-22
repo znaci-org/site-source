@@ -368,7 +368,6 @@ include "includes/header.php";
                 <li><a href="poezija/pesnik-i-glad.php">Pesnik i glad</a></li>
                 <li><a href="poezija/umiranje-osamnaestogodisnjaka.php">Umiranje osamnaestogodišnjaka</a></li>
                 <li><a href="poezija/uragan.php">Uragan</a></li>
-                <li><a href="poezija/uragan.php">Uragan</a></li>
                 <li><a href="poezija/ono-sto-zre.php">Ono što zre</a></li>
             </ul>
         </article>
@@ -919,9 +918,10 @@ include "includes/header.php";
         <article>
             <h4>Radivoj Koparec</h4>
             <ul>
-                <li><a href="poezija/pesnici.php">Pesnici</a></li>
-                <li><a href="poezija/mladost.php">Mladost</a></li>
+                <li><a href="poezija/vojnik-skitnica.php">Vojnik skitnica</a></li>
                 <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
+                <li><a href="poezija/mladost.php">Mladost</a></li>
+                <li><a href="poezija/pesnici.php">Pesnici</a></li>
             </ul>
         </article>
 
