@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jovan Popović - Idbarska balada";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jovan Popović - Idbarska balada</h1>
+<h1><?php echo $naslov ?></h1>
 
 Iz krila noći rađaju se senke,<br/>
 muklim štropotom zvone dubine,<br/>

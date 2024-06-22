@@ -135,7 +135,7 @@ include "../includes/header.php";
 
 <p>(издадена во збирката Бели мугри 1939)</p>
 
-<h1>Kočo Racin - Kopači</h1>
+<h1>Kočo Racin - Kopači <small>(prevod: Sande Dodevski)</small></h1>
 
 Nestaje noćca crna<br/>
 Kruni se stijena mraka<br/>
@@ -256,6 +256,29 @@ Silno<br/>
 Zasvijetlio se<br/>
 Dan!<br/>
 
-<p>(prevod s makedonskog Sande Dodevski)</p>
+<h1>Kopači <small>(prevod: Vlada Urošević)</small></h1>
 
+Roni se noć crna!<br/>
+Ruši se stena — mrak!<br/>
+I petli pevaju u selu<br/>
+i zora već rudi —<br/>
+iznad stene u krvi se kupa<br/>
+i tamu pije<br/>
+jarko<br/>
+svanuo dan!<br/>
+<br/>
+Probudite se lomni<br/>
+kopačice i kopači —<br/>
+narode<br/>
+crnog<br/>
+rada!<br/>
+<br/>
+Sa motikom na ramenu<br/>
+radi kore suvog hleba<br/>
+putevima strmim,<br/>
+poljima ravnim,<br/>
+u rasplamteo dan —<br/>
+pobimo i mi<br/>
+patnici od pamtiveka!<br/>
+<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Man_with_the_Hoe%2C_Markham%2C_1900_DJVU_pg_28a.jpg/800px-The_Man_with_the_Hoe%2C_Markham%2C_1900_DJVU_pg_28a.jpg" alt="">

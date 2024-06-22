@@ -784,6 +784,7 @@ include "includes/header.php";
         <article>
             <h4>Jovan Popović</h4>
             <ul>
+                <li><a href="poezija/poruka-pred-odlazak.php">Poruka pred odlazak</a></li>
                 <li><a href="poezija/prolece-1942.php">Proleće 1942.</a></li>
                 <li><a href="poezija/idbarska-balada.php">Idbarska balada</a></li>
             </ul>

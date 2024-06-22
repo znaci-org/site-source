@@ -10,7 +10,6 @@
   footer {
     padding: 1rem;
     padding-top: 0.5em;
-    /* border-top: 1px solid rgba(69, 54, 37, 0.2); */
     text-align: center;
   }
 

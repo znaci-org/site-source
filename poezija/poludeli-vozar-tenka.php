@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Desanka Maksimović - Poludeli vozar tenka";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Desanka Maksimović - Poludeli vozar tenka</h1>
+<h1><?php echo $naslov ?></h1>
 
 Gde god se krenem, moram umreti:<br/>
 u svakom ubogom domu,<br/>
