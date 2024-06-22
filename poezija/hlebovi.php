@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Slobodan Marković - Hlebovi";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Slobodan Marković - Hlebovi</h1>
+<h1><?php echo $naslov ?></h1>
 
 Ruke su donele hlebove<br/>
 što toplije, što rumenije, što sitije.<br/>

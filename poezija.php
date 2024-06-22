@@ -1393,6 +1393,7 @@ include "includes/header.php";
             <h4>Blaže Koneski</h4>
             <ul>
                 <li><a href="poezija/teskoto.php">Тешкото</a></li>
+                <li><a href="poezija/vezilka.php">Везилка</a></li>
             </ul>
         </article>
 
@@ -1413,6 +1414,7 @@ include "includes/header.php";
         <article>
             <h4>Slobodan Marković</h4>
             <ul>
+                <li><a href="poezija/zemlji.php">Zemlji</a></li>
                 <li><a href="poezija/komunisticka-partija.php">Komunistička partija</a></li>
                 <li><a href="poezija/hlebovi.php">Hlebovi</a></li>
             </ul>
