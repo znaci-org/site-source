@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Podigla se buna od kožuna</h1>
 
-(<i>narodna pjesma iz Crne Gore</i>)
+(<i>crnogorska narodna pjesma o borbama u Bosni</i>)
 
 <p>
   Podigla se buna od kožuna,<br />

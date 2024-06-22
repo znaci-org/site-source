@@ -1194,6 +1194,7 @@ include "includes/header.php";
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
+                <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću, druže Peko</a></li>
                 <li><a href="poezija/ono-su-ti-ljute-zmije.php">Ono su ti ljute zmije, druga Peka divizije</a></li>
             </ul>
         </article>
@@ -1231,7 +1232,6 @@ include "includes/header.php";
                 <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
                 <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
                 <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
-                <li><a href="poezija/sta-se-cuje-izdaleka.php">Šta se čuje izdaleka</a></li>
             </ul>
         </article>
 

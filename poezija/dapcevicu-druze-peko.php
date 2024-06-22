@@ -1,13 +1,13 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Dapčeviću, druže Peko";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Šta se čuje izdaleka</h1>
+<h1><?php echo $naslov ?></h1>
 
-(<i>narodna pesma iz južne Srbije</i>)
+(<i>narodna pesma</i>)
 
 <p>
   Šta se čuje izdaleka,<br />
@@ -28,3 +28,5 @@ include "../includes/header.php";
   Naći ćeš nas po šumama,<br />
   Sa puškama u rukama.<br />
 </p>
+
+<img src="http://www.znaci.org/images/6672.jpg" alt="">
