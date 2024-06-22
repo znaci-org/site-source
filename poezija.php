@@ -17,6 +17,8 @@ include "includes/header.php";
 
     <h2 id="predratna">Predratna socijalna poezija</h2>
 
+    <p>Pesme bede, nepravde i otpora, poznate kao socijalna međuratna lirika.</p>
+
     <div class="knjige columns">
         <article>
             <h4>Kosta Abrašević</h4>
@@ -464,6 +466,8 @@ include "includes/header.php";
 
     <h2 id="spanske">Poezija španske revolucije</h2>
 
+    <p>Pesme Jugoslovena o španskom građanskom ratu.</p>
+
     <div class="knjige columns">
         <article>
             <h4>Čedomir Minderović</h4>
@@ -518,6 +522,8 @@ include "includes/header.php";
     </div>
 
     <h2 id="poezija-NOB">Poezija NOB</h2>
+
+    <p>Pesme ustanka, narodno-oslobodilačke borbe i revolucije koje su pisali borci i savremenici.</p>
 
     <div class="knjige columns">
         <article>
@@ -1103,6 +1109,8 @@ include "includes/header.php";
 
     <h2 id="narodne-pesme">Narodne partizanske pesme</h2>
 
+    <p>Registar narodnih partizanskih pesama iz drugog svetskog rata.</p>
+
     <div class="knjige columns zastave">
         <article>
             <h3>Partizanske pesme iz Hrvatske</h3>
@@ -1285,7 +1293,9 @@ include "includes/header.php";
         </article>
     </div>
 
-    <h2 id="poratna">Poratna jugoslovenska poezija</h2>
+    <h2 id="poratna">Posleratna jugoslovenska poezija</h2>
+
+    <p>Pesme sećanja, obnove i izgradnje.</p>
 
     <div class="knjige columns">
         <article>
