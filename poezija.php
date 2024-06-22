@@ -44,6 +44,7 @@ include "includes/header.php";
                 <li><a href="poezija/nasa-kuca.php">Naša kuća</a></li>
                 <li><a href="poezija/plameni-vjetar.php">Plameni vjetar</a></li>
                 <li><a href="poezija/rat.php">Rat</a></li>
+                <li><a href="poezija/pjesma-novinara.php">Pjesma novinara</a></li>
                 <li><a href="poezija/proljece-1918.php">Proljeće 1918.</a></li>
                 <li><a href="poezija/veliki petak-1919.php">Veliki petak godine 1919.</a></li>
                 <li><a href="poezija/rijec-mati-cina.php">Riječ mati čina</a></li>
@@ -53,7 +54,11 @@ include "includes/header.php";
                 <li><a href="poezija/gospodja-u-posjeti-kod-bolesnog-djeteta.php">Gospođa u posjeti kod bolesnog djeteta svoje sluškinje</a></li>
                 <li><a href="poezija/seoska-crkva.php">Seoska crkva</a></li>
                 <li><a href="poezija/jeruzalemski-dijalog.php">Jeruzalemski dijalog</a></li>
+                <li><a href="poezija/mrznja.php">Mržnja</a></li>
+                <li><a href="poezija/baba-cmizdri-pod-galgama.php">Baba cmizdri pod galgama</a></li>
                 <li><a href="poezija/pjesma-covjeka-bez-posla.php">Pjesma čovjeka bez posla</a></li>
+                <li><a href="poezija/u-nama-vrije-vrutak-vruce-lave.php">U nama vrije vrutak vruće lave</a></li>
+                <li><a href="poezija/sarenilo-bijede.php">Šarenilo bijede</a></li>
             </ul>
         </article>
 
