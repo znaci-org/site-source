@@ -917,6 +917,7 @@ include "includes/header.php";
 
         <article>
             <h4>Radivoj Koparec</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Radivoj_Koparec.png" alt="">
             <ul>
                 <li><a href="poezija/vojnik-skitnica.php">Vojnik skitnica</a></li>
                 <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
