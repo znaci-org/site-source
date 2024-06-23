@@ -331,6 +331,7 @@ include "includes/header.php";
                 <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
                 <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
                 <li><a href="poezija/balada-o-lazaru.php">Balada o Lazaru</a></li>
+                <li><a href="poezija/zidari.php">Zidari</a></li>
             </ul>
         </article>
 
@@ -1579,6 +1580,7 @@ include "includes/header.php";
         <article>
             <h4>Vesna Parun</h4>
             <ul>
+                <li><a href="poezija/mati-covjekova.php">Mati čovjekova</a></li>
                 <li><a href="poezija/o-republici.php">O Republici</a></li>
             </ul>
         </article>
