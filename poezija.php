@@ -1242,7 +1242,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
                 <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo, ustaj rode</a></li>
-                <li><a href="poezija/ustaj-druze-ustaj-rode.php">Ustaj druže, ustaj rode</a></li>
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
                 <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
@@ -1282,6 +1281,7 @@ include "includes/header.php";
                 <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
                 <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
                 <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
+                <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
             </ul>
         </article>
 
@@ -1665,8 +1665,9 @@ include "includes/header.php";
                 <li><a href="poezija/pesma-radu.php">Pesma radu</a></li>
                 <li><a href="poezija/pjesma-slobodi.php">Pjesma slobodi</a></li>
                 <li><a href="poezija/pesma-izgradnje.php">Pesma izgradnje</a></li>
-                <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
                 <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
+                <li><a href="poezija/stijeg-partije.php">Stijeg Partije</a></li>
+                <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
                 <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
