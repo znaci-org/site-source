@@ -15,9 +15,9 @@ include "includes/header.php";
         <li><a href="#poratna">V Poratna jugoslovenska poezija</a></li>
     </ul>
 
-    <h2 id="predratna">Predratna socijalna poezija</h2>
+    <h2 id="predratna" title="socijalna međuratna lirika">Predratna socijalna poezija</h2>
 
-    <p>Pesme bede, nepravde i otpora, poznate kao socijalna međuratna lirika.</p>
+    <p>Pesme bede, nepravde i otpora.</p>
 
     <div class="knjige columns">
         <article>
@@ -531,7 +531,7 @@ include "includes/header.php";
 
     <h2 id="poezija-NOB">Poezija NOB</h2>
 
-    <p>Pesme ustanka, narodno-oslobodilačke borbe i revolucije koje su pisali borci i savremenici.</p>
+    <p>Pesme ustanka, narodno-oslobodilačke borbe i revolucije.</p>
 
     <div class="knjige columns">
         <article>
@@ -1315,6 +1315,7 @@ include "includes/header.php";
                 <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
+                <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
             </ul>
         </article>
     </div>
@@ -1641,11 +1642,14 @@ include "includes/header.php";
         <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
-                <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
-                <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
-                <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
-                <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
+                <li><a href="poezija/pesma-radu.php">Pesma radu</a></li>
                 <li><a href="poezija/pjesma-slobodi.php">Pjesma slobodi</a></li>
+                <li><a href="poezija/pesma-izgradnje.php">Pesma izgradnje</a></li>
+                <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
+                <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
+                <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
+                <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
+                <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
                 <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
             </ul>
