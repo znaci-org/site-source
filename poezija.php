@@ -226,6 +226,7 @@ include "includes/header.php";
                 <li><a href="poezija/plac-matere-covekove.php">Plač Matere Čovekove</a></li>
                 <li><a href="poezija/covek-peva-posle-rata.php">Čovek peva posle rata</a></li>
                 <li><a href="poezija/pesma-roba-u-podne.php">Pesma roba u podne</a></li>
+                <li><a href="poezija/domovina.php">Domovina</a></li>
             </ul>
         </article>
 
@@ -329,6 +330,7 @@ include "includes/header.php";
                 <li><a href="poezija/predgradje.php">Predgrađe</a></li>
                 <li><a href="poezija/balada-iz-predgradja.php">Balada iz predgrađa</a></li>
                 <li><a href="poezija/mrtvacnica-najbjednijih.php">Mrtvačnica najbjednijih</a></li>
+                <li><a href="poezija/balada-o-lazaru.php">Balada o Lazaru</a></li>
             </ul>
         </article>
 
@@ -836,6 +838,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Tone Seliškar</h4>
+            <ul>
+                <li><a href="poezija/na-juris.php">Na juriš</a></li>
+            </ul>
+        </article>
+    
+        <article>
             <h4>Miloš Popović Đurin</h4>
             <ul>
                 <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
@@ -1258,6 +1267,7 @@ include "includes/header.php";
                 <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
                 <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
                 <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
+                <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci, junaci iz ćoške</a></li>
             </ul>
         </article>
 
@@ -1537,6 +1547,13 @@ include "includes/header.php";
             <h4>Jovan Popović</h4>
             <ul>
                 <li><a href="poezija/pesma-o-iskovanoj-sreci.php">Pesma o iskovanoj sreći</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Božo Vodušek</h4>
+            <ul>
+                <li><a href="poezija/ko-smo-prometeji-neugnani.php">Ko smo Prometeji neugnani</a></li>
             </ul>
         </article>
 

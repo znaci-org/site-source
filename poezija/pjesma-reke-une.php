@@ -1,11 +1,12 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Pjesma reke Une";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Pjesma reke Une</h1>
+<h1><?php echo $naslov ?></h1>
+
 Vječito tako protičem,<br/>
 godine mutne odnosim,<br/>
 godine duge krvave,<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jovo Varagić - Pjesma siromaha";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jovo Varagić - Pjesma siromaha</h1>
+<h1><?php echo $naslov ?></h1>
 
 Na svojim plećima nosimo, i krotki i gladni i bijedni,<br/>
 Zgradu svijeta ovog, i otvrdlih kopamo ruku<br/>
