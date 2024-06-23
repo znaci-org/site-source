@@ -117,8 +117,8 @@ Ova borba biće duga.<br/>
 <br/>
 Zbijajmo se brat do brata,<br/>
 Da skinemo jaram s vrata.<br/>
-
 <br>
+
 <hr>
 
 <p>Ova pesma je nastala preradom stihova čuvene "Radikalke", poznate kao "srpska seljačka Marseljeza", koja je bila zabranjena u vreme kralja Milana Obrenovića. Izvorni tekst pesme iz 19. veka je glasio:</p>

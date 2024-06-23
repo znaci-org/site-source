@@ -408,6 +408,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/pogreb.php">Pogreb</a></li>
                 <li><a href="poezija/drejcnik-andrej-govori.php">Drejčnik Andrej govori</a></li>
+                <li><a href="poezija/puntarska.php">Puntarska</a></li>
             </ul>
         </article>
 
@@ -894,6 +895,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>
                 <li><a href="poezija/san-boraca-u-zoru.php">San boraca u zoru</a></li>
+                <li><a href="poezija/epitaf-vojniku.php">Epitaf vojniku koji je pao u času potpisivanja primirja</a></li>
             </ul>
         </article>
 
@@ -1230,6 +1232,7 @@ include "includes/header.php";
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/bela-vilo-sa-planine.php">Bela vilo sa planine</a></li>
+                <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću, druže Peko</a></li>
                 <li><a href="poezija/ono-su-ti-ljute-zmije.php">Ono su ti ljute zmije, druga Peka divizije</a></li>
@@ -1243,6 +1246,7 @@ include "includes/header.php";
                 <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
                 <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo, ustaj rode</a></li>
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice, prva republiko</a></li>
+                <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
                 <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
@@ -1258,15 +1262,16 @@ include "includes/header.php";
                 <li><a href="poezija/od-valjeva-pa-do-nisa.php">Od Valjeva pa do Niša</a></li>
                 <li><a href="poezija/jedno-jutro-prije-zore.php">Jedno jutro prije zore</a></li>
                 <li><a href="poezija/a-sto-pcinja-mutna-teci.php">A što Pčinja mutna teči, babo mori?</a></li>
-                <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj, Dražo, izdajico stara</a></li>
                 <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a> (epika)</li>
                 <li><a href="poezija/goro-le-goro-zelena.php">Goro le, goro zelena</a></li>
                 <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
                 <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
+                <li><a href="poezija/partizane-nase-ceo-svet-vec-zna.php">Partizane naše ceo svet već zna</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
-                <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
                 <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
                 <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
+                <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
+                <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj, Dražo, izdajico stara</a></li>
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci, junaci iz ćoške</a></li>
             </ul>
         </article>
@@ -1329,6 +1334,8 @@ include "includes/header.php";
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
+                <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo, mirisavo cvijeće</a></li>
+                <li><a href="poezija/partizani-ne-bojte-se-rana.php">Partizani, ne bojte se rana</a></li>
             </ul>
         </article>
     </div>

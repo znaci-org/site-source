@@ -32,8 +32,7 @@ I pretvara noć u dan;<br/>
 San će biti java živa,<br/>
 A sva java kao san.<br/>
 <br/>
-Radi,<br/>
-radi, gradi, buši, struži, ori,<br/>
+Radi, radi, gradi, buši, struži, ori,<br/>
 Kopaj, snagu daj,<br/>
 U lepoti nek se pruži,<br/>
 Rascvetani zavičaj.<br/>
