@@ -75,3 +75,5 @@ pod plavim nebeskim krovom.<br/>
 <hr>
 
 <p>Pesma govori o pesnikovom uzaludnom pokušaju da se priključi nekoj jedinici kraljevske Jugoslovenske vojske tokom Aprilskog rata, radi odbrane zemlje, ali nakon pet dana lutanja konačno mu saopštavaju da je sad i on zarobljenik, zajedno s ostalim vojnicima.</p>
+
+<img src="http://www.znaci.org/images/7124.jpg" alt="">
