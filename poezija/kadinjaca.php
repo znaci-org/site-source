@@ -837,6 +837,6 @@ Kadinjača.<br />
 <br>
 <br>
 <br>
-<p>(Savez boraca Srbije, Beograd, 1950.)</p>
+<p>(digitalizovano prema Slavko Vukosavljević - Kadinjača, Savez boraca Srbije, Beograd, 1950.)</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9A%D0%B0%D0%B4%D0%B8%D1%9A%D0%B0%D1%87%D0%B0%2C_1941.jpg/1024px-%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9A%D0%B0%D0%B4%D0%B8%D1%9A%D0%B0%D1%87%D0%B0%2C_1941.jpg" alt="">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kadinjaca_%28poema%29.jpg/702px-Kadinjaca_%28poema%29.jpg" alt="Kadinjača poema">

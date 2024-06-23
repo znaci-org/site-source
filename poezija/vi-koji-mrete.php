@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radivoj Koparec - Vi koji mrete...";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radivoj Koparec - Vi koji mrete...</h1>
+<h1><?php echo $naslov ?></h1>
 
 U mržnji i nemom psovanju<br/>
 diže se iznad bolova<br/>
@@ -68,3 +68,7 @@ i titan se postaje,<br/>
 u jadikovanju<br/>
 sred pečalnih ovih dolova<br/>
 junak se ne poznaje.<br/>
+<br>
+
+<img src="http://www.znaci.org/images/15025.jpg" alt=""><br>
+<small>Članovi Okružnog komiteta KPJ za Čačak, s leva na desno: Radosav Minić, Miodrag Savić, Milorad Stanišić i Momčilo Vilimanović, pred streljanje na Banjici 1942.</small>

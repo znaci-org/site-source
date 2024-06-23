@@ -46,3 +46,5 @@ sad gnev nas mlade čini<br/>
 džinovima od čelika!<br/>
 
 <p>(u okupiranom Beogradu, oko 1942.)</p>
+
+<img src="http://www.znaci.org/images/6268.jpg" alt="">

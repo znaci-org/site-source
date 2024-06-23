@@ -920,9 +920,16 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Radivoj_Koparec.png" alt="">
             <ul>
                 <li><a href="poezija/vojnik-skitnica.php">Vojnik skitnica</a></li>
+                <li><a href="poezija/polegla-psenica.php">Polegla pšenica</a></li>
+                <li><a href="poezija/zito-u-ognju.php">Žito u ognju</a></li>
+                <li><a href="poezija/vozovi-ovog-leta.php">Vozovi ovog leta</a></li>
                 <li><a href="poezija/vi-koji-mrete.php">Vi koji mrete...</a></li>
+                <li><a href="poezija/umiruci.php">Umirući</a></li>
+                <li><a href="poezija/gnev.php">Gnev</a></li>
+                <li><a href="poezija/pozar.php">Požar</a></li>
                 <li><a href="poezija/mladost.php">Mladost</a></li>
                 <li><a href="poezija/pesnici.php">Pesnici</a></li>
+                <li><a href="poezija/majci-u-crnini.php">Majci u crnini</a></li>
             </ul>
         </article>
 

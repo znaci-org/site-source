@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radivoj Koparec - Pesnici";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radivoj Koparec - Pesnici</h1>
+<h1><?php echo $naslov ?></h1>
 
 Bolna su ova vremena:<br/>
 pesnici kriju pesme<br/>
@@ -18,3 +18,6 @@ uzmite mač, o, pesnici,<br/>
 i branite svoje snove!<br/>
 
 <p>(u okupiranom Beogradu)</p>
+
+<img src="http://www.znaci.org/images/6224.jpg" alt=""><br>
+<small>Beograd za vreme okupacije</small>
