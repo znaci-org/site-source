@@ -352,6 +352,7 @@ include "includes/header.php";
                 <li><a href="poezija/rucak-siromaha.php">Ručak siromaha</a></li>
                 <li><a href="poezija/siromahu.php">Siromahu</a></li>
                 <li><a href="poezija/raspece.php">Raspeće</a></li>
+                <li><a href="poezija/opomena.php">Opomena</a></li>
             </ul>
         </article>
 
@@ -1228,6 +1229,7 @@ include "includes/header.php";
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
+                <li><a href="poezija/bela-vilo-sa-planine.php">Bela vilo sa planine</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću, druže Peko</a></li>
                 <li><a href="poezija/ono-su-ti-ljute-zmije.php">Ono su ti ljute zmije, druga Peka divizije</a></li>
@@ -1258,8 +1260,7 @@ include "includes/header.php";
                 <li><a href="poezija/jedno-jutro-prije-zore.php">Jedno jutro prije zore</a></li>
                 <li><a href="poezija/a-sto-pcinja-mutna-teci.php">A što Pčinja mutna teči, babo mori?</a></li>
                 <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj, Dražo, izdajico stara</a></li>
-                <li><a href="poezija/bela-vilo-sa-planine.php">Bela vilo sa planine</a></li>
-                <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a></li>
+                <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a> (epika)</li>
                 <li><a href="poezija/goro-le-goro-zelena.php">Goro le, goro zelena</a></li>
                 <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
                 <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
@@ -1292,7 +1293,8 @@ include "includes/header.php";
                 <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско, реко силна</a></li>
                 <li><a href="poezija/od-sofija-zalen-glas-se-slusa.php">Од Софија жален глас се слуша</a></li>
                 <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа, мамо</a></li>
-                <li><a href="poezija/mlada-partizanka-da-stanam.php">Mlada partizanka da stanam</a></li>
+                <li><a href="poezija/mlada-partizanka-da-stanam.php">Млада партизанка да станам</a></li>
+                <li><a href="poezija/gledaj-me-gledaj-libe.php">Гледај ме, гледај либе</a></li>
             </ul>
         </article>
 
@@ -1326,6 +1328,7 @@ include "includes/header.php";
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
+                <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
             </ul>
         </article>
     </div>

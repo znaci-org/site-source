@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-(<i>narodna pesma zabeležena u južnoj Srbiji, uporedi: <a href="/poezija/u-logoru-boljsevika.php">U logoru boljševika</a></i>)
+(<i>varijacija pesme <a href="/poezija/u-logoru-boljsevika.php">U logoru boljševika</a>, zabeležena u južnoj Srbiji</i>)
 
 <p>
   Bela vilo sa planine,<br />

@@ -7,8 +7,6 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma</i>)</p>
-
 Kad budem od kuće pošao,<br/>
 U zavežljaj mi ne stavljaj hljeba raženog.<br/>
 Kad budem od kuće pošao,<br/>

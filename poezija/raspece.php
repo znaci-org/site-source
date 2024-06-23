@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Antun Branko Šimić - Raspeće";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Antun Branko Šimić - Raspeće</h1>
+<h1><?php echo $naslov ?></h1>
 
 I dokle ispod prvih udaraca čekićem u čavle<br/>
 na križu tijelo čovjekovo poče da se uvija i svija<br/>
