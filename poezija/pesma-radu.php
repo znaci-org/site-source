@@ -22,4 +22,6 @@ u divljaka luk i strela,<br/>
 to su naših ruku dela,<br/>
 da nam živi, živi rad!!!<br/>
 
-<p>(prepev bugarske revolucionarne pesme Песен на труда, Georgi Kirkova iz 1898)</p>
+<p><img src="skenovi/pjesma-radu.jpg" alt="Pjesma radu note"></p>
+
+<p>(prepev bugarske revolucionarne pesme Песен на труда, Georgi Kirkova iz 1898.)</p>

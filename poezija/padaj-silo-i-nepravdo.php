@@ -40,5 +40,6 @@ radnik, seljak jedno biti,<br/>
 isti im je trud i rad.<br/>
 
 <p>
-  <img src="skenovi/padaj-silo-i-nepravdo.jpg" alt="">
+  <img src="skenovi/padaj-silo-i-nepravdo.jpg" alt="note"><br>
+  <img src="skenovi/padaj-silo.jpg" alt="note">
 </p>
