@@ -475,6 +475,7 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-o-matiji-gupcu.php">Pjesma o Matiji Gupcu</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
+                <li><a href="poezija/rabotnicka.php">Rabotnička</a></li>
             </ul>
         </article>
     </div>
@@ -1317,6 +1318,7 @@ include "includes/header.php";
                 <li><a href="poezija/padaj-silo-i-nepravdo.php">Padaj silo i nepravdo</a></li>
                 <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže, tvoja kuća gori</a></li>
                 <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
+                <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
