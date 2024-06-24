@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Čedomir Minderović - U suton";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Čedomir Minderović - U suton</h1>
+<h1><?php echo $naslov ?></h1>
 
 U suton se k’o močvara širi trulež s Grosovih slika.<br/>
 U suton su velike i tužne oči bolesnika.<br/>

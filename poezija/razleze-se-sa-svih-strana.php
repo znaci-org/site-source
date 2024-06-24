@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Razleže se sa svih strana ratni poklič partizana</h1>
+<h1>Razleže se sa svih strana</h1>
 
 (<i>partizanska pesma</i>)
 

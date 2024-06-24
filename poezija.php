@@ -1196,6 +1196,7 @@ include "includes/header.php";
                 <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
                 <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
                 <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
+                <li><a href="poezija/u-zagrebu-polupani-dvori.php">U Zagrebu polupani dvori</a></li>
                 <li><a href="poezija/1941.php">1941.</a> (epika)</li>
                 <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
                 <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
@@ -1323,7 +1324,7 @@ include "includes/header.php";
                 <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
                 <li><a href="poezija/aoj-goro-goro-svakojaka.php">Aoj goro, goro svakojaka</a></li>
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
-                <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
+                <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana</a></li>
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
                 <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
@@ -1338,7 +1339,8 @@ include "includes/header.php";
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
                 <li><a href="poezija/mjesto-tvoje-ruke-dvije.php">Mjesto tvoje ruke dvije</a></li>
-                <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a> (Ivi Loli Ribaru)</li>
+                <li><a href="poezija/druze-ivo-voditelju-skoja.php">Druže Ivo voditelju Skoja</a></li>
+                <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
                 <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
