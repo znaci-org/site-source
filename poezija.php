@@ -1614,6 +1614,7 @@ include "includes/header.php";
         <article>
             <h4>Čedomir Minderović</h4>
             <ul>
+                <li><a href="poezija/smelo-smo-posli-iz-mraka-i-strave.php">Smelo smo pošli iz mraka i strave</a></li>
                 <li><a href="poezija/nasa-jesen.php">Naša jesen</a></li>
             </ul>
         </article>
