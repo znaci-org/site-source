@@ -7,7 +7,26 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pesma iz drugog svetskog rata</i>)</p>
+<p>(<i>narodna pesma</i>)</p>
+
+Izbjeglička vlada u Kairu<br/>
+ne ćemo te pustiti na miru.<br/>
+<br/>
+Kralju Petre ne ćemo te ovdje<br/>
+mi hoćemo da nam Staljin /Tito/ dođe.<br/>
+<br/>
+Ovo nam je naša borba dala<br/>
+da imamo Titu za maršala.<br/>
+<br/>
+Druže Tito širi svoja krila<br/>
+domovina slobodna nam bila.<br/>
+<br/>
+Druže Tito naša mila nada<br/>
+milione on predvodi sada.<br/>
+
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>II verzijaa</h2>
 
 Kralju Petre nećemo te amo<br/>
 tvoja djela mi dobro poznamo.<br/>
@@ -23,5 +42,7 @@ da te ovdje vidjeti ne želi.<br/>
 <br/>
 Druže Tito oka garavoga<br/>
 poteraj de Petra balavoga.<br/>
+
+<p>(Popijevke iz borbe i izgradnje 1954. )</p>
 
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>

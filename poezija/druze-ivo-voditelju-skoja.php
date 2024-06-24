@@ -17,6 +17,7 @@ druga Ive neumrlo ime.<br/>
 <br/>
 Omladino žalimo heroja<br/>
 osveti ga to je dužnost tvoja.<br/>
-<br>
+
+<p>(iz Popijevke iz borbe i izgradnje 1954. )</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ivo_Lola_Ribar_na_konju_Lisku.jpg" alt="">
