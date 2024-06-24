@@ -25,3 +25,22 @@ Sad u tebi ptičice pjevaju<br/>
 partizani čete razvijaju.<br/>
 
 <p>(iz Popijevke iz borbe i izgradnje 1954.)</p>
+
+<h2>II verzija</h2>
+
+Aoj goro, goro svakojaka,<br/>
+partizanskih puna si junaka!<br/>
+<br/>
+Tvoje lišće pod njima se vije<br/>
+i pod tobom osvetnike krije.<br/>
+<br/>
+Kada ptice pjesme zapjevaju,<br/>
+partizani čete razvijaju.<br/>
+<br/>
+Svi su pošli nosit karabine,<br/>
+da sloboda svima nama sine.<br/>
+<br/>
+Silna goro, sižeš do oblaka,<br/>
+a još dalje djela od junaka!<br/>
+
+<p>(Naše pjesme I, br. 13)</p>

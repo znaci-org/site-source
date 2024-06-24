@@ -1162,6 +1162,7 @@ include "includes/header.php";
                 <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a></li>
                 <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
+                <li><a href="poezija/pola-like-u-pepelu-lezi.php">Pola Like u pepelu leži</a></li>
                 <li><a href="poezija/sam-je-mirko-pusku-zadobio.php">Sam je Mirko pušku zadobio</a></li>
                 <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
                 <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
