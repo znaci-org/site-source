@@ -52,8 +52,8 @@ Stopala bo naša četa,<br />
 svobodi naprot'.<br />
 <br />
 Čuje se odmev korakov...<br />
-<br />
-(1940)
+
+<p>(nastala uoči prvomajskog uranka 1939. u logoru u Bileći)</p>
 
 <h2>srpskohrvatski prepev</h2>
 

@@ -60,7 +60,7 @@ include "../includes/header.php";
 
 <p>Mnoge revolucionarne pjesme spjevane su u kaznionicama za političke zatvorenike u Bileći, Sremskoj Mitrovici i Lepoglavi. Zbog uvjeta u kojima su nastale, ove pjesme se popularno nazivaju robijaškim. Nastajale su spontano i najčešće im se ne može odrediti autor, jer je u pisanju teksta učestvovalo više zatvorenika, a katkada cijela ćelija ili paviljon.</p>
 
-<p>U Sremskoj Mitrovici je čak organiziran i Prvi festival originalnih revolucionarnih pjesama, tom prilikom su nastale popularne revolucionarne pjesme Nabrusimo kose, Mitrovčanka i Pjesma o Matiji Gupcu.</p>
+<p>U kaznioni u Sremskoj Mitrovici je na ideju Moše Pijade organiziran Prvi festival originalnih revolucionarnih pjesama na kojem su učestvovali svi sobni kolektivi. Od većeg broja konkurenata pobijedila je slovenačka grupa sa pjesmom Žetelice (kasnije preimenovana u Nabrusimo kose), posebnu nagradu žirija dobila je Mitrovčanka, a istom prilikom je nastala i Pjesma o Matiji Gupcu. </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Politi%C4%8Dki_zatvorenici_u_Sremskoj_Mitrovici_1930-ih.jpg"><br>
 <small>Politički zatvorenici u Sremskoj Mitrovici 1930-ih.</small>

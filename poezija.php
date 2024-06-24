@@ -531,6 +531,7 @@ include "includes/header.php";
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
+                <li><a href="poezija/pesma-ujedinjenog-radnickog-fronta.php">Pesma ujedinjenog radničkog fronta</a></li>
             </ul>
         </article>
     </div>

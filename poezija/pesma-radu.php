@@ -21,3 +21,5 @@ u divljaka luk i strela,<br/>
 željeznica, selo i grad,<br/>
 to su naših ruku dela,<br/>
 da nam živi, živi rad!!!<br/>
+
+<p>(prepev bugarske revolucionarne pesme Песен на труда, Georgi Kirkova iz 1898)</p>
