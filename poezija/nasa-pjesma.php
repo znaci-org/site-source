@@ -46,3 +46,5 @@ Da zagrli partizane.</p>
 Silna brda, uske klance,<br>
 Partizanske čete gaze<br>
 Fašističke lomeć lance.</p>
+
+<img src="skenovi/nasa pjesma ivan goran kovacic note.jpg" alt="">

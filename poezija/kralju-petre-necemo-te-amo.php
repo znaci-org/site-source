@@ -90,6 +90,8 @@ naš te narod iza sebe briše.<br>
 Naš je uspjeh i naših vojnika <br>
 što propada izdajnička klika.<br>
 <br>
+Avnoj avnoh to je garancija <br>
+da se neće vratit monarhija. <br>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 

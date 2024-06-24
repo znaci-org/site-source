@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Lički partizanski dvostih";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Lički partizanski dvostih</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>popularna pjesnička forma Like</i>)</p>
 
@@ -257,9 +257,14 @@ da ne možeš s nama ratovati.<br/>
 <br/>
 Oj Staljine sirotinjska nado<br/>
 tebe voli i staro i mlado.<br/>
-
-
-
-
+<br/>
+Kršna Lika to je naša dika<br/>
+ona j puna narodnih vojnika.<br/>
+<br/>
+Talijani valovite kose<br/>
+partizani poslaše vas bose.<br/>
+<br/>
+U borbu se Lika kreće<br/>
+robovati nikom neće.<br/>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Lički ženski dvostih";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Lički ženski dvostih</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>pjevano iz ženskog lica</i>)</p>
 
@@ -122,6 +122,9 @@ posjetiti hrabre partizane. <br>
 <br>
 Lolo moja komunista budi <br>
 komuinisti najbolji su ljudi.<br>
+<br>
+Nemoj lolo dezerterac biti <br>
+cijeli će te narod zamrziti. <br>
 <br>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
