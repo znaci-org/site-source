@@ -1345,6 +1345,7 @@ include "includes/header.php";
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo, mirisavo cvijeće</a></li>
+                <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
                 <li><a href="poezija/narodne-partizanske-rime.php">Narodne partizanske rime</a> (razno)</li>
             </ul>
         </article>
