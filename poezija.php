@@ -416,8 +416,9 @@ include "includes/header.php";
         <article>
             <h4>Čedomir Minderović</h4>
             <ul>
-                <li><a href="poezija/u-suton.php">U suton</a></li>
                 <li><a href="poezija/budi-se-istok-i-zapad.php">Budi se istok i zapad</a></li>
+                <li><a href="poezija/himna-zidara.php">Himna zidara</a></li>
+                <li><a href="poezija/u-suton.php">U suton</a></li>
                 <li><a href="poezija/uspavanka-minderovic.php">Uspavanka</a></li>
             </ul>
         </article>
@@ -471,8 +472,8 @@ include "includes/header.php";
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
-                <li><a href="poezija/himna-zidara.php">Himna zidara</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
+                <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
             </ul>
         </article>
     </div>
@@ -846,7 +847,7 @@ include "includes/header.php";
                 <li><a href="poezija/na-juris.php">Na juriš</a></li>
             </ul>
         </article>
-    
+
         <article>
             <h4>Miloš Popović Đurin</h4>
             <ul>
