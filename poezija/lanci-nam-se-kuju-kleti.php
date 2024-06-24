@@ -14,18 +14,22 @@ Lanci nam se kuju kleti,<br/>
 Krvavi se vodi rat,<br/>
 Al' pre ćemo mi umreti,<br/>
 Nego svoje zemlje dat.<br/>
+<br/>
 Vodićemo borbu svetu,<br/>
 Dok fašizmu dođe kraj,<br/>
 Kazaćemo celom svetu,<br/>
 Što je mladi naraštaj.<br/>
+<br/>
 Mi smo deca verna rodu,<br/>
 Pa smo danas spremni mi,<br/>
 Da u borbi za slobodu,<br/>
 Umiremo s pesmom svi.<br/>
+<br/>
 Gazićemo izdajice,<br/>
 I prihvatit ljuti boj,<br/>
 Poći ćemo u planine,<br/>
 Da branimo narod svoj.<br/>
+<br/>
 Narodu sam zavet dao,<br/>
 Ja, narodni partizan,<br/>
 Da ću čuvat steg slobode,<br/>

@@ -9,9 +9,31 @@ include "../includes/header.php";
 
 <p>(<i>partizanska pjesma, nastala iz pesme <a href="/poezija/lanci-nam-se-kuju-kleti.php">Lanci nam se kuju kleti</a></i>)</p>
 
-<p><img src="skenovi/po-sumama-i-gorama.jpg" alt="note"></p>
-
 <h2>I verzija</h2>
+
+Po šumama i gorama<br />
+Naše zemlje ponosne<br />
+Idu čete partizana,<br />
+Slavu borbe pronose!<br />
+<br />
+Neka znade dušman kleti<br />
+Da će kod nas slomit vrat,<br />
+Prije ćemo mi umrijeti<br />
+Nego svoje zemlje dat!<br />
+<br />
+Vodit ćemo borbu svetu,<br/>
+Dok fašizmu dođe slom.<br/>
+Kazat ćemo cijelom svijetu,<br/>
+Kako treba branit dom.<br/>
+<br/>
+Zgazit ćemo izdajice,<br/>
+složit se u borbi toj,<br/>
+Spasit kuće, oranice,<br/>
+Oslobodit narod svoj.<br/>
+
+<p>(iz Popijevke iz borbe i izgradnje 1954. )</p>
+
+<h2>II verzija</h2>
 
 Po šumama i gorama<br />
 Naše zemlje ponosne<br />
@@ -21,7 +43,7 @@ Slavu borbe pronose!<br />
 Neka čuje dušman kleti<br />
 krvavi se vodi rat,<br />
 Prije ćemo mi umrijeti<br />
-Nego svoje zemlje dat'!<br />
+Nego svoje zemlje dat!<br />
 <br />
 Narodu sam zavjet dao,<br />
 Ja, narodni partizan:<br />
@@ -48,7 +70,7 @@ Krv herojska u nas vri,<br />
 Mi ne damo zemlje naše<br />
 Da je gaze fašisti!<br />
 
-<h2>II verzija</h2>
+<h2>III verzija</h2>
 
 Po šumama i gorama,<br />
 Naše Bosne ponosne,<br />
@@ -65,7 +87,7 @@ Kao krv je crvena,<br />
 Pobjedama ovjenčana,<br />
 Ta zastava narodna.<br />
 
-<h2>III verzija</h2>
+<h2>IV verzija</h2>
 
 Po šumama i gorama,<br />
 naše zemlje ponosne,<br />
@@ -81,6 +103,8 @@ Neka znade dušman kleti,<br />
 koji krvav sprema rat,<br />
 prije ćemo mi umrijeti,<br />
 nego svoje zemlje dat.<br />
+
+<p><img src="skenovi/po-sumama-i-gorama.jpg" alt="note"></p>
 
 <h1>Partizan sam tim se dičim</h1>
 

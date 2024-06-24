@@ -26,22 +26,42 @@ include "../includes/header.php";
 
 <p>(1898.)</p>
 
-<h1><?php echo $naslov ?></h1>
+<h1>Pjesma radu <small>(jugoslovenska predratna verzija)</small></h1>
 
-<p>(jugoslovenski prepev)</p>
+Drugarska se pjesma ori<br/>
+pjesma koja slavi rad!<br/>
+Srce gromko nek na zbori:<br/>
+Da nam živi živi rad!<br/>
+<br/>
+Podignimo u vis čela<br/>
+mi, robovi rada svog!<br/>
+naša bit će zemlja cijela:<br/>
+Da nam živi živi rad!<br/>
+<br/>
+U divljaka luk i strijela.<br/>
+Željeznice, selo i grad,<br/>
+to su naših ruku djela:<br/>
+Da nam živi živi rad!<br/>
+<br/>
+Od Jadrana do Kitaja<br/>
+slobode nam sunce sja,<br/>
+takva bit će zemlja cijela:<br/>
+Da nam živi živi rad!<br/>
 
-drugarska se pesma ori<br/>
+<h1>Pesma radu <small>(jugoslovenska posleratna verzija)</small></h1>
+
+Drugarska se pesma ori<br/>
 pesma koja slavi rad<br/>
 srce gromko nek nam zbori<br/>
 da nam živi, živi rad!!!<br/>
 <br/>
-podignimo u vis čela<br/>
-mi - junaci rada svog,<br/>
+Podignimo u vis čela<br/>
+mi, junaci rada svog,<br/>
 naša biće zemlja cela,<br/>
 da nam živi, živi rad!<br/>
 <br/>
-u divljaka luk i strela,<br/>
-željeznica, selo i grad,<br/>
+U divljaka luk i strela.<br/>
+Željeznica, selo i grad,<br/>
 to su naših ruku dela,<br/>
 da nam živi, živi rad!!!<br/>
 
