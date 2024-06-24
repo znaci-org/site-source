@@ -75,3 +75,25 @@ Druže Tito, vođo komunista,<br/>
 Druže Tito, vođo komunista,<br/>
 Partija ti zlato moje,<br/>
 Partija ti čelična i čista!<br/>
+
+<h2>IV verzija (Komunisti, živila vam ruka)</h2>
+
+Komunisti živila vam ruka<br/>
+vi ste narod izbavili muka.<br/>
+<br/>
+Kompartijo naše rosno cvijeće<br/>
+ceo narod za tobom se kreće.<br/>
+<br/>
+Kompartijo ruka ti je sveta<br/>
+ti si vođa narodnog pokreta.<br/>
+<br/>
+Što partija preda nas postavi<br/>
+svaki od nas hoće da ostvari.<br/>
+<br/>
+Komunisti borimo se snažno<br/>
+uništimo ono što je lažno.<br/>
+<br/>
+Ništa ljepše i časnije nije<br/>
+neg' bit članom naše kompartije.<br/>
+
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

@@ -1174,6 +1174,7 @@ include "includes/header.php";
                 <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd’ u partizane</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
+                <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
                 <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara, nema partizana</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
@@ -1203,6 +1204,7 @@ include "includes/header.php";
                 <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
                 <li><a href="poezija/licke-rime.php">Ličke partizanske rime</a> (razno)</li>
+                <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>
             </ul>
         </article>
 

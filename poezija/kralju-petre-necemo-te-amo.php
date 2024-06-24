@@ -26,7 +26,7 @@ milione on predvodi sada.<br/>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
-<h2>II verzijaa</h2>
+<h2>II verzija</h2>
 
 Kralju Petre nećemo te amo<br/>
 tvoja djela mi dobro poznamo.<br/>
@@ -43,6 +43,14 @@ da te ovdje vidjeti ne želi.<br/>
 Druže Tito oka garavoga<br/>
 poteraj de Petra balavoga.<br/>
 
-<p>(Popijevke iz borbe i izgradnje 1954. )</p>
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>varijacije</h2>
+
+Kralju Petre nećemo te ovdje <br/>
+borimo se da nam Tito dođe.<br/>
+<br/>
+Kralju Petre više nisi dijete <br/>
+čekaju te naše bajunete. <br/>
 
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>
