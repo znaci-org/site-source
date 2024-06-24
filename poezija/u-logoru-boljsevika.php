@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>U logoru boljševika</h1>
 
-(<i>narodna pjesma iz Crne Gore, uporedi: <a href="/poezija/bela-vilo-sa-planine.php">Bijela vilo sa planine</a></i>)
+(<i>narodna pjesma iz Crne Gore, uporedi: <a href="/poezija/bijela-vilo-sa-planine.php">Bijela vilo sa planine</a></i>)
 
 <p>
   U logoru boljševika<br />

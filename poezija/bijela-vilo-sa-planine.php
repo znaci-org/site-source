@@ -56,6 +56,8 @@ Hitleru je zada jada.<br/>
 
 <p>(iz Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
+<img src="skenovi/bjela vilo sa planine.jpg" alt="">
+
 <h2>II verzija</h2>
 
 Bela vilo sa planine,<br />
