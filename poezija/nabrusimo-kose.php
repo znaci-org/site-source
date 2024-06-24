@@ -61,4 +61,4 @@ Sad kose prihvatit ćemo svi.<br>
 
 <hr>
 
-<p>U kaznioni u Sremskoj Mitrovici je na ideju Moše Pijade organiziran Prvi festival originalnih revolucionarnih pjesama na kojem su učestvovali svi sobni kolektivi. Od većeg broja konkurenata pobijedila je slovenačka grupa sa pjesmom Žetelice (kasnije preimenovana u Nabrusimo kose), posebnu nagradu žirija dobila je Mitrovčanka, a istom prilikom je nastala i Pjesma o Matiji Gupcu. </p>
+<p>U kaznioni u Sremskoj Mitrovici je 1936. godine organiziran Prvi festival originalnih revolucionarnih pjesama na kojem su učestvovali svi sobni kolektivi. Od većeg broja konkurenata pobijedila je slovenačka grupa sa pjesmom Žetelice (kasnije preimenovana u Nabrusimo kose), posebnu nagradu žirija dobila je Mitrovčanka, a istom prilikom je nastala i Pjesma o Matiji Gupcu. </p>

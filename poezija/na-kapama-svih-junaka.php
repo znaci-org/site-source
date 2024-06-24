@@ -7,25 +7,28 @@ include "../includes/header.php";
 
 <h1>Na kapama svih junaka</h1>
 
-(<i>narodna pjesma</i>)
+<p>(<i>narodna pjesma</i>)</p>
 
-<p>Na kapama svih junaka,<br>
-Sija zvijezda petokraka.</p>
+Na kapama svih junaka,<br/>
+Sija zvijezda petokraka.<br/>
+<br/>
+Blista ona usred boja,<br/>
+Petokraka zvijezda moja.<br/>
+<br/>
+Od ustanka tebe nosim,<br/>
+I tobom se ja ponosim.<br/>
+<br/>
+Petokrako, mila zvijezdo,<br/>
+Fašističko ništiš gnijezdo.<br/>
+<br/>
+Od tebe nema ljepšeg znaka,<br/>
+Za radnika i seljaka.<br/>
+<br/>
+Ko se sad od borbe krije,<br/>
+Petokraka za njeg nije.<br/>
+<br/>
+Tko ne žali život dati,<br/>
+Petokraka tom će sjati.<br/>
+<br/>
 
-<p>Blista ona usred boja,<br>
-Petokraka zvijezda moja.</p>
-
-<p>Od ustanka tebe nosim,<br>
-I tobom se ja ponosim.</p>
-
-<p>Petokrako, mila zvijezdo,<br>
-Fašističko ništiš gnijezdo.</p>
-
-<p>Od tebe nema ljepšeg znaka,<br>
-Za radnika i seljaka.</p>
-
-<p>Ko se sad od borbe krije,<br>
-Petokraka za njeg nije.</p>
-
-<p>Tko ne žali život dati,<br>
-Petokraka tom će sjati.</p>
+<img src="skenovi/petokraka.jpg" alt="">

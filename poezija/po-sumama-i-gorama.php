@@ -9,7 +9,7 @@ include "../includes/header.php";
 
 <p>(<i>partizanska pjesma, nastala iz pesme <a href="/poezija/lanci-nam-se-kuju-kleti.php">Lanci nam se kuju kleti</a></i>)</p>
 
-<p><img src="skenovi/po-sumama-i-gorama.jpg" alt=""></p>
+<p><img src="skenovi/po-sumama-i-gorama.jpg" alt="note"></p>
 
 <h2>I verzija</h2>
 

@@ -472,6 +472,7 @@ include "includes/header.php";
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
+                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Pjesma o Matiji Gupcu</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
             </ul>
