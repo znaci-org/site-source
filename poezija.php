@@ -1204,7 +1204,8 @@ include "includes/header.php";
                 <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
                 <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>
-                <li><a href="poezija/licke-rime.php">Ličke partizanske rime</a> (razno)</li>
+                <li><a href="poezija/licki-dvostih.php">Lički dvostih</a> (razno)</li>
+                <li><a href="poezija/licki-zenski-dvostih.php">Lički ženski dvostih</a> (razno)</li>
             </ul>
         </article>
 
@@ -1231,7 +1232,7 @@ include "includes/header.php";
                 <li><a href="poezija/kozaracko-kolo.php">Kozaračko kolo</a> (Oj Kozaro)</li>
                 <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
                 <li><a href="poezija/bjela-vilo-kazi-pravo.php">B’jela vilo kaži pravo</a></li>
-                <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a> (slobodni stil)</li>
+                <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a> (razno)</li>
             </ul>
         </article>
 

@@ -56,7 +56,9 @@ mi imamo puškomitraljeze.<br>
 Mitraljezi obliveni s krvi <br>
 kralju Petre izdajniče prvi.<br>
 
-<h2>slobodni dvostih</h2>
+<h2>varijacije</h2>
+
+<p>(slobodni dvostih)</p>
 
 Kralju Petre nećemo te ovdje <br />
 borimo se da nam Tito dođe.<br />
@@ -84,6 +86,10 @@ narod diga ustanak sa kocem.<br>
 <br>
 Kralju Petre nećemo te više <br>
 naš te narod iza sebe briše.<br>
+<br>
+Naš je uspjeh i naših vojnika <br>
+što propada izdajnička klika.<br>
+<br>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 

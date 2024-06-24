@@ -7,21 +7,27 @@ include "../includes/header.php";
 
 <h1>Druže Tito mole te djevojke</h1>
 
-(<i>partizanska pesma iz Srbije</i>)
+<p>(<i>narodna pesma</i>)</p>
 
-<p>
-  Druže Tito mole te djevojke,<br>
-  Da im pustiš na odsustvo momke.<br>
-</p>
+Druže Tito mole te djevojke,<br/>
+Da im pustiš na odsustvo momke.<br/>
+<br/>
+O moj Mile, ti moli Maršala,<br/>
+Da te pusti do jesenjih dana.<br/>
+<br/>
+Nek te pusti kad jesen zarudi,<br/>
+Dođi dragi te ljubav probudi.<br/>
 
-<p>
-  O moj Mile, ti moli Maršala,<br>
-  Da te pusti do jesenjih dana.
-</p>
+<p>(zabeležena u Srbiji)</p>
 
-<p>
-  Nek te pusti kad jesen zarudi,<br>
-  Dođi dragi te ljubav probudi.
-</p>
+<h2>II verzija</h2>
+
+Druže Tito mole te djevojke <br>
+da im pustiš na odsustvo momke <br>
+<br>
+dva tri dana, pa i pet šest sati <br>
+pa ih odmah u brigadu vrati. <br>
+
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">

@@ -31,6 +31,9 @@ Narod će vam pljuvati u lice.<br />
 
 Oj četnici sramne kukavice<br/>
 lijepo vam je ime izdajice.<br/>
+<br>
+Zašto četnik služi Talijana? <br>
+šolju pašte i cigar duvana.<br>
 <br/>
 Oj četnici nema Talijana<br/>
 sudit će vam puška partizana.<br/>
@@ -46,7 +49,9 @@ svoje braće ludo ne izdajte. <br/>
 <br/>
 Četnička je majka zakukala <br/>
 partizanska kolo zaigrala. <br/>
-
+<br>
+Oj četnici neka vas u žici <br>
+lepo vam je ime izdajnici. <br>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
