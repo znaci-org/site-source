@@ -9,39 +9,39 @@ include "../includes/header.php";
 
 <p>(<i>narodna pesma</i>)</p>
 
-Izbjeglička vlada u Kairu<br/>
-ne ćemo te pustiti na miru.<br/>
-<br/>
-Kralju Petre ne ćemo te ovdje<br/>
-mi hoćemo da nam Staljin /Tito/ dođe.<br/>
-<br/>
-Ovo nam je naša borba dala<br/>
-da imamo Titu za maršala.<br/>
-<br/>
-Druže Tito širi svoja krila<br/>
-domovina slobodna nam bila.<br/>
-<br/>
-Druže Tito naša mila nada<br/>
-milione on predvodi sada.<br/>
+Izbjeglička vlada u Kairu<br />
+ne ćemo te pustiti na miru.<br />
+<br />
+Kralju Petre ne ćemo te ovdje<br />
+mi hoćemo da nam Staljin /Tito/ dođe.<br />
+<br />
+Ovo nam je naša borba dala<br />
+da imamo Titu za maršala.<br />
+<br />
+Druže Tito širi svoja krila<br />
+domovina slobodna nam bila.<br />
+<br />
+Druže Tito naša mila nada<br />
+milione on predvodi sada.<br />
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>II verzija</h2>
 
-Kralju Petre nećemo te amo<br/>
-tvoja djela mi dobro poznamo.<br/>
-<br/>
-Mi nećemo iz Kaira klika<br/>
-živila nam naša republika.<br/>
-<br/>
-Kralju Petre ceo narod kaže<br/>
-da nećemo ni tebe ni Draže.<br/>
-<br/>
-Kralju Petre ceo narod veli<br/>
-da te ovdje vidjeti ne želi.<br/>
-<br/>
-Druže Tito oka garavoga<br/>
-poteraj de Petra balavoga.<br/>
+Kralju Petre nećemo te amo<br />
+tvoja djela mi dobro poznamo.<br />
+<br />
+Mi nećemo iz Kaira klika<br />
+živila nam naša republika.<br />
+<br />
+Kralju Petre ceo narod kaže<br />
+da nećemo ni tebe ni Draže.<br />
+<br />
+Kralju Petre ceo narod veli<br />
+da te ovdje vidjeti ne želi.<br />
+<br />
+Druže Tito oka garavoga<br />
+poteraj de Petra balavoga.<br />
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
@@ -50,56 +50,40 @@ poteraj de Petra balavoga.<br/>
 Kralj je Petar okupio kliku <br>
 da bi opet došao u Liku. <br>
 <br>
-Ali neće s nami nema veze <br> 
+Ali neće s nami nema veze <br>
 mi imamo puškomitraljeze.<br>
 <br>
 Mitraljezi obliveni s krvi <br>
 kralju Petre izdajniče prvi.<br>
 
-<h2>varijacije</h2>
+<h2>slobodni dvostih</h2>
 
-Kralju Petre nećemo te ovdje <br/>
-borimo se da nam Tito dođe.<br/>
-
-<hr>
-
-Kralju Petre više nisi dijete <br/>
-čekaju te naše bajunete. <br/>
-
-<hr>
-
+Kralju Petre nećemo te ovdje <br />
+borimo se da nam Tito dođe.<br />
+<br>
+Kralju Petre više nisi dijete <br />
+čekaju te naše bajunete. <br />
+<br>
 Kralju Petre nećeš doći amo <br>
-državu si sami stvorit znamo.
-
-<hr>
-
+državu si sami stvorit znamo.<br>
+<br>
 Druže Tito mi nećemo kralja <br>
-sredili smo zemlju kako valja.
-
-<hr>
-
+sredili smo zemlju kako valja.<br>
+<br>
 Druže Tito naše desno krilo <br>
-ne daj Peri što je tvoje bilo.
-
-<hr>
-
+ne daj Peri što je tvoje bilo.<br>
+<br>
 Kralju Petre da li misliš k nama <br>
-evo vjere nećeš živit s nama.
-
-<hr>
-
+evo vjere nećeš živit s nama.<br>
+<br>
 Kralju Petre podli izdajniče <br>
-cijeli narod smrt ti sada kliče.
-
-<hr>
-
+cijeli narod smrt ti sada kliče.<br>
+<br>
 Kralj se fali sa zlatnijem stocem <br>
-narod diga ustanak sa kocem.
-
-<hr>
-
+narod diga ustanak sa kocem.<br>
+<br>
 Kralju Petre nećemo te više <br>
-naš te narod iza sebe briše
+naš te narod iza sebe briše.<br>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
