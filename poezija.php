@@ -1203,8 +1203,8 @@ include "includes/header.php";
                 <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
                 <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
-                <li><a href="poezija/licke-rime.php">Ličke partizanske rime</a> (razno)</li>
                 <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>
+                <li><a href="poezija/licke-rime.php">Ličke partizanske rime</a> (razno)</li>
             </ul>
         </article>
 

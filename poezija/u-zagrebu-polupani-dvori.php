@@ -18,4 +18,4 @@ eto otud idu partizani.<br/>
 A ustaše vi se postrijeljajte<br/>
 partizana živi ne čekajte.<br/>
 
-<p>(iz Popijevke iz borbe i izgradnje 1954.)</p>
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

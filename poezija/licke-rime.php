@@ -9,17 +9,9 @@ include "../includes/header.php";
 
 <p>(<i>narodno stvaralaštvo</i>)</p>
 
-Lolo moja ostavljaj ljubavo<br />
-pa se bori za narodno pravo.<br />
-<br />
-Kad se naša zemlja oslobodi<br />
-onda dođi pa ljubov sprovodi.<br />
-
-<hr>
-
 Maršal Tito vođa svih brigada <br />
 tvojom borbom nestati će jada.<br />
-<br />
+<hr>
 Više zemlja robovati neće <br />
 po njoj vojska druga Tita šeće.
 
@@ -27,7 +19,7 @@ po njoj vojska druga Tita šeće.
 
 Tko ne žali Končara i Marka <br>
 njegova ga ne žalila majka.<br>
-<br>
+<hr>
 Oj fašisti jađena vam majka <br>
 platit ćete Končara i Marka.
 
@@ -469,13 +461,6 @@ propala bi naša domovina.
 Ne ću biti mlađan dezerterac <br> 
 kad ja mogu biti proleterac.
 <hr>
-Znajte dobro gospićke ustaše <br>
-platit ćete ranjenike naše. <br>
-Nije kasno ima partizana <br>
-sjetite se krvavoga dana. <br>
-<br>
-(spjevano nakon pokolja u otočanskoj bolnici) <br>
-<hr>
 Nema boja nema ni megdana <br>
 dok ne dođe vojska partizana.
 <hr>
@@ -484,7 +469,11 @@ nema smrti do sudnjega dana<br/>
 <hr>
 Kunemo se našem drugu Titi,<br/>
 Da će mo se do kraja boriti<br/>
-
-
+<hr>
+Na to nema odgovora druzi <br>
+onda kad se ceo narod združi <br>
+<hr>
+Imam brata mlada partizana <br>
+on se bori od prvoga dana.
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
