@@ -1,5 +1,5 @@
 <?php
-$naslov = "Mile Klopčič - Puntarska";
+$naslov = "Mile Klopčič - Puntarska pesem";
 include "../includes/header.php";
 ?>
 
@@ -29,7 +29,10 @@ Zažgali grofu smo graščino,<br/>
 heja, hejo!<br/>
 Grad gori, grof beži,<br/>
 vino teče naj, če teče kri!<br/>
-<br>
+
+<p>(1936.)</p>
+
+<img src="skenovi/seljacka.jpg" alt="">
 
 <hr>
 
