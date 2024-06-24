@@ -58,7 +58,8 @@ kralju Petre izdajniče prvi.<br>
 
 <h2>varijacije</h2>
 
-<p>(slobodni dvostih)</p>
+<img src="skenovi/mi necemo kralja.jpg" alt="">
+<br>
 
 Kralju Petre nećemo te ovdje <br />
 borimo se da nam Tito dođe.<br />
