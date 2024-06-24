@@ -1242,7 +1242,7 @@ include "includes/header.php";
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro, cvjetaj cvijeće</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
-                <li><a href="poezija/bela-vilo-sa-planine.php">Bela vilo sa planine</a></li>
+                <li><a href="poezija/bela-vilo-sa-planine.php">Bijela vilo sa planine</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću, druže Peko</a></li>

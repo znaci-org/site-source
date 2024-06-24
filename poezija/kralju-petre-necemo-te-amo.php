@@ -49,8 +49,15 @@ poteraj de Petra balavoga.<br/>
 
 Kralju Petre nećemo te ovdje <br/>
 borimo se da nam Tito dođe.<br/>
-<br/>
+
+<hr>
+
 Kralju Petre više nisi dijete <br/>
 čekaju te naše bajunete. <br/>
+
+<hr>
+
+Kralju Petre nećeš doći amo <br>
+državu si sami stvorit znamo.
 
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>
