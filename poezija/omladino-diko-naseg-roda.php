@@ -45,4 +45,9 @@ porobljenih gradova i sela<br/>
 na visoku podigla je čizmu<br/>
 kraj je došo krvavom fašizmu.<br/>
 
+<h2>varijacije</h2>
+
+Omladino drug nam Tito vođa <br>
+budmo čvršći od čelika i gvožđa.
+
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

@@ -45,6 +45,17 @@ poteraj de Petra balavoga.<br/>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
+<h2>III verzija</h2>
+
+Kralj je Petar okupio kliku <br>
+da bi opet došao u Liku. <br>
+<br>
+Ali neće s nami nema veze <br> 
+mi imamo puškomitraljeze.<br>
+<br>
+Mitraljezi obliveni s krvi <br>
+kralju Petre izdajniče prvi.<br>
+
 <h2>varijacije</h2>
 
 Kralju Petre nećemo te ovdje <br/>
@@ -59,5 +70,20 @@ Kralju Petre više nisi dijete <br/>
 
 Kralju Petre nećeš doći amo <br>
 državu si sami stvorit znamo.
+
+<hr>
+
+Druže Tito mi nećemo kralja <br>
+sredili smo zemlju kako valja.
+
+<hr>
+
+Druže Tito naše desno krilo <br>
+ne daj Peri što je tvoje bilo.
+
+<hr>
+
+Kralju Petre da li misliš k nama <br>
+evo vjere nećeš živit s nama.
 
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>

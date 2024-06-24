@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Smrt Stojana Matića";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Smrt Stojana Matića</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>Lička narodna pjesma</i>)
 
@@ -42,4 +42,5 @@ include "../includes/header.php";
   <br />
   plače gora, plače svaka grana,<br />
   nema nama Matića Stojana.<br />
+  /što nam nema Matića Stojana/
 </p>

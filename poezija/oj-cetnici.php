@@ -27,13 +27,16 @@ Brijaće je udarna brigada.<br />
 Oj, četnici, srpske izdajice,<br />
 Narod će vam pljuvati u lice.<br />
 
-<h2>II verzija</h2>
+<h2>varijacije</h2>
 
 Oj četnici sramne kukavice<br/>
 lijepo vam je ime izdajice.<br/>
 <br/>
 Oj četnici nema Talijana<br/>
 sudit će vam puška partizana.<br/>
+<br/>
+Oj četnici sluge fašističke <br>
+sudit će vam puške osvetničke.
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 

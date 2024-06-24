@@ -87,7 +87,7 @@ grlim snažno parabela.<br/>
 Mjesto tvojih poljubaca<br/>
 meni Švabo bombu baca.<br/>
 
-<p>(iz Popijevke iz borbe i izgradnje 1954.)</p>
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>V verzija</h2>
 
