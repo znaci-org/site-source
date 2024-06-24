@@ -1,5 +1,5 @@
 <?php
-$naslov = "Partizani, ne bojte se rana";
+$naslov = "Narodne partizanske rime";
 include "../includes/header.php";
 ?>
 
@@ -7,12 +7,18 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma</i>)</p>
+<p>(<i>popularna forma, uglavnom u formi dvostiha</i>)</p>
 
 Partizani, ne bojte se rana<br/>
 nema smrti do sudnjega dana<br/>
 
-<h2>II verzija</h2>
+<hr>
 
 Proleteri, ne bojte se rana,<br/>
 nema smrti do sudnjega dana<br/>
+<hr>
+Druže Tito, mi nećemo kralja,<br/>
+sredili smo zemlju kako valja.<br/>
+<hr>
+Kunemo se našem drugu Titi,<br/>
+Da će mo se do kraja boriti<br/>

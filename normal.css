@@ -17,6 +17,12 @@ img {
     max-width: 100%;
 }
 
+hr {
+    max-width: 800px;
+    margin: 10px auto 10px 0;
+    opacity: 0.85;
+}
+
 button {
     cursor: pointer;
     min-width: 28px;
@@ -231,7 +237,7 @@ article:first-child h4 {
     height: 100px;
 }
 
-.zastave  img {
+.zastave img {
     height: unset;
 }
 

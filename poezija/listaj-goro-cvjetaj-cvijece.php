@@ -7,9 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>
-  (<i>partizanska pjesma iz Crne Gore</i>)
-</p>
+<p>(<i>partizanska pjesma iz Crne Gore</i>)</p>
 
 Listaj goro, cvjetaj cvijeće,<br />
 Crna Gora u boj kreće.<br />
@@ -41,7 +39,7 @@ među nama biti neće!<br />
 Dolje lanci i okovi,<br />
 ne vežu se sokolovi!<br />
 
-<h2>Druga verzija</h2>
+<h2>II verzija (Oj svijetla majska zoro)</h2>
 
 oj svijetla majska zoro,<br />
 majko naša crna goro.<br />
@@ -69,6 +67,26 @@ da skinemo jaram s’ vrata.<br />
 <br />
 dolje lanci i okovi,<br />
 ne vežu se sokolovi.<br />
+
+<h2>III verzija (Omladina u boj kreće)</h2>
+
+Listaj goro cvetaj cvijeće<br/>
+omladina u boj kreće.<br/>
+...<br/>
+Omladino zemlje ove<br/>
+zbijajmo se u redove<br/>
+zbijajmo se ko sovjeti<br/>
+da skinemo jaram kleti.<br/>
+Zbijajmo se brat do brata<br/>
+da skinemo jaram s vrata,<br/>
+zbijajmo se drug do druga<br/>
+borba ne će biti duga.<br/>
+...<br/>
+Dole lanci i okovi<br/>
+ne vežu se sokolovi.<br/>
+Suzama se boj ne bije<br/>
+već se vrela krvca lije.<br/>
+<br/>
 
 <p>
   <img src="http://www.znaci.org/images/3357.jpg"><br>

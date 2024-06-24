@@ -1199,6 +1199,7 @@ include "includes/header.php";
                 <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
                 <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
+                <li><a href="poezija/licke-rime.php">Ličke partizanske rime</a> (razno)</li>
             </ul>
         </article>
 
@@ -1318,6 +1319,7 @@ include "includes/header.php";
                 <li><a href="poezija/padaj-silo-i-nepravdo.php">Padaj silo i nepravdo</a></li>
                 <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže, tvoja kuća gori</a></li>
                 <li><a href="poezija/na-kapama-svih-junaka.php">Na kapama svih junaka</a></li>
+                <li><a href="poezija/aoj-goro-goro-svakojaka.php">Aoj goro, goro svakojaka</a></li>
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana ratni poklič partizana</a></li>
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
@@ -1333,7 +1335,7 @@ include "includes/header.php";
                 <li><a href="poezija/nema-zore-nema-dana.php">Nema zore, nema dana</a></li>
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo, Tito, boljševiče</a></li>
-                <li><a href="poezija/mjesto-tvoga-bjela-lica.php">Mjesto tvoga bjela lica</a></li>
+                <li><a href="poezija/mjesto-tvoje-ruke-dvije.php">Mjesto tvoje ruke dvije</a></li>
                 <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a> (Ivi Loli Ribaru)</li>
                 <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga, raste vjera</a></li>
@@ -1341,7 +1343,7 @@ include "includes/header.php";
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo, mirisavo cvijeće</a></li>
-                <li><a href="poezija/partizani-ne-bojte-se-rana.php">Partizani, ne bojte se rana</a></li>
+                <li><a href="poezija/narodne-partizanske-rime.php">Narodne partizanske rime</a> (razno)</li>
             </ul>
         </article>
     </div>
