@@ -1674,6 +1674,7 @@ include "includes/header.php";
         <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
+                <li><a href="poezija/to-je-nama-nasa-borba-dala.php">To je nama naša borba dala</a></li>
                 <li><a href="poezija/pesma-radu.php">Pesma radu</a></li>
                 <li><a href="poezija/pjesma-slobodi.php">Pjesma slobodi</a></li>
                 <li><a href="poezija/pesma-izgradnje.php">Pesma izgradnje</a></li>

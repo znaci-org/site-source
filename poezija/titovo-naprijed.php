@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Nazor - Titovo 'Naprijed'";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Nazor - Titovo "Naprijed"</h1>
+<h1><?php echo $naslov ?></h1>
 
 Drug Tito jaše na čelu kolone<br />
 Uz usku stazu planinsku.<br />

@@ -38,3 +38,7 @@ Zastava će nova viti,<br/>
 iznad naših glava tad;<br/>
 radnik, seljak jedno biti,<br/>
 isti im je trud i rad.<br/>
+
+<p>
+  <img src="skenovi/padaj-silo-i-nepravdo.jpg" alt="">
+</p>
