@@ -37,6 +37,16 @@ sudit će vam puška partizana.<br/>
 <br/>
 Oj četnici sluge fašističke <br>
 sudit će vam puške osvetničke.
+<br/>
+Oj četnici lire ne valjaju <br/>
+mi ne damo ništa za prodaju.<br/>
+<br/>
+Oj četnici svojoj kući ajte <br/>
+svoje braće ludo ne izdajte. <br/>
+<br/>
+Četnička je majka zakukala <br/>
+partizanska kolo zaigrala. <br/>
+
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 

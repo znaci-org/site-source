@@ -9,18 +9,18 @@ include "../includes/header.php";
 
 <p>(<i>narodno stvaralaštvo</i>)</p>
 
-Lolo moja ostavljaj ljubavo<br/>
-pa se bori za narodno pravo.<br/>
-<br/>
-Kad se naša zemlja oslobodi<br/>
-onda dođi pa ljubov sprovodi.<br/>
+Lolo moja ostavljaj ljubavo<br />
+pa se bori za narodno pravo.<br />
+<br />
+Kad se naša zemlja oslobodi<br />
+onda dođi pa ljubov sprovodi.<br />
 
 <hr>
 
-Maršal Tito vođa svih brigada <br/>
-tvojom borbom nestati će jada.<br/>
-<br/>
-Više zemlja robovati neće <br/>
+Maršal Tito vođa svih brigada <br />
+tvojom borbom nestati će jada.<br />
+<br />
+Više zemlja robovati neće <br />
 po njoj vojska druga Tita šeće.
 
 <hr>
@@ -134,17 +134,17 @@ ne bojim se njemačkih brigada.
 <hr>
 
 Drugarice budimo valjane <br>
-pomozimo naše partizane. 
+pomozimo naše partizane.
 
 <hr>
 
-Ja sam majko mlada partizanka <br> 
+Ja sam majko mlada partizanka <br>
 ja ću svoga osvetiti Ranka.
 
 <hr>
 
 Nek je slava onim što su pali <br>
-za slobodu svoj su život dali. 
+za slobodu svoj su život dali.
 
 <hr>
 
@@ -209,7 +209,7 @@ daje primjer cijelome narodu.
 <hr>
 
 Lola četnik a ja partizanka <br>
-gdje ga sretne jađena mu majka 
+gdje ga sretne jađena mu majka
 
 <hr>
 
@@ -226,7 +226,7 @@ niz obale plavoga Jadrana.
 U boj u boj mladi partizani <br>
 svi pošteni na našoj su strani.
 
-<hr> 
+<hr>
 
 Ja se borim i drugovi moji <br>
 da fašizam više ne postoji.
@@ -239,7 +239,7 @@ mala moja uvijek mislim na te.
 <hr>
 
 Kud prolaze naši udaraši <br>
-tuda nema života ustaši 
+tuda nema života ustaši
 
 <hr>
 
@@ -249,17 +249,17 @@ eto ide šesta divizija.
 <hr>
 
 Naš je uspjeh i naših vojnika <br>
-što propada izdajnička klika. 
+što propada izdajnička klika.
 
 <hr>
 
 Tito složi veliko i malo <br>
-kad mislismo da je sve propalo 
+kad mislismo da je sve propalo
 
 <hr>
 
 Zavađena Srba i Hrvata <br>
-složi Tito ko dva mila brata. 
+složi Tito ko dva mila brata.
 
 <hr>
 
@@ -285,5 +285,206 @@ kako treba platit krvnicima.
 
 Kad se šesta divizija vrati <br>
 onda ću se mlađana udati.
+
+<hr>
+
+Imala sam jedinoga brata <br>
+dala sam ga Titi za soldata.
+
+<hr>
+
+Kiša pada mitraljez se čuje <br>
+moja lola četom komanduje.
+
+<hr>
+
+Da znaš Ante što j Petrova gora <br>
+iz Zagreba pobjeći bi mora.
+
+<hr>
+
+Sad se bombe prave u Drvaru <br>
+Paveliću razbit će ti glavu.
+
+<hr>
+
+Ko je bio ustaša u Lici <br>
+sudit će mu narodni vojnici.
+
+<hr>
+
+Sad ustaški zakoni ne vrijede <br>
+mi imamo borbene odrede.
+
+<hr>
+
+Crven barjak prepeglat nam stoji <br>
+razvijmo ga o drugovi moji.
+
+<hr>
+
+Vide majko tvojijeh sinova <br>
+i na njima narodnih znakova.
+
+<hr>
+
+Velebitu, slavna goro naša <br>
+ti sačuva narod od ustaša.
+
+<hr>
+
+Karabine moja mila puško <br>
+nosit ću te i ja kao muško
+
+<hr>
+
+Karabine ne dam te ni bogu <br>
+ja bez tebe živjeti ne mogu
+
+<hr>
+
+Naš partizan vojnika ne tuče <br>
+samo s njega uniformu svuče
+
+<hr>
+
+Omladino hrvatskoga sela <br>
+odi s nama i budi vesela.
+
+<hr>
+
+Pucale su topovske granate <br>
+al ne plaše ni Srbe ni Hrvate
+
+<hr>
+
+Djevojska sam to je moja dika <br>
+pričekat ću narodnog vojnika.
+
+<hr>
+
+Partizani pjevaju i tuku <br>
+a fašisti svoje mrtve vuku.
+
+<hr>
+
+Mesečina partizansko sunce <br>
+kad zasije partizane grije
+
+<hr>
+
+Veselte se braćo partizani <br>
+Talijani dali puške sami.<br />
+<hr>
+Kolko ima našie mladića<br />
+svi se bore protiv Pavelića.<br />
+<hr>
+Imam brata prvoklasnog borca<br />
+služi vojsku Veljka Crnogorca.<br />
+<hr>
+Aoj imam finoga mladića<br />
+služi vojsku Veljka Kovačića.<br />
+<hr>
+Druže Veljko tebe cure vole<br />
+što im puštaš na odsustvo lole.<br />
+<hr>
+Drug se Veljko vozi na motoru<br />
+razoruža četničku patrolu.<br />
+<hr>
+Naše hrabre ličke omladinke<br />
+one vole narodne vojnike.<br />
+<hr>
+Što se ono preko polja čuje<br />
+ono radni bataljon putuje.<br />
+<hr>
+Kad se slože Srbi i Hrvati<br />
+ustaše će iz zemlje begati.<br />
+<hr>
+Aoj Liko sva si od bregova<br />
+al si puna sivih sokolova.<br />
+<hr>
+Korenice divno selo naše<br />
+tu četnika nema ni ustaše.<br />
+<hr>
+Ko ustaša nije ćeo biti<br />
+taj sad može slobodno živiti.<br />
+<hr>
+Oj ustaše nije to ko lani<br />
+sad su jači naši partizani.<br />
+<hr>
+Oj ustaše sad vam spasa nema<br />
+vaš se život među grabe sprema.<br />
+<hr>
+Da nam nije Orešković Marka<br />
+još bi više zakukalo majka.<br />
+<hr>
+Lolo moja ajdemo u borbu<br />
+zajedno se borit za slobodu.<br />
+<hr>
+Drvo javor velika je grana<br />
+ja malena volim partizana.<br />
+<hr>
+Šta je Lika porodila sveta<br />
+ne plaši se fašističkih četa.<br />
+<hr>
+Drugarice sad su ratna doba <br>
+poštuj druga kao brata svoga.
+<hr>
+Složili se Srbi i Hrvati <br>
+oj fašisti kud ćete begati
+<hr>
+Hitlera je uhvatila groza <br>
+sve od straha našeg Josip-Broza.
+<hr>
+Osnivamo demokratsko pravo <br>
+a nećemo povratak na staro.
+<hr>
+Po Kordunu padaju granate <br>
+pazi janje da ne padne na te.
+<hr>
+Udavam se al me srce steže <br>
+neda mi se preći u A-Fe-Že
+<hr>
+Kada šesta divizija dođe <br>
+al će biti udavanja ovdje.
+<hr>
+Nema toga niti se rodio <br>
+ko bi radni narod pobijedio.
+<hr>
+Ja sam braćo ranjen među vama <br>
+nemojte me ostaviti sama.
+<hr>
+Paveliću prdni pa zapali <br>
+to su tebi najbolji cigari
+<hr>
+Vidi majko finije mladića <br>
+bataljona Jože Vlahovića. 
+<hr>
+Izdajice visit će na jeli <br>
+što su narod upropastit htjeli.
+<hr>
+Da nam ne bi Tita i Staljina <br>
+propala bi naša domovina.
+<hr>
+Ne ću biti mlađan dezerterac <br> 
+kad ja mogu biti proleterac.
+<hr>
+Znajte dobro gospićke ustaše <br>
+platit ćete ranjenike naše. <br>
+Nije kasno ima partizana <br>
+sjetite se krvavoga dana. <br>
+<br>
+(spjevano nakon pokolja u otočanskoj bolnici) <br>
+<hr>
+Nema boja nema ni megdana <br>
+dok ne dođe vojska partizana.
+<hr>
+Partizani, ne bojte se rana<br/>
+nema smrti do sudnjega dana<br/>
+<hr>
+Kunemo se našem drugu Titi,<br/>
+Da će mo se do kraja boriti<br/>
+
+
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

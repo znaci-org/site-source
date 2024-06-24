@@ -83,3 +83,9 @@ I pred četom mojega dragana,<br />
 <br />
 Da ga vidim, da me želja mine,<br />
 Da mi lice kao nekad sine.<br />
+
+<h2>IV verzija</h2>
+
+<img src="skenovi/omladinka-mara.jpg" alt="">
+
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

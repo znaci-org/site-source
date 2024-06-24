@@ -86,4 +86,21 @@ ne daj Peri što je tvoje bilo.
 Kralju Petre da li misliš k nama <br>
 evo vjere nećeš živit s nama.
 
+<hr>
+
+Kralju Petre podli izdajniče <br>
+cijeli narod smrt ti sada kliče.
+
+<hr>
+
+Kralj se fali sa zlatnijem stocem <br>
+narod diga ustanak sa kocem.
+
+<hr>
+
+Kralju Petre nećemo te više <br>
+naš te narod iza sebe briše
+
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>

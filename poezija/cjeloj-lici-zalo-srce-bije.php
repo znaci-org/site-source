@@ -88,6 +88,11 @@ jer si bio pravi komunista.<br/>
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
+<h2>varijacije</h2>
+
+Druže Marko grob ti iscvjetao<br/>
+ti si Liku u boj podigao.<br/>
+
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/sh/c/c5/Nh_oreskovic_marko.jpg" alt="">
 </p>
