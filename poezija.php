@@ -1187,6 +1187,7 @@ include "includes/header.php";
                 <li><a href="poezija/siroce-sam-bez-ikoga-svoga.php">Siroče sam bez ikoga svoga</a></li>
                 <li><a href="poezija/u-bunkeru-sjedim.php">U bunkeru sjedim</a></li>
                 <li><a href="poezija/ranjen-junak-u-gori.php">Ranjen junak u gori</a></li>
+                <li><a href="poezija/oj-bolnice.php">Oj bolnice u šumici zgrada</a></li>
                 <li><a href="poezija/danak-svice-a-meni-smrkava.php">Danak sviće a meni smrkava</a></li>
                 <li><a href="poezija/platit-cete-krvave-ustase.php">Platit ćete krvave ustaše</a></li>
                 <li><a href="poezija/ide-vojska-i-pjesma-se-ori.php">Ide vojska i pjesma se ori</a></li>
