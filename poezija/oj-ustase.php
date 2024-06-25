@@ -9,20 +9,20 @@ include "../includes/header.php";
 
 <p>(<i>lički partizanski dvostih</i>)</p>
 
-Oj ustaše ujest će vas zmija <br>
-eto ide šesta divizija.<br>
-<br>
-Kud prolaze naši udaraši <br>
-tuda nema života ustaši<br>
-<br>
-Sad ustaški zakoni ne vrijede <br>
-mi imamo borbene odrede.<br>
-<br>
 Velebitu, slavna goro naša <br>
 ti sačuva narod od ustaša.<br>
 <br>
 Oj ustaše nije to ko lani<br />
 sad su jači naši partizani.<br />
+<br>
+Sad ustaški zakoni ne vrijede <br>
+mi imamo borbene odrede.<br>
+<br>
+Oj ustaše ujest će vas zmija <br>
+eto ide šesta divizija.<br>
+<br>
+Kud prolaze naši udaraši <br>
+tuda nema života ustaši<br>
 <br>
 Kad se slože Srbi i Hrvati<br />
 ustaše će iz zemlje begati.<br />

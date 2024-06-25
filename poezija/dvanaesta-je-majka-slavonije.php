@@ -15,21 +15,24 @@ include "../includes/header.php";
   Sunce jarko partizane mazi,<br />
   narod nita po njihovoj stazi.<br />
   <br />
-  Dvanaesta je majka Slavonije, još je nitko pobijedio nije.<br />
+  Dvanaesta je majka Slavonije,<br />
+  još je nitko pobijedio nije.<br />
   <br />
   Stroj brigade u šumici cvijeta,<br />
   ljudi kliču, zovu nova ljeta.<br />
   Pošo narod dušmana da zgazi,<br />
   dušmanine teško tvojoj snazi.<br />
   <br />
-  Dvanaesta je majka Slavonije, još je nitko pobijedio nije.<br />
+  Dvanaesta je majka Slavonije, <br />
+  još je nitko pobijedio nije.<br />
   <br />
   Djeco naša, gora vaša lista,<br />
   ne bojte se dok je komunista,<br />
   Papuk šumi, oblaci se njišu,<br />
   to Slavonci istoriju pišu.<br />
   <br />
-  Dvanaesta je majka Slavonije, još je nitko pobijedio nije.<br />
+  Dvanaesta je majka Slavonije, <br />
+  još je nitko pobijedio nije.<br />
 </p>
 
 <img src="http://www.znaci.org/images/15737.jpg" alt="">

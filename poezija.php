@@ -1189,11 +1189,11 @@ include "includes/header.php";
                 <li><a href="poezija/ranjen-junak-u-gori.php">Ranjen junak u gori</a></li>
                 <li><a href="poezija/danak-svice-a-meni-smrkava.php">Danak sviće a meni smrkava</a></li>
                 <li><a href="poezija/platit-cete-krvave-ustase.php">Platit ćete krvave ustaše</a></li>
-                <li><a href="poezija/volim-svakog-ko-ustase-bije.php">Volim svakog ko ustaše bije</a></li>
                 <li><a href="poezija/ide-vojska-i-pjesma-se-ori.php">Ide vojska i pjesma se ori</a></li>
                 <li><a href="poezija/ide-ante-u-pohod-kordunu.php">Ide Ante u pohod Kordunu</a></li>
                 <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd u partizane</a></li>
                 <li><a href="poezija/ostavicu-staru-majku.php">Ostaviću staru majku</a></li>
+                <li><a href="poezija/kordunaska-osma-divizija.php">Kordunaška Osma divizija</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
                 <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
@@ -1734,6 +1734,7 @@ include "includes/header.php";
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
+                <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sad se sjećam Like i Krbave</a> (epika)</li>
                 <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
             </ul>
         </article>
