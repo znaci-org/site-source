@@ -1238,6 +1238,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene, naš Mladene</a></li>
                 <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene, druže mio</a></li>
+                <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
                 <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
                 <li><a href="poezija/na-palezu-skupise-se-momci.php">Na Paležu skupiše se momci</a></li>
                 <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro, Kozarice moja</a></li>
@@ -1300,11 +1301,11 @@ include "includes/header.php";
                 <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
                 <li><a href="poezija/partizane-nase-ceo-svet-vec-zna.php">Partizane naše ceo svet već zna</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
-                <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
                 <li><a href="poezija/o-radane-visoka-planino.php">O Radane, visoka planino</a></li>
                 <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
                 <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj, Dražo, izdajico stara</a></li>
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci, junaci iz ćoške</a></li>
+                <li><a href="poezija/jednog-dana-pismo-stize.php">Jednog dana pismo stiže</a></li>
             </ul>
         </article>
 

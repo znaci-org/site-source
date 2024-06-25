@@ -44,9 +44,9 @@ Partizana ima svuda,<br />
 Za slobodu što se bore<br />
 S’ bombom skaču na tenkove.<br />
 
-<h2>II verzija</h2>
+<h2>II verzija (Na sred gore Romanije)</h2>
 
-Nasred gore Romanije<br/>
+Na sred gore Romanije<br/>
 crveni se barjak vije<br/>
 <br/>
 na barjaku dva tri znaka<br/>
@@ -57,9 +57,9 @@ nego što je u boj poša.<br/>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
-<h2>III verzija</h2>
+<h2>III verzija (rugalica)</h2>
 
-<p>(<i>narodna rugalica iz Srbije</i>)</p>
+<p>(<i>narodna pesma iz Srbije</i>)</p>
 
 Na vrh gore Romanije —<br />
 prazno bure od rakije.<br />
