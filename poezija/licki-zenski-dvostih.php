@@ -125,6 +125,13 @@ komuinisti najbolji su ljudi.<br>
 <br>
 Nemoj lolo dezerterac biti <br>
 cijeli će te narod zamrziti. <br>
-<br>
+
+<hr>
+
+Lolo moja ostavljaj ljubavo<br />
+pa se bori za narodno pravo.<br />
+<br />
+Kad se naša zemlja oslobodi<br />
+onda dođi pa ljubov sprovodi.<br />
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
