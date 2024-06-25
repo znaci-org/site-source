@@ -1199,12 +1199,14 @@ include "includes/header.php";
                 <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
                 <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara nema partizana</a> (Marku Oreškoviću)</li>
+                <li><a href="poezija/pjesma-milanu-caksiranu.php">Pjesma Milanu Čakširanu</a></li>
                 <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
                 <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
                 <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
                 <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Kordun)</li>
                 <li><a href="poezija/svanit-ce-van-crni-danci.php">Svanit će van crni danci</a></li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
+                <li><a href="poezija/spustila-se-gusta-tama.php">Spustila se gusta tama pokraj Dunava</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
                 <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
                 <li><a href="poezija/pavelicu-tvoja-vojska-place.php">Paveliću tvoja vojska plače</a></li>
@@ -1218,6 +1220,7 @@ include "includes/header.php";
                 <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
                 <li><a href="poezija/seja-brata-svabama-izdala.php">Seja brata Švabama izdala</a></li>
                 <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
+                <li><a href="poezija/tuzna-ljubav-kad-grme-topovi.php">Tužna ljubav kad grme topovi</a></li>
                 <li><a href="poezija/ranjenike-niko-ne-izdade.php">Ranjenike niko ne izdade</a></li>
                 <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
                 <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
@@ -1300,8 +1303,9 @@ include "includes/header.php";
             <h3>Partizanske pesme iz Srbije</h3>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
-                <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
                 <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo ustaj rode</a></li>
+                <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
+                <li><a href="poezija/ceta-krece-sa-gajtan-planine.php">Četa kreće sa Gajtan planine</a></li>
                 <li><a href="poezija/zlatibore-siri-svoje-grane.php">Zlatibore širi svoje grane</a></li>
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice prva republiko</a></li>
                 <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
@@ -1327,6 +1331,7 @@ include "includes/header.php";
                 <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
                 <li><a href="poezija/moja-ruka-ostala-je-gore.php">Moja ruka ostala je gore</a></li>
                 <li><a href="poezija/bela-ladjo-na-tebe-mi-krivo.php">Bela lađo na tebe mi krivo</a></li>
+                <li><a href="poezija/stani-stani-bataljonu-malo.php">Stani stani bataljonu malo</a></li>
                 <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
                 <li><a href="poezija/zuta-dunja-pa-mirise.php">Žuta dunja pa miriše</a></li>
                 <li><a href="poezija/partizane-nase-ceo-svet-vec-zna.php">Partizane naše ceo svet već zna</a></li>
@@ -1348,6 +1353,7 @@ include "includes/header.php";
                 <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа мамо</a></li>
                 <li><a href="poezija/mlada-partizanka-da-stanam.php">Млада партизанка да станам</a></li>
                 <li><a href="poezija/gledaj-me-gledaj-libe.php">Гледај ме гледај либе</a></li>
+                <li><a href="poezija/taman-se-oblak-zadade.php">Таман се облак зададе</a></li>
             </ul>
         </article>
 
@@ -1473,7 +1479,7 @@ include "includes/header.php";
                 <li><a href="poezija/covek-nije-samo.php">Čovek nije samo</a></li>
             </ul>
         </article>
-
+        
         <article>
             <h4>Branko Ćopić</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Branko_Copic.jpg">
@@ -1690,7 +1696,7 @@ include "includes/header.php";
                 <li><a href="poezija/uspomene-iz-detinjstva.php">Uspomene iz detinjstva</a></li>
             </ul>
         </article>
-
+        
         <article>
             <h4>Mak Dizdar</h4>
             <ul>
@@ -1735,11 +1741,11 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
                 <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sad se sjećam Like i Krbave</a> (epika)</li>
+                <li><a href="poezija/zaboravi-selo-na-junaka.php">Zaboravi selo na junaka</a></li>
                 <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
             </ul>
         </article>
     </div>
-
 </main>
 
 <script>
