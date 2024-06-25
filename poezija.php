@@ -1312,7 +1312,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice prva republiko</a></li>
                 <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
-                <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
+                <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>                
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
                 <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
@@ -1378,6 +1378,7 @@ include "includes/header.php";
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
+                <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
                 <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
                 <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>

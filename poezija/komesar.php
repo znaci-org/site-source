@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jevrem Brković - Komesar";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jevrem Brković - Komesar</h1>
+<h1><?php echo $naslov ?></h1>
 
 <i>Crvena opora riječ što<br/>
 može u pjesmu da stane</i><br/>

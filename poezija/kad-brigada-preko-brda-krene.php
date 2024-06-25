@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Kad brigada preko brda krene";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kad brigada preko brda krene</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>partizanska narodna pesma</i>)</p>
 

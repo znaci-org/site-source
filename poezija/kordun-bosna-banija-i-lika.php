@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Kordun, Bosna, Banija i Lika";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kordun, Bosna, Banija i Lika</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>narodna pesma</i>)</p>
 
@@ -20,6 +20,9 @@ bolje vam je danas nego lani. <br>
 <br>
 Kunemo se našem drugu Titi, <br>
 da ćemo se do kraja boriti <br>
+<br>
+
+<img src="skenovi/kordun bosna.jpg" alt="">
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
