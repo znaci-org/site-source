@@ -1181,10 +1181,13 @@ include "includes/header.php";
                 <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
                 <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun Bosna Banija i Lika</a></li>
                 <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
-                <li><a href="poezija/oca-nemam-majke-sestre.php">Oca nemam, majke, sestre</a></li>
                 <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume šume najlepša vam hvala</a></li>
+                <li><a href="poezija/oca-nemam-majke-sestre.php">Oca nemam, majke, sestre</a></li>
+                <li><a href="poezija/siroce-sam-bez-ikoga-svoga.php">Siroče sam bez ikoga svoga</a></li>
+                <li><a href="poezija/u-bunkeru-sjedim.php">U bunkeru sjedim</a></li>
                 <li><a href="poezija/ranjen-junak-u-gori.php">Ranjen junak u gori</a></li>
+                <li><a href="poezija/danak-svice-a-meni-smrkava.php">Danak sviće a meni smrkava</a></li>
                 <li><a href="poezija/platit-cete-krvave-ustase.php">Platit ćete krvave ustaše</a></li>
                 <li><a href="poezija/volim-svakog-ko-ustase-bije.php">Volim svakog ko ustaše bije</a></li>
                 <li><a href="poezija/ide-vojska-i-pjesma-se-ori.php">Ide vojska i pjesma se ori</a></li>
