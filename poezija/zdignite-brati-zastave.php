@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pesma</i>)</p>
+<p>(<i>kajkavska narodna pesma</i>)</p>
 
 Zdignite brati zastave, hej,<br/>
 Kmetskom krvju poškroplene.<br/>
