@@ -18,7 +18,7 @@ druga Ive neumrlo ime.<br/>
 Omladino žalimo heroja<br/>
 osveti ga to je dužnost tvoja.<br/>
 
-<p>(iz Popijevke iz borbe i izgradnje 1954. )</p>
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje 1954. )</p>
 
 <h2>varijacije</h2>
 

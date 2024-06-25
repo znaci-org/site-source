@@ -27,4 +27,4 @@ Za svoj narod krvcu sam prolio.<br>
 
 <img src="skenovi/sume-najlepsa-vam-hvala.jpg" alt="">
 
-<p>Popijevke iz borbe i izgradnje (izbor iz različitih zbirki), 1954.</p>
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>

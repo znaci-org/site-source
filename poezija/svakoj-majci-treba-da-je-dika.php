@@ -11,6 +11,8 @@ include "../includes/header.php";
 
 <img src="skenovi/svakoj majci treba da je dika (bjelovar).jpg" alt="">
 
+<p><img src="skenovi/svakoj majci treba da je dika (note).png" alt=""></p>
+
 <p>(Narodne pjesme iz okolice Bjelovara, sv. I., 1948, 1951, 1952. )</p>
 
 <h2>II verzija</h2>

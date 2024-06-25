@@ -31,7 +31,7 @@ složit se u borbi toj,<br/>
 Spasit kuće, oranice,<br/>
 Oslobodit narod svoj.<br/>
 
-<p>(iz Popijevke iz borbe i izgradnje 1954. )</p>
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje 1954. )</p>
 
 <h2>II verzija</h2>
 

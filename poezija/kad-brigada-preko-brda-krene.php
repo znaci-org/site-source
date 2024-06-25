@@ -47,7 +47,13 @@ izgrađena novoga čoveka.<br />
 
 <p>(<i>zabeležena u Vojvodini</i>)</p>
 
-<h2>IV verzija (Kad brigada Bilogorom krene)</h2>
+<h2>IV (Kad brigada preko Drave krene)</h2>
+
+<img src="skenovi/kad brigada preko drave krene.jpg" alt="">
+
+<p>(Franjo Židovec,Popijevke iz borbe i izgradnje, 1954.)</p>
+
+<h2>V verzija (Kad brigada Bilogorom krene)</h2>
 
 <img src="skenovi/kad brigada bilogorom krene.jpg" alt="">
 
