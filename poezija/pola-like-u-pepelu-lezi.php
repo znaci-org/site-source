@@ -27,3 +27,8 @@ to ne plaši košulja krvava.<br/>
 <br/>
 Partizani, vi ste naša dika,<br/>
 za slobodu zahvalna vam Lika.<br/>
+<br>
+
+<img src="skenovi/pola like u pepelu lezi.jpg" alt="">
+
+<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
