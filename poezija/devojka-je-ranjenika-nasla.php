@@ -25,3 +25,5 @@ include "../includes/header.php";
   „Ako ja ostanem<br />
   tebe ću da uzmem.“<br />
 </p>
+
+<p>(Simonović, Dragoljub, Zaplanje; Etnografski institut SANU, 1982., str. 788.)</p>
