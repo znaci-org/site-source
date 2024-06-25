@@ -1316,6 +1316,7 @@ include "includes/header.php";
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
                 <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
+                <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo Tito boljševiče</a></li>
                 <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
                 <li><a href="poezija/necu-majko-za-cetnika.php">Neću majko za četnika</a></li>
                 <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
@@ -1387,7 +1388,6 @@ include "includes/header.php";
                 <li><a href="poezija/partizani-pola-roda-moga.php">Partizani pola roda moga</a></li>
                 <li><a href="poezija/nema-zore-nema-dana.php">Nema zore nema dana</a></li>
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
-                <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo Tito boljševiče</a></li>
                 <li><a href="poezija/mjesto-tvoje-ruke-dvije.php">Mjesto tvoje ruke dvije</a></li>
                 <li><a href="poezija/druze-ivo-voditelju-skoja.php">Druže Ivo voditelju Skoja</a></li>
                 <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
