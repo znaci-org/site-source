@@ -7,9 +7,8 @@ include "../includes/header.php";
 
 <h1>Šume, šume najlepša vam hvala</h1>
 
-(<i>narodna pjesma iz Međimurja</i>)
+<p>(<i>narodna pjesma</i>)</p>
 
-<p>
 Šume, šume najlepša vam hvala,<br>
 U vama se sloboda rađala.<br><br>
 
@@ -21,4 +20,11 @@ A na nebu zvezdice igraju.<br><br>
 
 Mlad partizan u šumama bio,<br>
 Za svoj narod krvcu sam prolio.<br>
-</p>
+
+<p>(zabeleženo u Međimurju)</p>
+
+<h2>II verzija</h2>
+
+<img src="skenovi/sume-najlepsa-vam-hvala.jpg" alt="">
+
+<p>Popijevke iz borbe i izgradnje (izbor iz različitih zbirki), 1954.</p>

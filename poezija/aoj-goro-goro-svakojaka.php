@@ -44,5 +44,6 @@ da sloboda svima nama sine.<br/>
 <br/>
 Silna goro, sižeš do oblaka,<br/>
 a još dalje djela od junaka!<br/>
-
+<br>
+<img src="skenovi/aoj goro goro.jpg" alt="">
 <p>(Naše pjesme I, br. 13)</p>

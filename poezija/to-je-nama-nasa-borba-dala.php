@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(Tito slobodo)</p>
+<p>(nazvana i "Tito slobodo")</p>
 
 To je nama naša borba dala,<br/>
 da imamo Tita za maršala.<br/>
@@ -38,3 +38,7 @@ Druže Tito oče domovine<br/>
 primi pozdrav naše omladine.<br/>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>III verzija</h2>
+
+<img src="skenovi/to je nama nasa borba dala.jpg" alt="">

@@ -1189,6 +1189,7 @@ include "includes/header.php";
                 <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
                 <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
                 <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
+                <li><a href="poezija/zdignite-brati-zastave.php">Zdignite brati zastave</a></li>
                 <li><a href="poezija/moj-saro.php">Moj šaro</a></li>
                 <li><a href="poezija/vi-zidine.php">Vi zidine</a></li>
                 <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
