@@ -1209,6 +1209,7 @@ include "includes/header.php";
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
                 <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>
                 <li><a href="poezija/pjesmu-pjevam-mladih-proletera.php">Pjesmu pjevam mladih proletera</a></li>
+                <li><a href="poezija/kordunaski-dvostih.php">Kordunaški dvostih</a></li>
                 <li><a href="poezija/licki-dvostih.php">Lički dvostih</a></li>
                 <li><a href="poezija/licki-zenski-dvostih.php">Lički ženski dvostih</a></li>
             </ul>
