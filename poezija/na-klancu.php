@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Josip Cazi - Na klancu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Josip Cazi - Na klancu</h1>
+<h1><?php echo $naslov ?></h1>
 
 Tamo kod Trnavca,<br/>
 gdje se nad Klancem stijene dižu,<br/>

@@ -377,6 +377,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Drago Bajc</h4>
+            <ul>
+                <li><a href="poezija/pesem-primorskih-emigrantov.php">Pesem primorskih emigrantov</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>August Cesarec</h4>
             <img src="https://upload.wikimedia.org/wikipedia/sh/thumb/c/cd/August_Cesarec_na_radom_mjestu.jpg/200px-August_Cesarec_na_radom_mjestu.jpg" alt="">
             <ul>
@@ -703,6 +710,13 @@ include "includes/header.php";
             <h4>Josip Cazi</h4>
             <ul>
                 <li><a href="poezija/na-klancu.php">Na klancu</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Ervin Lah - Tugomir</h4>
+            <ul>
+                <li><a href="poezija/na-strazi.php">Na straži</a></li>
             </ul>
         </article>
 
@@ -1298,6 +1312,7 @@ include "includes/header.php";
             <h3>Partizanske pesme iz Slovenije</h3>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
             <ul>
+                <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori, naš kmet beži</a></li>
                 <li><a href="poezija/hej-tovarisi.php">Hej tovariši, pod orožje vsi!</a></li>
                 <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
                 <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
@@ -1305,6 +1320,8 @@ include "includes/header.php";
                 <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
                 <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
                 <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
+                <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
+                <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
             </ul>
         </article>
 
