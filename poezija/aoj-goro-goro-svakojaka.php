@@ -46,4 +46,24 @@ Silna goro, sižeš do oblaka,<br/>
 a još dalje djela od junaka!<br/>
 <br>
 <img src="skenovi/aoj goro goro.jpg" alt="">
-<p>(Naše pjesme I, br. 13)</p>
+
+<h2>III verzija (Aoj Psunju goro prolistana)</h2>
+
+Aoj Psunju, goro prolistana<br/>
+puna li si mladih partizana!<br/>
+<br/>
+Tvoje lišće nad nama se vije,<br/>
+naše glave od fašista krije.<br/>
+<br/>
+Dok u tebi ptičice pjevaju,<br/>
+partizani čete razvijaju.<br/>
+<br/>
+/Dok u tebi ptičice pjevaju,<br/>
+partizani čete formiraju./<br/>
+<br/>
+Tvoja brda i tvoje doline<br/>
+ne mogu se gledat od miline.<br/>
+<br>
+
+<img src="skenovi/aoj psunju goro prolistana.jpg" alt="">
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>

@@ -51,7 +51,7 @@ izgrađena novoga čoveka.<br />
 
 <img src="skenovi/kad brigada preko drave krene.jpg" alt="">
 
-<p>(Franjo Židovec,Popijevke iz borbe i izgradnje, 1954.)</p>
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
 
 <h2>V verzija (Kad brigada Bilogorom krene)</h2>
 
