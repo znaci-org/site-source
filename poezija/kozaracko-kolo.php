@@ -50,13 +50,24 @@ Krvlju natopljena.<br>
 Ali zato, joj, ali zato,<br>
 Nije pokorena.
 
-<h2>Druga verzija</h2>
+<h2>II verzija</h2>
 
-Oj Kozaro moja gusta šumo,<br />
-u tebi je partizana puno.<br />
-<br />
-Koliko je na Kozari grana,<br />
-još je više mladih partizana.<br />
-<br />
-Koliko je na Kozari lista,<br />
-još je više mladih komunista.<br />
+Oj Kozaro, joj oj Kozaro<br/>
+moja gusta šumo<br/>
+U tebi je, joj u tebi je<br/>
+partizana puno<br/>
+<br/>
+Koliko je, joj koliko je<br/>
+na Kozari grana<br/>
+Još je više, joj još je više<br/>
+mladih partizana<br/>
+<br/>
+Koliko je, joj koliko je<br/>
+na Kozari lista<br/>
+Još je više, joj još je više<br/>
+mladih komunista<br/>
+<br/>
+Drug je Tito, oj drug je Tito<br/>
+izda naređenje<br/>
+Svi u borbu, oj svi u borbu<br/>
+za oslobođenje<br/>
