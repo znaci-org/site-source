@@ -1160,7 +1160,7 @@ include "includes/header.php";
             <h3>Partizanske pesme iz Hrvatske</h3>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Croatian_Partisans_%283-5%29.svg/80px-Flag_of_the_Croatian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
-                <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a></li>
+                <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
                 <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
                 <li><a href="poezija/pola-like-u-pepelu-lezi.php">Pola Like u pepelu leži</a></li>

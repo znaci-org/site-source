@@ -7,58 +7,62 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-(<i>krajiška narodna pjesma</i>)
+<p>(<i>Lička narodna pjesma</i>)</p>
 
-<p>Oj, narode Like i Korduna,<br>
-  Došlo vreme da se diže buna<br>
-  Protiv sviju gnusnih ugnjetača,<br>
-  Svih ustaša i svih osvajača.</p>
+Oj, narode Like i Korduna,<br />
+Došlo vrijeme da se diže buna<br />
+<br />
+Protiv sviju tvojih ugnjetača,<br />
+Ustaša i drugih osvajača.<br />
+<br />
+Sastali se Kordunaši s Likom,<br />
+Ne daju se pokoriti nikom.<br />
+<br />
+Kunemo se našem drugu Titi<br />
+Da ćemo se do kraja boriti.<br />
+<br>
+Donijet ćemo sreću i slobodu<br />
+hrvatskom i srpskome narodu.<br />
 
-<p>Bezglavniče zvani poglavniče,<br>
-  Ispod nogu tle ti se izmiče,<br>
-  Nećeš uteć` nit` iznjet` glave,<br>
-  Naše ruke tebe čvrsto dave.</p>
+<p><img src="skenovi/oj-narode-like-i-korduna.jpg" alt=""></p>
 
-<p>Oj, Staljine ti narodni bože,<br>
-  Bez tebe se živjeti ne može.<br>
-  Hajde braćo, da mjerimo Drinu<br>
-  Da gradimo ćupriju Staljinu</p>
+<h2>II verzija</h2>
 
-<p>Omladino, diko našeg roda,<br>
-  Iz tebe će svanuti sloboda.<br>
-  Od tebe se traži ponajviše,<br>
-  Da se gadni taj fašizam briše</p>
+Oj narode Like i Korduna,<br>
+Došlo vreme da se diže buna<br>
+<br>
+Puca puška na sve čerti strane,<br>
+I okuplja naše partizane.<br>
+<br>
+Partizani Like i Korduna,<br>
+Zovu braća da se diže buna.<br>
+<br>
+Da se širi buna do slobode,<br>
+Sve dok tuđin iz zemlje ne ode.
 
-<p>Drug će Staljin i crvena zvijezda<br>
-  Uništiti fašistička gnijezda.<br>
-  Donijet ćemo sreću i slobodu<br>
-  Hrvatskome i srpskome rodu.</p>
+<h2>III verzija</h2>
 
-<h2>Druga verzija</h2>
-
-<p>
-  Oj narode Like i Korduna,<br>
-  Došlo vreme da se diže buna<br>
-  <br>
-  Puca puška na sve čerti strane,<br>
-  I okuplja naše partizane.<br>
-  <br>
-  Partizani Like i Korduna,<br>
-  Zovu braća da se diže buna.<br>
-  <br>
-  Da se širi buna do slobode,<br>
-  Sve dok tuđin iz zemlje ne ode.
-</p>
-
-<h2>Treća verzija</h2>
-
-<p>
-  Oj, narode Like i Korduna,<br />
-  Došlo vrijeme da se diže buna<br />
-  Protiv sviju tvojih ugnjetača,<br />
-  Ustaša i drugih osvajača.<br />
-  Sastali se Kordunaši s Likom,<br />
-  Ne daju se pokoriti nikom.<br />
-  Kunemo se našem drugu Titi<br />
-  Da ćemo se do kraja boriti.<br />
-</p>
+Oj, narode Like i Korduna,<br />
+Došlo vreme da se diže buna<br />
+Protiv sviju gnusnih ugnjetača,<br />
+Svih ustaša i svih osvajača.<br />
+<br />
+Bezglavniče zvani poglavniče,<br />
+Ispod nogu tle ti se izmiče,<br />
+Nećeš uteć` nit` iznjet` glave,<br />
+Naše ruke tebe čvrsto dave.<br />
+<br />
+Oj, Staljine ti narodni bože,<br />
+Bez tebe se živjeti ne može.<br />
+Hajde braćo, da mjerimo Drinu<br />
+Da gradimo ćupriju Staljinu<br />
+<br />
+Omladino, diko našeg roda,<br />
+Iz tebe će svanuti sloboda.<br />
+Od tebe se traži ponajviše,<br />
+Da se gadni taj fašizam briše<br />
+<br />
+Drug će Staljin i crvena zvijezda<br />
+Uništiti fašistička gnijezda.<br />
+Donijet ćemo sreću i slobodu<br />
+Hrvatskome i srpskome rodu.<br />
