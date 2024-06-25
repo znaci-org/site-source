@@ -9,8 +9,15 @@ include "../includes/header.php";
 
 <p>(<i>partizanska pjesma</i>)</p>
 
+<img src="skenovi/svakoj majci treba da je dika (bjelovar).jpg" alt="">
+
+<p>(Narodne pjesme iz okolice Bjelovara, sv. I., 1948, 1951, 1952. )</p>
+
+<h2>II verzija</h2>
+
 Svakoj majci treba da je dika<br/>
 Kada ima u šumi vojnika,<br/>
+<br/>
 Kada ima u šumi vojnika,<br/>
 Kada ima sina boljševika.<br/>
 
