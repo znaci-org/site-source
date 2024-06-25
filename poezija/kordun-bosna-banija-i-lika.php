@@ -42,6 +42,8 @@ To je, druže, tvrđe od čelika.<br />
 Oj, Krajino, sva si popaljena,<br />
 Al’ ćeš biti ljuto osvećena.<br />
 
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 240.)</p>
+
 <h2>IV verzija</h2>
 
 Kad je bila borba kod Drvara<br />

@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>Lička narodna pjesma</i>)</p>
+<p>(<i>narodna pjesma</i>)</p>
 
 Oj, narode Like i Korduna,<br />
 Došlo vrijeme da se diže buna<br />
@@ -23,8 +23,6 @@ Da ćemo se do kraja boriti.<br />
 <br>
 Donijet ćemo sreću i slobodu<br />
 hrvatskom i srpskome narodu.<br />
-
-<p><img src="skenovi/oj-narode-like-i-korduna.jpg" alt=""></p>
 
 <h2>II verzija</h2>
 
@@ -66,3 +64,15 @@ Drug će Staljin i crvena zvijezda<br />
 Uništiti fašistička gnijezda.<br />
 Donijet ćemo sreću i slobodu<br />
 Hrvatskome i srpskome rodu.<br />
+
+<h2>IV verzija (Partizani Korduna i Like)</h2>
+
+Partizani Korduna i Like,<br/>
+oćerajte ustaške krvnike,<br/>
+<br/>
+proćerajte krvave ustaše<br/>
+što poklaše mile majke naše.<br/>
+
+<p>(Narodne pjesme, poslovice i slike iz života i običaja Srba na Kordunu. Knj. 2, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1987., str. 132.)</p>
+
+<p><img src="skenovi/oj-narode-like-i-korduna.jpg" alt=""></p>

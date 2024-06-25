@@ -11,7 +11,7 @@ include "../includes/header.php";
 
 <p>
   Zdravo, Tito, boljševiče,<br />
-  Ti evropski predvodniče.<br />
+  Ti jevropski predvodniče.<br />
   Ti si, Tito, naša nada,<br />
   Milione vodiš sada,<br />
   Protiv rata i fašizma,<br />
@@ -25,6 +25,8 @@ include "../includes/header.php";
   Petokraka sila jaka,<br />
   Za radnika i seljaka.<br />
 </p>
+
+<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije (tekstovi), Naučno delo, Beograd, 1967., str. 64.)</p>
 
 <h2>Druga verzija</h2>
 
@@ -46,6 +48,8 @@ include "../includes/header.php";
   Drug Buđoni i Kozaci.<br />
 </p>
 
+<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije (tekstovi), Naučno delo, Beograd, 1967., str. 64.)</p>
+
 <h2>Treća verzija</h2>
 
 <p>
@@ -60,5 +64,7 @@ include "../includes/header.php";
   Na jugu su sve junaci,<br />
   Drug Buđoni i Kozaci!...<br />
 </p>
+
+<p>(Miodrag A. Vasiljević, Narodne melodije leskovačkog kraja, Srpska akademija nauka, Muzikološki institut knjiga 11, Beograd, 1960., str. 315.)</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">
