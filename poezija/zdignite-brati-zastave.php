@@ -23,7 +23,7 @@ Tak nas Mato, ti predvodi.<br/>
 
 <p><img src="skenovi/zdignite brati.jpg" alt=""></p>
 
-<h2>Dvignite bratje zastave <small>(slovenski prevod)</small></h2>
+<h2>Dvignite bratje zastave <small>(slovenski prepev)</small></h2>
 
 Dvignite bratje zastave, hej,<br/>
 S kmečko krvjo poškropljene,<br/>

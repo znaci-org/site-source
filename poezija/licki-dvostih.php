@@ -99,12 +99,6 @@ da fašizam više ne postoji.<br>
 Kada šaljem na Švabe granate <br>
 mala moja uvijek mislim na te.<br>
 <br>
-Kud prolaze naši udaraši <br>
-tuda nema života ustaši<br>
-<br>
-Oj ustaše ujest će vas zmija <br>
-eto ide šesta divizija.<br>
-<br>
 Tito složi veliko i malo <br>
 kad mislismo da je sve propalo<br>
 <br>
@@ -123,20 +117,11 @@ iz Zagreba pobjeći bi mora.<br>
 Sad se bombe prave u Drvaru <br>
 Paveliću razbit će ti glavu.<br>
 <br>
-Ko je bio ustaša u Lici <br>
-sudit će mu narodni vojnici.<br>
-<br>
-Sad ustaški zakoni ne vrijede <br>
-mi imamo borbene odrede.<br>
-<br>
 Crven barjak prepeglat nam stoji <br>
 razvijmo ga o drugovi moji.<br>
 <br>
 Vide majko tvojijeh sinova <br>
 i na njima narodnih znakova.<br>
-<br>
-Velebitu, slavna goro naša <br>
-ti sačuva narod od ustaša.<br>
 <br>
 Naš partizan vojnika ne tuče <br>
 samo s njega uniformu svuče<br>
@@ -165,29 +150,17 @@ one vole narodne vojnike.<br />
 Što se ono preko polja čuje<br />
 ono radni bataljon putuje.<br />
 <br>
-Kad se slože Srbi i Hrvati<br />
-ustaše će iz zemlje begati.<br />
-<br>
 Aoj Liko sva si od bregova<br />
 al si puna sivih sokolova.<br />
-<br>
-Korenice divno selo naše<br />
-tu četnika nema ni ustaše.<br />
-<br>
-Ko ustaša nije ćeo biti<br />
-taj sad može slobodno živiti.<br />
-<br>
-Oj ustaše nije to ko lani<br />
-sad su jači naši partizani.<br />
-<br>
-Oj ustaše sad vam spasa nema<br />
-vaš se život među grabe sprema.<br />
 <br>
 Da nam nije Orešković Marka<br />
 još bi više zakukalo majka.<br />
 <br>
 Šta je Lika porodila sveta<br />
 ne plaši se fašističkih četa.<br />
+<br>
+Korenice divno selo naše<br />
+tu četnika nema ni ustaše.<br />
 <br>
 Složili se Srbi i Hrvati <br>
 oj fašisti kud ćete begati<br>

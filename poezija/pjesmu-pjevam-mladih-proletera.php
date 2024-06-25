@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma Like</i>)</p>
+<p>(<i>Lička narodna pjesma</i>)</p>
 
 Pjesmu pjevam mladih proletera<br/>
 osnovana jedna čete cijela<br/>
@@ -33,7 +33,5 @@ Proleteri na dalek put kreću<br/>
 crven barjak svi na čelo meću.<br/>
 Crven barjak i na njemu značka<br/>
 srp i čekić radničko-seljačka.<br/>
-<br/>
-/pjeva se na melodiju br. 15/<br/>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

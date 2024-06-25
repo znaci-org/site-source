@@ -1160,7 +1160,6 @@ include "includes/header.php";
             <h3>Partizanske pesme iz Hrvatske</h3>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Croatian_Partisans_%283-5%29.svg/80px-Flag_of_the_Croatian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
-                <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
                 <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
                 <li><a href="poezija/pola-like-u-pepelu-lezi.php">Pola Like u pepelu leži</a></li>
@@ -1180,8 +1179,8 @@ include "includes/header.php";
                 <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun, Bosna, Banija i Lika</a></li>
                 <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
                 <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
-                <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (na Čilašu)</li>
-                <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (kod Petkovice)</li>
+                <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
+                <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Kordun)</li>
                 <li><a href="poezija/svanit-ce-van-crni-danci.php">Svanit će van crni danci</a></li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
@@ -1200,6 +1199,7 @@ include "includes/header.php";
                 <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
                 <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
                 <li><a href="poezija/u-zagrebu-polupani-dvori.php">U Zagrebu polupani dvori</a></li>
+                <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
                 <li><a href="poezija/1941.php">1941.</a> (epika)</li>
                 <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
                 <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
@@ -1207,8 +1207,8 @@ include "includes/header.php";
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
                 <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>
                 <li><a href="poezija/pjesmu-pjevam-mladih-proletera.php">Pjesmu pjevam mladih proletera</a></li>
-                <li><a href="poezija/licki-dvostih.php">Lički dvostih</a> (razno)</li>
-                <li><a href="poezija/licki-zenski-dvostih.php">Lički ženski dvostih</a> (razno)</li>
+                <li><a href="poezija/licki-dvostih.php">Lički dvostih</a></li>
+                <li><a href="poezija/licki-zenski-dvostih.php">Lički ženski dvostih</a></li>
             </ul>
         </article>
 
@@ -1235,7 +1235,7 @@ include "includes/header.php";
                 <li><a href="poezija/kozaracko-kolo.php">Kozaračko kolo</a> (Oj Kozaro)</li>
                 <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
                 <li><a href="poezija/bjela-vilo-kazi-pravo.php">B’jela vilo kaži pravo</a></li>
-                <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a> (razno)</li>
+                <li><a href="poezija/kozaracki-dvostih.php">Kozarački dvostih</a></li>
             </ul>
         </article>
 
@@ -1335,6 +1335,7 @@ include "includes/header.php";
                 <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
                 <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
+                <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
                 <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
                 <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>

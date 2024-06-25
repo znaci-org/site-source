@@ -9,11 +9,11 @@ include "../includes/header.php";
 
 <p>(<i>pjevano iz ženskog lica</i>)</p>
 
-Moja lola nije više prelac <br>
-već u četi puškomitraljezac.<br>
-<br>
 Ajd u borbu moja mila diko <br>
 partizane ne pobjedi niko.<br>
+<br>
+Moja lola nije više prelac <br>
+već u četi puškomitraljezac.<br>
 <br>
 Ja sam svoga poslala mladića <br>
 da uništi bandu Drenovića.<br>
@@ -135,3 +135,6 @@ Kad se naša zemlja oslobodi<br />
 onda dođi pa ljubov sprovodi.<br />
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<img src="http://www.znaci.org/images/13303.jpg" alt=""><br>
+<small>Zbor AFŽ-a u Čitluku, Lika, u jesen 1941. </small>
