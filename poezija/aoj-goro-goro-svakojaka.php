@@ -23,6 +23,8 @@ ne plaši se ne ćeš biti pusta.<br/>
 <br/>
 Sad u tebi ptičice pjevaju<br/>
 partizani čete razvijaju.<br/>
+<br>
+<img src="skenovi/aoj goro.jpg" alt="">
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 

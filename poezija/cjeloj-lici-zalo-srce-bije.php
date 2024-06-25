@@ -24,7 +24,7 @@ platićete Orešković Marka.<br />
 Od kad junak u grobnici leži,<br />
 srce naše za osvetom teži.
 
-<h2>Duža verzija</h2>
+<h2>Duža verzija (Izgubila krševita Lika)</h2>
 
 Izgubila krševita Lika<br/>
 najboljega svoga boljševika.<br/>
@@ -85,6 +85,9 @@ za tebe će pasti dosta glava.<br/>
 <br/>
 Za tebe će pasti oko trista<br/>
 jer si bio pravi komunista.<br/>
+<br>
+
+<img src="skenovi/izgubila krsevita lika.jpg" alt="">
 
 <p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 

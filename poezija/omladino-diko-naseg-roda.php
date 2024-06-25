@@ -44,6 +44,8 @@ porobljenih gradova i sela<br/>
 <br/>
 na visoku podigla je čizmu<br/>
 kraj je došo krvavom fašizmu.<br/>
+<br>
+<img src="skenovi/omladino diko.jpg" alt="">
 
 <h2>varijacije</h2>
 

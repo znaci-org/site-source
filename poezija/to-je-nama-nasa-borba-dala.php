@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(narodna pesma)</p>
+<p>(Tito slobodo)</p>
 
 To je nama naša borba dala,<br/>
 da imamo Tita za maršala.<br/>
@@ -23,7 +23,7 @@ pred fašizmu pokleknuli nismo.<br/>
 <br/>
 <img src="skenovi/to-je-nama-nasa-borba-dala.jpg" alt="Tito slobodo note">
 
-<h2>ranija verzija</h2>
+<h2>II verzija</h2>
 
 Druže Tito tebi narod kliče<br/>
 naše nove vlade predsjedniče<br/>
