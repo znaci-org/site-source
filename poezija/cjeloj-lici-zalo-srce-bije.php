@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Cjeloj Lici žalo srce bije</h1>
 
-<p>(<i>Lička narodna pjesma</i>)</p>
+<p>(<i>Ličkom vođi ustanka</i>)</p>
 
 Cjeloj Lici žalo srce bije,<br />
 što joj nesta dičnoga Krntije.<br />
@@ -23,6 +23,8 @@ platićete Orešković Marka.<br />
 <br />
 Od kad junak u grobnici leži,<br />
 srce naše za osvetom teži.
+
+<p><img src="skenovi/cjeloj-lici-zalo-srce-bije.jpg" alt=""></p>
 
 <h2>Duža verzija (Izgubila krševita Lika)</h2>
 
