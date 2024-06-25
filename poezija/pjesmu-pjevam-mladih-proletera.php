@@ -36,4 +36,4 @@ srp i čekić radničko-seljačka.<br/>
 <br/>
 /pjeva se na melodiju br. 15/<br/>
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

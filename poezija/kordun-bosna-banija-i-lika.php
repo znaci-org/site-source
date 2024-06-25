@@ -21,7 +21,7 @@ bolje vam je danas nego lani. <br>
 Kunemo se našem drugu Titi, <br>
 da ćemo se do kraja boriti <br>
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>II verzija</h2>
 

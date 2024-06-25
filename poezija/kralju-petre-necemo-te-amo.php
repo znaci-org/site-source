@@ -24,7 +24,7 @@ domovina slobodna nam bila.<br />
 Druže Tito naša mila nada<br />
 milione on predvodi sada.<br />
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>II verzija</h2>
 
@@ -43,7 +43,7 @@ da te ovdje vidjeti ne želi.<br />
 Druže Tito oka garavoga<br />
 poteraj de Petra balavoga.<br />
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>III verzija</h2>
 
@@ -94,6 +94,6 @@ Naš je uspjeh i naših vojnika <br>
 Avnoj avnoh to je garancija <br>
 da se neće vratit monarhija. <br>
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>

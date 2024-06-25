@@ -28,6 +28,6 @@ da im pustiš na odsustvo momke <br>
 dva tri dana, pa i pet šest sati <br>
 pa ih odmah u brigadu vrati. <br>
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt="">

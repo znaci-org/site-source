@@ -55,7 +55,7 @@ srp i čekić petokraka.<br/>
 Prije nam ga Tito posla<br/>
 nego što je u boj poša.<br/>
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>III verzija</h2>
 

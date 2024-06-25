@@ -18,7 +18,7 @@ druga Lolu sekretara SKOJ-a.<br />
 Druže Lolo naša ružo bijela<br />
 tebe žali omladina cjela.
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>Druga verzija</h2>
 

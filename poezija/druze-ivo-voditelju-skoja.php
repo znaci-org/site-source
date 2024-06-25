@@ -25,6 +25,6 @@ osveti ga to je dužnost tvoja.<br/>
 Omladino to je dužnost tvoja <br>
 da osvetiš sekretara Skoja.
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ivo_Lola_Ribar_na_konju_Lisku.jpg" alt="">

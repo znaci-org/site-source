@@ -33,6 +33,6 @@ Ili žive u jamu bacale?<br />
 Šuma, gora — sva priroda nijema,<br />
 iz tišine odgovora nema.<br />
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <img src="skenovi/to-je-bilo-dvanaestoga-juna.jpg" alt="">

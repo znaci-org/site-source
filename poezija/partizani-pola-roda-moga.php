@@ -43,4 +43,4 @@ tamo imam brata i dragoga <br />
 imam brata imam i dragana <br />
 obadva su dođe partizana.
 
-<p>(iz Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(iz Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

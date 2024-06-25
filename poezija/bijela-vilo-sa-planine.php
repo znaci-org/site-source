@@ -54,7 +54,7 @@ jer je sloga u Rusiji.<br/>
 U Rusiji narod vlada<br/>
 Hitleru je zada jada.<br/>
 
-<p>(iz Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(iz Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <img src="skenovi/bjela vilo sa planine.jpg" alt="">
 

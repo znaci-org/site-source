@@ -18,4 +18,4 @@ eto otud idu partizani.<br/>
 A ustaše vi se postrijeljajte<br/>
 partizana živi ne čekajte.<br/>
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

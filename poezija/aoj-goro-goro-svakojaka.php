@@ -26,7 +26,7 @@ partizani čete razvijaju.<br/>
 <br>
 <img src="skenovi/aoj goro.jpg" alt="">
 
-<p>(Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
 <h2>II verzija</h2>
 
