@@ -39,7 +39,7 @@ Toliko je mladih komunista.<br/>
 Koliko je na drveću grana,<br/>
 Toliko je mladih partizana.<br/>
 
-<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Naučno delo, Beograd, 1967., str. 77.)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 77.)</p>
 
 <h2>III verzija</h2>
 
@@ -49,4 +49,4 @@ Ti si puna mladih partizana<br/>
 Ti si svoja razavila krila,<br/>
 I postala naša majka mila.<br/>
 
-<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Naučno delo, Beograd, 1967., str. 77.)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 77.)</p>

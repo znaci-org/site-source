@@ -49,4 +49,4 @@ Spomen ću mu ja podići,<br />
 Makar gladna ostala.<br />
 <br />
 
-<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Naučno delo, Beograd, 1967., str. 100-101.)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 100-101.)</p>

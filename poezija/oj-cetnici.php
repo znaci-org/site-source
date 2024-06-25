@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodni partizanski napjev</i>)</p>
+<p>(<i>popularni partizanski dvostih</i>)</p>
 
 Oj četnici, vi banditi,<br>
 Nemate se rašta kriti,<br>
@@ -26,9 +26,7 @@ Brijaće je udarna brigada.<br />
 <br />
 Oj, četnici, srpske izdajice,<br />
 Narod će vam pljuvati u lice.<br />
-
-<h2>varijacije</h2>
-
+<br />
 Oj četnici svojoj kući ajte <br/>
 svoje braće ludo ne izdajte. <br/>
 <br/>
@@ -52,10 +50,14 @@ sudit će vam puške osvetničke.<br/>
 <br>
 Četnička je majka zakukala <br/>
 partizanska kolo zaigrala. <br/>
+<br>
+Sad drug Tito vodi divizije,<br>
+A Draža se po šumama krije.<br>
 
-<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.
+Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967.)</p>
 
-<h2>verzija iz Srbije</h2>
+<h2>trostih</h2>
 
 Oj, četnici, crni vrani,<br />
 Crni su vam došli dani,<br />

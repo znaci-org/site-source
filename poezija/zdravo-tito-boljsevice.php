@@ -26,7 +26,7 @@ include "../includes/header.php";
   Za radnika i seljaka.<br />
 </p>
 
-<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Naučno delo, Beograd, 1967., str. 64.)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 64.)</p>
 
 <h2>Druga verzija</h2>
 
@@ -48,7 +48,7 @@ include "../includes/header.php";
   Drug Buđoni i Kozaci.<br />
 </p>
 
-<p>(Dimitrijević, Sergije, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Naučno delo, Beograd, 1967., str. 64.)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 64.)</p>
 
 <h2>Treća verzija</h2>
 
