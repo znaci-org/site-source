@@ -1,5 +1,5 @@
 <?php
-$naslov = "Na kapama svih junaka";
+$naslov = "Petokraka";
 include "../includes/header.php";
 ?>
 
@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma</i>)</p>
+<p>(<i>partizanska pjesma</i>)</p>
 
 Na kapama svih junaka,<br/>
 Sija zvijezda petokraka.<br/>
@@ -29,6 +29,11 @@ Petokraka za njeg nije.<br/>
 <br/>
 Tko ne žali život dati,<br/>
 Petokraka tom će sjati.<br/>
+
+<h2>II verzija (posleratna)</h2>
+
+U tunelu usred mraka,<br/> 
+sija zvijezda petokraka<br/>
 <br/>
 
 <img src="skenovi/petokraka.jpg" alt="">

@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1>Kod Drvara zvonce zvoni</h1>
 
-(<i>narodna pjesma</i>)
+(<i>Lička narodna pjesma</i>)
 
 <p>
   Kod Drvara zvonce zvoni<br />
