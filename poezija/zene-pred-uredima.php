@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Antun Branko Šimić - Žene pred uredima";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Antun Branko Šimić - Žene pred uredima</h1>
+<h1><?php echo $naslov ?></h1>
 
 O Bože, ako jesi, vidiš li ti s neba ove žene<br/>
 što hrpama se kupe ispred uredâ i dršću ispred vlasti?<br/>
