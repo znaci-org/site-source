@@ -1247,11 +1247,11 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
+                <li><a href="poezija/na-vrh-gore-romanije.php">Na sred gore Romanije</a></li>
                 <li><a href="poezija/kozaracko-kolo.php">Oj Kozaro (Kozaračko kolo)</a></li>
                 <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene naš Mladene</a></li>
                 <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene druže mio</a></li>
-                <li><a href="poezija/na-vrh-gore-romanije.php">Na vrh gore Romanije</a></li>
                 <li><a href="poezija/banjaluko-mali-grade.php">Banjaluko mali grade</a></li>
                 <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
                 <li><a href="poezija/na-palezu-skupise-se-momci.php">Na Paležu skupiše se momci</a></li>
