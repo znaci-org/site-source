@@ -1169,6 +1169,7 @@ include "includes/header.php";
                 <li><a href="poezija/petrova-mi-gora-mati.php">Petrova mi gora mati</a></li>
                 <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume, šume najlepša vam hvala</a></li>
+                <li><a href="poezija/platit-cete-krvave-ustase.php">Platit ćete krvave ustaše</a></li>
                 <li><a href="poezija/volim-svakog-ko-ustase-bije.php">Volim svakog ko ustaše bije</a></li>
                 <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd’ u partizane</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
@@ -1185,6 +1186,7 @@ include "includes/header.php";
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
                 <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
+                <li><a href="poezija/pavelicu-tvoja-vojska-place.php">Paveliću tvoja vojska plače</a></li>
                 <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
                 <li><a href="poezija/u-poloju-malo-partizana.php">U Poloju malo partizana</a></li>
                 <li><a href="poezija/marjane-marjane.php">Marjane, Marjane</a></li>
