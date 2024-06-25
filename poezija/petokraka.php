@@ -30,7 +30,23 @@ Petokraka za njeg nije.<br/>
 Tko ne žali život dati,<br/>
 Petokraka tom će sjati.<br/>
 
-<h2>II verzija (posleratna)</h2>
+<h2>II verzija</h2>
+
+Na vr' gore Devetaka<br/>
+Stoji zvezda petokraka,<br/>
+<br/>
+Petokraka sa pet pera,<br/>
+To je značka proletera,<br/>
+<br/>
+Petokraka sa pet lista, <br/>
+To je značka komunista,<br/>
+<br/>
+Petokraka sa pet grana,<br/>
+To je značka partizana.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 116.)</p>
+
+<h2>III verzija (posleratna)</h2>
 
 U tunelu usred mraka,<br/> 
 sija zvijezda petokraka<br/>

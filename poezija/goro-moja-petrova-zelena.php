@@ -1,13 +1,13 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Goro moja Petrova zelena";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Goro moja Petrova zelena</h1>
+<h1><?php echo $naslov ?></h1>
 
-(<i>narodna pjesma Korduna i Banije</i>)
+(<i>narodna pjesma Korduna</i>)
 
 <p>Goro moja Petrova zelena,<br>
 Utočište mojega plemena!</p>
@@ -26,3 +26,5 @@ Nose robu slobodnije dane.</p>
 
 <p>Za sve ovo tebi čast i hvala,<br>
 Oj Petrova gorice ubava</p>
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 246.)</p>

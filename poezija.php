@@ -1179,10 +1179,12 @@ include "includes/header.php";
                 <li><a href="poezija/pola-like-u-pepelu-lezi.php">Pola Like u pepelu leži</a></li>
                 <li><a href="poezija/sam-je-mirko-pusku-zadobio.php">Sam je Mirko pušku zadobio</a></li>
                 <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
+                <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun Bosna Banija i Lika</a></li>
                 <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
-                <li><a href="poezija/petrova-mi-gora-mati.php">Petrova mi gora mati</a></li>
+                <li><a href="poezija/oca-nemam-majke-sestre.php">Oca nemam, majke, sestre</a></li>
                 <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume šume najlepša vam hvala</a></li>
+                <li><a href="poezija/ranjen-junak-u-gori.php">Ranjen junak u gori</a></li>
                 <li><a href="poezija/platit-cete-krvave-ustase.php">Platit ćete krvave ustaše</a></li>
                 <li><a href="poezija/volim-svakog-ko-ustase-bije.php">Volim svakog ko ustaše bije</a></li>
                 <li><a href="poezija/ide-vojska-i-pjesma-se-ori.php">Ide vojska i pjesma se ori</a></li>
@@ -1194,7 +1196,6 @@ include "includes/header.php";
                 <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
                 <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara nema partizana</a> (Marku Oreškoviću)</li>
-                <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun Bosna Banija i Lika</a></li>
                 <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
                 <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
                 <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
@@ -1272,7 +1273,23 @@ include "includes/header.php";
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
-                <li><a href="poezija/ono-su-ti-ljute-zmije.php">Ono su ti ljute zmije druga Peka divizije</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Partizanske pesme iz Slovenije</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
+            <ul>
+                <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori naš kmet beži</a></li>
+                <li><a href="poezija/hej-tovarisi.php">Hej tovariši pod orožje vsi!</a></li>
+                <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
+                <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
+                <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
+                <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
+                <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
+                <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
+                <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
+                <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
             </ul>
         </article>
 
@@ -1315,23 +1332,6 @@ include "includes/header.php";
                 <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj Dražo izdajico stara</a></li>
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci junaci iz ćoške</a></li>
                 <li><a href="poezija/jednog-dana-pismo-stize.php">Jednog dana pismo stiže</a></li>
-            </ul>
-        </article>
-
-        <article>
-            <h3>Partizanske pesme iz Slovenije</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
-            <ul>
-                <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori naš kmet beži</a></li>
-                <li><a href="poezija/hej-tovarisi.php">Hej tovariši pod orožje vsi!</a></li>
-                <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
-                <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
-                <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
-                <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
-                <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
-                <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
-                <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
-                <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
             </ul>
         </article>
 
