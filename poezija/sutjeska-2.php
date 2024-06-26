@@ -13,7 +13,7 @@ O Sutjesko, vodo ledna,<br />
 čija vojska nepobjedna<br />
 <br />
 jutros tvoje vale pređe<br />
-na njemačke bojne međeg<br />
+na njemačke bojne međe?<br />
 <br />
 – To Savina vojska brodi<br />
 na Sutjesci hladnoj vodi.<br />
@@ -22,7 +22,7 @@ U gori se jele dive:<br />
 ko su one munje žive<br />
 <br />
 te njemačka ruše legla<br />
-što su crni obruč steglag<br />
+što su crni obruč stegla?<br />
 <br />
 – To Savini borci jezde<br />
 zelen gorom ko zvijezde,<br />

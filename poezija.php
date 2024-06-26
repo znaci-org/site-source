@@ -925,16 +925,14 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Mirko_Banjevi%C4%87.png" alt="">
             <ul>
                 <li><a href="poezija/moj-grade.php">Moj grade</a></li>
-                <li><a href="poezija/na-zgaristu.php">Na zgarištu</a></li>
+                <li><a href="poezija/o-sutjesko-vodo-ledna.php">O Sutjesko vodo ledna</a></li>
                 <li><a href="poezija/razgovor-kostiju.php">Razgovor kostiju</a></li>
+                <li><a href="poezija/na-zgaristu.php">Na zgarištu</a></li>
                 <li><a href="poezija/ruka.php">Ruka</a></li>
                 <li><a href="poezija/i-to-je-slava.php">I to je slava</a></li>
                 <li><a href="poezija/zvijezda-banjevic.php">Zvijezda</a></li>
                 <li><a href="poezija/sutjeska.php">Sutjeska I</a> (poema)</li>
                 <li><a href="poezija/sutjeska-2.php">Sutjeska II</a> (poema)</li>
-                <ul>
-                    <li><a href="poezija/sutjeska-2.php#oj-sutjesko">O Sutjesko vodo ledna</a></li>
-                </ul>
                 <li><a href="poezija/povratak.php">Povratak</a></li>
                 <li><a href="poezija/nevid.php">Nevid</a></li>
                 <li><a href="poezija/zapis.php">Zapis</a></li>
@@ -1407,6 +1405,7 @@ include "includes/header.php";
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo mirisavo cvijeće</a></li>
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
+                <li><a href="poezija/partizanski-dvostih-osmerac.php">Partizanski dvostih (osmerac)</a></li>
             </ul>
         </article>
     </div>

@@ -46,7 +46,12 @@ To je značka partizana.<br/>
 
 <p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 116.)</p>
 
-<h2>III verzija (posleratna)</h2>
+<h2>varijacije</h2>
+
+Za radnika i seljaka<br/>
+zasijala petokraka.<br/>
+
+<h2>Posleratna verzija</h2>
 
 U tunelu usred mraka,<br/> 
 sija zvijezda petokraka<br/>

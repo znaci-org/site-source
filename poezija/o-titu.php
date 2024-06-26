@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>razni partizanski stihovi o Titu</i>)</p>
+<p>(<i>partizanski deseterački stihovi o Titu</i>)</p>
 
 Nije ni to dobito sa šalom<br/>
 da se Tito nazove maršalom.<br/>
