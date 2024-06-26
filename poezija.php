@@ -1322,6 +1322,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice prva republiko</a></li>
                 <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
+                <li><a href="poezija/tamo-dole-oko-lima.php">Tamo dole oko Lima</a></li>
                 <li><a href="poezija/od-srbije-do-rusije.php">Od Srbije do Rusije</a></li>
                 <li><a href="poezija/i-ja-ću-ti-nosit-karabina.php">I ja ću ti nosit karabina</a></li>
                 <li><a href="poezija/o-moj-mile-moja-ruzo.php">O moj mile moja ružo</a></li>
@@ -1345,6 +1346,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-pozego-ti-maleni-grade.php">Oj Požego ti maleni grade</a></li>
                 <li><a href="poezija/o-moj-cacku-o-moj-mili-grade.php">O moj Čačku o moj mili grade</a></li>
                 <li><a href="poezija/nemam-sestre-a-nemam-ni-brata.php">Nemam sestre a nemam ni brata</a></li>
+                <li><a href="poezija/imam-brata-i-dragana-mlada.php">Imam brata i dragana mlada</a></li>
                 <li><a href="poezija/od-valjeva-pa-do-nisa.php">Od Valjeva pa do Niša</a></li>
                 <li><a href="poezija/jedno-jutro-prije-zore.php">Jedno jutro prije zore</a></li>
                 <li><a href="poezija/a-sto-pcinja-mutna-teci.php">A što Pčinja mutna teči babo mori?</a></li>
