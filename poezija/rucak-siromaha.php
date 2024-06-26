@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Antun Branko Šimić - Ručak siromaha";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Antun Branko Šimić - Ručak siromaha</h1>
+<h1><?php echo $naslov ?></h1>
 
 Jedno pred drugim stide se da sjednu<br/>
 za takav ručak<br/>

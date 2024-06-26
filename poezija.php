@@ -1249,10 +1249,12 @@ include "includes/header.php";
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
                 <li><a href="poezija/sred-kozare-borba-poce.php">Sred Kozare borba poče</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
+                <li><a href="poezija/rudo-malo.php">Rudo malo</a></li> 
+                <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/na-sred-gore-romanije.php">Na sred gore Romanije</a></li>
                 <li><a href="poezija/ide-tito-preko-romanije.php">Ide Tito preko Romanije</a></li>
+                <li><a href="poezija/ide-mladen-vodi-partizane.php">Ide Mladen vodi partizane</a></li>
                 <li><a href="poezija/kozaracko-kolo.php">Oj Kozaro (Kozaračko kolo)</a></li>
-                <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene (tužaljka)</a></li>
                 <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene druže mio</a></li>
                 <li><a href="poezija/banjaluko-mali-grade.php">Banjaluko mali grade</a></li>
@@ -1431,7 +1433,9 @@ include "includes/header.php";
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
                 <li><a href="poezija/sad-je-vojska-nasa-jaka.php">Sad je vojska naša jaka</a></li>
                 <li><a href="poezija/zbogom-ostaj-bunkeru-na-drini.php">Zbogom ostaj bunkeru na Drini</a></li>
+                <li><a href="poezija/srp-i-cekic-celicni.php">Srp i čekić čelični</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
+                <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
                 <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
                 <li><a href="poezija/partizanski-dvostih-osmerac.php">Partizanski dvostih (osmerac)</a></li>
             </ul>

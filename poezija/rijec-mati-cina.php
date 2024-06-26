@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Krleža - Riječ mati čina";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Krleža - Riječ mati čina</h1>
+<h1><?php echo $naslov ?></h1>
 
 Riječ je trudna žena, što kolose rađa,<br />
 cvile njeni nervi i utroba se njena puna krvi kida,<br />

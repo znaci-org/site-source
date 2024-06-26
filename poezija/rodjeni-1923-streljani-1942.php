@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Izet Sarajlić - Rođeni dvadeset treće, streljani četrdeset druge";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Izet Sarajlić - Rođeni dvadeset treće, streljani četrdeset druge</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>
   <i>Bratu Eši, streljanom na Mamuli 16 juna 1942. Njemu i svima koji behu kao on.</i>

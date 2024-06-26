@@ -9,58 +9,56 @@ include "../includes/header.php";
 
 <p>(<i>Lička narodna pjesma</i>)</p>
 
-Razvila se jedna jela vita<br/>
-ispod naše gore Velebita<br/>
-<br/>
-A pod njome ranjen junak leži<br/>
-drugarice rane mi poveži<br/>
-<br/>
-Ja mu rane zavijam u ruže<br/>
-pa ga pitam kako ti je druže?<br/>
-<br/>
-Drugarice, teške su mi rane<br/>
-kud je prošlo fašističko tane<br/>
-<br/>
-ja sam ranjen u junačke grudi<br/>
-ne plaši se, već ti hrabra budi<br/>
-<br/>
-pa ti uzmi moju pušku šaru<br/>
-pa je podaj mojeme drugaru<br/>
-<br/>
-nek' se drugar mojom puškom sveti<br/>
-napred hrabro ja moram umreti<br/>
+Razvila se jedna jela vita<br />
+ispod naše gore Velebita<br />
+<br />
+A pod njome ranjen junak leži<br />
+drugarice rane mi poveži<br />
+<br />
+Ja mu rane zavijam u ruže<br />
+pa ga pitam kako ti je druže?<br />
+<br />
+Drugarice, teške su mi rane<br />
+kud je prošlo fašističko tane<br />
+<br />
+ja sam ranjen u junačke grudi<br />
+ne plaši se, već ti hrabra budi<br />
+<br />
+pa ti uzmi moju pušku šaru<br />
+pa je podaj mojeme drugaru<br />
+<br />
+nek' se drugar mojom puškom sveti<br />
+napred hrabro ja moram umreti<br />
 
 
 <h2>II verzija</h2>
 
-<p>
-  Razvila se jedna jela vita,<br>
-  Ispod naše gore Velebita.<br>
-  <br>
-  I pod jelom ranjen junak leži,<br>
-  Drugarice hajd mi rane veži.<br>
-  <br>
-  Ja mu rane vezujem u ruže,<br>
-  I pitam ga kako ti je druže.<br>
-  <br>
-  Teške su mi oko srca rane,<br>
-  Kud je prošlo fašističko tane.<br>
-  <br>
-  Ti ponesi moju pušku šaru,<br>
-  I poda je najboljem drugaru.<br>
-  <br>
-  I pozdravi sve drugove moje,<br>
-  Neka hrabro na braniku stoje.<br>
-  <br>
-  Ko ponese moju pušku šarku,<br>
-  Nek pozdravi moju staru majku.<br>
-  <br>
-  Ko ponese moju kabanicu,<br>
-  Nek pozdravi moju drugaricu.<br>
-  <br>
-  I sestricu, moje rosno cvijeće,<br>
-  Da joj brale više doći neće.
-</p>
+Razvila se jedna jela vita,<br>
+Ispod naše gore Velebita.<br>
+<br>
+I pod jelom ranjen junak leži,<br>
+Drugarice hajd mi rane veži.<br>
+<br>
+Ja mu rane vezujem u ruže,<br>
+I pitam ga kako ti je druže.<br>
+<br>
+Teške su mi oko srca rane,<br>
+Kud je prošlo fašističko tane.<br>
+<br>
+Ti ponesi moju pušku šaru,<br>
+I poda je najboljem drugaru.<br>
+<br>
+I pozdravi sve drugove moje,<br>
+Neka hrabro na braniku stoje.<br>
+<br>
+Ko ponese moju pušku šarku,<br>
+Nek pozdravi moju staru majku.<br>
+<br>
+Ko ponese moju kabanicu,<br>
+Nek pozdravi moju drugaricu.<br>
+<br>
+I sestricu, moje rosno cvijeće,<br>
+Da joj brale više doći neće.
 
 <h2>III verzija</h2>
 
@@ -97,12 +95,12 @@ da joj bratac više doći neće."<br />
 
 Razvila se jedna jela vita,<br />
 ispod naše gore Velebita<br />
-<br/>
+<br />
 i pod njome ranjen junak leži.<br />
 Tud proljazi pastirica mlada,<br />
 skromno iduć ispred svoga stada.<br />
 — Drugarice, hajd mi rane veži!<br />
-<br/>
+<br />
 Ne plaši se, već slobodna budi,<br />
 ja sam ranjen u bijele grudi.<br />
 <br />
@@ -111,13 +109,13 @@ Ja mu rane zavijam u ruže:<br />
 <br />
 — Drugarice, teške su mi rane<br />
 kud je prošlo zlikovačko tane.<br />
-<br/>
+<br />
 Pozdravi mi sve drugove moje<br />
 neka čvrsto na braniku stoje.<br />
-<br/>
+<br />
 Uzmi, draga, moju pušku šaru,<br />
 pa je podaj najboljem drugaru,<br />
-<br/>
+<br />
 nek se drugar mojom puškom sveti!<br />
 A sad zdravo, ja moram umrijeti.<br />
 
@@ -125,28 +123,28 @@ A sad zdravo, ja moram umrijeti.<br />
 
 <h2>V verzija</h2>
 
-Ispod naše gore Velebita<br/>
-razvila se jedna jela vita<br/>
-<br/>
-i pod njome ranjen junak leži.<br/>
-Drugarice ajd mi rane veži<br/>
-<br/>
-ne plaši se već slobodna budi<br/>
-ja sam ranjen u junačke grudi.<br/>
-<br/>
-Ja mu rane zavijam u ruže,<br/>
-kako ti je moj premili druže?<br/>
-<br/>
-Drugarice, teške su mi rane<br/>
-kud je prošlo fašističko tane<br/>
-<br/>
-već ti uzmi moju pušku šaru<br/>
-pa je podaj jedome drugaru<br/>
-<br/>
-i pozdravi sve drugove moje<br/>
-neka čtvrsto na braniku stoje.<br/>
-<br/>
-Pokraj srca velika je rana<br/>
-nestade nam jednog partizana.<br/>
+Ispod naše gore Velebita<br />
+razvila se jedna jela vita<br />
+<br />
+i pod njome ranjen junak leži.<br />
+Drugarice ajd mi rane veži<br />
+<br />
+ne plaši se već slobodna budi<br />
+ja sam ranjen u junačke grudi.<br />
+<br />
+Ja mu rane zavijam u ruže,<br />
+kako ti je moj premili druže?<br />
+<br />
+Drugarice, teške su mi rane<br />
+kud je prošlo fašističko tane<br />
+<br />
+već ti uzmi moju pušku šaru<br />
+pa je podaj jedome drugaru<br />
+<br />
+i pozdravi sve drugove moje<br />
+neka čtvrsto na braniku stoje.<br />
+<br />
+Pokraj srca velika je rana<br />
+nestade nam jednog partizana.<br />
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
