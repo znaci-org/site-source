@@ -1304,6 +1304,8 @@ include "includes/header.php";
                 <li><a href="poezija/ob-tabornem-ognju.php">Ob tabornem ognju</a></li>
                 <li><a href="poezija/za-vasjo-je-credo-pasla.php">Za vasjo je čredo pasla</a></li>
                 <li><a href="poezija/pociva-jezero-v-tihoti.php">Počiva jezero v tihoti</a></li>
+                <li><a href="poezija/kdo-pa-so-ti-mladi-fantje.php">Kdo pa so ti mladi fantje</a></li>
+                <li><a href="poezija/janez-kranjski-janez.php">Janez kranjski Janez</a></li>
             </ul>
         </article>
 
@@ -1318,6 +1320,8 @@ include "includes/header.php";
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice prva republiko</a></li>
                 <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
+                <li><a href="poezija/o-moj-mile-moja-ruzo.php">O moj mile moja ružo</a></li>
+                <li><a href="poezija/suma-zuti-odlaze-regruti.php">Šuma žuti odlaze regruti</a></li>
                 <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
                 <li><a href="poezija/pesma-fruskogorskih-partizana.php">Pesma fruškogorskih partizana</a></li>
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
@@ -1366,6 +1370,7 @@ include "includes/header.php";
                 <li><a href="poezija/gledaj-me-gledaj-libe.php">Гледај ме гледај либе</a></li>
                 <li><a href="poezija/taman-se-oblak-zadade.php">Таман се облак зададе</a></li>
                 <li><a href="poezija/bolen-lezi-mile-pop-jordanov.php">Болен ми лежи Миле Поп Јорданов</a></li>
+                <li><a href="poezija/a-bre-makedonce.php">А бре Македонче</a></li>
             </ul>
         </article>
 
@@ -1745,6 +1750,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Leo Martin</h4>
+            <ul>
+                <li><a href="poezija/epopeja-partizana.php">Epopeja partizana</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/to-je-nama-nasa-borba-dala.php">To je nama naša borba dala</a></li>
@@ -1755,6 +1767,7 @@ include "includes/header.php";
                 <li><a href="poezija/ja-i-draga-jedne-vjere-nismo.php">Ja i draga jedne vjere nismo</a></li>
                 <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
+                <li><a href="poezija/zvone-zvona-sa-izgradnje.php">Zvone zvona sa izgradnje</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
                 <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sad se sjećam Like i Krbave</a> (epika)</li>

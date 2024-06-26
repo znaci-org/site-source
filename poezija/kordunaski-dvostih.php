@@ -33,10 +33,19 @@ Kako Srba tako i Hrvata.<br />
 Volim svakog ko ustaše bije,<br />
 Jer bez toga slobode nam nije.<br />
 <br />
+Partizane, ko ti liječi rane?<br />
+Mala moja, vjerna ljubav tvoja.<br />
+<br />
 Sipa narod po četama cvijeće,<br />
 To se, druže, zaboravit’ neće.<br />
 <br />
-Partizane, ko ti liječi rane?<br />
-Mala moja, vjerna ljubav tvoja.<br />
+Drug Ćanica i Petrova Gora<br/>
+Dok je svijeta spominjat se mora.<br/>
+<br />
+Paveliću, zelenih očiju<br/>
+Ćanica ti kupio kočiju.<br/>
+Voziće te u Petrovu Goru,<br/>
+Da na tebi partizani oru!<br/>
+<br />
 
 <p>(Narodne pjesme, poslovice i slike iz života i običaja Srba na Kordunu. Knj. 2, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1987., str. 155-157.)</p>
