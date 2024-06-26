@@ -1206,7 +1206,6 @@ include "includes/header.php";
                 <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
                 <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
                 <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Kordun)</li>
-                <li><a href="poezija/svanit-ce-van-crni-danci.php">Svanit će van crni danci</a></li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
                 <li><a href="poezija/spustila-se-gusta-magla.php">Spustila se gusta magla</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
@@ -1341,6 +1340,7 @@ include "includes/header.php";
                 <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
                 <li><a href="poezija/necu-majko-za-cetnika.php">Neću majko za četnika</a></li>
                 <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a> (epika)</li>
+                <li><a href="poezija/oj-jelice-je-l-ti-zao.php">Oj Jelice jel ti žao</a></li>
                 <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
                 <li><a href="poezija/partizani-sto-suze-lijete.php">Partizani što suze lijete</a></li>
                 <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
@@ -1395,6 +1395,7 @@ include "includes/header.php";
                 <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
                 <li><a href="poezija/padaj-silo-i-nepravdo.php">Padaj silo i nepravdo</a></li>
                 <li><a href="poezija/petokraka.php">Petokraka</a></li>
+                <li><a href="poezija/petokrako-zašto-si-crvena.php">Petokrako zašto si crvena</a></li>
                 <li><a href="poezija/svakoj-majci-treba-da-je-dika.php">Svakoj majci treba da je dika</a></li>
                 <li><a href="poezija/aoj-goro-goro-svakojaka.php">Aoj goro goro svakojaka</a></li>
                 <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
@@ -1409,6 +1410,7 @@ include "includes/header.php";
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
+                <li><a href="poezija/oj-hitleru-ti-si-prvi.php">Oj Hitleru ti si prvi</a></li>
                 <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>

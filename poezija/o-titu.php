@@ -90,5 +90,14 @@ Drug nam Tito cijeli narod budi.<br/>
 Druže Tito naše desno krilo<br/>
 Da te nije, ne bi ni nas bilo.<br/>
 <br/>
+Druže Tito ljubičice bijela,<br/>
+Tebe voli omladina cijela.<br/>
+<br/>
+Tebe voli omladina cijela,<br/>
+Popaljenih gradova i sela.<br/>
+<br/>
+Druže Tito ti narodna nado.<br/>
+Tebe voli i staro i mlado.<br/>
+<br/>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt=""></p>
