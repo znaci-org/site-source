@@ -1318,7 +1318,8 @@ include "includes/header.php";
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice prva republiko</a></li>
                 <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
-                <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>                
+                <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
+                <li><a href="poezija/pesma-fruskogorskih-partizana.php">Pesma fruškogorskih partizana</a></li>
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
                 <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
@@ -1751,7 +1752,7 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-slobodi.php">Pjesma slobodi</a></li>
                 <li><a href="poezija/pesma-izgradnje.php">Pesma izgradnje</a></li>
                 <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
-                <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
+                <li><a href="poezija/ja-i-draga-jedne-vjere-nismo.php">Ja i draga jedne vjere nismo</a></li>
                 <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>

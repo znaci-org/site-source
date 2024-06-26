@@ -1,5 +1,5 @@
 <?php
-$naslov = "Partizanski deseterački dvostih o Titu";
+$naslov = "Partizanski dvostih o Titu";
 include "../includes/header.php";
 ?>
 
@@ -36,31 +36,49 @@ Kličemo ti s Kozare planine.<br />
 Druže Tito, titovku nakrivi,<br />
 Svi su tvoji proleteri živi.<br />
 <br />
-Druže Tito, naše rosno cvijeće,<br/>
-cio narod za tobom se kreće.<br/>
+Druže Tito, naše rosno cvijeće,<br />
+cio narod za tobom se kreće.<br />
+<br />
+Ti si, druže, na temelju bio,<br />
+od početka narod predvodio.<br />
+<br />
+Tito, zemlje naše čedo milo,<br />
+da te nije — ne bi ni nas bilo.<br />
+<br />
+Drugarice, posadimo cvijeće,<br />
+kuda vojska druga Tita kreće.<br />
+<br />
+Ovo nam je naša borba dala<br />
+da imamo Tita za maršala.<br />
+<br />
+Naš sokole, širi svoja krila<br />
+da bi zemlja slobodna nam bila.<br />
+<br />
+Maršal Tito, vođo svih brigada,<br />
+tvojom borbom nestati će jada.<br />
+<br />
+Više zemlja robovati neće,<br />
+vojska tvoja po njoj sada šeće.<br />
+<br />
+Maršal Tito, ružice rumena,<br />
+s tobom naša zemlja proslavljena!<br />
+<br />
+Druže Tito, naš maršale prvi,<br />
+Mi smo tebe dobili u krvi.<br />
 <br/>
-Ti si, druže, na temelju bio,<br/>
-od početka narod predvodio.<br/>
+Ti si bio vođa svih brigada,<br />
+Tvojom borbom nestalo je jada.<br />
+<br />
+Druže Tito, jagodo iz rose,<br />
+Sa tobom se narodi ponose.<br />
 <br/>
-Tito, zemlje naše čedo milo,<br/>
-da te nije — ne bi ni nas bilo.<br/>
+Druže Tito, naš narodni sine,<br />
+Kličemo ti s Grmeča planine.<br />
+<br />
+Dok se Tito po zemlji nam šeće,<br />
+S nama drugi komandovat' neće.<br />
 <br/>
-Drugarice, posadimo cvijeće,<br/>
-kuda vojska druga Tita kreće.<br/>
-<br/>
-Ovo nam je naša borba dala<br/>
-da imamo Tita za maršala.<br/>
-<br/>
-Naš sokole, širi svoja krila<br/>
-da bi zemlja slobodna nam bila.<br/>
-<br/>
-Maršal Tito, vođo svih brigada,<br/>
-tvojom borbom nestati će jada.<br/>
-<br/>
-Više zemlja robovati neće,<br/>
-vojska tvoja po njoj sada šeće.<br/>
-<br/>
-Maršal Tito, ružice rumena,<br/>
-s tobom naša zemlja proslavljena!<br/>
+Ovo nam je pjesma najmilija -<br />
+Da nam živi Tito i Partija.<br />
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt=""></p>
