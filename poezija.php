@@ -1301,6 +1301,7 @@ include "includes/header.php";
                 <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
                 <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
                 <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
+                <li><a href="poezija/komandant-stane.php">Komandant Stane</a></li>
             </ul>
         </article>
 
@@ -1340,6 +1341,7 @@ include "includes/header.php";
                 <li><a href="poezija/stani-stani-bataljonu-malo.php">Stani stani bataljonu malo</a></li>
                 <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
                 <li><a href="poezija/zuta-dunja-pa-mirise.php">Žuta dunja pa miriše</a></li>
+                <li><a href="poezija/psenica-je-klasala.php">Pšenica je klasala</a></li>
                 <li><a href="poezija/partizane-nase-ceo-svet-vec-zna.php">Partizane naše ceo svet već zna</a></li>
                 <li><a href="poezija/o-radane-visoka-planino.php">O Radane visoka planino</a></li>
                 <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
@@ -1402,6 +1404,7 @@ include "includes/header.php";
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo mirisavo cvijeće</a></li>
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
+                <li><a href="poezija/katjusa.php">Katjuša</a></li>
             </ul>
         </article>
     </div>
