@@ -14,3 +14,12 @@ Cio narod u boj kreće.<br/>
 <br/>
 Novu sreću i slobodu<br/>
 Stvorit ćemo svome rodu.<br/>
+<br/>
+Kreni kolo da krenemo,<br/>
+Druga Tita da pomenemo.<br/>
+<br/>
+Druže Tito naš maršale,<br/>
+Mase su te izabrale.<br/>
+<br/>
+Izabrali ovog rata,<br/>
+Za Vrhovnog komandanta<br/>

@@ -1361,7 +1361,7 @@ include "includes/header.php";
                 <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj Dražo izdajico stara</a></li>
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci junaci iz ćoške</a></li>
                 <li><a href="poezija/jednog-dana-pismo-stize.php">Jednog dana pismo stiže</a></li>
-                <li><a href="poezija/djevojcice-ti-seljacka.php">Djevojčice ti seljačka</a></li>
+                <li><a href="poezija/borba-za-oslobodjenje-uzica.php">Borba za oslobođenje Užica</a></li>
             </ul>
         </article>
 
@@ -1394,9 +1394,9 @@ include "includes/header.php";
                 <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
                 <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
                 <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata oba ratujemo</a></li>
-                <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
                 <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže tvoja kuća gori</a></li>
                 <li><a href="poezija/seljace-druze-dokle-ces-tako.php">Seljače druže dokle ćeš tako?</a></li>
+                <li><a href="poezija/djevojcice-ti-seljacka.php">Djevojčice ti seljačka</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana</a></li>
