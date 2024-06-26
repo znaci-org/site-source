@@ -1,5 +1,5 @@
 <?php
-$naslov = "Spustila se gusta tama pokraj Dunava";
+$naslov = "Spustila se gusta magla";
 include "../includes/header.php";
 ?>
 
@@ -7,16 +7,34 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma Korduna</i>)</p>
+<p>(<i>narodna pjesma</i>)</p>
+
+Spustila se gusta magla,<br/>
+Pokraj Dunava,<br/>
+Pokraj Dunava.<br/>
+<br/>
+To ne bila gusta magla,<br/>
+Pokraj Dunava,<br/>
+Pokraj Dunava.<br/>
+<br/>
+Već to je bila hrabra vojska,<br/>
+Maršal Titova,<br/>
+Maršal Titova.<br/>
+
+<h2>II verzija</h2>
 
 Spustila se gusta tama<br/>
 pokraj Dunava.<br/>
+<br/>
 To ne bila gusta tama<br/>
 pokraj Dunava,<br/>
+<br/>
 već to bila silna vojska<br/>
 Tita maršala.<br/>
+<br/>
 Oj, maršale, kupi vojsku<br/>
 sve pod jedan broj,<br/>
+<br/>
 a ti Joco Tarabiću,<br/>
 vodi nas u boj.<br/>
 

@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>popularna pjesnička forma Krajine</i>)</p>
+<p>(<i>popularna pjesnička forma Krajine, Like i Korduna</i>)</p>
 
 Nije ni to dobito sa šalom<br />
 da se Tito nazove maršalom.<br />
@@ -80,5 +80,15 @@ S nama drugi komandovat' neće.<br />
 <br/>
 Ovo nam je pjesma najmilija -<br />
 Da nam živi Tito i Partija.<br />
+<br />
+Druže Tito, ti narodni sine<br/>
+Tebi narod pjeva od miline.<br/>
+<br/>
+Rujna zora sa istoka rudi<br/>
+Drug nam Tito cijeli narod budi.<br/>
+<br/>
+Druže Tito naše desno krilo<br/>
+Da te nije, ne bi ni nas bilo.<br/>
+<br/>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt=""></p>

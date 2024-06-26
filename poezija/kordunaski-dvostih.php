@@ -42,6 +42,12 @@ To se, druže, zaboravit’ neće.<br />
 Drug Ćanica i Petrova Gora<br/>
 Dok je svijeta spominjat se mora.<br/>
 <br />
+Popaljenih gradova i sela<br/>
+Na Kordunu robovanja nema.<br/>
+<br/>
+To nam vojska druga Tita šeće<br/>
+Više Kordun robovati neće.<br/>
+<br/>
 Paveliću, zelenih očiju<br/>
 Ćanica ti kupio kočiju.<br/>
 Voziće te u Petrovu Goru,<br/>
