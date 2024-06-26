@@ -68,26 +68,50 @@ da skinemo jaram s’ vrata.<br />
 dolje lanci i okovi,<br />
 ne vežu se sokolovi.<br />
 
-<h2>III verzija (lička)</h2>
+<h2>III verzija (Omladina u boj kreće)</h2>
 
 Listaj goro cvetaj cvijeće<br/>
 omladina u boj kreće.<br/>
 ...<br/>
 Omladino zemlje ove<br/>
 zbijajmo se u redove<br/>
+<br/>
 zbijajmo se ko sovjeti<br/>
 da skinemo jaram kleti.<br/>
+<br/>
 Zbijajmo se brat do brata<br/>
 da skinemo jaram s vrata,<br/>
+<br/>
 zbijajmo se drug do druga<br/>
 borba ne će biti duga.<br/>
 ...<br/>
 Dole lanci i okovi<br/>
 ne vežu se sokolovi.<br/>
+<br/>
 Suzama se boj ne bije<br/>
 već se vrela krvca lije.<br/>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>IV verzija (Omladina u boj kreće)</h2>
+
+Listaj goro, cvjetaj cvjeće,<br/>
+Omladina u boj kreće.<br/>
+<br/>
+Omladina u boj kreće<br/>
+Robovati više neće.<br/>
+<br/>
+Omladino zemlje ove,<br/>
+Zbijajmo se u redove.<br/>
+<br/>
+Zbijajmo se brat do brata,<br/>
+Da skinemo jaram s vrata,<br/>
+<br/>
+Josip Staljin iz Sovjeta<br/>
+Poručuje širom svjeta<br/>
+<br/>
+Ko ustanak sad ne sprema<br/>
+Međ' narodom mjesta nema<br/>
 
 <p>
   <img src="http://www.znaci.org/images/3357.jpg"><br>

@@ -1248,6 +1248,7 @@ include "includes/header.php";
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
                 <li><a href="poezija/na-vrh-gore-romanije.php">Na sred gore Romanije</a></li>
+                <li><a href="poezija/ide-tito-preko-romanije.php">Ide Tito preko Romanije</a></li>
                 <li><a href="poezija/kozaracko-kolo.php">Oj Kozaro (Kozaračko kolo)</a></li>
                 <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene naš Mladene</a></li>
@@ -1255,7 +1256,7 @@ include "includes/header.php";
                 <li><a href="poezija/banjaluko-mali-grade.php">Banjaluko mali grade</a></li>
                 <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
                 <li><a href="poezija/na-palezu-skupise-se-momci.php">Na Paležu skupiše se momci</a></li>
-                <li><a href="poezija/oj-kozaro-kozarice-moja.php">Oj Kozaro Kozarice moja</a></li>
+                <li><a href="poezija/oj-kozaro-kozarice-moja.php">Naša borba takva je</a></li>
                 <li><a href="poezija/oj-kozaro-ne-treba-ti-kise.php">Oj Kozaro ne treba ti kiše</a></li>
                 <li><a href="poezija/oj-kozarske-vite-jele.php">Oj kozarske vite jele</a></li>
                 <li><a href="poezija/druga-sosu-ubila-je-mina.php">Druga Šošu ubila je mina</a></li>
@@ -1278,9 +1279,11 @@ include "includes/header.php";
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/bijela-vilo-sa-planine.php">Bijela vilo sa planine</a></li>
+                <li><a href="poezija/mitraljeska-vatra-gori.php">Mitraljeska vatra gori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
+                <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
             </ul>
         </article>
 
@@ -1373,22 +1376,24 @@ include "includes/header.php";
                 <li><a href="poezija/kud-narodna-vojska-prodje.php">Kud narodna vojska prođe</a></li>
                 <li><a href="poezija/kraj-sutjeske-hladne-vode.php">Kraj Sutjeske hladne vode</a></li>
                 <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata oba ratujemo</a></li>
+                <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
                 <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže tvoja kuća gori</a></li>
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana</a></li>
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
+                <li><a href="poezija/o-titu.php">O Titu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
                 <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
-                <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
+                <li><a href="poezija/mjesto-tvoje-ruke-dvije.php">Mjesto tvoje ruke dvije</a></li>
                 <li><a href="poezija/suma-lista-rastu-zita.php">Šuma lista rastu žita</a></li>
                 <li><a href="poezija/goro-goro-zelenijeh-grana.php">Goro goro zelenijeh grana</a></li>
                 <li><a href="poezija/partizani-pola-roda-moga.php">Partizani pola roda moga</a></li>
                 <li><a href="poezija/nema-zore-nema-dana.php">Nema zore nema dana</a></li>
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
-                <li><a href="poezija/mjesto-tvoje-ruke-dvije.php">Mjesto tvoje ruke dvije</a></li>
+                <li><a href="poezija/poznjela-se-sasa.php">Požnjela se šaša</a></li>
                 <li><a href="poezija/druze-ivo-voditelju-skoja.php">Druže Ivo voditelju Skoja</a></li>
                 <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga raste vjera</a></li>
@@ -1451,7 +1456,7 @@ include "includes/header.php";
         <article>
             <h4>Miroslav Krleža</h4>
             <ul>
-                <li><a href="poezija/o-titu.php">O Titu</a></li>
+                <li><a href="poezija/krleza-o-titu.php">O Titu</a></li>
             </ul>
         </article>
 
