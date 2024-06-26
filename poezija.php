@@ -816,6 +816,7 @@ include "includes/header.php";
                 <li><a href="poezija/abdulah-ore.php">Abdulah ore</a></li>
                 <li><a href="poezija/nadjena-djevojcica.php">Nađena djevojčica</a></li>
                 <li><a href="poezija/osamljeni-dub.php">Osamljeni dub</a></li>
+                <li><a href="poezija/zaziv.php">Zaziv</a></li>
             </ul>
         </article>
 
@@ -1339,6 +1340,7 @@ include "includes/header.php";
                 <li><a href="poezija/partizani-sto-suze-lijete.php">Partizani što suze lijete</a></li>
                 <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
                 <li><a href="poezija/oj-uzice-divni-grade.php">Oj Užice divni grade</a></li>
+                <li><a href="poezija/oj-pozego-ti-maleni-grade.php">Oj Požego ti maleni grade</a></li>
                 <li><a href="poezija/o-moj-cacku-o-moj-mili-grade.php">O moj Čačku o moj mili grade</a></li>
                 <li><a href="poezija/nemam-sestre-a-nemam-ni-brata.php">Nemam sestre a nemam ni brata</a></li>
                 <li><a href="poezija/od-valjeva-pa-do-nisa.php">Od Valjeva pa do Niša</a></li>
@@ -1394,6 +1396,7 @@ include "includes/header.php";
                 <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata oba ratujemo</a></li>
                 <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
                 <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže tvoja kuća gori</a></li>
+                <li><a href="poezija/seljace-druze-dokle-ces-tako.php">Seljače druže dokle ćeš tako?</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana</a></li>
@@ -1403,6 +1406,7 @@ include "includes/header.php";
                 <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
+                <li><a href="poezija/omladinke-hajte-u-boj-s-nama.php">Omladinke hajte u boj s nama</a></li>
                 <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
                 <li><a href="poezija/mjesto-tvoje-ruke-dvije.php">Mjesto tvoje ruke dvije</a></li>
                 <li><a href="poezija/suma-lista-rastu-zita.php">Šuma lista rastu žita</a></li>

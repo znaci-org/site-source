@@ -9,6 +9,20 @@ include "../includes/header.php";
 
 <p>(<i>narodna pesma iz Srbije</i>)</p>
 
+Žuta dunja pa miriše,<br/>
+Tito vojsku mobiliše.<br/>
+<br/>
+Mobiliše mlade momke,<br/>
+Da mu nose puške zorke.<br/>
+<br/>
+I djevojke partizanke,<br/>
+Da mu budu bolničarke.<br/>
+<br/>
+Da se zemlja oslobodi,<br/>
+I da novo žito rodi.<br/>
+
+<h2>II verzija</h2>
+
 Žuta dunja pa miriše,<br>
 Tito vojsku mobiliše,<br>
 <br>
@@ -20,7 +34,7 @@ Od dušmana i fašista.
 
 <p>(Miodrag A. Vasiljević, Narodne melodije leskovačkog kraja, Srpska akademija nauka, Muzikološki institut knjiga 11, Beograd, 1960., str. 314.)</p>
 
-<h2>II verzija</h2>
+<h2>III verzija</h2>
 
 Žuta dunja pa miriše,<br>
 Tito vojsku mobiliše,<br>

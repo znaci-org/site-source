@@ -75,6 +75,15 @@ naše su te gore dale.<br />
 Ono su ti ljute zmije,<br />
 druga Peka divizije.<br />
 
-<!-- <img src="http://www.znaci.org/images/16636.jpg" alt=""> -->
+<h2>IV  verzija</h2>
+
+Čiji ono borci biše,<br/>
+Što Beograd osvojiše?<br/>
+<br/>
+Ono su ti ljute zmije,<br/>
+Druga Peka divizije.<br/>
+<br/>
+Cijele zemlje to su borci,<br/>
+Druga Tita dobrovoljci.<br/>
 
 <p><img src="http://www.znaci.org/images/6672.jpg" alt=""></p>

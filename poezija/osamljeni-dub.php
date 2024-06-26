@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Nazor - Osamljeni dub";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Nazor - Osamljeni dub</h1>
+<h1><?php echo $naslov ?></h1>
 
 Sami smo ... Neka! Sami uv’jek bjesmo<br/>
 Ko dub što stoji na proplanku svom;<br/>
