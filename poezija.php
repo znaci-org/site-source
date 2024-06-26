@@ -1429,6 +1429,8 @@ include "includes/header.php";
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo mirisavo cvijeće</a></li>
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
+                <li><a href="poezija/sad-je-vojska-nasa-jaka.php">Sad je vojska naša jaka</a></li>
+                <li><a href="poezija/zbogom-ostaj-bunkeru-na-drini.php">Zbogom ostaj bunkeru na Drini</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
                 <li><a href="poezija/partizanski-dvostih-osmerac.php">Partizanski dvostih (osmerac)</a></li>
