@@ -1303,6 +1303,7 @@ include "includes/header.php";
                 <li><a href="poezija/komandant-stane.php">Komandant Stane</a></li>
                 <li><a href="poezija/ob-tabornem-ognju.php">Ob tabornem ognju</a></li>
                 <li><a href="poezija/za-vasjo-je-credo-pasla.php">Za vasjo je čredo pasla</a></li>
+                <li><a href="poezija/pociva-jezero-v-tihoti.php">Počiva jezero v tihoti</a></li>
             </ul>
         </article>
 
@@ -1387,6 +1388,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
                 <li><a href="poezija/o-titu.php">Deseterački stihovi o Titu</a></li>
+                <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
                 <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
