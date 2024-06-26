@@ -1262,7 +1262,6 @@ include "includes/header.php";
                 <li><a href="poezija/druga-sosu-ubila-je-mina.php">Druga Šošu ubila je mina</a></li>
                 <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
                 <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
-                <li><a href="poezija/drug-se-tito-po-krajini-sece.php">Drug se Tito po Krajini šeće</a></li>
                 <li><a href="poezija/oj-drugovi-iz-pete-brigade.php">Oj drugovi iz Pete brigade</a></li>
                 <li><a href="poezija/romanija-ivo.php">Romanija Ivo</a></li>
                 <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
@@ -1387,7 +1386,7 @@ include "includes/header.php";
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
-                <li><a href="poezija/o-titu.php">O Titu</a></li>
+                <li><a href="poezija/o-titu.php">Deseterački stihovi o Titu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
                 <li><a href="poezija/drugarice-vedra-cela.php">Drugarice vedra čela</a></li>
