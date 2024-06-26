@@ -561,7 +561,7 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-mrtvih-proletera.php">Pjesma mrtvih proletera</a></li>
                 <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
                 <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
-                <li><a href="poezija/bolna-lezi-omladinka-mara.php">Bolna leži omladinka Mara</a></li>
+                <li><a href="poezija/omladinka-mara.php">Omladinka Mara</a></li>
                 <li><a href="poezija/balada-o-zdravku-proleteru.php">Balada o Zdravku proleteru</a></li>
                 <li><a href="poezija/pjesma-reke-une.php">Pjesma reke Une</a></li>
                 <li><a href="poezija/prica-o-sest-stotina-oraca.php">Priča o šest stotina orača</a></li>

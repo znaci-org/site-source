@@ -13,7 +13,7 @@ Oj, narode Like i Korduna,<br />
 Došlo vrijeme da se diže buna<br />
 <br />
 Protiv sviju tvojih ugnjetača,<br />
-Ustaša i drugih osvajača.<br />
+Ustaša i tuđih osvajača.<br />
 <br />
 Sastali se Kordunaši s Likom,<br />
 Ne daju se pokoriti nikom.<br />
@@ -23,6 +23,8 @@ Da ćemo se do kraja boriti.<br />
 <br>
 Donijet ćemo sreću i slobodu<br />
 hrvatskom i srpskome narodu.<br />
+
+<p><img src="skenovi/oj-narode-like-i-korduna.jpg" alt=""></p>
 
 <h2>II verzija</h2>
 
@@ -75,4 +77,10 @@ proćerajte krvave ustaše<br/>
 
 <p>(Narodne pjesme, poslovice i slike iz života i običaja Srba na Kordunu. Knj. 2, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1987., str. 132.)</p>
 
-<p><img src="skenovi/oj-narode-like-i-korduna.jpg" alt=""></p>
+<h2>V verzija (Sastala se Krajina sa Likom)</h2>
+
+Sastala se Krajina sa Likom,<br/>
+pa se ne da pokoriti nikom.<br/>
+<br/>
+Oj Hitleru jebemo ti nanu,<br/>
+Ostavit ćeš kosti na Balkanu!<br/>
