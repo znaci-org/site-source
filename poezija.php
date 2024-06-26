@@ -899,6 +899,7 @@ include "includes/header.php";
                 <li><a href="poezija/materi-padlega-partizana.php">Materi padlega partizana</a></li>
                 <li><a href="poezija/nemskemu-proletariatu.php">Nemškemu proletariatu</a></li>
                 <li><a href="poezija/preko-smrti-stopamo-v-svobodo.php">Preko smrti stopamo v svobodo</a></li>
+                <li><a href="poezija/pesem-xiv-divizije.php">Pesem XIV. divizije</a></li>
             </ul>
         </article>
 
@@ -1185,6 +1186,7 @@ include "includes/header.php";
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume šume najlepša vam hvala</a></li>
                 <li><a href="poezija/oca-nemam-majke-sestre.php">Oca nemam, majke, sestre</a></li>
                 <li><a href="poezija/siroce-sam-bez-ikoga-svoga.php">Siroče sam bez ikoga svoga</a></li>
+                <li><a href="poezija/sjetimo-se-drugarice-lani.php">Sjetimo se drugarice lani</a></li>
                 <li><a href="poezija/u-bunkeru-sjedim.php">U bunkeru sjedim</a></li>
                 <li><a href="poezija/ranjen-junak-u-gori.php">Ranjen junak u gori</a></li>
                 <li><a href="poezija/oj-bolnice.php">Oj bolnice u šumici zgrada</a></li>

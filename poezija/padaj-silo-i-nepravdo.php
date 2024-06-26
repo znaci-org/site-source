@@ -43,3 +43,13 @@ isti im je trud i rad.<br/>
   <img src="skenovi/padaj-silo-i-nepravdo.jpg" alt="note"><br>
   <img src="skenovi/padaj-silo.jpg" alt="note">
 </p>
+
+<hr>
+
+<p>Manje poznate reči:</p>
+turni - tornji<br/>
+vela - velika<br/>
+po palaci tvrdimi - po palatama tvrdim<br/>
+mašklin - budak, kramp<br/>
+gremo – idemo<br/>
+<br/>
