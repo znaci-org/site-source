@@ -40,3 +40,7 @@ Kud se vojska druga Tita kreće!<br/>
 <br/>
 Ova zemlja više robovat neće<br/>
 Jer se po njoj vojska druga Tita kreće!<br/>
+
+<hr>
+
+<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvobitnu verziju teksta, za ovu pesmu.</p>

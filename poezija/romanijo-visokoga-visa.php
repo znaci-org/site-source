@@ -60,3 +60,7 @@ include "../includes/header.php";
   Na nebu se vijaju oblaci,<br />
   Romanijom crveni barjaci.<br />
 </p>
+
+<hr>
+
+<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku za ovu pesmu.</p>

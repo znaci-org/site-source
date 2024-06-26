@@ -803,7 +803,7 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vladimir_Nazor.jpg/100px-Vladimir_Nazor.jpg" title="Vladimir Nazor u Splitu 1944.">
             <ul>
                 <li><a href="poezija/camac-na-kupi.php">Čamac na Kupi</a></li>
-                <li><a href="poezija/uz-marsala-tita.php">Uz maršala Tita</a></li>
+                <li><a href="poezija/uz-marsala-tita.php">Pjesma o pesti</a></li>
                 <li><a href="poezija/crvena-zvijezda.php">Crvena zvijezda</a></li>
                 <li><a href="poezija/majka-pravoslavna.php">Majka pravoslavna</a></li>
                 <li><a href="poezija/na-vucevu.php">Na Vučevu</a></li>

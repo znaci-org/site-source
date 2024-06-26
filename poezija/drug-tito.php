@@ -38,3 +38,7 @@ pohitajmo kud nas vodi,<br>
 kličuć: Tito, Tito, Tito!</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg">
+
+<hr>
+
+<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku za ovu pesmu.</p>

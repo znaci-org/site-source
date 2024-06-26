@@ -1,5 +1,5 @@
 <?php
-$naslov = "Na Kordunu grob do groba";
+$naslov = "Desanka Kačar - Na Kordunu grob do groba";
 include "../includes/header.php";
 ?>
 
@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma</i>)</p>
+<p>(<i>pjesma Desanke Čuić-Kačar koja je postala narodna</i>)</p>
 
 Na Kordunu grob do groba,<br/>
 traži majka sina svoga.<br/>
@@ -111,3 +111,7 @@ onda dođi grobu mome.<br/>
 <h2>V verzija</h2>
 
 <img src="skenovi/na kordunu.jpg" alt="">
+
+<hr>
+
+<p>Desanka Kačar, autorica ove pjesme, kaže da joj je inspiracija bila crnogorska partizanska pjesma Navrh gore Durmitora.</p>

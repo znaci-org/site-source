@@ -7,9 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>
-  (<i>pjesma Branka Ćopića koja je postala narodna</i>)
-</p>
+<p>(<i>pjesma Branka Ćopića koja je postala narodna</i>)</p>
 
 Bolna leži omladinka Mara<br />
 sa starom se majkom razgovara.<br />
