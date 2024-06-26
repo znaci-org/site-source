@@ -1246,6 +1246,7 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bosnian-Herzegovinian_Partisans_flag.svg/80px-Bosnian-Herzegovinian_Partisans_flag.svg.png" alt="">
             <ul>
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
+                <li><a href="poezija/sred-kozare-borba-poce.php">Sred Kozare borba poče</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
                 <li><a href="poezija/na-sred-gore-romanije.php">Na sred gore Romanije</a></li>
                 <li><a href="poezija/ide-tito-preko-romanije.php">Ide Tito preko Romanije</a></li>
@@ -1324,6 +1325,7 @@ include "includes/header.php";
                 <li><a href="poezija/nemoj-mile-biti-vojnik-dugo.php">Nemoj mile biti vojnik dugo</a></li>
                 <li><a href="poezija/suma-zuti-odlaze-regruti.php">Šuma žuti odlaze regruti</a></li>
                 <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
+                <li><a href="poezija/poznaju-se-braca-uzicani.php">Poznaju se braća Užičani</a></li>
                 <li><a href="poezija/pesma-fruskogorskih-partizana.php">Pesma fruškogorskih partizana</a></li>
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
                 <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
@@ -1356,6 +1358,7 @@ include "includes/header.php";
                 <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj Dražo izdajico stara</a></li>
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci junaci iz ćoške</a></li>
                 <li><a href="poezija/jednog-dana-pismo-stize.php">Jednog dana pismo stiže</a></li>
+                <li><a href="poezija/djevojcice-ti-seljacka.php">Djevojčice ti seljačka</a></li>
             </ul>
         </article>
 
@@ -1390,6 +1393,7 @@ include "includes/header.php";
                 <li><a href="poezija/nas-dva-brata-oba-ratujemo.php">Nas dva brata oba ratujemo</a></li>
                 <li><a href="poezija/pjevaj-majko-kad-u-borbu-podjem.php">Pjevaj majko kad u borbu pođem</a></li>
                 <li><a href="poezija/druze-tvoja-kuca-gori.php">Druže tvoja kuća gori</a></li>
+                <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana</a></li>
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
@@ -1404,17 +1408,17 @@ include "includes/header.php";
                 <li><a href="poezija/goro-goro-zelenijeh-grana.php">Goro goro zelenijeh grana</a></li>
                 <li><a href="poezija/partizani-pola-roda-moga.php">Partizani pola roda moga</a></li>
                 <li><a href="poezija/nema-zore-nema-dana.php">Nema zore nema dana</a></li>
+                <li><a href="poezija/proljece-se-budi-travica-mirise.php">Proljeće se budi travica miriše</a></li>
+                <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/poznjela-se-sasa.php">Požnjela se šaša</a></li>
                 <li><a href="poezija/druze-ivo-voditelju-skoja.php">Druže Ivo voditelju Skoja</a></li>
                 <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga raste vjera</a></li>
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
-                <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo mirisavo cvijeće</a></li>
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
-                <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
                 <li><a href="poezija/partizanski-dvostih-osmerac.php">Partizanski dvostih (osmerac)</a></li>
             </ul>
@@ -1502,7 +1506,7 @@ include "includes/header.php";
                 <li><a href="poezija/covek-nije-samo.php">Čovek nije samo</a></li>
             </ul>
         </article>
-        
+
         <article>
             <h4>Branko Ćopić</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Branko_Copic.jpg">
@@ -1720,7 +1724,7 @@ include "includes/header.php";
                 <li><a href="poezija/uspomene-iz-detinjstva.php">Uspomene iz detinjstva</a></li>
             </ul>
         </article>
-        
+
         <article>
             <h4>Mak Dizdar</h4>
             <ul>
