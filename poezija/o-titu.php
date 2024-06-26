@@ -96,6 +96,9 @@ Tebe voli omladina cijela.<br/>
 Tebe voli omladina cijela,<br/>
 Popaljenih gradova i sela.<br/>
 <br/>
+Druže Tito, ljubičice plava,
+Ti se boriš za narodna prava.
+<br/>
 Druže Tito ti narodna nado.<br/>
 Tebe voli i staro i mlado.<br/>
 <br/>

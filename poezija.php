@@ -1531,6 +1531,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Mile Klopčič</h4>
+            <ul>
+                <li><a href="poezija/klopcic-tito.php">Tito</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Branko Ćopić</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Branko_Copic.jpg">
             <ul>
