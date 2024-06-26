@@ -1,5 +1,5 @@
 <?php
-$naslov = "Deseterački stihovi o Titu";
+$naslov = "Partizanski deseterački dvostih o Titu";
 include "../includes/header.php";
 ?>
 
@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>partizanski dvostih, popularna pjesnička forma Krajine</i>)</p>
+<p>(<i>popularna pjesnička forma Krajine</i>)</p>
 
 Nije ni to dobito sa šalom<br />
 da se Tito nazove maršalom.<br />

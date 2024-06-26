@@ -1364,6 +1364,7 @@ include "includes/header.php";
                 <li><a href="poezija/mlada-partizanka-da-stanam.php">Млада партизанка да станам</a></li>
                 <li><a href="poezija/gledaj-me-gledaj-libe.php">Гледај ме гледај либе</a></li>
                 <li><a href="poezija/taman-se-oblak-zadade.php">Таман се облак зададе</a></li>
+                <li><a href="poezija/bolen-lezi-mile-pop-jordanov.php">Болен ми лежи Миле Поп Јорданов</a></li>
             </ul>
         </article>
 
@@ -1387,7 +1388,6 @@ include "includes/header.php";
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
-                <li><a href="poezija/o-titu.php">Deseterački stihovi o Titu</a></li>
                 <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
@@ -1408,6 +1408,7 @@ include "includes/header.php";
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo mirisavo cvijeće</a></li>
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
+                <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
                 <li><a href="poezija/partizanski-dvostih-osmerac.php">Partizanski dvostih (osmerac)</a></li>
             </ul>
         </article>
