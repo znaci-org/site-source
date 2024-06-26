@@ -922,6 +922,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Đuro Aleksić</h4>
+            <ul>
+                <li><a href="poezija/pred-borbu.php">Pred borbu</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Mirko Banjević</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Mirko_Banjevi%C4%87.png" alt="">
             <ul>
@@ -1425,6 +1432,7 @@ include "includes/header.php";
                 <li><a href="poezija/partizani-pola-roda-moga.php">Partizani pola roda moga</a></li>
                 <li><a href="poezija/nema-zore-nema-dana.php">Nema zore nema dana</a></li>
                 <li><a href="poezija/proljece-se-budi-travica-mirise.php">Proljeće se budi travica miriše</a></li>
+                <li><a href="poezija/nije-meni-sto-ja-moram.php">Nije meni što ja moram</a></li>
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/poznjela-se-sasa.php">Požnjela se šaša</a></li>
@@ -1443,7 +1451,7 @@ include "includes/header.php";
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
                 <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
-                <li><a href="poezija/partizanski-dvostih-osmerac.php">Partizanski dvostih (osmerac)</a></li>
+                <li><a href="poezija/partizanski-dvostih.php">Partizanski dvostih</a></li>
             </ul>
         </article>
     </div>
@@ -1506,6 +1514,7 @@ include "includes/header.php";
             <h4>Miroslav Feldman</h4>
             <ul>
                 <li><a href="poezija/odjekuju-rafali.php">Odjekuju rafali</a></li>
+                <li><a href="poezija/pitat-ce-kako-je-bilo.php">Pitat će kako je bilo</a></li>
             </ul>
         </article>
 
@@ -1804,6 +1813,7 @@ include "includes/header.php";
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
                 <li><a href="poezija/zvone-zvona-sa-izgradnje.php">Zvone zvona sa izgradnje</a></li>
                 <li><a href="poezija/podizanje-titograda.php">Podizanje Titograda</a></li>
+                <li><a href="poezija/pjesma-graditelja-pruge.php">Pjesma graditelja pruge</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
                 <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sad se sjećam Like i Krbave</a> (epika)</li>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Miroslav Feldman - Odjekuju rafali";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Miroslav Feldman - Odjekuju rafali</h1>
+<h1><?php echo $naslov ?></h1>
 
 Ponekad<br/>
 u snu se pojavi<br/>
