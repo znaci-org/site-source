@@ -1,5 +1,5 @@
 <?php
-$naslov = "Hej tovariši, pod orožje vsi!";
+$naslov = "Hej tovariši";
 include "../includes/header.php";
 ?>
 

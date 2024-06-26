@@ -1251,7 +1251,7 @@ include "includes/header.php";
                 <li><a href="poezija/ide-tito-preko-romanije.php">Ide Tito preko Romanije</a></li>
                 <li><a href="poezija/kozaracko-kolo.php">Oj Kozaro (Kozaračko kolo)</a></li>
                 <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
-                <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene naš Mladene</a></li>
+                <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene (tužaljka)</a></li>
                 <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene druže mio</a></li>
                 <li><a href="poezija/banjaluko-mali-grade.php">Banjaluko mali grade</a></li>
                 <li><a href="poezija/jasenovce-odnijela-te-voda.php">Jasenovče odnijela te voda</a></li>
@@ -1291,7 +1291,7 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori naš kmet beži</a></li>
-                <li><a href="poezija/hej-tovarisi.php">Hej tovariši pod orožje vsi!</a></li>
+                <li><a href="poezija/hej-tovarisi.php">Hej tovariši</a></li>
                 <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
                 <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
                 <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
@@ -1326,7 +1326,7 @@ include "includes/header.php";
                 <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo Tito boljševiče</a></li>
                 <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
                 <li><a href="poezija/necu-majko-za-cetnika.php">Neću majko za četnika</a></li>
-                <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a></li>
+                <li><a href="poezija/rudnik-trepca-srebra-i-olova.php">Rudnik Trepča srebra i olova</a> (epika)</li>
                 <li><a href="poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></li>
                 <li><a href="poezija/partizani-sto-suze-lijete.php">Partizani što suze lijete</a></li>
                 <li><a href="poezija/na-jastrepcu-soko-pao.php">Na Jastrepcu soko pao</a></li>
