@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Marin Franičević - Vidjeh Split u žici";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Marin Franičević - Vidjeh Split u žici</h1>
+<h1><?php echo $naslov ?></h1>
 
 Vidjeh Split u žici<br/>
 u cik ljetne zore kad se žala bude,<br/>

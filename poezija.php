@@ -1456,7 +1456,7 @@ include "includes/header.php";
         </article>
     </div>
 
-    <h2 id="poratna">Posleratna jugoslovenska poezija</h2>
+    <h2 id="poratna">Poratna jugoslovenska poezija</h2>
 
     <p>Pesme sećanja, obnove i izgradnje.</p>
 
@@ -1709,6 +1709,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Marin Franičević</h4>
+            <ul>
+                <li><a href="poezija/dolazak-druga-tita.php">Dolazak druga Tita</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Oskar Davičo</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/100px-Oskar_Davico_1951.jpg">
             <ul>
@@ -1722,6 +1729,13 @@ include "includes/header.php";
                     </ul>
                 </li>
                 <li><a href="poezija/cinjenice.php">Činjenice</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Oton Župančič</h4>
+            <ul>
+                <li><a href="poezija/marsalu-titu.php">Maršalu Titu</a></li>
             </ul>
         </article>
 
