@@ -1748,6 +1748,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Milorad Panić Surep</h4>
+            <ul>
+                <li><a href="poezija/titova-rec.php">Titova reč</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Čedomir Minderović</h4>
             <ul>
                 <li><a href="poezija/smelo-smo-posli-iz-mraka-i-strave.php">Smelo smo pošli iz mraka i strave</a></li>
