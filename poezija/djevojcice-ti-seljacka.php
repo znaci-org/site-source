@@ -20,4 +20,3 @@ A sad kruna neka trune.<br/>
 <br/>
 Srušit ćemo što ne valja,<br/>
 Staru krunu Petra kralja.<br/>
-

@@ -31,6 +31,8 @@ složit se u borbi toj,<br/>
 Spasit kuće, oranice,<br/>
 Oslobodit narod svoj.<br/>
 
+<p><img src="skenovi/po-sumama-i-gorama.jpg" alt="note"></p>
+
 <p>(Franjo Židovec, Popijevke iz borbe i izgradnje 1954. )</p>
 
 <h2>II verzija</h2>
@@ -104,7 +106,22 @@ koji krvav sprema rat,<br />
 prije ćemo mi umrijeti,<br />
 nego svoje zemlje dat.<br />
 
-<p><img src="skenovi/po-sumama-i-gorama.jpg" alt="note"></p>
+<h2>V verzija</h2>
+
+Po šumama i gorama<br/>
+Naše zemlje ponosne<br/>
+Idu čete partizana,<br/>
+Slavu borbe pronose!<br/>
+<br/>
+Neka znade dušman kleti<br/>
+Da će kod nas slomit' vrat,<br/>
+Prije ćemo mi umrijeti<br/>
+Nego svoje zemlje dat'!<br/>
+<br/>
+Pazit ćemo iz daljine<br/>
+I pripazit ljuti boj<br/>
+Pa si kuce obranit<br/>
+Oslobodit narod svoj!<br/>
 
 <h1>Partizan sam tim se dičim</h1>
 

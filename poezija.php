@@ -1207,6 +1207,7 @@ include "includes/header.php";
                 <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
                 <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Kordun)</li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
+                <li><a href="poezija/sa-papuka-rijeke-teku.php">Sa Papuka rijeke teku</a></li>
                 <li><a href="poezija/spustila-se-gusta-magla.php">Spustila se gusta magla</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
                 <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
@@ -1278,9 +1279,10 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
-                <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/bijela-vilo-sa-planine.php">Bijela vilo sa planine</a></li>
+                <li><a href="poezija/na-moskvu-je-hitler-kreno.php">Na Moskvu je Hitler kreno</a></li>
+                <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/mitraljeska-vatra-gori.php">Mitraljeska vatra gori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
@@ -1318,6 +1320,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/ustaj-seljo-ustaj-rode.php">Ustaj seljo ustaj rode</a></li>
                 <li><a href="poezija/sa-jelice-puska-puce.php">Sa Jelice puška puče</a></li>
+                <li><a href="poezija/oj-jelice-kazi-pravo.php">Oj Jelice, kaži pravo</a></li>
                 <li><a href="poezija/ceta-krece-sa-gajtan-planine.php">Četa kreće sa Gajtan planine</a></li>
                 <li><a href="poezija/zlatibore-siri-svoje-grane.php">Zlatibore širi svoje grane</a></li>
                 <li><a href="poezija/oj-uzice-prva-republiko.php">Oj Užice prva republiko</a></li>
@@ -1426,6 +1429,7 @@ include "includes/header.php";
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/poznjela-se-sasa.php">Požnjela se šaša</a></li>
                 <li><a href="poezija/ovce-cuva-cobanica-mara.php">Ovce čuva čobanica Mara</a></li>
+                <li><a href="poezija/pesma-drugarica-na-prelu.php">Pesma drugarica na prelu</a></li>
                 <li><a href="poezija/druze-ivo-voditelju-skoja.php">Druže Ivo voditelju Skoja</a></li>
                 <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga raste vjera</a></li>
@@ -1792,6 +1796,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>
                 <li><a href="poezija/zvone-zvona-sa-izgradnje.php">Zvone zvona sa izgradnje</a></li>
+                <li><a href="poezija/podizanje-titograda.php">Podizanje Titograda</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
                 <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sad se sjećam Like i Krbave</a> (epika)</li>

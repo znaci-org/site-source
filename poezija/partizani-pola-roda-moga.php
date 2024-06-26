@@ -44,3 +44,23 @@ imam brata imam i dragana <br />
 obadva su dođe partizana.
 
 <p>(iz Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>IV verzija</h2>
+
+Alaj volim u kolu igrati,<br/>
+Kad se sa mnom partizan uhvati.<br/>
+<br/>
+I ja imam brata partizana,<br/>
+On je borac od prvoga dana.<br/>
+<br/>
+Ni moj dragi nije više prelac<br/>
+Već u četi puškomitraljezac.<br/>
+<br/>
+Partizani pola roda moga<br/>
+Tamo imam brata i dragoga.<br/>
+<br/>
+Ja ne volim ko' partizan nije,<br/>
+Koji pušku primiti ne smije.<br/>
+<br/>
+Što valjalo pušku pripasalo,<br/>
+Samo smeće oko kuće šeće.<br/>
