@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Čedomir Minderović - Stijeg Partije";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Stijeg Partije</h1>
+<h1><?php echo $naslov ?></h1>
 
 S Titom, za tobom, kroz juriše plamne<br/>
 Pošli smo u odlučni boj!<br/>

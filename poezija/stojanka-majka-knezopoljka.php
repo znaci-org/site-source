@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Skender Kulenović - Stojanka majka Knežopoljka";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Skender Kulenović - Stojanka majka Knežopoljka</h1>
+<h1><?php echo $naslov ?></h1>
 
 ZOVE NA OSVETU TRAŽEĆI SINOVE SRĐANA, MRĐANA I MLAĐENA ŠTO POGINUŠE U FAŠISTIČKOJ OFANZIVI<br/>
 <br/>

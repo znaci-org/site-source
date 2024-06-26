@@ -1247,14 +1247,14 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
-                <li><a href="poezija/na-vrh-gore-romanije.php">Na sred gore Romanije</a></li>
+                <li><a href="poezija/na-sred-gore-romanije.php">Na sred gore Romanije</a></li>
                 <li><a href="poezija/ide-tito-preko-romanije.php">Ide Tito preko Romanije</a></li>
                 <li><a href="poezija/kozaracko-kolo.php">Oj Kozaro (Kozaračko kolo)</a></li>
                 <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/oj-mladene-nas-mladene.php">Oj Mladene naš Mladene</a></li>
                 <li><a href="poezija/oj-mladene-druze-mio.php">Oj Mladene druže mio</a></li>
                 <li><a href="poezija/banjaluko-mali-grade.php">Banjaluko mali grade</a></li>
-                <li><a href="poezija/druze-tito-udri-bande-klete.php">Druže Tito udri bande klete</a></li>
+                <li><a href="poezija/jasenovce-odnijela-te-voda.php">Jasenovče odnijela te voda</a></li>
                 <li><a href="poezija/na-palezu-skupise-se-momci.php">Na Paležu skupiše se momci</a></li>
                 <li><a href="poezija/oj-kozaro-kozarice-moja.php">Naša borba takva je</a></li>
                 <li><a href="poezija/oj-kozaro-ne-treba-ti-kise.php">Oj Kozaro ne treba ti kiše</a></li>
@@ -1302,6 +1302,8 @@ include "includes/header.php";
                 <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
                 <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
                 <li><a href="poezija/komandant-stane.php">Komandant Stane</a></li>
+                <li><a href="poezija/ob-tabornem-ognju.php">Ob tabornem ognju</a></li>
+                <li><a href="poezija/za-vasjo-je-credo-pasla.php">Za vasjo je čredo pasla</a></li>
             </ul>
         </article>
 
@@ -1683,6 +1685,7 @@ include "includes/header.php";
             <h4>Čedomir Minderović</h4>
             <ul>
                 <li><a href="poezija/smelo-smo-posli-iz-mraka-i-strave.php">Smelo smo pošli iz mraka i strave</a></li>
+                <li><a href="poezija/stijeg-partije.php">Stijeg Partije</a></li>
                 <li><a href="poezija/nasa-jesen.php">Naša jesen</a></li>
             </ul>
         </article>
@@ -1746,7 +1749,6 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-slobodi.php">Pjesma slobodi</a></li>
                 <li><a href="poezija/pesma-izgradnje.php">Pesma izgradnje</a></li>
                 <li><a href="poezija/sivi-sokole.php">Sivi sokole</a></li>
-                <li><a href="poezija/stijeg-partije.php">Stijeg Partije</a></li>
                 <li><a href="poezija/druze-tito-nas-marsale-prvi.php">Druže Tito naš maršale prvi</a></li>
                 <li><a href="poezija/oj-krajino-ti-si-zemlja-mala.php">Oj Krajino, ti si zemlja mala</a></li>
                 <li><a href="poezija/polet-mladosti.php">Polet mladosti</a></li>

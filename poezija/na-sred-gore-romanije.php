@@ -47,7 +47,18 @@ nego što je u boj poša.<br/>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
-<h2>III verzija (Na vrh gore Romanije)</h2>
+<h2>III verzija (Nasred gore Romanije)</h2>
+
+Nasred gore Romanije,<br/>
+Crveni se barjak vije.<br/>
+<br/>
+Neka, neka, nek se vije,<br/>
+On je donijet iz Rusije.<br/>
+<br/>
+Razvila ga Kompartija,<br/>
+Svima nama najmilija.<br/>
+
+<h2>IV verzija (Na vrh gore Romanije)</h2>
 
 Na vrh gore Romanije<br />
 Crveni se barjak vije,<br />
@@ -84,7 +95,7 @@ Partizana ima svuda,<br />
 Za slobodu što se bore<br />
 S’ bombom skaču na tenkove.<br />
 
-<h2>IV verzija (rugalica)</h2>
+<h2>V verzija (rugalica)</h2>
 
 <p>(<i>narodna pesma iz Srbije</i>)</p>
 

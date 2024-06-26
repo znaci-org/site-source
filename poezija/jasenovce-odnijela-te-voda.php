@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jasenovče, odnijela te voda";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Druže Tito udri bande klete</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>narodna pjesma Bosanske krajine</i>)
 
@@ -32,3 +32,6 @@ I žene će borbom da se svete.</p>
 
 <p>Dočekujemo Nijemce na nože,<br>
 Kozara se uništit’ ne može</p>
+
+<img src="http://www.znaci.org/images/15247.jpg" alt=""><br>
+<small>Internirci iz konc-logora Jasenovac, Hrvatska, 1942.</small>
