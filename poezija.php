@@ -1321,6 +1321,7 @@ include "includes/header.php";
                 <li><a href="poezija/kraljevacka-partizanka.php">Kraljevačka partizanka</a></li>
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
                 <li><a href="poezija/o-moj-mile-moja-ruzo.php">O moj mile moja ružo</a></li>
+                <li><a href="poezija/nemoj-mile-biti-vojnik-dugo.php">Nemoj mile biti vojnik dugo</a></li>
                 <li><a href="poezija/suma-zuti-odlaze-regruti.php">Šuma žuti odlaze regruti</a></li>
                 <li><a href="poezija/proleter-se-s-puskom-razgovara.php">Proleter se s puškom razgovara</a></li>
                 <li><a href="poezija/pesma-fruskogorskih-partizana.php">Pesma fruškogorskih partizana</a></li>
