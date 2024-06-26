@@ -1,5 +1,5 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ide četa čela namrštena";
 include "../includes/header.php";
 ?>
 
@@ -7,36 +7,25 @@ include "../includes/header.php";
 
 <h1>Ide četa čela namrštena (smrt Ratka Pavlovića)</h1>
 
-(<i>narodna pesma iz Srbije, varijanta <a href="/poezija/partizani-sto-suze-lijete.php">Partizani što suze lijete</a></i>)
+<p>(<i>narodna tužbalica iz Srbije, varijanta <a href="/poezija/partizani-sto-suze-lijete.php">Partizani što suze lijete</a></i>)</p>
 
-<p>
-  Ide četa čela namrštena,<br>
-  Među njima najboljega nema.
-</p>
+Ide četa čela namrštena,<br/>
+Među njima najboljega nema.<br/>
+<br/>
+Nema njima ponosa i nade,<br/>
+Pogibe im komandant brigade.<br/>
+<br/>
+Nesta njima sokola i ptića,<br/>
+I Toplici Ratka Pavlovića.<br/>
+<br/>
+U borbi je s Bugarima bio,<br/>
+I tu mlađan život izgubio.<br/>
+<br/>
+Stari borac iz španskoga rata,<br/>
+Žalimo ga ko rođenog brata.<br/>
 
-<p>
-  Nema njima ponosa i nade,<br>
-  Pogibe im komandant brigade.
-</p>
+<h2>Ide četa čela namrštena (smrt Popa Mića)</h2>
 
-<p>
-  Nesta njima sokola i ptića,<br>
-  I Toplici Ratka Pavlovića.
-</p>
-
-<p>
-  U borbi je s Bugarima bio,<br>
-  I tu mlađan život izgubio.
-</p>
-
-<p>
-  Stari borac iz španskoga rata,<br>
-  Žalimo ga ko rođenog brata.
-</p>
-
-<h1>Ide četa čela namrštena (smrt Popa Mića)</h1>
-
-<p>
 Ide četa čela namrštena,<br/>
 a pred četom najboljega nema,<br/>
 <br/>
@@ -45,10 +34,16 @@ pogibe nam komandant brigade,<br/>
 <br/>
 nema nama sokola i tića,<br/>
 nema nama slavnog Popa Mića.<br/>
-</p>
 
-<br>
+<h2>Ide četa nevesela (smrt Stojana Ljubića)</h2>
+
+Ide četa nevesela,<br/>
+Među njima najboljega nema,<br/>
+Nema nama sokola i tića,<br/>
+Nema nama Stojana Ljubića.<br/>
+
 <hr>
-Ratko Pavlović Ćićko je poginuo u borbi s Bugarima kod Surdulice 1943. 
-<br><br>
-Pop-Mića (Vladimir Vukelić), poginuo je 1943. godine.
+
+<p>Ratko Pavlović Ćićko je poginuo u borbi s Bugarima kod Surdulice 1943. </p>
+
+<p>Pop-Mića (Vladimir Vukelić), poginuo je 1943. godine.</p>
