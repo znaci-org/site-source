@@ -552,6 +552,14 @@ include "includes/header.php";
 
     <div class="knjige columns">
         <article>
+            <h4>Desanka Ćuić Kačar</h4>
+            <ul>
+                <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
+                <li><a href="poezija/pjesma-marku-oreskovicu.php">Poziv u borbu</a> (Pjesma Marku Oreškoviću Krntiji)</li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Branko Ćopić</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/%D0%9C%D0%B8%D1%80%D0%B0_%D0%90%D0%BB%D0%B5%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B_%D1%83_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0.jpg" title="Pesnici Branko Ćopić, Mira Alečković i Aco Šopov u partizanima.">
             <ul>
@@ -1174,14 +1182,13 @@ include "includes/header.php";
 
     <h2 id="narodne-pesme">Narodne partizanske pesme</h2>
 
-    <p>Registar narodnih partizanskih pesama iz drugog svetskog rata.</p>
+    <p>Narodne partizanske pesme i pesme nepoznatih autora.</p>
 
     <div class="knjige columns zastave">
         <article>
             <h3>Partizanske pesme iz Hrvatske</h3>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Croatian_Partisans_%283-5%29.svg/80px-Flag_of_the_Croatian_Partisans_%283-5%29.svg.png" alt="">
             <ul>
-                <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
                 <li><a href="poezija/pola-like-u-pepelu-lezi.php">Pola Like u pepelu leži</a></li>
                 <li><a href="poezija/sam-je-mirko-pusku-zadobio.php">Sam je Mirko pušku zadobio</a></li>
@@ -1206,7 +1213,6 @@ include "includes/header.php";
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
                 <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
-                <li><a href="poezija/cjeloj-lici-zalo-srce-bije.php">Cjeloj Lici žalo srce bije</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara nema partizana</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/pjesma-milanu-caksiranu.php">Pjesma Milanu Čakširanu</a></li>
                 <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
@@ -1256,7 +1262,7 @@ include "includes/header.php";
                 <li><a href="poezija/u-drvaru-podize-se-buna.php">U Drvaru podiže se buna</a></li>
                 <li><a href="poezija/sred-kozare-borba-poce.php">Sred Kozare borba poče</a></li>
                 <li><a href="poezija/po-bosni-se-podignula-raja.php">Po Bosni se podignula raja</a></li>
-                <li><a href="poezija/rudo-malo.php">Rudo malo</a></li> 
+                <li><a href="poezija/rudo-malo.php">Rudo malo</a></li>
                 <li><a href="poezija/oj-igmane.php">Oj Igmane</a></li>
                 <li><a href="poezija/na-sred-gore-romanije.php">Na sred gore Romanije</a></li>
                 <li><a href="poezija/ide-tito-preko-romanije.php">Ide Tito preko Romanije</a></li>
@@ -1335,7 +1341,7 @@ include "includes/header.php";
                 <li><a href="poezija/sa-ovcara-i-kablara.php">Sa Ovčara i Kablara</a></li>
                 <li><a href="poezija/tamo-dole-oko-lima.php">Tamo dole oko Lima</a></li>
                 <li><a href="poezija/od-srbije-do-rusije.php">Od Srbije do Rusije</a></li>
-                <li><a href="poezija/i-ja-ću-ti-nosit-karabina.php">I ja ću ti nosit karabina</a></li>
+                <li><a href="poezija/i-ja-cu-ti-nosit-karabina.php">I ja ću ti nosit karabina</a></li>
                 <li><a href="poezija/o-moj-mile-moja-ruzo.php">O moj mile moja ružo</a></li>
                 <li><a href="poezija/nemoj-mile-biti-vojnik-dugo.php">Nemoj mile biti vojnik dugo</a></li>
                 <li><a href="poezija/o-moj-mile-sa-cetom-pozuri.php">O moj mile sa četom požuri</a></li>

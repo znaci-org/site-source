@@ -1,5 +1,5 @@
 <?php
-$naslov = "Desanka Kačar - Na Kordunu grob do groba";
+$naslov = "Desanka Ćuić Kačar - Na Kordunu grob do groba";
 include "../includes/header.php";
 ?>
 
@@ -126,3 +126,5 @@ onda dođi grobu mome.<br/>
 <p>Lička autorica Desanka Ćuić-Kačar se prisjeća nastanka pjesme: "Bila sam u svojoj Krčevini kad su počele stizati kolone izbjeglog naroda od klanja... Pitala sam jednu mladu ženu, sa djetetom u ruci, što se sve tamo dešava, zašto bježe. Kratko mi je odgovorila: »Na Kordunu grob do groba«. U Vrhovinama se tog maja 1942. godine slavilo već oslobođenje, a na tu proslavu stigla sam sa svojih nekoliko drugarica. Riječi pjesme same su mi iz usta izlazile, drugarice pamtile i tako smo u pješačenju uglazbile riječi." Pjesma je već nakon prvog javnog izvođenja na priredbi postala velikih hit.</p>
 
 <p>Autorica kaže da joj je muzička inspiracija bila crnogorska partizanska pjesma Navrh gore Durmitora.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOmK8Hhk6Gc?si=nqVCiXniT-qoJ7oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
