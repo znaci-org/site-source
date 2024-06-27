@@ -553,12 +553,20 @@ include "includes/header.php";
     <div class="knjige columns">
         <article>
             <h4>Desanka Ćuić Kačar</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Desanka_%C4%86ui%C4%87_u_partizanima_%28detalj%29.jpg" alt="">
             <ul>
-                <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/pjesma-marku-oreskovicu.php">Poziv u borbu</a> (Pjesma Marku Oreškoviću)</li>
+                <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/za-bolje-sutra.php">Za bolje sutra</a></li>
                 <li><a href="poezija/ranjena-partizanka.php">Ranjena partizanka</a></li>
                 <li><a href="poezija/zatvor.php">Zatvor</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Miloš Popović Đurin</h4>
+            <ul>
+                <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
             </ul>
         </article>
 
@@ -879,13 +887,6 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h4>Miloš Popović Đurin</h4>
-            <ul>
-                <li><a href="poezija/konjuh-planinom.php">Konjuh planinom</a></li>
-            </ul>
-        </article>
-
-        <article>
             <h4>Enver Đerđeku</h4>
             <ul>
                 <li><a href="poezija/zrak-na-uzetu.php">Zrak na užetu</a></li>
@@ -1139,13 +1140,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/oci.php">Oči</a></li>
                 <li><a href="poezija/ko-celik-sme-nie.php">Ко челик сме ние</a></li>
-            </ul>
-        </article>
-
-        <article>
-            <h4>Ivica Tomović</h4>
-            <ul>
-                <li><a href="poezija/ko-je-tito.php">Ko je Tito?</a></li>
             </ul>
         </article>
 
@@ -1639,6 +1633,13 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/zvijezda.php">Zvijezda</a></li>
                 <li><a href="poezija/biokovo.php">Biokovo</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Ivica Tomović</h4>
+            <ul>
+                <li><a href="poezija/ko-je-tito.php">Ko je Tito?</a></li>
             </ul>
         </article>
 
