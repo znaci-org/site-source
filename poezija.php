@@ -1840,7 +1840,9 @@ include "includes/header.php";
         <article>
             <h4>Desanka Ćuić Kačar</h4>
             <ul>
+                <li><a href="poezija/moja-zemlja.php">Moja zemlja</a></li>
                 <li><a href="poezija/moja-generacijo.php">Moja generacijo</a></li>
+                <li><a href="poezija/majka-licanka.php">Majka Ličanka</a></li>
             </ul>
         </article>
 
