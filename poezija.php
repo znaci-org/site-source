@@ -555,7 +555,9 @@ include "includes/header.php";
             <h4>Desanka Ćuić Kačar</h4>
             <ul>
                 <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
-                <li><a href="poezija/pjesma-marku-oreskovicu.php">Poziv u borbu</a> (Pjesma Marku Oreškoviću Krntiji)</li>
+                <li><a href="poezija/pjesma-marku-oreskovicu.php">Poziv u borbu</a> (Pjesma Marku Oreškoviću)</li>
+                <li><a href="poezija/za-bolje-sutra.php">Za bolje sutra</a></li>
+                <li><a href="poezija/zatvor.php">Zatvor</a></li>
             </ul>
         </article>
 
