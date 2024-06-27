@@ -35,6 +35,15 @@ Da ne pale sela naša.<br/>
 
 <h2>deseterac</h2>
 
+Proleteri, mila braćo moja,<br/>
+kako ćemo živeti bez boja?<br/>
+<br/>
+Proleteri ne žale života,<br/>
+to je, braćo, najljepša divota.<br/>
+<br/>
+Proleteri, to je vojska fina,<br/>
+podaj, majko i jedinog sina.<br/>
+<br/>
 Drugarice hajd u borbu s nama,<br/>
 Jer sloboda mila je i vama.<br/>
 <br/>

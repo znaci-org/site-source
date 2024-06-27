@@ -43,4 +43,4 @@ Jer se po njoj vojska druga Tita kreće!<br/>
 
 <hr>
 
-<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvobitnu verziju teksta, za ovu pesmu.</p>
+<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvobitnu verziju teksta, za ovu pesmu. Pjesma je nastala prilagodbom postojeće guslarske pjesme, kao alternativa kompleksnim revolucionarnim pjesmama, koristeci „melodijski tok blizak ovom kraju i uz reči koje svi poznaju“.</p>

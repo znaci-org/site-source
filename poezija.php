@@ -1418,6 +1418,7 @@ include "includes/header.php";
                 <li><a href="poezija/pogledajte-braco-draga.php">Pogledajte braćo draga</a></li>
                 <li><a href="poezija/razleze-se-sa-svih-strana.php">Razleže se sa svih strana</a></li>
                 <li><a href="poezija/razvila-se-partizanska-sila.php">Razvila se partizanska sila</a></li>
+                <li><a href="poezija/kad-je-tito-drinu-prelazio.php">Kad je Tito Drinu prelazio</a></li>
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
                 <li><a href="poezija/oj-hitleru-ti-si-prvi.php">Oj Hitleru ti si prvi</a></li>
@@ -1450,8 +1451,8 @@ include "includes/header.php";
                 <li><a href="poezija/srp-i-cekic-celicni.php">Srp i čekić čelični</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
-                <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
                 <li><a href="poezija/partizanski-dvostih.php">Partizanski dvostih</a></li>
+                <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
             </ul>
         </article>
     </div>

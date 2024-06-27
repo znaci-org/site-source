@@ -11,26 +11,35 @@ include "../includes/header.php";
 
 Na Kordunu grob do groba,<br/>
 traži majka sina svoga.<br/>
+<br/>
 Našla ga je, na grob klekla<br/>
 i ovako sinu rekla:<br/>
 <br/>
 “O, moj sine, radost moja,<br/>
 gdje počiva mladost tvoja?”<br/>
+<br/>
 Otac plače, majka cvili:<br/>
 “Otvori se, grobe mili”.<br/>
 <br/>
 Grobak se je otvorio,<br/>
 sin je majci govorio:<br/>
+<br/>
 “Ne plač’ mila majko moja,<br/>
 teška mi je suza tvoja.<br/>
+<br/>
 Teža mi je suza tvoja,<br/>
 nego crna zemlja moja.<br/>
+<br/>
 Idi, majko, javi rodu,<br/>
 da sam pao za slobodu.<br/>
+<br/>
 Kaži, majko, kaži rodu,<br/>
 da se bori za slobodu.<br/>
+<br/>
 Hajde, majko, domu svome,<br/>
 ne dolazi grobu mome”.<br/>
+
+<p>(maj 1942. u Lici)</p>
 
 <h2>II verzija</h2>
 
@@ -114,4 +123,6 @@ onda dođi grobu mome.<br/>
 
 <hr>
 
-<p>Desanka Kačar, autorica ove pjesme, kaže da joj je inspiracija bila crnogorska partizanska pjesma Navrh gore Durmitora.</p>
+<p>Lička autorica Desanka Ćuić-Kačar se prisjeća nastanka pjesme: "Bila sam u svojoj Krčevini kad su počele stizati kolone izbjeglog naroda od klanja... Pitala sam jednu mladu ženu, sa djetetom u ruci, što se sve tamo dešava, zašto bježe. Kratko mi je odgovorila: »Na Kordunu grob do groba«. U Vrhovinama se tog maja 1942. godine slavilo već oslobođenje, a na tu proslavu stigla sam sa svojih nekoliko drugarica. Riječi pjesme same su mi iz usta izlazile, drugarice pamtile i tako smo u pješačenju uglazbile riječi." Pjesma je već nakon prvog javnog izvođenja na priredbi postala velikih hit.</p>
+
+<p>Autorica kaže da joj je muzička inspiracija bila crnogorska partizanska pjesma Navrh gore Durmitora.</p>
