@@ -12,6 +12,17 @@ include "../includes/header.php";
 Listaj goro, cvjetaj cvijeće,<br />
 Crna Gora u boj kreće.<br />
 <br />
+Zbijajmo se drug do druga,<br />
+jer će borba biti duga.<br />
+<br />
+Zbijajmo se brat do brata<br />
+da skinemo jaram s vrata.<br />
+
+<h2>I verzija (duža)</h2>
+
+Listaj goro, cvjetaj cvijeće,<br />
+Crna Gora u boj kreće.<br />
+<br />
 U boj kreće ovih dana<br />
 prva četa partizana.<br />
 <br />

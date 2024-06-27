@@ -35,9 +35,6 @@ Da ne pale sela naša.<br/>
 
 <h2>deseterac</h2>
 
-Proleteri, mila braćo moja,<br/>
-kako ćemo živeti bez boja?<br/>
-<br/>
 Proleteri ne žale života,<br/>
 to je, braćo, najljepša divota.<br/>
 <br/>
@@ -52,4 +49,10 @@ Staljin zove, sva se zemlja trese:<br/>
 <br/>
 Oj Staljine oštri sablju pravu,<br/>
 Pa odsjeci Hitlerovu glavu.<br/>
+<br/>
+Proleteri, mila braćo moja,<br/>
+kako ćemo živeti bez boja?<br/>
+<br/>
+Nek je slava onim što su pali<br/>
+za slobodu svoj su život dali.<br/>
 <br/>

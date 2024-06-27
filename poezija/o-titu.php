@@ -102,5 +102,8 @@ Ti se boriš za narodna prava.
 Druže Tito ti narodna nado.<br/>
 Tebe voli i staro i mlado.<br/>
 <br/>
+Druže Tito vitko ti je telo<br/>
+al ti sliši maršalsko odelo.<br/>
+<br/>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt=""></p>
