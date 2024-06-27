@@ -914,7 +914,10 @@ include "includes/header.php";
                 <li><a href="poezija/preko-smrti-stopamo-v-svobodo.php">Preko smrti stopamo v svobodo</a></li>
                 <li><a href="poezija/pesem-xiv-divizije.php">Pesem XIV. divizije</a></li>
                 <li><a href="poezija/slovenska-pesem.php">Slovenska pesem</a></li>
-                
+                <li><a href="poezija/samo-en-cvet.php">Samo en cvet</a></li>
+                <li><a href="poezija/partizanovo-slovo.php">Partizanovo slovo</a></li>
+                <li><a href="poezija/kje-si-mati.php">Kje si, mati</a></li>
+                <li><a href="poezija/v-srbijo-v-slezijo.php">V Srbijo ... v Šlezijo</a></li>
             </ul>
         </article>
 
