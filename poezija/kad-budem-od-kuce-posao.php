@@ -1,5 +1,5 @@
 <?php
-$naslov = "Kad budem od kuće pošao";
+$naslov = "Matej Bor - Kad budem od kuće pošao";
 include "../includes/header.php";
 ?>
 

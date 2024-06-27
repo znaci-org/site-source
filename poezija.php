@@ -996,6 +996,7 @@ include "includes/header.php";
                 <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
                 <li><a href="poezija/jutri-gremo-v-napad.php">Jutri gremo v napad</a></li>
                 <li><a href="poezija/hej-brigade.php">Hej brigade</a></li>
+                <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
             </ul>
         </article>
 
@@ -1442,7 +1443,6 @@ include "includes/header.php";
                 <li><a href="poezija/nema-zore-nema-dana.php">Nema zore nema dana</a></li>
                 <li><a href="poezija/proljece-se-budi-travica-mirise.php">Proljeće se budi travica miriše</a></li>
                 <li><a href="poezija/nije-meni-sto-ja-moram.php">Nije meni što ja moram</a></li>
-                <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
                 <li><a href="poezija/drug-je-tito-izdo-naredjenje.php">Drug je Tito izd'o naređenje</a></li>
                 <li><a href="poezija/poznjela-se-sasa.php">Požnjela se šaša</a></li>
                 <li><a href="poezija/ovce-cuva-cobanica-mara.php">Ovce čuva čobanica Mara</a></li>
