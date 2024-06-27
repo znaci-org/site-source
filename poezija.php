@@ -904,15 +904,17 @@ include "includes/header.php";
             <h4>Karel Destovnik Kajuh</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg/200px-Kajuh_govori_na_mitingu_v_Starem_trgu_pri_Lo%C5%BEu.jpg" title="Kajuh govori na mitingu v Starem trgu pri Ložu 1943.">
             <ul>
-                <li><a href="poezija/zakaj-tovaris.php">Zašto, druže</a></li>
+                <li><a href="poezija/zakaj-tovaris.php">Zakaj, tovariš</a></li>
                 <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
-                <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim drugovima</a></li>
-                <li><a href="poezija/bosa-pojdiva-dekle-obsorej.php">Bosi pođimo, devojko, zorom</a></li>
-                <li><a href="poezija/matere-nase-trpece.php">Majke, majke naše napaćene</a></li>
+                <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim tovarišem</a></li>
+                <li><a href="poezija/bosa-pojdiva-dekle-obsorej.php">Bosa pojdiva, dekle, obsorej</a></li>
+                <li><a href="poezija/matere-nase-trpece.php">Matere, matere naše trpeče</a></li>
                 <li><a href="poezija/materi-padlega-partizana.php">Materi padlega partizana</a></li>
                 <li><a href="poezija/nemskemu-proletariatu.php">Nemškemu proletariatu</a></li>
                 <li><a href="poezija/preko-smrti-stopamo-v-svobodo.php">Preko smrti stopamo v svobodo</a></li>
                 <li><a href="poezija/pesem-xiv-divizije.php">Pesem XIV. divizije</a></li>
+                <li><a href="poezija/slovenska-pesem.php">Slovenska pesem</a></li>
+                
             </ul>
         </article>
 
