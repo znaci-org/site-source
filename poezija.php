@@ -557,6 +557,7 @@ include "includes/header.php";
                 <li><a href="poezija/na-kordunu-grob-do-groba.php">Na Kordunu grob do groba</a></li>
                 <li><a href="poezija/pjesma-marku-oreskovicu.php">Poziv u borbu</a> (Pjesma Marku Oreškoviću)</li>
                 <li><a href="poezija/za-bolje-sutra.php">Za bolje sutra</a></li>
+                <li><a href="poezija/ranjena-partizanka.php">Ranjena partizanka</a></li>
                 <li><a href="poezija/zatvor.php">Zatvor</a></li>
             </ul>
         </article>
