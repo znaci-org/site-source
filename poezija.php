@@ -1832,6 +1832,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Desanka Ćuić Kačar</h4>
+            <ul>
+                <li><a href="poezija/moja-generacijo.php">Moja generacijo</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/to-je-nama-nasa-borba-dala.php">To je nama naša borba dala</a></li>

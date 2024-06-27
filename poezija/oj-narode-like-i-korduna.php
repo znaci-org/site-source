@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma</i>)</p>
+<p>(<i>narodna pjesma nastala na osnovu pesme <a href="/poezija/pjesma-marku-oreskovicu.php">Poziv u borbu</a> Desanke Ćuić Kačar</i>)</p>
 
 Oj, narode Like i Korduna,<br />
 Došlo vrijeme da se diže buna<br />
