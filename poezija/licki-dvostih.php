@@ -117,6 +117,9 @@ iz Zagreba pobjeći bi mora.<br>
 Sad se bombe prave u Drvaru <br>
 Paveliću razbit će ti glavu.<br>
 <br>
+Što se ono preko polja praši<br>
+ono Ante na prasici jaši.<br>
+<br>
 Crven barjak prepeglat nam stoji <br>
 razvijmo ga o drugovi moji.<br>
 <br>

@@ -91,8 +91,6 @@ Oj, beskrajne ruske ravni,<br/>
 Oj, narode, radni, slavni<br/>
 Smrt fašizmu, dolje tama<br/>
 napred, braćo, svi smo s vama.<br/>
-<br/>
-(1941)<br/>
 
 <p>
   <img src="http://www.znaci.org/images/16002.jpg"><br>

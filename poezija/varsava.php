@@ -51,4 +51,5 @@ nesalomljivija od Karpata<br/>
 i prostranija od Baltika.<br/>
 <br/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/German_Heinkel_He_111_bombing_Warsaw_1939.jpg" alt="">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Josip_Broz_Tito_w_Warszawie_marzec_1946.jpg/979px-Josip_Broz_Tito_w_Warszawie_marzec_1946.jpg" alt=""><br>
+<small>Josip Broz Tito u srušenoj Varšavi 1946.</small>

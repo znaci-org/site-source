@@ -41,6 +41,21 @@ Kud se vojska druga Tita kreće!<br/>
 Ova zemlja više robovat neće<br/>
 Jer se po njoj vojska druga Tita kreće!<br/>
 
+<h2>III verzija</h2>
+
+Ide Tito preko<br/>
+Romanije, preko Romanije,<br/>
+I on vodi svoje<br/>
+Divizije, svoje divizije.<br/>
+<br/>
+A drug Staljin preko<br/>
+Germanije, preko Germanije<br/>
+I on vodi crvene armije<br/>
+
+<p>(Darko Suvin, Memoari jednog Skojevca, dio 3)</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Tito_predaje_zastavu_Prvoj_proleterskoj_brigadi.jpg" alt="">
+
 <hr>
 
-<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvobitnu verziju teksta, za ovu pesmu. Pjesma je nastala prilagodbom postojeće guslarske pjesme, kao alternativa kompleksnim revolucionarnim pjesmama, koristeci „melodijski tok blizak ovom kraju i uz reči koje svi poznaju“.</p>
+<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvotnu verziju teksta,  prilagodbom postojeće guslarske pjesme, kao alternativu kompleksnim revolucionarnim pjesmama, koristeci „melodijski tok blizak ovom kraju i uz reči koje svi poznaju“.</p>

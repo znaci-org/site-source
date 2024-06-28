@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Branko Ćopić - Pjesma mrtvih proletera";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Branko Ćopić - Pjesma mrtvih proletera</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p><i>… A trinaeste, mračne i kišovite noći, nekoliko desetina krajiških proletera, opkoljenih kod bolnice u planini, pođoše na poslednji juriš protiv deset puta jačeg neprijatelja i junački padoše u neravnoj borbi…<br>
 (Po jednom izvještaju)</i></p>

@@ -478,12 +478,14 @@ include "includes/header.php";
         <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
+                <li><a href="poezija/drugar-u-tamnici.php">Drugar u tamnici</a></li>
                 <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
                 <li><a href="poezija/pjesma-o-matiji-gupcu.php">Pjesma o Matiji Gupcu</a></li>
                 <li><a href="poezija/pesma-radu.php">Pjesma radu</a></li>
                 <li><a href="poezija/rabotnicka.php">Rabotnička</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
+                <li><a href="poezija/kolo-kolo-naokolo.php">Kolo kolo naokolo</a></li>
             </ul>
         </article>
     </div>
@@ -574,13 +576,14 @@ include "includes/header.php";
             <h4>Branko Ćopić</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/%D0%9C%D0%B8%D1%80%D0%B0_%D0%90%D0%BB%D0%B5%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B_%D1%83_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0.jpg" title="Pesnici Branko Ćopić, Mira Alečković i Aco Šopov u partizanima.">
             <ul>
+                <li><a href="poezija/seljacka-torba.php">Seljačka torba</a></li>
+                <li><a href="poezija/omladinka-mara.php">Omladinka Mara</a></li>
                 <li><a href="poezija/raport-grmeckih-partizana.php">Raport grmečkih partizana</a></li>
                 <li><a href="poezija/cetvrta-ofanziva.php">Četvrta ofanziva</a></li>
                 <li><a href="poezija/na-petrovackoj-cesti.php">Na Petrovačkoj cesti</a></li>
                 <li><a href="poezija/pjesma-mrtvih-proletera.php">Pjesma mrtvih proletera</a></li>
                 <li><a href="poezija/grob-u-zitu.php">Grob u žitu</a></li>
                 <li><a href="poezija/marija-na-prkosima.php">Marija na prkosima</a></li>
-                <li><a href="poezija/omladinka-mara.php">Omladinka Mara</a></li>
                 <li><a href="poezija/balada-o-zdravku-proleteru.php">Balada o Zdravku proleteru</a></li>
                 <li><a href="poezija/pjesma-reke-une.php">Pjesma reke Une</a></li>
                 <li><a href="poezija/prica-o-sest-stotina-oraca.php">Priča o šest stotina orača</a></li>
@@ -1200,6 +1203,8 @@ include "includes/header.php";
                 <li><a href="poezija/digli-su-se-zagorci.php">Digli su se Zagorci</a></li>
                 <li><a href="poezija/goro-moja-petrova-zelena.php">Goro moja Petrova zelena</a></li>
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume šume najlepša vam hvala</a></li>
+                <li><a href="poezija/tu-su-jednu-majku-uvatili.php">Tu su jednu majku uvatili</a></li>
+                <li><a href="poezija/prste-celo-na-cetvero.php">Pršte čelo na četvero</a></li>
                 <li><a href="poezija/oca-nemam-majke-sestre.php">Oca nemam, majke, sestre</a></li>
                 <li><a href="poezija/siroce-sam-bez-ikoga-svoga.php">Siroče sam bez ikoga svoga</a></li>
                 <li><a href="poezija/sjetimo-se-drugarice-lani.php">Sjetimo se drugarice lani</a></li>
@@ -1299,7 +1304,7 @@ include "includes/header.php";
                 <li><a href="poezija/bijela-vilo-sa-planine.php">Bijela vilo sa planine</a></li>
                 <li><a href="poezija/na-moskvu-je-hitler-kreno.php">Na Moskvu je Hitler kreno</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
-                <li><a href="poezija/mitraljeska-vatra-gori.php">Mitraljeska vatra gori</a></li>
+                <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
@@ -1457,6 +1462,7 @@ include "includes/header.php";
                 <li><a href="poezija/sad-je-vojska-nasa-jaka.php">Sad je vojska naša jaka</a></li>
                 <li><a href="poezija/zbogom-ostaj-bunkeru-na-drini.php">Zbogom ostaj bunkeru na Drini</a></li>
                 <li><a href="poezija/srp-i-cekic-celicni.php">Srp i čekić čelični</a></li>
+                <li><a href="poezija/pravda-jaca-nego-sila.php">Pravda jača nego sila</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
                 <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
                 <li><a href="poezija/partizanski-dvostih.php">Partizanski dvostih</a></li>
@@ -1843,6 +1849,13 @@ include "includes/header.php";
                 <li><a href="poezija/moja-zemlja.php">Moja zemlja</a></li>
                 <li><a href="poezija/moja-generacijo.php">Moja generacijo</a></li>
                 <li><a href="poezija/majka-licanka.php">Majka Ličanka</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Ljubo Ojdanić</h4>
+            <ul>
+                <li><a href="poezija/u-ratu-je-bilo-lako.php">U ratu je bilo lako</a></li>
             </ul>
         </article>
 

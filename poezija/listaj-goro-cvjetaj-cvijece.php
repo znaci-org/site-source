@@ -124,6 +124,22 @@ Poručuje širom svjeta<br/>
 Ko ustanak sad ne sprema<br/>
 Međ' narodom mjesta nema<br/>
 
+<h2>V verzija (Omladino zemlje ove)</h2>
+
+Omladino zemlje ove<br/>
+Zbijajmo se u redove<br/>
+<br/>
+Zbijajmo se brat do brata<br/>
+Da skinemo jaram s vrata,<br/>
+<br/>
+Da skinemo jaram kleti,<br/>
+Da živimo ko Sovjeti,<br/>
+<br/>
+Ko Sovjeti naša braća,<br/>
+Živio nam Staljin ćaća<br/>
+
+<p>(Darko Suvin, Memoari jednog Skojevca, dio 3)</p>
+
 <p>
   <img src="http://www.znaci.org/images/3357.jpg"><br>
   <small>Zetski partizanski odred za vreme Treće neprijateljske ofanzive u Crnoj Gori</small>

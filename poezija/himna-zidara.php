@@ -34,7 +34,7 @@ snažan i tvrd ko grad,<br />
 u njemu svakom hleba,<br />
 svima sloboda i rad.<br />
 
-<h2>Druga verzija</h2>
+<h2>II verzija</h2>
 
 Žandarski kundak nam je plata<br />
 metak ko trpi glad,<br />
