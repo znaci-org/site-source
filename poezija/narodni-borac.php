@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
+<p>(pjesma slavonskog borca)</p>
+
 Noge su moje krvave i bolne<br/>
 Al' opet stupam po drumu, draču i stazi.<br/>
 Dok krv mi šiba, opet noga gazi.<br/>
