@@ -90,6 +90,10 @@ a:hover {
 
 /************* POMAGALA ***************/
 
+.big {
+    font-size: 2.5em;
+}
+
 .full {
     width: 100%;
 }
