@@ -732,6 +732,7 @@ include "includes/header.php";
             <h4>Josip Cazi</h4>
             <ul>
                 <li><a href="poezija/na-klancu.php">Na klancu</a></li>
+                <li><a href="poezija/slavonija-je-bila-plameno-more.php">Slavonija je bila plameno more</a></li>
             </ul>
         </article>
 
@@ -1219,6 +1220,7 @@ include "includes/header.php";
                 <li><a href="poezija/ostavicu-staru-majku.php">Ostaviću staru majku</a></li>
                 <li><a href="poezija/kordunaska-osma-divizija.php">Kordunaška Osma divizija</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
+                <li><a href="poezija/pjesme-slavonskih-partizana.php">Pjesme slavonskih partizana</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
                 <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara nema partizana</a> (Marku Oreškoviću)</li>
@@ -1788,6 +1790,7 @@ include "includes/header.php";
         <article>
             <h4>Jure Kaštelan</h4>
             <ul>
+                <li><a href="poezija/ako-ti-suze-pomute-vid.php">Ako ti suze pomute vid</a></li>
                 <li><a href="poezija/pjesma-o-mojoj-zemlji.php">Pjesma o mojoj zemlji</a></li>
                 <li><a href="poezija/mrtvac-u-kuci.php">Mrtvac u kući</a></li>
             </ul>

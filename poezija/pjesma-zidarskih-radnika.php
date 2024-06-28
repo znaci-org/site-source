@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Hamid Dizdar - Pjesma zidarskih radnika";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Hamid Dizdar - Pjesma zidarskih radnika</h1>
+<h1><?php echo $naslov ?></h1>
 
 O, u prejako zlato proljetnog sunca viknuti smjelo<br/>
 sa najvišeg vrha tek sazidane kuće:<br/>

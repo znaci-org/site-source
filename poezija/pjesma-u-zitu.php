@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Vladimir Čerkez - Pjesma u žitu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Vladimir Čerkez - Pjesma u žitu</h1>
+<h1><?php echo $naslov ?></h1>
 
 Plavi jorgovan njiše zoru.<br />
 I zvijezde gasnu horizontom.<br />
