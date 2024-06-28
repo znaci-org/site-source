@@ -941,6 +941,14 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Anđelka Turčinović</h4>
+            <ul>
+                <li><a href="poezija/umro-je-borac.php">Umro je borac</a></li>
+                <li><a href="poezija/crvene-ciklame.php">Crvene ciklame</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Grigor Vitez</h4>
             <ul>
                 <li><a href="poezija/poruka-sinu.php">Poruka sinu</a></li>

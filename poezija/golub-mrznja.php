@@ -43,4 +43,4 @@ drugovi, ja pobijeđen ne mogu biti,<br/>
 jer mene mržnja, kao najdražeg sina majka<br/>
 u naručju nosi.<br/>
 
-<p>(Pjesma je izašla u Slavonskom partizanu, u broju 10 od 15. slovom "Mržnja". Autor Golub.)</p>
+<p>(Pjesma izašla u Slavonskom partizanu, broj 10, pod pseudonimom, navedeno prema  Kultura i umjetnost NOB u Hrvatskoj, str. 416, Zagreb 1975.)</p>
