@@ -1,5 +1,5 @@
 <?php
-$naslov = "Jure Franičević Pločar - Na kormilu je bila Partija";
+$naslov = "Jure Franičević Pločar - Dubine i jarboli";
 include "../includes/header.php";
 ?>
 

@@ -493,7 +493,7 @@ include "includes/header.php";
 
     <h2 id="spanske">Poezija španske revolucije</h2>
 
-    <p>Pesme Jugoslovena o španskom građanskom ratu.</p>
+    <p>Pesme Jugoslovena o Španiji.</p>
 
     <div class="knjige columns">
         <article>
@@ -544,6 +544,13 @@ include "includes/header.php";
             <h4>Dušan Kostić</h4>
             <ul>
                 <li><a href="poezija/zvijezde-i-covjek-u-samici.php">Zvijezde i čovjek u samici</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Oskar Davičo</h4>
+            <ul>
+                <li><a href="poezija/cinjenice.php">Činjenice</a></li>
             </ul>
         </article>
 
@@ -914,6 +921,14 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Jure Franičević Pločar</h4>
+            <ul>
+                <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
+                <li><a href="poezija/partizan-ivan-prica.php">Partizan Ivan priča</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Zdenko Štambuk</h4>
             <ul>
                 <li><a href="poezija/kuriri.php">Kuriri</a></li>
@@ -1161,6 +1176,8 @@ include "includes/header.php";
                 <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
                 <li><a href="poezija/volujak.php">Volujak</a></li>
                 <li><a href="poezija/piva.php">Piva</a></li>
+                <li><a href="poezija/kostic-zelengora.php">Zelengora</a></li>
+                <li><a href="poezija/poslednja-mozda-noc.php">Poslednja možda noć</a></li>
                 <li><a href="poezija/tuzaljka-nad-djetetom.php">Tužaljka nad djetetom</a></li>
             </ul>
         </article>
@@ -1677,6 +1694,7 @@ include "includes/header.php";
             <h4>Jevrem Brković</h4>
             <ul>
                 <li><a href="poezija/komesar.php">Komesar</a></li>
+                <li><a href="poezija/po-vjetru-i-plotunu.php">Po vjetru i plotunu</a></li>
             </ul>
         </article>
 
@@ -1773,7 +1791,6 @@ include "includes/header.php";
         <article>
             <h4>Jure Franičević Pločar</h4>
             <ul>
-                <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
                 <li><a href="poezija/na-kormilu-je-bila-partija.php">Na kormilu je bila Partija</a></li>
                 <li><a href="poezija/dubine-i-jarboli.php">Dubine i jarboli</a></li>
             </ul>
@@ -1798,6 +1815,7 @@ include "includes/header.php";
             <h4>Oskar Davičo</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oskar_Davico_1951.jpg/100px-Oskar_Davico_1951.jpg">
             <ul>
+                <li><a href="poezija/odzivi-na-lozinku-proglasa.php">Odzivi na lozinku proglasa</a></li>
                 <li><a href="poezija/zrenjanin.php">Zrenjanin</a> (poema)</li>
                 <li>
                     <ul>
@@ -1807,7 +1825,6 @@ include "includes/header.php";
                         <li><a href="poezija/zrenjanin.php#ponovni-susret">Ponovni susret u jutro</a></li>
                     </ul>
                 </li>
-                <li><a href="poezija/cinjenice.php">Činjenice</a></li>
             </ul>
         </article>
 

@@ -42,3 +42,12 @@ izvori bistri u hladu plandišta,<br/>
 svijetlo nebo u noćima mrkim<br/>
 i sjeno mirisno naših konačišta.<br/>
 <br/>
+Znao sam Srbiju što prkosi sa vješala<br/>
+Srbiju — zastavu, bratstvo bez mjera.<br/>
+Gdje god smo došli u bijela sela<br/>
+želi smo žetvu sijača — proletera.<br/>
+<br/>
+Srbija, druže, — i moja, i tvoja<br/>
+u Bosni mojoj živjeće spomenikom,<br/>
+a stihovi tvoji s Košura, proboja<br/>
+cvašće u srcima srećnom Republikom.<br/>
