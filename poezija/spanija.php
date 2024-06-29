@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Karel Destovnik Kajuh - Španija";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Španija</h1>
+<h1><?php echo $naslov ?></h1>
 
 Mar ne čujete krikov in prošnjá<br/>
 tamkaj iz daljin?<br/>

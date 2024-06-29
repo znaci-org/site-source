@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Radonja Vešović - Spavač";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Radonja Vešović - Spavač</h1>
+<h1><?php echo $naslov ?></h1>
 
 Daleko odbacio ruke<br/>
 trepavice duboko sveo.<br/>

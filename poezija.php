@@ -1144,6 +1144,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
                 <li><a href="poezija/volujak.php">Volujak</a></li>
+                <li><a href="poezija/piva.php">Piva</a></li>
             </ul>
         </article>
 
@@ -1159,6 +1160,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/nocni-mars.php">Noćni marš</a></li>
                 <li><a href="poezija/spavac.php">Spavač</a></li>
+                <li><a href="poezija/nasi-koraci.php">Naši koraci</a></li>
                 <li><a href="poezija/samo-jedan-je-zivot.php">Samo jedan je život</a></li>
             </ul>
         </article>
@@ -1618,6 +1620,13 @@ include "includes/header.php";
                 <li><a href="poezija/prkosne-strofe.php">Prkosne strofe</a></li>
                 <li><a href="poezija/iako-nece-doci.php">Iako neće doći</a></li>
                 <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Mirko Banjević</h4>
+            <ul>
+                <li><a href="poezija/spomenik.php">Spomenik</a></li>
             </ul>
         </article>
 

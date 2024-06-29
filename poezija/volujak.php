@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Dušan Kostić - Volujak";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Dušan Kostić - Volujak</h1>
+<h1><?php echo $naslov ?></h1>
 
 Koraci ovi u predvečerje<br/>
 tugom rastanka zvone.<br/>
