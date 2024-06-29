@@ -709,6 +709,7 @@ include "includes/header.php";
         <article>
             <h4>Risto Tošović</h4>
             <ul>
+                <li><a href="poezija/stihovi-sa-kosura.php">Stihovi sa Košura</a></li>
                 <li><a href="poezija/ni-tebe-djevojko-nema.php">Ni tebe, djevojko, nema</a></li>
             </ul>
         </article>
