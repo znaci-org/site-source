@@ -1097,6 +1097,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Petar Đuranović</h4>
+            <ul>
+                <li><a href="poezija/trave-na-budnju.php">Trave na budnju</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Jure Kaštelan</h4>
             <ul>
                 <li><a href="poezija/dinamit.php">Dinamit</a></li>
