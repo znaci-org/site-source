@@ -914,13 +914,6 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h4>Enver Đerđeku</h4>
-            <ul>
-                <li><a href="poezija/zrak-na-uzetu.php">Zrak na užetu</a></li>
-            </ul>
-        </article>
-
-        <article>
             <h4>Jure Franičević Pločar</h4>
             <ul>
                 <li><a href="poezija/kad-umire-covjek.php">Kad umire čovjek</a></li>
@@ -1672,6 +1665,13 @@ include "includes/header.php";
                     <li><a href="poezija/poema-o-pruzi.php#devojke">Devojke</a></li>
                     <li><a href="poezija/poema-o-pruzi.php#banovici">Banovići</a></li>
                 </ul>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Enver Đerđeku</h4>
+            <ul>
+                <li><a href="poezija/zrak-na-uzetu.php">Zrak na užetu</a></li>
             </ul>
         </article>
 

@@ -98,28 +98,12 @@ a:hover {
     width: 100%;
 }
 
-.max-100 {
-    max-width: 100%;
-}
-
-.float-left {
-    float: left;
-}
-
-.float-right {
-    float: right;
-}
-
 .clear {
     clear: both;
 }
 
 .underline {
     text-decoration: underline;
-}
-
-.no-outline {
-    outline: none;
 }
 
 .inline-block {
@@ -265,25 +249,12 @@ article:first-child h4 {
     font-weight: bold
 }
 
-.bigTitle_c {
-    font-family: Arial, Verdana, Helvetica, sans-serif;
-    font-weight: bold;
-    color: #a00000;
-}
-
 .bigbigTitle_c {
     font-family: Arial, Verdana, Helvetica, sans-serif;
     font-weight: bold;
     font-style: italic;
     text-align: center;
     color: #a00000;
-}
-
-.bigbigTitle_r {
-    font-family: Arial, Verdana, Helvetica, sans-serif;
-    font-weight: bold;
-    font-style: italic;
-    color: #A00000
 }
 
 .ttl {

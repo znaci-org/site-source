@@ -17,7 +17,7 @@ include_once('css/izvor.php');
 <article class="okvir izvor">
     <h1><?php echo $fotografija->getNaslov(); ?></h1>
 
-    <img src="<?php echo $fotografija->url; ?>" class='max-100'>
+    <img src="<?php echo $fotografija->url; ?>">
 
     <div class="podaci_o_izvoru">
         <?php $fotografija->render_opis(); ?>
