@@ -851,6 +851,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Đorđe Đurić</h4>
+            <ul>
+                <li><a href="poezija/rastanak-s-banijom.php">Rastanak s Banijom</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Jovan Popović</h4>
             <ul>
                 <li><a href="poezija/poruka-pred-odlazak.php">Poruka pred odlazak</a></li>
@@ -1145,6 +1152,7 @@ include "includes/header.php";
                 <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
                 <li><a href="poezija/volujak.php">Volujak</a></li>
                 <li><a href="poezija/piva.php">Piva</a></li>
+                <li><a href="poezija/tuzaljka-nad-djetetom.php">Tužaljka nad djetetom</a></li>
             </ul>
         </article>
 
