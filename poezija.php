@@ -241,6 +241,7 @@ include "includes/header.php";
             <h4>Dušan Kostić</h4>
             <ul>
                 <li><a href="poezija/zdravica-u-moskvi.php">Zdravica u Moskvi</a></li>
+                <li><a href="poezija/pismo-mrtvome-ocu.php">Pismo mrtvome ocu</a></li>
             </ul>
         </article>
 
