@@ -405,7 +405,7 @@ Kliktanjem orlova, krikom ždralova<br/>
 Zborom horova gromova<br/>
 Nad zemljom ranjenom<br/>
 <br/>
-Tu nam na frontu vrelom pade<br/>
+Tu nam na frantu vrelom pade<br/>
 Gorostas borbe, neimar pokreta<br/>
 Slavni komesar Interbrigade<br/>
 U prvom stroju budućih ljeta<br/>
