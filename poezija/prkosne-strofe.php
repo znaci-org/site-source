@@ -7,6 +7,8 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
+<p>(odlomak)</p>
+
 <p>
   <i>
     Posvećeno strancu koji je ljutito rekao:<br />

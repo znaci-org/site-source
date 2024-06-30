@@ -689,6 +689,7 @@ include "includes/header.php";
         <article>
             <h4>Radovan Zogović</h4>
             <ul>
+                <li><a href="poezija/pismo-po-kuriru.php">Pismo po kuriru</a></li>
                 <li><a href="poezija/strijeljanoj-maloj-ani-studentkinji.php">Strijeljanoj maloj Ani studentkinji</a></li>
                 <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
                 <li><a href="poezija/bez-granice.php">Bez granice</a></li>
@@ -724,6 +725,7 @@ include "includes/header.php";
         <article>
             <h4>Oskar Davičo</h4>
             <ul>
+                <li><a href="poezija/balada-o-cetiri-grada.php">Balada o prva četiri naša glavna grada</a></li>
                 <li><a href="poezija/monolog-fratra.php">Monolog fratra</a></li>
                 <li><a href="poezija/sloboda.php">Sloboda</a></li>
             </ul>
