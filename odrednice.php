@@ -11,9 +11,9 @@ $rezultat = $mysqli->query($upit);
 
 <div class="okvir pojmovi siri-prored">
 
-    <h1>Spisak odrednica</h1>
+    <h2>Spisak odrednica</h2>
 
-    <ul class="sadrzaj svetlosiva-pozadina siva-ivica">
+    <ul class="">
         <a href="#Jedinice"><li>Jedinice</li></a>
         <a href="#Bitke i operacije"><li>Bitke i operacije</li></a>
         <a href="#Organizacije"><li>Organizacije</li></a>
@@ -69,7 +69,7 @@ $rezultat = $mysqli->query($upit);
 
     ?>
 
-    <h2 id="Jedinice">Jedinice</h2>
+    <h3 id="Jedinice">Jedinice</h3>
 
     <ul>
         <?php
@@ -90,7 +90,7 @@ $rezultat = $mysqli->query($upit);
     </ul>
 
 
-    <h2 id="Bitke i operacije">Bitke i operacije</h2>
+    <h3 id="Bitke i operacije">Bitke i operacije</h3>
 
     <ul>
         <?php
@@ -110,7 +110,7 @@ $rezultat = $mysqli->query($upit);
         ?>
     </ul>
 
-    <h2>Organizacije</h2>
+    <h3>Organizacije</h3>
 
     <ul id="Organizacije">
         <?php
@@ -131,7 +131,7 @@ $rezultat = $mysqli->query($upit);
     </ul>
 
 
-    <h2 id="Ličnosti">Ličnosti</h2>
+    <h3 id="Ličnosti">Ličnosti</h3>
 
     <ul>
         <?php
@@ -152,7 +152,7 @@ $rezultat = $mysqli->query($upit);
     </ul>
 
 
-    <h2 id="Gradovi">Gradovi</h2>
+    <h3 id="Gradovi">Gradovi</h3>
     <ul>
         <?php
         for($i = 0; $i < count($gradovi); $i++) {
@@ -172,7 +172,7 @@ $rezultat = $mysqli->query($upit);
     </ul>
 
 
-    <h2 id="Zločini">Zločini</h2>
+    <h3 id="Zločini">Zločini</h3>
 
     <ul>
         <?php
@@ -193,7 +193,7 @@ $rezultat = $mysqli->query($upit);
     </ul>
 
 
-    <h2 id="Teme">Teme</h2>
+    <h3 id="Teme">Teme</h3>
 
     <ul>
         <?php

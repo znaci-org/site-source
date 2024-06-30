@@ -65,7 +65,7 @@ if ($trenutna_strana > $ukupno_stranica) {
             if ($j >= $prikazuje_od && $j <= $prikazuje_do) {
                 $izvor_slike = "/images/thumbnails/$inv.jpg";
                 $url = "/fotografija.php?br=$inv";
-                echo "<div class='okvir-slike siva-ivica'>
+                echo "<div class='okvir-slike'>
                     <a href='$url'><img class='galerija-slika' height='200px' title='$opis' src=$izvor_slike></a><br>";
                 if ($opis) {
                     echo "<div class='tekst-opis'>" . $opis . "</div>";
