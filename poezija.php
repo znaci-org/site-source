@@ -487,6 +487,7 @@ include "includes/header.php";
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
                 <li><a href="poezija/kolo-kolo-naokolo.php">Kolo kolo naokolo</a></li>
+                <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
             </ul>
         </article>
     </div>
@@ -1526,7 +1527,6 @@ include "includes/header.php";
                 <li><a href="poezija/srp-i-cekic-celicni.php">Srp i čekić čelični</a></li>
                 <li><a href="poezija/pravda-jaca-nego-sila.php">Pravda jača nego sila</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>
-                <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
                 <li><a href="poezija/partizanski-dvostih.php">Partizanski dvostih</a></li>
                 <li><a href="poezija/o-titu.php">Partizanski dvostih o Titu</a></li>
             </ul>
