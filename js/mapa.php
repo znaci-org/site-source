@@ -13,7 +13,7 @@ const praviMarker = data => {
   const slika_src = '/images/ustanak.png';
 
   const prozor = `<a href='${url}' target='_blank'>
-    <h3>${data.naziv} u narodno-oslobodilačkom ratu</h3>
+    <h3>${data.naziv} u narodnooslobodilačkom ratu</h3>
     <img src='${slika_src}' width='200'>
   </a>`
 
