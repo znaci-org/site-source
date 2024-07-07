@@ -19,7 +19,7 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
 ?>
 
 <div class="okvir naslovna">
-    <h2>Jugoslovensko ratište na dan <?php echo $datum->datum; ?>. godine</h2>
+    <h2>Dogodilo se na današnji dan <?php echo $datum->datum; ?>. godine</h2>
 
     <form method="get" class="izbor-datuma">
         Dan: <input name="dan" type="number" min="1" max="31" value="<?php echo $dan; ?>"> 
