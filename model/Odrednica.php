@@ -44,7 +44,7 @@ class Odrednica {
         $this->id = $red["id"];
         $this->slug = $red["slug"];
         $this->vrsta = $red["vrsta"];
-        $this->naziv = $this->vrsta == 2 ? $red["naziv"] . " u oslobodilačkom ratu" : $red["naziv"];
+        $this->naziv = $this->vrsta == 2 ? $red["naziv"] . " u narodno-oslobodilačkom ratu" : $red["naziv"];
     }
 
     private function init_dogadjaji() {
