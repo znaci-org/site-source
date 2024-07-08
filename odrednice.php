@@ -159,7 +159,7 @@ $rezultat = $mysqli->query($upit);
             $id = $gradovi[$i]['id'];
             $naziv = $gradovi[$i]['naziv'];
             $slug = $gradovi[$i]['slug'];
-            echo "<li><a href='odrednica.php?slug=$slug'>" . $gradovi[$i]['naziv'] . " u narodnooslobodilačkom ratu</a>";
+            echo "<li><a href='odrednica.php?slug=$slug'>" . $gradovi[$i]['naziv'] . " u drugom svetskom ratu</a>";
 
             if($ulogovan){
                 echo " <select name='vrsta_entia' id='vrsta_entia'>";
