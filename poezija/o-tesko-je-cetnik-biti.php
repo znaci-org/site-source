@@ -81,7 +81,7 @@ O teško je četnik biti!<br/>
 <br/>
 Baš je naša vlada bistra,<br/>
 Dobro naše konce krije:<br/>
-Draži dalačast ministra,<br/>
+Draži dala čast ministra,<br/>
 Jer uz Nijemce on se bije.<br/>
 Teritorij vlada nema,<br/>
 Al se gora stvar još sprema –<br/>
@@ -108,7 +108,7 @@ O teško je četnik biti!<br/>
 <br/>
 A zlo raste sa svih strana.<br/>
 Bila bi nam slava draža,<br/>
-Da pobjede partizanâ<br/>
+Da pobjede partizana<br/>
 Preoteti može Draža.<br/>
 Jer se samo za njih čuje,<br/>
 A već sav svijet na nas pljuje.<br/>
