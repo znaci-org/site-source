@@ -58,4 +58,8 @@ I on vodi crvene armije<br/>
 
 <hr>
 
-<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvotnu verziju teksta,  prilagodbom postojeće guslarske pjesme, kao alternativu kompleksnim revolucionarnim pjesmama, koristeci „melodijski tok blizak ovom kraju i uz reči koje svi poznaju“.</p>
+<p>U zimu 1942. godine, nekoliko mjeseci poslije savjetovanja i boravka druga Tita u Srednjem, nastao je ovaj tekst. Pjesma je ostala da živi kao narodna partizanska pjesma romanijskog kraja.</p>
+
+<p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku, a moguće i prvotnu verziju teksta, prilagodbom postojeće guslarske pjesme, kao alternativu kompleksnim revolucionarnim pjesmama, koristeci „melodijski tok blizak ovom kraju i uz reči koje svi poznaju“.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ide_Tito_preko_Romanije.jpg/800px-Ide_Tito_preko_Romanije.jpg" alt="">

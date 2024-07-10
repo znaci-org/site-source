@@ -109,3 +109,9 @@ Nema više marmelade<br />
 da koljaši mažu brade.<br />
 
 <p>(Dragoljub Simonović, Zaplanje, Etnografski institut SANU, 1982., str. 788.)</p>
+
+<hr>
+
+<p>Poslije jedne akcije na romanijskoj cesti oktobra ili novembra 1941, nastaje na staru guslarsku melodiju tekst ove pjesme. Docnije, miješanjem boraca iz raznih krajeva, ovaj tekst se definitivno veže uz melodiju iz Crne Gore.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Na_vrh_gore_Romanije.jpg/1000px-Na_vrh_gore_Romanije.jpg" alt="">
