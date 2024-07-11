@@ -26,3 +26,7 @@ Nova Danica.</p>
 U srcu nam cvijeta i lista<br>
 Rujna, svježa, rosna, čista,<br>
 Kao ružica.</p>
+
+<hr>
+
+<p>Dok sam bio u Moslavini, komponirao sam najprije jedan dvoglasni zbor, borbenu pjesmu »Crvena zvijezda«, na tekst Vladimira Nazora. To je bilo 1943. (Natko Devčić)</p>

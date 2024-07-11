@@ -693,6 +693,7 @@ include "includes/header.php";
                 <li><a href="poezija/pismo-po-kuriru.php">Pismo po kuriru</a></li>
                 <li><a href="poezija/strijeljanoj-maloj-ani-studentkinji.php">Strijeljanoj maloj Ani studentkinji</a></li>
                 <li><a href="poezija/prolog-za-nenapisanu-poemu.php">Prolog za nenapisanu poemu</a></li>
+                <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
                 <li><a href="poezija/bez-granice.php">Bez granice</a></li>
             </ul>
         </article>
@@ -1648,7 +1649,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/prkosne-strofe.php">Prkosne strofe</a></li>
                 <li><a href="poezija/iako-nece-doci.php">Iako neće doći</a></li>
-                <li><a href="poezija/pjesma-o-biografiji-druga-tita.php">Pjesma o biografiji druga Tita</a> (poema)</li>
             </ul>
         </article>
 

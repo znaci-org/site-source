@@ -151,3 +151,7 @@ pogledaj<br/>
 kad ih vjetar razlistava kao novine, —<br/>
 vidjećeš<br/>
 sliku Tita!<br/>
+
+<hr>
+
+<p>Na priredbi Kazališta narodnog oslobođenja u Drvaru 5. aprila 1944. Afrić je spremio odlomak Zogovićeve »Pesme o biografiji druga Tita« kao horsku recitaciju.</p>

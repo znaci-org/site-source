@@ -42,3 +42,5 @@ kličuć: Tito, Tito, Tito!</p>
 <hr>
 
 <p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku za ovu pesmu.</p>
+
+<img src="skenovi/drug-tito.jpg" alt="">
