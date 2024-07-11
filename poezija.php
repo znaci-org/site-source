@@ -950,6 +950,7 @@ include "includes/header.php";
                 <li><a href="poezija/partizanovo-slovo.php">Partizanovo slovo</a></li>
                 <li><a href="poezija/kje-si-mati.php">Kje si, mati</a></li>
                 <li><a href="poezija/v-srbijo-v-slezijo.php">V Srbijo ... v Šlezijo</a></li>
+                <li><a href="poezija/dekle-v-zaporu.php">Dekle v zaporu</a></li>
             </ul>
         </article>
 
