@@ -5,7 +5,7 @@ include "../includes/header.php";
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Junuz Međedović - Teče Tara</h1>
+<h1>Junus Međedović - Teče Tara</h1>
 
 (<i>pjesma je postala narodna i ima više verzija</i>)
 
