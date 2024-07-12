@@ -1,5 +1,5 @@
 <?php
-$naslov = "U Dolove kraj Pljevalja";
+$naslov = "Pljevaljska bitka";
 include "../includes/header.php";
 ?>
 
@@ -25,5 +25,16 @@ Vuk Knežević, divno mlade,<br/>
 Za slobodu život dade.<br/>
 Padaj, Vuče, lave ljuti,<br/>
 Tvoji će nas vodit puti.<br/>
+
+<h2>II verzija</h2>
+
+Pod Durmitor, na Jezera,<br/>
+Skupila se vojska velja:<br/>
+Partizanska bješe želja<br/>
+Oslobodit varoš Pljevlja.<br/>
+Na dva sata prije zore<br/>
+Udariše malo gore,<br/>
+Obradović iz Tepaca<br/>
+Na bunkere bombe baca ...<br/>
 
 <p>(1941)</p>

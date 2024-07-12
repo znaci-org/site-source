@@ -1368,7 +1368,7 @@ include "includes/header.php";
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/na-moskvu-je-hitler-kreno.php">Na Moskvu je Hitler kreno</a></li>
-                <li><a href="poezija/u-dolove-kraj-pljevalja.php">U Dolove kraj Pljevalja</a></li>
+                <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>

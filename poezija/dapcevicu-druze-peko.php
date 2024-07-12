@@ -86,4 +86,17 @@ Druga Peka divizije.<br/>
 Cijele zemlje to su borci,<br/>
 Druga Tita dobrovoljci.<br/>
 
+<h2>V  verzija</h2>
+
+Ide Peko pro Jezera<br/>
+Sa korpusom proletera,<br/>
+Peko jaše na Zelenka,<br/>
+Ko ne smije — nek ne čeka.<br/>
+Jaše Peko konja-vilu<br/>
+Draža nema ni kobilu,<br/>
+Hita Peko da osveti<br/>
+Kolašinski lug prokleti.<br/>
+
+<p>(izvor: Durmitorska partizanska republika, zbornik radova)</p>
+
 <p><img src="http://www.znaci.org/images/6672.jpg" alt=""></p>

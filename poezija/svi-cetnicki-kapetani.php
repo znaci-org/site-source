@@ -21,6 +21,15 @@ Briju brade bez sapuna.<br/>
 Kad njemačka vojska ode,<br/>
 Brijaće ih i bez vode.<br/>
 
+<h2>O Pavlu Đurišiću</h2>
+
+Gledala sam sa vrh Tare,<br/>
+Đrišića đe samare,<br/>
+Uhvatile Švabe dvije,<br/>
+Jedan vodi, drugi bije.<br/>
+Ne kažu mu: komandante!<br/>
+No mu vele: đi, dorate!<br/>
+
 <hr>
 
 <p>U proljeće 1943. godine, uoči operacije Švarc, Njemci su četnike razoružali i primorali ih da na grbaču prime specijalne samare za nošenje municijskih kutija na borbene položaje po crnogorskim planinama, tamo kuda ni brdsko kljuse nije moglo da se kreće. To su morali raditi svi četnici, bez obzira na vojne činove i komandne položaje koje su dotad zauzimali. Mnogi od njih tada su i obrijali duge crne brade. Narod je to propratio podrugljivom pjesmom.
