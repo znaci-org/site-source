@@ -487,6 +487,7 @@ include "includes/header.php";
                 <li><a href="poezija/rabotnicka.php">Rabotnička</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
+                <li><a href="poezija/omladinska.php">Omladinska</a></li>
                 <li><a href="poezija/kolo-kolo-naokolo.php">Kolo kolo naokolo</a></li>
                 <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
             </ul>
@@ -857,6 +858,7 @@ include "includes/header.php";
                 <li><a href="poezija/drug-tito.php">Drug Tito</a></li>
                 <li><a href="poezija/koca-i-peko.php">Koča i Peko</a></li>
                 <li><a href="poezija/krutim-se.php">Krutim se</a></li>
+                <li><a href="poezija/durmitoru.php">Durmitoru</a></li>
                 <li><a href="poezija/abdulah-ore.php">Abdulah ore</a></li>
                 <li><a href="poezija/nadjena-djevojcica.php">Nađena djevojčica</a></li>
                 <li><a href="poezija/osamljeni-dub.php">Osamljeni dub</a></li>
@@ -899,6 +901,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/tece-tara.php">Teče Tara</a></li>
                 <li><a href="poezija/skriveni-grob.php">Skriveni grob</a></li>
+                <li><a href="poezija/sandzacka-partizanka.php">Sandžačka partizanka</a></li>
             </ul>
         </article>
 
