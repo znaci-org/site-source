@@ -42,3 +42,12 @@ tebe ista sudba čeka.</p>
 
 <p>Kralju Petre, ti si peti,<br>
 tebe ćemo razapeti.</p>
+
+<h2>III verzija</h2>
+
+<p>(iz Crne Gore)</p>
+
+<p>Kralju Petre, ti si peti,<br>
+tebe ćemo razapeti.</p>
+
+<p>(navedeno prema Durmitorska partizanska republika, zbornik radova)</p>

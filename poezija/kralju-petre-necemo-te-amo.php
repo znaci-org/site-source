@@ -96,4 +96,11 @@ da se neće vratit monarhija. <br>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
+<h2>verzija iz Crne Gore</h2>
+
+Kralju Pero, peta si kolona,<br/>
+Nemoj više lajat iz Londona.<br/>
+
+<p>(navedeno prema Durmitorska partizanska republika, zbornik radova)</p>
+
 <p><img src="http://www.znaci.org/images/4226.jpg" alt=""></p>

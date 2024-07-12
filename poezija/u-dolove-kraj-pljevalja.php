@@ -25,3 +25,5 @@ Vuk Knežević, divno mlade,<br/>
 Za slobodu život dade.<br/>
 Padaj, Vuče, lave ljuti,<br/>
 Tvoji će nas vodit puti.<br/>
+
+<p>(1941)</p>
