@@ -28,6 +28,9 @@ include "includes/header.php";
                 <li><a href="poezija/zvizdi-vetre.php">Zviždi vetre</a></li>
                 <li><a href="poezija/radnicka-himna.php">Radnička himna</a></li>
                 <li><a href="poezija/svet-je-nasa-otadzbina.php">Svet je naša otadžbina</a></li>
+                <li><a href="poezija/liberal.php">Liberal</a></li>
+                <li><a href="poezija/sloboda-abrasevic.php">Sloboda</a></li>
+                <li><a href="poezija/pijanica.php">Pijanica</a></li>
             </ul>
         </article>
 
