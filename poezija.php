@@ -1367,7 +1367,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
-                <li><a href="poezija/bijela-vilo-sa-planine.php">Bijela vilo sa planine</a></li>
                 <li><a href="poezija/na-moskvu-je-hitler-kreno.php">Na Moskvu je Hitler kreno</a></li>
                 <li><a href="poezija/u-dolove-kraj-pljevalja.php">U Dolove kraj Pljevalja</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
