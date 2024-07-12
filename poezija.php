@@ -26,6 +26,7 @@ include "includes/header.php";
                 <li><a href="poezija/crvena.php">Crvena</a></li>
                 <li><a href="poezija/potoku.php">Potoku</a></li>
                 <li><a href="poezija/zvizdi-vetre.php">Zviždi vetre</a></li>
+                <li><a href="poezija/radnicka-himna.php">Radnička himna</a></li>
                 <li><a href="poezija/svet-je-nasa-otadzbina.php">Svet je naša otadžbina</a></li>
             </ul>
         </article>

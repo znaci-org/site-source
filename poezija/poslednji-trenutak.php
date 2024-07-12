@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Jože Udovič - Poslednji trenutak";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Jože Udovič - Poslednji trenutak</h1>
+<h1><?php echo $naslov ?></h1>
 
 "Pred puškama stojim,<br/>
 jutro sviće, živo jutro posljednjeg maja,<br/>

@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Kosta Abrašević - Potoku";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kosta Abrašević - Potoku</h1>
+<h1><?php echo $naslov ?></h1>
 
 Oj, potoče, žuri, žuri,<br/>
 Odavno te more čeka,<br/>

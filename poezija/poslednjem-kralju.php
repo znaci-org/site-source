@@ -1,12 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Kosta Novaković - Posljednjem kralju";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Kosta Novaković - Posljednjem kralju</h1>
-
+<h1><?php echo $naslov ?></h1>
 
 <p><i>Pesma u desetercu objavljena 1931. godine pod pseudonimom “Crveni guslar”, posvećena kralju Aleksandru Prvom, ili kako su ga komunisti zvali, Aleksandru Posljednjem.</i></p>
 
