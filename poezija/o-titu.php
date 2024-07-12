@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>popularna pjesnička forma Krajine, Like i Korduna</i>)</p>
+<h3>Deseterac</h3>
 
 Nije ni to dobito sa šalom<br />
 da se Tito nazove maršalom.<br />
@@ -96,14 +96,18 @@ Tebe voli omladina cijela.<br/>
 Tebe voli omladina cijela,<br/>
 Popaljenih gradova i sela.<br/>
 <br/>
-Druže Tito, ljubičice plava,
-Ti se boriš za narodna prava.
+Druže Tito, ljubičice plava,<br/>
+Ti se boriš za narodna prava.<br/>
 <br/>
 Druže Tito ti narodna nado.<br/>
 Tebe voli i staro i mlado.<br/>
 <br/>
 Druže Tito vitko ti je telo<br/>
 al ti sliši maršalsko odelo.<br/>
-<br/>
+
+<h3>Osmerac</h3>
+
+Druže Tito mudra glavo,<br/>
+Sve što radiš to je pravo<br/>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Vrhovni_komandant_Tito_1943.jpg" alt=""></p>

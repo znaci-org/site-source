@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ustaj seljo, ustaj rode";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ustaj seljo, ustaj rode</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>narodna pesma iz Srbije</i>)</p>
 
@@ -117,7 +117,15 @@ Ova borba biće duga.<br/>
 <br/>
 Zbijajmo se brat do brata,<br/>
 Da skinemo jaram s vrata.<br/>
-<br>
+
+<h2>Durmitorska verzija</h2>
+
+Ustaj seljo, ustaj rode,<br/>
+Kucnuo je čas slobode,<br/>
+Kucnuo je čas slobode,<br/>
+Da se braniš od gospode.<br/>
+
+<p>(pevana tokom Durmitorske republike 1941)</p>
 
 <hr>
 

@@ -1369,6 +1369,7 @@ include "includes/header.php";
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/bijela-vilo-sa-planine.php">Bijela vilo sa planine</a></li>
                 <li><a href="poezija/na-moskvu-je-hitler-kreno.php">Na Moskvu je Hitler kreno</a></li>
+                <li><a href="poezija/u-dolove-kraj-pljevalja.php">U Dolove kraj Pljevalja</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
@@ -1426,6 +1427,7 @@ include "includes/header.php";
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
                 <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
+                <li><a href="poezija/majko-kadinjace.php">Majko Kadinjače</a></li>
                 <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo Tito boljševiče</a></li>
                 <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
                 <li><a href="poezija/necu-majko-za-cetnika.php">Neću majko za četnika</a></li>
@@ -1474,6 +1476,7 @@ include "includes/header.php";
                 <li><a href="poezija/taman-se-oblak-zadade.php">Таман се облак зададе</a></li>
                 <li><a href="poezija/bolen-lezi-mile-pop-jordanov.php">Болен ми лежи Миле Поп Јорданов</a></li>
                 <li><a href="poezija/a-bre-makedonce.php">А бре Македонче</a></li>
+                <li><a href="poezija/ne-placete-stari-majki.php">Не плачете стари мајки</a></li>
             </ul>
         </article>
 
