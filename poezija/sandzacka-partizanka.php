@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-Sunce se rađa iz crnoga mraka <br>
+Sunce se rađa iz crnoga mraka<br>
 Sviće nam rumeni dan,<br>
 Nosimo rodu slobode i zraka<br>
 Stvarnost već razgoni san.<br>

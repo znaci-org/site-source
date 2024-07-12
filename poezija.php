@@ -1370,7 +1370,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
-                <li><a href="poezija/na-moskvu-je-hitler-kreno.php">Na Moskvu je Hitler kreno</a></li>
                 <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
@@ -1379,6 +1378,7 @@ include "includes/header.php";
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
                 <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
                 <li><a href="poezija/svi-cetnicki-kapetani.php">Svi četnički kapetani</a></li>
+                <li><a href="poezija/crnogorska-partizanka.php">Crnogorska partizanka</a></li>
             </ul>
         </article>
 
@@ -1463,6 +1463,7 @@ include "includes/header.php";
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci junaci iz ćoške</a></li>
                 <li><a href="poezija/jednog-dana-pismo-stize.php">Jednog dana pismo stiže</a></li>
                 <li><a href="poezija/borba-za-oslobodjenje-uzica.php">Borba za oslobođenje Užica</a></li>
+                <li><a href="poezija/srbijanska-partizanka.php">Srbijanska partizanka</a></li>
             </ul>
         </article>
 

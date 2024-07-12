@@ -32,3 +32,10 @@ Eto nas!<br>
 <br>
 Hej, zasučimo rukave, znoj neka<br>
 Izgradićemo novoga čoveka.<br>
+
+<h2>II verzija</h2>
+
+Omladinci, omladinke<br> 
+velik nas je broj, <br>
+protiv rata i fašizma <br>
+svi ćemo u boj!<br>

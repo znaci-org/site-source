@@ -9,7 +9,7 @@ include "../includes/header.php";
 
 Biješ me mrazom i dahom, što koči,<br>
 U dane, kad se livade zelene <br>
-i šume smolom već mirišu.<br>
+I šume smolom već mirišu.<br>
 ​— Hladan,<br>
 Osamljen, gord se ovijaš tišinom,<br>
 kralju naših gora i planina!<br>

@@ -1,5 +1,5 @@
 <?php
-$naslov = "Na Moskvu je Hitler kreno";
+$naslov = "Crnogorska partizanka";
 include "../includes/header.php";
 ?>
 
@@ -7,12 +7,12 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>crnogorska narodna pjesma</i>)</p>
+<p>(<i>na melodiju Po šumama i gorama</i>)</p>
 
 Na Moskvu je Hitler kreno,<br/>
 Al je tamo našo grob,<br/>
 I nijedan narod više<br/>
-Neće biti rob.<br/>
+Neće njemu biti rob.<br/>
 <br/>
 SSSR je sad u ratu<br/>
 Pobjede mu brz je hod,<br/>
@@ -48,10 +48,3 @@ Sve će zemlje jedno biti,<br/>
 Narodi će grlit svi,<br/>
 I u složnom radu bratskom<br/>
 Svi će složno živjeti.<br/>
-
-<h2>II verzija</h2>
-
-U Moskvu je Hitler kreno,<br/>
-Al je tamo našo grob.<br/>
-I nijedan narod više,<br/>
-Neće njemu biti rob!<br/>
