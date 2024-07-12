@@ -1375,6 +1375,7 @@ include "includes/header.php";
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
                 <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
+                <li><a href="poezija/svi-cetnicki-kapetani.php">Svi četnički kapetani</a></li>
             </ul>
         </article>
 
