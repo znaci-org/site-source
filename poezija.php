@@ -1065,6 +1065,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/gazimo-gazimo.php">Gazimo, gazimo</a></li>
                 <li><a href="poezija/kri-v-plamenih.php">Kri v plamenih</a></li>
+                <li><a href="poezija/ob-tabornem-ognju.php">Ob tabornem ognju</a></li>
                 <li><a href="poezija/jutri-gremo-v-napad.php">Jutri gremo v napad</a></li>
                 <li><a href="poezija/hej-brigade.php">Hej brigade</a></li>
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
@@ -1421,7 +1422,6 @@ include "includes/header.php";
                 <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
                 <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
                 <li><a href="poezija/komandant-stane.php">Komandant Stane</a></li>
-                <li><a href="poezija/ob-tabornem-ognju.php">Ob tabornem ognju</a></li>
                 <li><a href="poezija/za-vasjo-je-credo-pasla.php">Za vasjo je čredo pasla</a></li>
                 <li><a href="poezija/pociva-jezero-v-tihoti.php">Počiva jezero v tihoti</a></li>
                 <li><a href="poezija/kdo-pa-so-ti-mladi-fantje.php">Kdo pa so ti mladi fantje</a></li>
