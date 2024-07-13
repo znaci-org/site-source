@@ -67,6 +67,6 @@ Romanijom crveni barjaci.<br />
 
 <hr>
 
-<p>Oskar Danon je u partizanima napisao melodiju oslanjajući se na narodnu.</p>
+<p>Partizanski guslar Radovan Vuković je na Romaniji ispjevao "Romanijo visokoga visa", pa je Danon zapisao i komponovao.</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Romanijo_visokoga_visa.jpg/800px-Romanijo_visokoga_visa.jpg" alt="">
