@@ -1065,6 +1065,9 @@ include "includes/header.php";
                 <li><a href="poezija/jutri-gremo-v-napad.php">Jutri gremo v napad</a></li>
                 <li><a href="poezija/hej-brigade.php">Hej brigade</a></li>
                 <li><a href="poezija/kad-budem-od-kuce-posao.php">Kad budem od kuće pošao</a></li>
+                <li><a href="poezija/stalinu.php">Stalinu</a></li>
+                <li><a href="poezija/zrtve.php">Žrtve</a></li>
+                <li><a href="poezija/pozigalceva-suknja.php">Požigalčeva suknja</a></li>
             </ul>
         </article>
 
