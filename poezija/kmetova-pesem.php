@@ -29,3 +29,6 @@ Zdaj me bijo kakor črno živino<br/>
 moje oči plameneče poglejte, tovariši,<br/>
 in mi povejte,<br/>
 še vidite v njih domovino?<br/>
+<br>
+
+<img src="skenovi/Kajuh - Kmetova pesem.jpg" alt="">

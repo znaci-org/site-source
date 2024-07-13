@@ -959,8 +959,11 @@ include "includes/header.php";
                 <li><a href="poezija/partizanovo-slovo.php">Partizanovo slovo</a></li>
                 <li><a href="poezija/kje-si-mati.php">Kje si, mati</a></li>
                 <li><a href="poezija/v-srbijo-v-slezijo.php">V Srbijo ... v Šlezijo</a></li>
+                <li><a href="poezija/v-zaporu.php">V zaporu</a></li>
                 <li><a href="poezija/dekle-v-zaporu.php">Dekle v zaporu</a></li>
                 <li><a href="poezija/pred-velikim-rojstvom.php">Pred velikim rojstvom</a></li>
+                <li><a href="poezija/ne-klonimo-tovarisi.php">Ne klonimo tovariši</a></li>
+                <li><a href="poezija/zapljenjeno-pismo-s-fronte.php">Zapljenjeno pismo s fronte</a></li>
             </ul>
         </article>
 

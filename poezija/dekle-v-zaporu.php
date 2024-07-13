@@ -33,6 +33,9 @@ A tebe otrok bo poznal,<br/>
 poznal ne bo bandita,<br/>
 in vedel bo, zakaj si pal,<br/>
 zakaj je tvoja kri prelita.<br/>
+<br>
+
+<img src="skenovi/Kajuh - Dekle v zaporu.jpg" alt="">
 
 <hr>
 

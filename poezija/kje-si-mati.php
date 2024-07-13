@@ -26,5 +26,7 @@ Morda nikoli več ne bova zrla si v obraz,<br/>
 vendar nikdar ne bom pozabil nate.<br/>
 A želel bi, da ne utihne prej mi glas,<br/>
 dokler ti ne porečem: Glej, ta svet je tudi zate!<br/>
+<br>
 
+<img src="skenovi/Kajuh - Kje si mati.jpg" alt="">
 

@@ -33,3 +33,6 @@ Tako pa še živimo,<br/>
 čeprav nas je milijon samo,<br/>
 zdahnili bi, da ne trpimo<br/>
 z uporno, dvignjeno glavo!<br/>
+<br>
+
+<img src="skenovi/Kajuh - Slovenska pesem.jpg" alt="">

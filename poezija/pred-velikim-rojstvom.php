@@ -24,3 +24,6 @@ ker slišimo otroka, ki že diše.<br>
 Zato nam je tako težko,<br>
 a vendar je vsakdo kot mati<br>
 pripravljen sebe žrtvovati.<br>
+<br>
+
+<img src="skenovi/Kajuh - Pred velikim rojstvom.jpg" alt="">

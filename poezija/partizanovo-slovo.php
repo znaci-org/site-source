@@ -24,4 +24,6 @@ poslednjič v tvoje bi oko.<br/>
 A zdaj odidi, pojdi zdaj domov,<br/>
 žrtvuj se in ne straši se grobov,<br/>
 če vrnem, vrnem se, ko svet bo nov!<br/>
+<br>
 
+<img src="skenovi/Kajuh - Slovo partizana.jpg" alt="">

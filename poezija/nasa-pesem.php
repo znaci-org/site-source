@@ -21,3 +21,6 @@ to se pravi biti mlad …<br>
 <br>
 Pa je vendar sreča biti mlad,<br>
 biti mlad in poln nad!<br>
+<br>
+
+<img src="skenovi/Kajuh - Naša pesem.jpg" alt="">

@@ -25,3 +25,5 @@ prisluhni natanko, da čuješ glasove:<br/>
 Lepo je, veš, mama, lepo je živeti,<br/>
 toda, za kar sem umrl, bi hotel še enkrat umreti!<br/>
 <br/>
+
+<img src="skenovi/Kajuh - Mati padlega partizana.jpg" alt="">
