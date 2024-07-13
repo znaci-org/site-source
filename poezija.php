@@ -182,6 +182,7 @@ include "includes/header.php";
                 <li><a href="poezija/prostavanje.php">Проштавање</a></li>
                 <li><a href="poezija/da-bides-covek.php">Да бидеш човек</a></li>
                 <li><a href="poezija/lenka.php">Ленка</a></li>
+                <li><a href="poezija/balada-za-nepoznatiot.php">Балада за непознатиот</a></li>
             </ul>
         </article>
 
@@ -1799,13 +1800,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/prelaz-preko-neretve.php">Prelaz preko Neretve</a></li>
                 <li><a href="poezija/ratnik.php">Ratnik</a></li>
-            </ul>
-        </article>
-
-        <article>
-            <h4>Kosta Kočo Racin</h4>
-            <ul>
-                <li><a href="poezija/balada-za-nepoznatiot.php">Балада за непознатиот</a></li>
             </ul>
         </article>
 
