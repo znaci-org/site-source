@@ -1072,6 +1072,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Smiljan Samec</h4>
+            <ul>
+                <li><a href="poezija/uspavanka-samec.php">Uspavanka</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Jože Udovič</h4>
             <ul>
                 <li><a href="poezija/poslednji-trenutak.php">Poslednji trenutak</a></li>
@@ -1104,6 +1111,7 @@ include "includes/header.php";
                 <li><a href="poezija/kar-je-kovina.php">Kar je kovina</a></li>
                 <li><a href="poezija/vseh-zivih-dan.php">Vseh živih dan</a></li>
                 <li><a href="poezija/izjava.php">Izjava</a></li>
+                <li><a href="poezija/tja-bomo-nasli-pot.php">Tja bomo našli pot</a></li>
             </ul>
         </article>
 

@@ -44,6 +44,11 @@ zob za zob in glavo za glavo!<br/>
 
 <p>1941</p>
 
+<p>
+  <img src="Veš poet tvoj dolg 1.jpg" alt="">
+  <img src="Veš poet tvoj dolg 2.jpg" alt="">
+</p>
+
 <h1>Pesniče, znaš li svoj dug? <small>(prevod Petar Vujačić)</small></h1>
 
 Pesniče, znaš li svoj dug?<br/>
