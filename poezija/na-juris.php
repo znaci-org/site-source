@@ -38,3 +38,8 @@ Skoz’ glad in trpljenje<br/>
 v lepše življenje!<br/>
 Na juriš, o, hej, partizan,<br/>
 pred tabo svobode je dan!<br/>
+
+<p>
+  <img src="skenovi/Na juriš 1.jpg" alt="">
+  <img src="skenovi/Na juriš 2.jpg" alt="">
+</p>
