@@ -945,6 +945,8 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/zakaj-tovaris.php">Zakaj, tovariš</a></li>
                 <li><a href="poezija/pesem-talcev.php">Pesem talcev</a></li>
+                <li><a href="poezija/nasa-pesem.php">Naša pesem</a></li>
+                <li><a href="poezija/kmetova-pesem.php">Kmetova pesem</a></li>
                 <li><a href="poezija/mrtvim-tovarisem.php">Mrtvim tovarišem</a></li>
                 <li><a href="poezija/bosa-pojdiva-dekle-obsorej.php">Bosa pojdiva, dekle, obsorej</a></li>
                 <li><a href="poezija/matere-nase-trpece.php">Matere, matere naše trpeče</a></li>
@@ -958,6 +960,7 @@ include "includes/header.php";
                 <li><a href="poezija/kje-si-mati.php">Kje si, mati</a></li>
                 <li><a href="poezija/v-srbijo-v-slezijo.php">V Srbijo ... v Šlezijo</a></li>
                 <li><a href="poezija/dekle-v-zaporu.php">Dekle v zaporu</a></li>
+                <li><a href="poezija/pred-velikim-rojstvom.php">Pred velikim rojstvom</a></li>
             </ul>
         </article>
 

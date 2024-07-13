@@ -59,6 +59,15 @@ izgrađena novoga čoveka.<br />
 
 <p>(Narodne pjesme iz okolice Bjelovara, sv. I., 1948, 1951, 1952.)</p>
 
+<h2>Ostale verzije</h2>
+
+Kad brigada Dalmaciji krene <br>
+...<br>
+<br>
+Kad Brigada za Krajinu krene,<br> 
+širi ruke majko eto mene<br>
+<br>
+
 <p>
   <img src="https://znaci.org/images/9523.jpg"><br>
   <small>Pokret boraca VIII i IX crnogorske brigade kroz Crnu Goru 1944.</small>

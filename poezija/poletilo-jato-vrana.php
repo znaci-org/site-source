@@ -47,6 +47,8 @@ Dobra vojska odabranih..<br/>
 
 <p>Pjesma govori o partizanskoj zasjedi na Čilašu 3. januara 1942. Akciju je izvela Kamešnička partizanska grupa na cesti Sinj—Livno na položaju zvanom Čilaš, pod vodstvom narodnog heroja Tadije Anušića, napavši ondje kolonu talijanskih kamiona. U toj je akciji ubijen jedan talijanski pukovnik.</p>
 
+<p>Pjesmu je spjevao Đuro Đapić, borac, seljak iz Bitelića.</p>
+
 <p>Melodija pevanja odgovara šire poznatoj pesmi Na Kordunu grob do groba.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cr2coJ-VFNE?si=hPYD6zcwDsew7FAD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

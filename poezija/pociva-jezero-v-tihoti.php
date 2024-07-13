@@ -38,3 +38,7 @@ Počiva jezero v tihoti<br/>
 in listje rahlo mi šumi –<br/>
 na dnu samotnega jezera<br/>
 dekle nesrečno mirno spi.<br/>
+
+<hr>
+
+<p>Slovenska pjesma Počiva jezero v tihoti nastala je prema napjevu pjesme "Still ruht der See" na koju je utjecala melodija iz dueta Bellinijeve opere Norma.</p>

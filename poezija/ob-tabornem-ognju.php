@@ -23,3 +23,7 @@ O junaki, le dajte, prodrite<br/>
 v naša mesta iz temnih gozdov!<br/>
 Vse, ki bijejo nas, preženite<br/>
 in spodite iz naših jih domov!<br/>
+
+<hr>
+
+<p>Podloga melodije pjesme Ob tabornem ognju napolitanska je popjevka Appuntamento a Capri. Po njoj je nastala engleska popjevka Isle of Capri u obradi Kennedy-Grosz.</p>

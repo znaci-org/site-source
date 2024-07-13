@@ -37,3 +37,5 @@ vino teče naj, če teče kri!<br/>
 <hr>
 
 <p>»Le vkup, le vkup uboga gmajna!« in »Stara pravda!« so v začetku 16. stoletja vzklikali slovenski kmetje v uporih proti fevdalni gospodi. Ta dva zgodovinska okruška sta bila podlaga pesniku Miletu Klopčiču za pesem Puntarska, ki jo je leta 1936 napisal za dramo Velika puntarija Bratka Krefta.</p>
+
+<p>Seljačka (Mi smo Gupca muške čete), prepev stare nemačke, s temom seljačke bune i melodijom iz njemačkog seljačkog rata.</p>

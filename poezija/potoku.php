@@ -19,3 +19,5 @@ Reci da su žedni ljudi:<br/>
 <br/>
 Nisu žedni, nisu vode,<br/>
 Već su žedni, oj, slobode!<br/>
+
+<p>(1897. Koviljačka banja)</p>

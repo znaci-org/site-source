@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Karel Destovnik Kajuh - Pesem talcev";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Karel Destovnik Kajuh - Pesem talcev</h1>
+<h1><?php echo $naslov ?></h1>
 
 Le nikar ne jočite za nami,<br/>
 žene, matere, dekleta.<br/>

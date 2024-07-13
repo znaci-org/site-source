@@ -140,6 +140,11 @@ Ko Sovjeti naša braća,<br/>
 
 <p>(Darko Suvin, Memoari jednog Skojevca, dio 3)</p>
 
+<h2>VI (Dalmacija u boj kreće)</h2>
+
+Listaj goro, cvjetaj cvijeće,<br/> 
+Dalmacija u boj kreće<br/>
+
 <p>
   <img src="http://www.znaci.org/images/3357.jpg"><br>
   <small>Zetski partizanski odred za vreme Treće neprijateljske ofanzive u Crnoj Gori</small>

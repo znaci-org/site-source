@@ -47,6 +47,14 @@ i ovde se borba vodi<br />
 ja ne mogu kući ići<br />
 borbu ostaviti<br />
 
-<h2>III verzija (Druže pođi doma)</h2>
+<h2>III verzija</h2>
+
+Druže tvoja kuća gori, <br />
+ako, ako, ako gori <br />
+i ovdje se borba vodi, <br />
+ja ne mogu kući ići <br />
+borbu ostaviti<br />
+
+<h2>IV verzija (Druže pođi doma)</h2>
 
 <img src="skenovi/druze podji doma.jpg" alt="">
