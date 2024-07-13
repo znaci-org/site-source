@@ -1085,7 +1085,8 @@ include "includes/header.php";
         <article>
             <h4>France Kosmač</h4>
             <ul>
-                <li><a href="poezija/nismo-se-uklonili.php">Nismo se uklonili</a></li>
+              <li><a href="poezija/nismo-se-uklonili.php">Nismo se uklonili</a></li>
+              <li><a href="poezija/partizan-kosmac.php">Partizan</a></li>
             </ul>
         </article>
 
