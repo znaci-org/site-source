@@ -1487,6 +1487,7 @@ include "includes/header.php";
                 <li><a href="poezija/jednog-dana-pismo-stize.php">Jednog dana pismo stiže</a></li>
                 <li><a href="poezija/borba-za-oslobodjenje-uzica.php">Borba za oslobođenje Užica</a></li>
                 <li><a href="poezija/srbijanska-partizanka.php">Srbijanska partizanka</a></li>
+                <li><a href="poezija/tamo-daleko.php">Tamo daleko</a></li>
             </ul>
         </article>
 
