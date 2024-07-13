@@ -8,7 +8,7 @@ include "../includes/header.php";
 <h1><?php echo $naslov ?></h1>
 
 <p>
-  <img src="Tja bomo našli pot 1.jpg" alt="">
-  <img src="Tja bomo našli pot 2.jpg" alt="">
-  <img src="Tja bomo našli pot 3.jpg" alt="">
+  <img src="skenovi/Tja bomo našli pot 1.jpg" alt="">
+  <img src="skenovi/Tja bomo našli pot 2.jpg" alt="">
+  <img src="skenovi/Tja bomo našli pot 3.jpg" alt="">
 </p>
