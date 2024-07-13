@@ -920,7 +920,9 @@ include "includes/header.php";
         <article>
             <h4>Tone Seliškar</h4>
             <ul>
-                <li><a href="poezija/na-juris.php">Na juriš</a></li>
+            <li><a href="poezija/na-juris.php">Na juriš</a></li>
+            <li><a href="poezija/vihrajte-zastave.php">Vihrajte zastave</a></li>
+            <li><a href="poezija/eno-samo-pesem-bi-rad-zapel.php">Eno samo pesem bi rad zapel</a></li>
             </ul>
         </article>
 
