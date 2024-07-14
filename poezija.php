@@ -1100,6 +1100,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Marjan Kozina</h4>
+            <ul>
+              <li><a href="poezija/hej-tovarisi.php">Hej tovariši</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>France Kosmač</h4>
             <ul>
               <li><a href="poezija/nismo-se-uklonili.php">Nismo se uklonili</a></li>
@@ -1412,7 +1419,6 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
             <ul>
                 <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori naš kmet beži</a></li>
-                <li><a href="poezija/hej-tovarisi.php">Hej tovariši</a></li>
                 <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
                 <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
                 <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
