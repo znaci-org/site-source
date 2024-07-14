@@ -492,7 +492,7 @@ include "includes/header.php";
                 <li><a href="poezija/rabotnicka.php">Rabotnička</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
-                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Matiji Gubec</a></li>
+                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Matija Gubec</a></li>
                 <li><a href="poezija/omladinska.php">Omladinska</a></li>
                 <li><a href="poezija/kolo-kolo-naokolo.php">Kolo kolo naokolo</a></li>
             </ul>
