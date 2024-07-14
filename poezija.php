@@ -484,16 +484,17 @@ include "includes/header.php";
         <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
+                <li><a href="poezija/pesma-radu.php">Pjesma radu</a></li>
+                <li><a href="poezija/padaj-silo-i-nepravdo.php">Padaj silo i nepravdo</a></li>
+                <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
                 <li><a href="poezija/drugar-u-tamnici.php">Drugar u tamnici</a></li>
                 <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
-                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Matiji Gubec</a></li>
-                <li><a href="poezija/pesma-radu.php">Pjesma radu</a></li>
                 <li><a href="poezija/rabotnicka.php">Rabotnička</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>
                 <li><a href="poezija/mitrovcanka.php">Mitrovčanka</a></li>
+                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Matiji Gubec</a></li>
                 <li><a href="poezija/omladinska.php">Omladinska</a></li>
                 <li><a href="poezija/kolo-kolo-naokolo.php">Kolo kolo naokolo</a></li>
-                <li><a href="poezija/posmrtni-mars-proletera.php">Posmrtni marš proletera</a></li>
             </ul>
         </article>
     </div>
@@ -1520,7 +1521,6 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></li>
                 <li><a href="poezija/mlada-partizanka.php">Mlada partizanka</a></li>
-                <li><a href="poezija/padaj-silo-i-nepravdo.php">Padaj silo i nepravdo</a></li>
                 <li><a href="poezija/petokraka.php">Petokraka</a></li>
                 <li><a href="poezija/petokrako-zašto-si-crvena.php">Petokrako zašto si crvena</a></li>
                 <li><a href="poezija/svakoj-majci-treba-da-je-dika.php">Svakoj majci treba da je dika</a></li>
