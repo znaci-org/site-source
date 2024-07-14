@@ -156,3 +156,7 @@ U Sloveniji smo mi gospodari!<br/>
 Dokle tu su brigade,<br/>
 tko nam zemlju ukrade?<br/>
 U Sloveniji smo mi gospodari!<br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Hej_brigade.jpg" alt="">
+</p>

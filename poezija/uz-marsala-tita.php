@@ -41,6 +41,10 @@ junačkoga sina,<br/>
 <br/>
 
 <p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pjesma_o_pesti.jpg" alt="">
+</p>
+
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tito_govor_Jajce_AVNOJ_1943_2.jpg/1200px-Tito_govor_Jajce_AVNOJ_1943_2.jpg"><br>
   <small>Tito govor Jajce AVNOJ 1943.</small>
 </p>

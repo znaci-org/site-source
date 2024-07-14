@@ -486,7 +486,7 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/drugar-u-tamnici.php">Drugar u tamnici</a></li>
                 <li><a href="poezija/bjesnite-tirani.php">Bjesnite tirani</a></li>
-                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Pjesma o Matiji Gupcu</a></li>
+                <li><a href="poezija/pjesma-o-matiji-gupcu.php">Matiji Gubec</a></li>
                 <li><a href="poezija/pesma-radu.php">Pjesma radu</a></li>
                 <li><a href="poezija/rabotnicka.php">Rabotnička</a></li>
                 <li><a href="poezija/varsavljanka.php">Varšavljanka</a></li>

@@ -23,3 +23,7 @@ kako s četom paradira<br />
 <br />
 Druže Tito primi naske<br />
 u redove partizanske<br />
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Sa_Ovcara_i_Kablara.jpg" alt="">
+</p>

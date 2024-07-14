@@ -35,3 +35,5 @@ Lijepo stoji titovka i bluza.<br/>
 Svakoj majci treba da je dika,<br/>
 koja ima kod Tita vojnika.<br/>
 <br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Zlatibore_%C5%A1iri_svoje_grane.jpg" alt="">

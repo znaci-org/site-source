@@ -9,7 +9,7 @@ include "../includes/header.php";
 
 <p>(<i>pesma robijaša-komunista iz sremskomitrovačkog zatvora</i>)</p>
 
-<p><img src="skenovi/mitrovcanka.jpg" alt=""></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Mitrov%C4%8Danka.jpg" alt=""></p>
 
 <h2>I verzija</h2>
 
@@ -54,7 +54,8 @@ A kad dođe dan slobode<br />
 čujte robijaši,<br />
 mitrovčanku pevat ćemo<br />
 bez okova naših.<br />
-<br />
+
+<p><img src="skenovi/mitrovcanka.jpg" alt=""></p>
 
 <hr>
 

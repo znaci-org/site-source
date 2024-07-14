@@ -65,4 +65,6 @@ U divljaka luk i strela.<br/>
 to su naših ruku dela,<br/>
 da nam živi, živi rad!!!<br/>
 
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Pjesma_radu%2C_Na%C5%A1a_pjesme%2C_1946.jpg" alt=""></p>
+
 <p><img src="skenovi/pjesma-radu.jpg" alt="Pjesma radu note"></p>

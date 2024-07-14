@@ -40,3 +40,7 @@ Ponosen vrne se junak,<br/>
 ovenčan s slavo svetlih zmag,<br/>
 in vriskoma vrgel bo titovko v zrak,<br/>
 ko stopil čez tvoj bo prag!<br/>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Na_oknu_1944.jpg" alt="">
+</p>

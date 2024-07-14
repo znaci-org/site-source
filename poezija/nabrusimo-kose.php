@@ -59,6 +59,8 @@ Sad plug nek počiva sve drugo odbaci,<br>
 Sad kose prihvatit ćemo svi.<br>
 <br>
 
+<img src="https://commons.wikimedia.org/wiki/File:Nabrusimo_kose_1944.jpg" alt="">
+
 <hr>
 
 <p>U kaznioni u Sremskoj Mitrovici je 1936. godine organiziran Prvi festival originalnih revolucionarnih pjesama na kojem su učestvovali svi sobni kolektivi. Od većeg broja konkurenata pobijedila je slovenačka grupa sa pjesmom Žetelice (kasnije preimenovana u Nabrusimo kose), posebnu nagradu žirija dobila je Mitrovčanka, a istom prilikom je nastala i Pjesma o Matiji Gupcu. </p>

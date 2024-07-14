@@ -48,3 +48,7 @@ suzama, znojem pojeni<br>
 zato su tako crveni…</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Mary_Cassatt_-_Picking_flowers_in_a_field_--_1875.jpg">
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crveni_makovi%2C_Na%C5%A1e_pjesme_1945.jpg" alt="">
+</p>

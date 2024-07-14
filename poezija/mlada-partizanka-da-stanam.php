@@ -33,5 +33,9 @@ II<br/>
 клети фашисти да косам!<br/>
 
 <p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Mlada_partizanka_da_stanam.jpg" alt="">
+</p>
+
+<p>
   <img src="http://www.znaci.org/images/7269.jpg">
 </p>

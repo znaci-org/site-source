@@ -1,11 +1,15 @@
 <?php
-$naslov = "Pjesma o Matiji Gupcu";
+$naslov = "Matiji Gubec";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
 <h1><?php echo $naslov ?></h1>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Matija_Gubec_pjesma.jpg" alt="">
+</p>
 
 Nema junaka, nema seljaka<br/>
 Kao što je bio Gubec Matija.<br/>
