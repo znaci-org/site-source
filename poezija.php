@@ -1349,7 +1349,6 @@ include "includes/header.php";
                 <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
                 <li><a href="poezija/iz-tisine-odgovora-nema.php">Iz tišine odgovora nema</a></li>
                 <li><a href="poezija/u-zagrebu-polupani-dvori.php">U Zagrebu polupani dvori</a></li>
-                <li><a href="poezija/sto-to-bjese-fasizam.php">Što to bješe fašizam?</a></li>
                 <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
                 <li><a href="poezija/1941.php">1941.</a> (epika)</li>
                 <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
