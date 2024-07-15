@@ -10,7 +10,7 @@ include "../includes/header.php";
 <p>(<i>narodna pesma iz Srbije</i>)</p>
 
 Ja sam vojnik Titovoga puka,<br>
-Desna mi je osečena ruka,<br>
+Desna mi je odsečena ruka,<br>
 <br>
 Drugarice i drugovi moji,<br>
 Da li znate gde bolnica stoji?<br>
