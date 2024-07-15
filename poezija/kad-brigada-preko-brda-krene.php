@@ -55,7 +55,9 @@ izgrađena novoga čoveka.<br />
 
 <h2>V verzija (Kad brigada Bilogorom krene)</h2>
 
-<img src="skenovi/kad brigada bilogorom krene.jpg" alt="">
+<p><img src="skenovi/kad brigada bilogorom krene note.jpg" alt=""></p>
+
+<p><img src="skenovi/kad brigada bilogorom krene.jpg" alt=""></p>
 
 <p>(Narodne pjesme iz okolice Bjelovara, sv. I., 1948, 1951, 1952.)</p>
 
