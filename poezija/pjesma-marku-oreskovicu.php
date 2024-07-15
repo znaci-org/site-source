@@ -42,6 +42,10 @@ za slobodu živote će dati.<br/>
 
 <h2>II verzija</h2>
 
+<img src="skenovi/Ličkom vođi od ustanka.jpg" alt="">
+
+<h2>III verzija</h2>
+
 Cjeloj Lici žalo srce bije,<br />
 što joj nesta dičnoga Krntije.<br />
 <br />
@@ -56,8 +60,6 @@ platićete Orešković Marka.<br />
 <br />
 Od kad junak u grobnici leži,<br />
 srce naše za osvetom teži.
-
-<p><img src="skenovi/cjeloj-lici-zalo-srce-bije.jpg" alt=""></p>
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/sh/c/c5/Nh_oreskovic_marko.jpg" alt="">
