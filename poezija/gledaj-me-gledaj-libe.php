@@ -38,3 +38,5 @@ include "../includes/header.php";
 ја опљачкале<br/>
 ја изгореле ах, верно либе<br/>
 ѕверој фашисти.<br/>
+
+<p><img src="skenovi/gledaj-me-gledaj-libe.png" alt=""></p>

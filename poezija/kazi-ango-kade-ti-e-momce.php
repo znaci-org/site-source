@@ -24,3 +24,5 @@ include "../includes/header.php";
 говор држи бунт да прават."<br/>
 
 <p>(Собрал и уредил Блаже Конески во 1947.)</p>
+
+<p><img src="skenovi/kazi-ango.jpg" alt=""></p>

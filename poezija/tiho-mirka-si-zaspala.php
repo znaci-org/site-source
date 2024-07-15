@@ -28,3 +28,5 @@ include "../includes/header.php";
 во град Воден ја носија,<br/>
 тешко Мирка ја мачија,<br/>
 жива во гроб ставија.<br/>
+
+<p><img src="skenovi/tiho-mirka-si-zaspala.jpg" alt=""></p>

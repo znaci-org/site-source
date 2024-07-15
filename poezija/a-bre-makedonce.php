@@ -25,3 +25,5 @@ include "../includes/header.php";
 Нема да загине.<br/>
 
 <p>(1941)</p>
+
+<p><img src="skenovi/a-bre-makedonce.jpg" alt=""></p>

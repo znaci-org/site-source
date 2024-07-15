@@ -38,3 +38,5 @@ include "../includes/header.php";
 Неговите сестри в црно облечени,<br/>
 свадба ќе прават, брата ќе женат,<br/>
 брата ќе женат за Македонија.<br/>
+
+<p><img src="skenovi/bolen-lezi-mile-pop-jordanov.jpg" alt=""></p>

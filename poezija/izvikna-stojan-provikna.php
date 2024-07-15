@@ -33,3 +33,5 @@ include "../includes/header.php";
 клети фашисти ќе косам,<br/>
 планини мајко ќе шетам,<br/>
 верна дружина ќе водам.<br/>
+
+<p><img src="skenovi/izvikna-stojan-provikna.jpg" alt=""></p>

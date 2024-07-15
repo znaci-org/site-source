@@ -1510,6 +1510,7 @@ include "includes/header.php";
                 <li><a href="poezija/izvikna-stojan-provikna.php">Извикна Стојан провикна</a></li>
                 <li><a href="poezija/kazi-ango-kade-ti-e-momce.php">Кажи Анѓо каде ти е момче</a></li>
                 <li><a href="poezija/mare-mori-mare-zasto-belo-belis.php">Маре мори Маре зашто бело белиш</a></li>
+                <li><a href="poezija/mi-zaplakalo-seloto-vatasa.php">Ми заплакало селото Ваташа</a></li>
                 <li><a href="poezija/mirka-na-ginovi.php">Мирка на Гинови</a></li>
                 <li><a href="poezija/mlada-partizanka-da-stanam.php">Млада партизанка да станам</a></li>
                 <li><a href="poezija/nad-selo-lavci-bitolsko.php">Над село Лавци Битолско</a></li>
@@ -1524,7 +1525,7 @@ include "includes/header.php";
                 <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа мамо</a></li>
                 <li><a href="poezija/slavej-pile-ja-zapri-se.php">Славеј пиле ја запри се</a></li>
                 <li><a href="poezija/srede-azot-zelena-livada.php">Среде Азот зелена ливада</a></li>
-                <li><a href="poezija/taman-se-oblak-zadade.php">Таман се облак зададе</a></li>
+                <li><a href="poezija/taman-se-oblak-zadade.php">Темен се облак зададе</a></li>
                 <li><a href="poezija/tiho-mirka-si-zaspala.php">Тихо Мирка си заспала</a></li>
                 <li><a href="poezija/vo-stred-debarca-ogon-mi-gorit.php">Во стред Дебарца огон ми горит</a></li>
             </ul>

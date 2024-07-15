@@ -55,3 +55,5 @@ Ha коњчето седло, под седлото писмо,<br/>
 Јас се оженив<br/>
 За црната земја.<br/>
 <br/>
+
+<p><img src="skenovi/mare-mori-mare.jpg" alt=""></p>
