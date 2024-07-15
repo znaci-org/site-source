@@ -1515,6 +1515,7 @@ include "includes/header.php";
                 <li><a href="poezija/izvikna-stojan-provikna.php">Извикна Стојан провикна</a></li>
                 <li><a href="poezija/oj-vico-vico-planina.php">Ој Вичо Вичо планина</a></li>
                 <li><a href="poezija/se-sobrale-germanci-balisti.php">Се собрале Германци, балисти</a></li>
+                <li><a href="poezija/vo-stred-debarca-ogon-mi-gorit.php">Во стред Дебарца огон ми горит</a></li>
             </ul>
         </article>
 
