@@ -9,6 +9,12 @@ include "../includes/header.php";
 
 <p>(<i>narodna pjesma</i>)</p>
 
+<img src="skenovi/Spustila se gusta magla.jpg" alt="">
+
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
+
+<h2>II verzija</h2>
+
 Spustila se gusta magla,<br/>
 Pokraj Dunava,<br/>
 Pokraj Dunava.<br/>
@@ -21,7 +27,7 @@ Već to je bila hrabra vojska,<br/>
 Maršal Titova,<br/>
 Maršal Titova.<br/>
 
-<h2>II verzija</h2>
+<h2>III verzija</h2>
 
 Spustila se gusta tama<br/>
 pokraj Dunava.<br/>
