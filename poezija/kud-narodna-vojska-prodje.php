@@ -11,6 +11,8 @@ include "../includes/header.php";
 
 <img src="skenovi/kud narodna vojska prodje.jpg" alt="">
 
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
+
 <h2>II verzija</h2>
 
 Kud narodna vojska prođe<br />
