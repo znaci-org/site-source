@@ -68,9 +68,9 @@ za tebe će pasti dosta glava.<br/>
 <br/>
 Za tebe će pasti oko trista<br/>
 jer si bio pravi komunista.<br/>
-<br>
 
-<img src="skenovi/izgubila krsevita lika.jpg" alt="">
+<p><img src="skenovi/izgubila krsevita lika.jpg" alt=""></p>
+<p><img src="skenovi/izgubila-krsevita-lika.jpg" alt=""></p>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
