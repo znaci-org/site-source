@@ -36,7 +36,7 @@ Ne plašim se pogibije.<br>
 Vrtiću se dušo moja,<br>
 Da me grli ruka tvoja.
 
-<h2>II verzija</h2>
+<h2>II verzija (Od ljubavi nema zbora)</h2>
 
 Od ljubavi nema zbora,<br/>
 U borbu se poći mora.<br/>
@@ -89,7 +89,7 @@ meni Švabo bombu baca.<br/>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
-<h2>V verzija</h2>
+<h2>V verzija (Kad u borbu ja polazim)</h2>
 
 Kad u borbu ja polazim<br />
 i zelena polja gazim,<br />
@@ -118,3 +118,9 @@ Mjesto tvojih poljubaca,<br />
 na me švabo bombe baca.<br />
 
 <p>(zabeležena u Vojvodini nakon 2000-te)</p>
+
+<h2>VI verzija (Kad u borbu ja polazim)</h2>
+
+<img src="skenovi/Kad u borbu ja polazim.jpg" alt="">
+
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
