@@ -49,6 +49,17 @@ već u Marksa i Engelsa.<br/>
 
 <h2>II verzija</h2>
 
+<p>sve isto kao I verzija osim ovoga:</p>
+
+A najljepše kod njih što je,<br/>
+Kod njih nema riječ moje,<br/>
+Kod njih bješe riječ naše,<br/>
+To se meni dopadaše.<br/>
+
+<p>(navedeno prema Durmitorska partizanska republika, zbornik radova)</p>
+
+<h2>III verzija</h2>
+
 U logoru boljševika<br />
 Kažu da je moja dika;<br />
 <br />
@@ -87,7 +98,7 @@ Ja odlećeh niz planinu.<br />
 I ostavih boljševike,<br />
 Staljinove udarnike.<br />
 
-<h2>III verzija</h2>
+<h2>IV verzija</h2>
 
 U planini Durmitora<br />
 sedela sam kraj logora.<br />
@@ -101,7 +112,7 @@ pa se meni dopadaše.<br />
 Slušala sam sa čitanja,<br />
 Lenjinova vaspitanja.<br />
 
-<h2>IV verzija</h2>
+<h2>V verzija</h2>
 
 u logoru boljševika<br />
 nalazi se moja dika<br />
@@ -147,18 +158,7 @@ pa pod ruku metno tašnu<br />
 uzo seme u desnicu<br />
 seje ječam i pšenicu.<br />
 
-<h2>V verzija</h2>
-
-<p>sve isto kao I verzija osim ovoga:</p>
-
-A najljepše kod njih što je,<br/>
-Kod njih nema riječ moje,<br/>
-Kod njih bješe riječ naše,<br/>
-To se meni dopadaše.<br/>
-
-<p>(navedeno prema Durmitorska partizanska republika, zbornik radova)</p>
-
-<h2>VI verzija</h2>
+<h2>VI verzija (Bijela vilo sa planine)</h2>
 
 Bijela vilo sa planine<br />
 znaš li gdje su baze njine?<br />
@@ -209,7 +209,7 @@ Hitleru je zada jada.<br/>
 
 <img src="skenovi/bjela vilo sa planine.jpg" alt="">
 
-<h2>VII verzija</h2>
+<h2>VII verzija (Bela vilo sa planine)</h2>
 
 Bela vilo sa planine,<br />
 Kaži gde su baze njine? —<br />
