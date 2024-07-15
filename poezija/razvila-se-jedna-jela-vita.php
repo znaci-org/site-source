@@ -150,3 +150,9 @@ nestade nam jednog partizana.<br />
 <p><img src="skenovi/Ispod nase gore Velebita.jpg" alt=""></p>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>VI verzija (Povila se jedna jela Vita)</h2>
+
+<p><img src="skenovi/Povila se jedna jela Vita.jpg" alt=""></p>
+
+<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>

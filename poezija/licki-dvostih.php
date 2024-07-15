@@ -247,3 +247,5 @@ Partizani ne bojte se gladi <br/>
 za vas lička omladina radi.<br/>
 <br/>
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<p><img src="skenovi/Pjesma ustanička.jpg" alt=""></p>
