@@ -8,7 +8,8 @@ include "../includes/header.php";
 <h1><?php echo $naslov ?></h1>
 
 <h3>Pjesma Marku Oreškoviću Krntiji</h3>
-<p>(<i>pjesma Desanke Čuić-Kačar koja je postala narodna</i>)</p>
+
+<p>(<i>pjesma Desanke Čuić-Kačar od koje su postale bar dve narodne pesme: <a href="/poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a> i <a href="/poezija/izgubila-krsevita-lika.php">Izgubila krševita Lika</a></i>)</p>
 
 Oj narode Like i Korduna<br/>
 došlo vreme da se diže buna.<br/>
@@ -57,78 +58,6 @@ Od kad junak u grobnici leži,<br />
 srce naše za osvetom teži.
 
 <p><img src="skenovi/cjeloj-lici-zalo-srce-bije.jpg" alt=""></p>
-
-<h2>III verzija</h2>
-
-Izgubila krševita Lika<br/>
-najboljega svoga boljševika.<br/>
-<br/>
-Četnici nam ubiše junaka<br/>
-hrabrog borca Orešković Marka.<br/>
-<br/>
-Izgubila Orešković Marka<br/>
-koga žali partizanska majka.<br/>
-<br/>
-Drug je Marko hrvatskoga roda<br/>
-al je majka srpskoga naroda.<br/>
-<br/>
-Drugar Marko u grobnici leži<br/>
-naše srce za osvetom teži.<br/>
-<br/>
-Dosta ih je već palo za Marka<br/>
-a i još će žalosna im majka.<br/>
-<br/>
-Oj fašisti jađena vam majka<br/>
-platit ćete Orešković Marka.<br/>
-<br/>
-Lika žali Končara i Stanka<br/>
-al najviše Orešković Marka.<br/>
-<br/>
-Cijeloj Lici žalost srce bije<br/>
-što joj nesta hrabroga Krntije.<br/>
-<br/>
-Drug je Marko obrede poveza<br/>
-i bez puške i bez mitraljeza.<br/>
-<br/>
-Ustaj Marko diko naše strane<br/>
-ustaj liječi sirotinjske rane.<br/>
-<br/>
-Ti nam pade na braniku pravde<br/>
-od četničke izdajničke bande.<br/>
-<br/>
-Ubi Marka razbojnička ruka<br/>
-kleta ruka Rašete hajduka.<br/>
-<br/>
-Četnici nam ubiše junaka<br/>
-hrabrog Španca Orešković Marka.<br/>
-<br/>
-Nesta prvog vođe od ustanka<br/>
-nesta Lici Orešković Marka.<br/>
-<br/>
-Drug nam Marko u grobnici leži<br/>
-naše srce za osvetom teži.<br/>
-<br/>
-Nema druzi partizana toga<br/>
-koji ne žali Marka pokojnoga.<br/>
-<br/>
-Slava, slava narodnom junaku<br/>
-hrabrom Špancu Orešković Marku.<br/>
-<br/>
-Druže Marko neka ti je slava<br/>
-za tebe će pasti dosta glava.<br/>
-<br/>
-Za tebe će pasti oko trista<br/>
-jer si bio pravi komunista.<br/>
-<br>
-
-<img src="skenovi/izgubila krsevita lika.jpg" alt="">
-
-<p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
-
-<h2>varijacije</h2>
-
-Druže Marko grob ti iscvjetao<br/>
-ti si Liku u boj podigao.<br/>
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/sh/c/c5/Nh_oreskovic_marko.jpg" alt="">
