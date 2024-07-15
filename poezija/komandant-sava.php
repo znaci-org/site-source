@@ -114,6 +114,9 @@ Hej ha, komandant Sava!<br/>
 Hej-ha, bije teški boj!<br/>
 Hej-ha, slavni komandant!<br/>
 Hej-ha, i sam pogibe!<br/>
-<br />
+
+<h2>V verzija</h2>
+
+<p><img src="skenovi/Sa kraj Bosne.jpg" alt=""></p>
 
 <img src="https://znaci.org/images/8810.jpg">
