@@ -1512,6 +1512,9 @@ include "includes/header.php";
                 <li><a href="poezija/bolen-lezi-mile-pop-jordanov.php">Болен ми лежи Миле Поп Јорданов</a></li>
                 <li><a href="poezija/a-bre-makedonce.php">А бре Македонче</a></li>
                 <li><a href="poezija/ne-placete-stari-majki.php">Не плачете стари мајки</a></li>
+                <li><a href="poezija/izvikna-stojan-provikna.php">Извикна Стојан провикна</a></li>
+                <li><a href="poezija/oj-vico-vico-planina.php">Ој Вичо Вичо планина</a></li>
+                <li><a href="poezija/se-sobrale-germanci-balisti.php">Се собрале Германци, балисти</a></li>
             </ul>
         </article>
 
