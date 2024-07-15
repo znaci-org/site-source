@@ -44,6 +44,8 @@ za slobodu živote će dati.<br/>
 
 <img src="skenovi/Ličkom vođi od ustanka.jpg" alt="">
 
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
+
 <h2>III verzija</h2>
 
 Cjeloj Lici žalo srce bije,<br />

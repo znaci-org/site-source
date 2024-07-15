@@ -83,7 +83,13 @@ ne vežu se sokolovi.<br />
 
 Listaj goro cvetaj cvijeće<br/>
 omladina u boj kreće.<br/>
-...<br/>
+<br/>
+Josip Staljin iz Sovjeta<br/>
+Poručuje širom svjeta<br/>
+<br/>
+Ko ustanak sad ne sprema<br/>
+Međ' narodom mjesta nema<br/>
+<br/>
 Omladino zemlje ove<br/>
 zbijajmo se u redove<br/>
 <br/>
@@ -101,6 +107,8 @@ ne vežu se sokolovi.<br/>
 <br/>
 Suzama se boj ne bije<br/>
 već se vrela krvca lije.<br/>
+
+<p><img src="skenovi/Listaj goro.jpg" alt=""></p>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
