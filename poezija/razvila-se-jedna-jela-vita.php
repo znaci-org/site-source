@@ -60,7 +60,7 @@ Nek pozdravi moju drugaricu.<br>
 I sestricu, moje rosno cvijeće,<br>
 Da joj brale više doći neće.
 
-<h2>III verzija</h2>
+<h2>III verzija (Povila se jedna jela vita)</h2>
 
 Povila se jedna jela vita<br />
 ispod naše gore velebita;<br />
@@ -121,7 +121,7 @@ A sad zdravo, ja moram umrijeti.<br />
 
 <p>(iz Poezija narodnooslobodilačke borbe, 1980.)</p>
 
-<h2>V verzija</h2>
+<h2>V verzija (Ispod naše gore Velebita)</h2>
 
 Ispod naše gore Velebita<br />
 razvila se jedna jela vita<br />
@@ -146,5 +146,7 @@ neka čtvrsto na braniku stoje.<br />
 <br />
 Pokraj srca velika je rana<br />
 nestade nam jednog partizana.<br />
+
+<p><img src="skenovi/Ispod nase gore Velebita.jpg" alt=""></p>
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
