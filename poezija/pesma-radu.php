@@ -1,32 +1,11 @@
 <?php
-$naslov = "Pesma radu";
+$naslov = "Pjesma radu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Георги Кирков - Песен на труда</h1>
-
-<p>(bugarski original)</p>
-
-Дружна песен днес да екне,<br/>
-песен, песен на труда,<br/>
-на сърца ни да олекне,<br/>
-да живей, живей труда!<br/>
-<br/>
-Повдигнете си челата,<br/>
-о, герои на труда,<br/>
-вий творци сте на благата,<br/>
-да живей, живей труда!<br/>
-<br/>
-Гордо знамето развейте –<br/>
-ето, веч дойде деня,<br/>
-нова песен да запеем,<br/>
-песен, песен на труда!<br/>
-
-<p>(1898.)</p>
-
-<h1>Pjesma radu <small>(jugoslovenska predratna verzija)</small></h1>
+<h1><?php echo $naslov ?></h1>
 
 Drugarska se pjesma ori<br/>
 pjesma koja slavi rad!<br/>
@@ -48,7 +27,7 @@ slobode nam sunce sja,<br/>
 takva bit će zemlja cijela:<br/>
 Da nam živi živi rad!<br/>
 
-<h1>Pesma radu <small>(jugoslovenska posleratna verzija)</small></h1>
+<h2>Pesma radu <small>(posleratna verzija)</small></h2>
 
 Drugarska se pesma ori<br/>
 pesma koja slavi rad<br/>
