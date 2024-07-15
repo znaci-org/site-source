@@ -44,3 +44,7 @@ kličuć: Tito, Tito, Tito!</p>
 <p>Jugoslovenski kompozitor Oskar Danon je u partizanima skladao muziku za ovu pesmu.</p>
 
 <img src="skenovi/drug-tito.jpg" alt="">
+
+<p>I Miroslav Špiler je komponovao svoju verziju:</p>
+
+<img src="skenovi/Drug-Tito-Spiler.jpg" alt="">

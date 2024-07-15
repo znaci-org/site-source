@@ -57,4 +57,6 @@ borbu ostaviti<br />
 
 <h2>IV verzija (Druže pođi doma)</h2>
 
-<img src="skenovi/druze podji doma.jpg" alt="">
+<p><img src="skenovi/Druze podji doma note.jpg" alt=""></p>
+
+<p><img src="skenovi/druze podji doma.jpg" alt=""></p>
