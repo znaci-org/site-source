@@ -87,3 +87,9 @@ Da mi lice kao nekad sine.<br />
 <img src="skenovi/omladinka-mara.jpg" alt="">
 
 <p>(Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
+
+<h2>V verzija</h2>
+
+<img src="skenovi/Omladinka Mara note.jpg" alt="">
+
+<p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
