@@ -1516,6 +1516,12 @@ include "includes/header.php";
                 <li><a href="poezija/oj-vico-vico-planina.php">Ој Вичо Вичо планина</a></li>
                 <li><a href="poezija/se-sobrale-germanci-balisti.php">Се собрале Германци, балисти</a></li>
                 <li><a href="poezija/vo-stred-debarca-ogon-mi-gorit.php">Во стред Дебарца огон ми горит</a></li>
+                <li><a href="poezija/srede-azot-zelena-livada.php">Среде Азот зелена ливада</a></li>
+                <li><a href="poezija/slavej-pile-ja-zapri-se.php">Славеј пиле ја запри се</a></li>
+                <li><a href="poezija/mare-mori-mare-zasto-belo-belis.php">Маре мори Маре зашто бело белиш</a></li>
+                <li><a href="poezija/kazi-ango-kade-ti-e-momce.php">Кажи Анѓо каде ти е момче</a></li>
+                <li><a href="poezija/tiho-mirka-si-zaspala.php">Тихо Мирка си заспала</a></li>
+                <li><a href="poezija/pesna-za-cvetan-dimov.php">Песна за Цветан Димов</a></li>
             </ul>
         </article>
 
