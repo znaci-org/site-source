@@ -50,3 +50,23 @@ Došli su vam crni dani,<br>
 Da vam sude partizani.
 
 <p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 125.)</p>
+
+<h1>IV verzija (Padaj, kišo, krv operi)</h1>
+
+Padaj, kišo, krv operi<br/>
+Gde prolaze proleteri.<br/>
+Gde prolazi proleterska,<br/>
+Tamo cela zemlja treska.<br/>
+Žuta dunja, al' miriše,<br/>
+Tito vojsoku mobiliše,<br/>
+Mobiliše mlade momke<br/>
+Da mu nose puške zorke,<br/>
+Puške zorke i mašinke<br/>
+Da bijemo izdajnike,<br/>
+Puške zorke i brengale<br/>
+Da bijemo kokošare.<br/>
+Izdajnici, crni vrani,<br/>
+Crni su vam došli dani —<br/>
+Da vam sude partizani.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 128.)</p>

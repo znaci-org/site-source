@@ -85,7 +85,7 @@ Ne dolazi grobu mome,<br />
 Teže su mi suze tvoje,<br />
 Nego ljute rane moje.<br />
 
-<p>(zabeleženo u južnoj Srbiji)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 54.)</p>
 
 <h2>IV verzija</h2>
 

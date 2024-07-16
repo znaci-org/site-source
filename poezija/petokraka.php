@@ -46,6 +46,17 @@ To je značka partizana.<br/>
 
 <p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 116.)</p>
 
+<h2>III verzija (Sija, sija zvezda svaka)</h2>
+
+Sija, sija zvezda svaka,<br/>
+Al' najviše petokraka.<br/>
+Volim, volim zvezdu svaku,<br/>
+Al’ najviše petokraku.<br/>
+Kad zasija petokraka,<br/>
+Biće život za seljaka.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 124.)</p>
+
 <h2>varijacije</h2>
 
 Za radnika i seljaka<br/>

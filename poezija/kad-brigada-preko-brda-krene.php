@@ -37,6 +37,8 @@ Na meni je titovka i bluza,<br />
 I na bluzi nekoliko znaka,<br />
 Srp i čekić, zvezda petokraka.<br />
 
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 115.)</p>
+
 <h2>III verzija (Kad brigada preko Save krene)</h2>
 
 Kad brigada preko Save krene,<br />

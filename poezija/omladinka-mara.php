@@ -84,6 +84,8 @@ I pred četom mojega dragana,<br />
 Da ga vidim, da me želja mine,<br />
 Da mi lice kao nekad sine.<br />
 
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 126.)</p>
+
 <h2>IV verzija</h2>
 
 <img src="skenovi/omladinka-mara.jpg" alt="">

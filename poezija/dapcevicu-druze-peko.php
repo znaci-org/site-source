@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<p>(<i>narodna pjesma iz Crne Gore</i>)</p>
+<p>(<i>narodna pjesma</i>)</p>
 
 Šta se čuje izdaleka,<br />
 To topovi druga Peka.<br />
@@ -26,6 +26,8 @@ Naći ćeš nas po šumama,<br />
 <br />
 Naći ćeš nas po šumama,<br />
 Sa puškama u rukama.<br />
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 107.)</p>
 
 <h2>II verzija</h2>
 

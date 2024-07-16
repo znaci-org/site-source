@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Partizani što suze lijete";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Partizani što suze lijete</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>narodna pesma iz južne Srbije, varijanta <a href="/poezija/ide-ceta-cela-namrstena.php">Ide četa čela namrštena</a></i>)</p>
 
@@ -24,6 +24,8 @@ no što Ćićka heroja nestade!<br />
 <br />
 Padaj, druže, al' će i to biti,<br />
 puške će te naše osvetiti!<br />
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 59.)</p>
 
 <h2>II verzija</h2>
 
@@ -47,7 +49,7 @@ no što Ratka heroja nestade!<br />
 Padaj, Ratko, al’ će i to biti,<br />
 naše će te puške osvetiti!<br />
 
-<h2>III verzija</h2>
+<h2>III verzija (Kukavčani, što suze lijete)</h2>
 
 Kukavčani, što suze lijete?<br />
 To dosada činili nijeste.<br />
@@ -64,6 +66,8 @@ Oruglico, bolje da propade!<br />
 Pogibe nam komandant brigade.<br />
 Padaj, Marko, al' će i to biti,<br />
 Drutovi će tebe osvetiti!<br />
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 63.)</p>
 
 <h2>IV verzija</h2>
 

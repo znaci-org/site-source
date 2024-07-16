@@ -21,7 +21,9 @@ Pred četom Mirka nemaše.<br />
 Sinoć ga krvnik pokosi,<br />
 Na Dugoj luki, na kosi.<br />
 
-<h2>Druga verzija</h2>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 79.)</p>
+
+<h2>II verzija</h2>
 
 Moma kroz goru iđaše,<br />
 crveno cveće beraše,<br />

@@ -39,6 +39,8 @@ Nek se majka snađe sama,<br />
 Ja ne mogu kući doći,<br />
 Borbu ostaviti.<br />
 
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 113.)</p>
+
 <h2>II verzija</h2>
 
 Jaoj druže tvoja kuća gori,<br />

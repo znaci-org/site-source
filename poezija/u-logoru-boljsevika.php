@@ -229,7 +229,7 @@ Kod njih nema riječ moje,<br />
 Oni kažu samo naše,<br />
 To se meni dopadaše. —<br />
 
-<p>(zabeleženo u južnoj Srbiji)</p>
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 112.)</p>
 
 <hr>
 

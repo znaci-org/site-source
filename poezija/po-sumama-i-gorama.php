@@ -72,7 +72,7 @@ Krv herojska u nas vri,<br />
 Mi ne damo zemlje naše<br />
 Da je gaze fašisti!<br />
 
-<h2>III verzija</h2>
+<h2>III verzija (Naše Bosne ponosne)</h2>
 
 Po šumama i gorama,<br />
 Naše Bosne ponosne,<br />
@@ -88,6 +88,8 @@ Zastava se naša vije,<br />
 Kao krv je crvena,<br />
 Pobjedama ovjenčana,<br />
 Ta zastava narodna.<br />
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 97.)</p>
 
 <h2>IV verzija</h2>
 
@@ -152,6 +154,10 @@ Da vodimo krvav boj,<br />
 Zgazićemo izdajice,<br />
 Oslobodit narod svoj.<br />
 
+<p>(Ova pesma pevana je na Kukavici još u leto 1941. god. Po tvrđenju nekolicine prvoboraca, ovo je najstarija partizanska pesma.)</p>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 96.)</p>
+
 <h2>II verzija</h2>
 
 Partizan sam, tim se dičim,<br />
@@ -178,3 +184,17 @@ Mi vodimo borbu svetu,<br />
 da dušmanu dođe kraj,<br />
 kazat' ćemo celom svetu,<br />
 ko je mladi partizan.<br />
+
+<h2>III verzija</h2>
+
+...<br/>
+Vedra čela, s pesmom vedrom,<br/>
+U poslednji stupam boj,<br/>
+Za svoj narod, za slobodu,<br/>
+Ja ne žalim život svoj.<br/>
+Fašističku bagru listim,<br/>
+Čupam gadan korov taj,<br/>
+Od bandita zemlju čistim,<br/>
+Taj budući cvetni raj.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 96-97.)</p>

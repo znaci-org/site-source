@@ -24,7 +24,7 @@ Svoga brata mrtvog nađe.<br>
 Mili brate, srećo moja,<br>
 Tebe sveti sestra tvoja.
 
-<h2>II verzija</h2>
+<h2>II verzija (Od Triglava pa do Niša)</h2>
 
 Kiša pada, ratno stanje,<br />
 A fašista sve je manje.<br />
@@ -46,3 +46,12 @@ Uvijek ćeš se tako zvati.<br />
 <br />
 Čelične su ruke tvoje,<br />
 Vojsko naša, zlato moje.<br />
+
+<h3>III verzija (Od Leskovca pa do Niša)</h3>
+
+Od Leskovca pa do Niša<br/>
+Krv se lije kao kiša,<br/>
+I u Nišu grob do groba,<br/>
+Traži majka sina svoga.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 54.)</p>

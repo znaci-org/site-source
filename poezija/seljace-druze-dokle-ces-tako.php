@@ -26,3 +26,27 @@ Skinućeš lance radnom narodu.<br/>
 <br/>
 I sada, druže, hajdmo u borbu,<br/>
 Dajmo slobodu radnom narodu.<br/>
+
+<h2>II verzija</h2>
+
+Seljače, druže, dokle ćeš tako?<br/>
+Dokle će tebe gaziti svako?<br/>
+Za koga oreš? Za koga oiješ?<br/>
+Za koga svoju krvcu ti liješ?<br/>
+Preni se jednom, crn veo skidaj! 5<br/>
+Okove teške sa sebe kidaj!<br/>
+Fašisti slave tvoj trud i rad,<br/>
+Nemci se goje, ti trpiš glad.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 108.)</p>
+
+<h2>III verzija</h2>
+
+...<br/>
+Kidaj sa sebe teške okove,<br/>
+U borbu poći, koja te zove.<br/>
+Dosta je bilo patnji i muka,<br/>
+Dosta je bilo pljačke, kuluka,<br/>
+Fašisti ...<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 108.)</p>

@@ -126,3 +126,20 @@ na me švabo bombe baca.<br />
 <img src="skenovi/Kad u borbu ja polazim.jpg" alt="">
 
 <p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
+
+<h2>Ja u vojsku sad polazim</h2>
+
+Ja u vojsku sad polazim<br/>
+I zeleno polje gazim,<br/>
+Sreto Stoju, sve uzdiše,<br/>
+Maramicom suze briše.<br/>
+— Nemoj, Stojo, nemoj tako,<br/>
+Ni mom srcu nije lako,<br/>
+Suzama se boj ne bije,<br/>
+Već se vrela krvca lije.<br/>
+Moja Stoja šalče veze,<br/>
+A ja nosim mitraljeze.<br/>
+Moja Stoja džemper plete,<br/>
+A po meni bombe lete.<br/>
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 70.)</p>

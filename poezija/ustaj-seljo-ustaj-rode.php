@@ -89,6 +89,8 @@ Okreću se domovini.<br />
 Partizani borbu vode<br />
 Da svoj narod oslobode.<br />
 
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 129.)</p>
+
 <h2>V verzija</h2>
 
 Ustaj, seljo, ustaj, rode,<br />
@@ -108,6 +110,8 @@ Partizani da te vode.<br />
 <br />
 Partizanska borba jaka,<br />
 Radenika i seljaka.<br />
+
+<p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 129.)</p>
 
 <h2>Ustaj druže, ustaj rode</h2>
 
