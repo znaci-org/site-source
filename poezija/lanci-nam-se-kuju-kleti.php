@@ -9,6 +9,15 @@ include "../includes/header.php";
 
 <p>(<i>preteča partizanske pesme <a href="/poezija/po-sumama-i-gorama.php">Po šumama i gorama</a></i>)</p>
 
+Lanci nam se kuju kleti.<br />
+Krvavi se vodi rat,<br />
+Al’ pre ćemo mi umreti<br />
+Nego svoju zemlju dat.<br />
+
+(predratna verzija)
+
+<h2>II verzija</h2>
+
 Lanci nam se kuju kleti,<br />
 Krvavi se vodi rat,<br />
 Al' pre ćemo mi umreti,<br />

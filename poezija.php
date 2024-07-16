@@ -67,6 +67,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Puniša Perović</h4>
+            <ul>
+                <li><a href="poezija/lanci-nam-se-kuju-kleti.php">Lanci nam se kuju kleti</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Oton Župančič</h4>
             <ul>
                 <li><a href="poezija/kovaska.php">Kovaška</a></li>
@@ -750,7 +757,6 @@ include "includes/header.php";
         <article>
             <h4>Puniša Perović</h4>
             <ul>
-                <li><a href="poezija/lanci-nam-se-kuju-kleti.php">Lanci nam se kuju kleti</a></li>
                 <li><a href="poezija/komandant-sava.php">Komandant Sava</a></li>
             </ul>
         </article>

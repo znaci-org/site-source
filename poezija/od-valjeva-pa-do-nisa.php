@@ -47,7 +47,7 @@ Uvijek ćeš se tako zvati.<br />
 Čelične su ruke tvoje,<br />
 Vojsko naša, zlato moje.<br />
 
-<h3>III verzija (Od Leskovca pa do Niša)</h3>
+<h2>III verzija (Od Leskovca pa do Niša)</h2>
 
 Od Leskovca pa do Niša<br/>
 Krv se lije kao kiša,<br/>
@@ -55,3 +55,16 @@ I u Nišu grob do groba,<br/>
 Traži majka sina svoga.<br/>
 
 <p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 54.)</p>
+
+<h2>IV verzija (Od Leskovca do Brestovca)</h2>
+
+Od Leskovca do Brestovca<br/>
+Spustiše se trista lovca,<br/>
+Trista lovca bombardera,<br/>
+Od Leskovca ni bandera.<br/>
+Od stanice do bolnice<br/>
+Sve su žene udovice;<br/>
+Od Leskovca pa do Niša<br/>
+Krv se lije kao kiša.<br/>
+
+<p>(Miodrag A. Vasiljević, Narodne melodije leskovačkog kraja, Muzikološki institut knjiga 11, Beograd, 1960., str. 319.)</p>
