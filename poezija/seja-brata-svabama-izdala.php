@@ -31,6 +31,8 @@ Nek pozdravi i oca i majku."<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 245.)</p>
 
+<p>Snimio Pero Roknić u Perni. Stara prilagođena pjesma, pjevana do drugog svjetskog rata po Kordunu, samo što je počinjala stihovima: Seja brata hajduka imala, Pa je njega Turčinu izdala.</p>
+
 <h2>II verzija</h2>
 
 Zaplakala i zemlja i trava<br />

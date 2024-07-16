@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Mileta Bjelivuk - Početak ustanka na Kordunu";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Početak ustanka na Kordunu</h1>
+<h1><?php echo $naslov ?></h1>
 
 <p>(<i>narodna pjesma</i>)</p>
 
@@ -77,3 +77,7 @@ Sa tim, braćo, započeše borbu<br />
 I ustanak dižu za slobodu.<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 304-305.)</p>
+
+<hr>
+
+<p>Spjevao Bjelivuk Mileta iz Bijelog Klanca. Nije guslar ali je u tom kraju jaka guslarska tradicija. Prvoborac je i 1941. godine bio je komandir odreda „Bijeli Klanac“. Pjesme piše od prvih dana ustanka i ima ih mnogo. Ova pjesma štampana je u kalendaru „Prosvjete" za 1946. godinu u Zagrebu.</p>

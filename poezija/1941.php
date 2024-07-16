@@ -1,5 +1,5 @@
 <?php
-$naslov = "1941.";
+$naslov = "Nikola Madžar - 1941.";
 include "../includes/header.php";
 ?>
 
@@ -119,3 +119,7 @@ Druže Tito, sav te narod štiti,<br />
 Fašizam ćeš s nama pobjediti.<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 306-308.)</p>
+
+<hr>
+
+<p>Autor ove pjesme je Nikola Madžar iz Krnjaka. On spada u onu vrstu kordunaških narodnih pjesnika koji lako stvaraju stihove. Čim napiše pjesmu, on je zna i napamet. S lakoćom može voditi razgovor u desetercu.</p>

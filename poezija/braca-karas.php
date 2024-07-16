@@ -21,3 +21,9 @@ I u borbi oba izgubila.<br />
 <br />
 Oj slobodo, svakome si draga,<br />
 Al’ nas koštaš nebrojena blaga.<br />
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 261.)</p>
+
+<hr>
+
+<p>Kazivao Vladimir P. Grijaković. On i sam piše pjesme, ali za ovu tvrdi da nije njegova, već da je čuo i upamtio.</p>

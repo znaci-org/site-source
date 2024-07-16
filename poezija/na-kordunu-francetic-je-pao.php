@@ -37,3 +37,9 @@ include "../includes/header.php";
   Liku, Kordun krvi je zalio,<br>
   Pa se u toj krvi udavio!<br>
 </p>
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 267.)</p>
+
+<hr>
+
+<p>Kazivala Milka Ilić-Livada iz Primišlja.</p>

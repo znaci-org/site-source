@@ -1,5 +1,5 @@
 <?php
-$naslov = "Boj na Ljubovu";
+$naslov = "Dragoslav Ognjanović - Boj na Ljubovu";
 include "../includes/header.php";
 ?>
 
@@ -281,3 +281,7 @@ Vaša će se djela pominjati,<br />
 Pokoljenja slavu pronositi!<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 361-368.)</p>
+
+<hr>
+
+<p>Spjevao Dragoslav Ognjanović, narodni guslar iz Like. On je pjevao uz gusle stare pjesme i stvarao nove. Pjevao je pred partizanskim jedinicama po Lici i Kordunu. Napisao je mnogo pjesama. Poslije rata je odselio u Vojvodinu i dalje ništa ne znam o njemu. Pjesme je stvarao lako i nije ih popravljao, iako je mislio da sve nisu najbolje. Jedina njegova pjesma koju imam u rukopisu je „Boj na Ljubovu". Pjevao ju je uz gusle 1944. godine na jednoj priredbi u Topuskom i tamo sam došao do ovog rukopisa. Mislim da nije nigdje objavljena.</p>

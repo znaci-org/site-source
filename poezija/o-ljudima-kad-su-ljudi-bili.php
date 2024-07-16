@@ -1,5 +1,5 @@
 <?php
-$naslov = "O ljudima kad su ljudi bili";
+$naslov = "Dragić Mandić - O ljudima kad su ljudi bili";
 include "../includes/header.php";
 ?>
 
@@ -94,3 +94,7 @@ U nevolji braću pomagali,<br />
 A o sebi spomen ostavili.<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 295-297.)</p>
+
+<hr>
+
+<p>Autor je Dragić Mandić, guslar iz Šlivnjaka.</p>

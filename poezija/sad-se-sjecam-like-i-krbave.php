@@ -1,5 +1,5 @@
 <?php
-$naslov = "Sad se sjećam Like i Krbave";
+$naslov = "Vladimir Grijaković Dugački - Sjećanje na moju četu";
 include "../includes/header.php";
 ?>
 
@@ -155,3 +155,7 @@ Vaša djeca novi život grade<br/>
 I u njima vi živite sade!<br/>
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 432-436.)</p>
+
+<hr>
+
+<p>Spjevao Grijaković (Pavla) Vladimir-Dugački. Rođen je u Donjem Budačkom, opština Krnjak. Borac i nosilac Partizanske spomenice 1941. Spjevao je dosta pjesama, davao ih drugima i više nije mario za njih. Nije ih popravljao ni dorađivao. Kad sam tražio od njega pjesme, imao ih je samo nekoliko. Iako je dosta saobraćao sa školovanim ljudima ipak je ostao vjeran narodnom načinu pjevanja.</p>

@@ -37,3 +37,7 @@ Dok je vakih komandira,<br />
 Za fašiste nema mira!<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 224.)</p>
+
+<hr>
+
+<p>"Posjedujem rukopis ove pjesme iz drugog svjetskog rata, ali je nepotpisan i autor je nepoznat. Stil i rukopis navode da je djelo Anke Crnković iz Ključara, Vojnić."</p>

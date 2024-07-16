@@ -11,6 +11,27 @@ include "../includes/header.php";
 
 <h2>Kordunaška Osma divizija</h2>
 
+Pjesma ori, daleko se čuje<br/>
+Kuda Osma udarna putuje.<br/>
+Kordunaška Osma divizija<br/>
+To je naša nada najmilija,<br/>
+To je naše najmilije cvijeće,<br/>
+Kud prolazi, sloboda se kreće.<br/>
+Pred njom idu naši oficiri,<br/>
+Kud prolaze, sloboda se širi.<br/>
+Đe udara Četvrta brigada,<br/>
+Tu se bojna čuje kanonada.<br/>
+A de Peta na bojište stupa,<br/>
+lice ruši i bunkere lupa.<br/>
+Kuda li se Petnaesta kreće,<br/>
+Fašistima tu ne cvjeta cvijeće.<br/>
+Đe udara cijela divizija,<br/>
+Od huke se planina povija.<br/>
+
+<p>(Dragić Mandić, guslar iz Šlivnjaka, objavljeno u Osma kordunaška divizija, Karlovac 1977.)</p>
+
+<h2>Kordunaška Osma divizija</h2>
+
 Kordunaška Osma divizija —<br/>
 To je naša nada najmilija,<br/>
 <br/>
@@ -51,7 +72,7 @@ Il’ blizanka Osma kordunaška.<br/>
 Kada koja kroz Kordun se kreće,<br/>
 Po četama narod sipa cvijeće.<br/>
 
-<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 231.)</p>
+<p>(Odlomak iz pjesme Dragića Magdića, objavljeno u Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 231.)</p>
 
 <h2>Osma se na Otočac sprema</h2>
 

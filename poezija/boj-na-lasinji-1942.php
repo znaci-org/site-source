@@ -1,5 +1,5 @@
 <?php
-$naslov = "Boj na Lasinji 12. maja 1942.";
+$naslov = "Miladin Bižić - Boj na Lasinji 12. maja 1942.";
 include "../includes/header.php";
 ?>
 
@@ -202,3 +202,7 @@ Od fašista to ćemo oteti,<br />
 Do pobjede borbu nastaviti.<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 355-360.)</p>
+
+<hr>
+
+<p>Spjevao Miladin Bižić-Lako u Petrovoj gori 28. II 1942. godine dok je ležao ranjen u bolnici. Bižić je borac od 1941. godine i bio je u sastavu kordunaških jedinica na Žumberku. Njegov rukopis s mnogo pjesama dao mi je prof. Mile Dakić. Na Bižića je mnogo utjecala tragedija sela Prkosa što je i opisao u svojim pjesmama. Mnoge njegove pjesme su recitovane na partizanskim priredbama, pa ih se sjećaju mnogi borci. Dosta ih je i izgubljeno.</p>

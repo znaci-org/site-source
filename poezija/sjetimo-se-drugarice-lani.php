@@ -31,3 +31,7 @@ Po naredbi poglavnika svoga<br/>
 Pavelića Anta krvavoga.<br/>
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 222.)</p>
+
+<hr>
+
+<p>Kazivala Stanka Pavić-Trbović, a nalazi se i u drugoj knjizi Dedijerovog „Dnevnika“. Uz nju stoji napomena da je to narodna pjesma, ispjevana 1942. godine, a u njoj se opjevaju pokolji na Kordunu. Autorka se ne zna.</p>

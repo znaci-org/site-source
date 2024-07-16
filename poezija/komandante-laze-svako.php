@@ -31,3 +31,7 @@ Ko god kaže da je sa mnom<br>
 Ratovati tako lako!<br>
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 221.)</p>
+
+<hr>
+
+<p>Neki starac iz Perne, 1942. godine, odgovorio je ovom pjesmom na moje pitanje kako živi. Prije započetog odgovora u stihovima, starac se malo šeretski ukrutio i napomenuo da je za vrijeme Franje Josipa služio kod „kajzerjegera" pa zna kako se razgovara sa „šaržom". Inače, on u svojoj sredini nije smatran pjesnikom, niti je sam o sebi tako mislio, ali je često, kad je bio dobre volje, razgovarao u stihovima. Doktor Bonka Oreščanin, partizanska liječnica, kazivala mi je da su i njoj ljudi iz tog kraja često odgovarali u stihovima.</p>

@@ -1307,7 +1307,7 @@ include "includes/header.php";
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume šume najlepša vam hvala</a></li>
                 <li><a href="poezija/tu-su-jednu-majku-uvatili.php">Tu su jednu majku uvatili</a></li>
                 <li><a href="poezija/prste-celo-na-cetvero.php">Pršte čelo na četvero</a></li>
-                <li><a href="poezija/oca-nemam-majke-sestre.php">Oca nemam, majke, sestre</a></li>
+                <li><a href="poezija/oca-nemam-majke-sestre.php">Petrova mi gora mati</a></li>
                 <li><a href="poezija/siroce-sam-bez-ikoga-svoga.php">Siroče sam bez ikoga svoga</a></li>
                 <li><a href="poezija/sjetimo-se-drugarice-lani.php">Sjetimo se drugarice lani</a></li>
                 <li><a href="poezija/u-bunkeru-sjedim.php">U bunkeru sjedim</a></li>
@@ -2000,7 +2000,7 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-graditelja-pruge.php">Pjesma graditelja pruge</a></li>
                 <li><a href="poezija/pjesma-graditelja-autoputa.php">Pjesma graditelja autoputa</a></li>
                 <li><a href="poezija/zabruje-tako-pjesme-znane.php">Zabruje tako pjesme znane</a></li>
-                <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sad se sjećam Like i Krbave</a> (epika)</li>
+                <li><a href="poezija/sad-se-sjecam-like-i-krbave.php">Sjećanje na moju četu</a> (epika)</li>
                 <li><a href="poezija/zaboravi-selo-na-junaka.php">Zaboravi selo na junaka</a></li>
                 <li><a href="poezija/uspavanka.php">Uspavanka</a></li>
             </ul>

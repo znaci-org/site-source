@@ -9,6 +9,9 @@ include "../includes/header.php";
 
 <p>(<i>popularna pjesnička forma Korduna</i>)</p>
 
+Dok se zemlja oko sunca kreće,<br />
+Kordun mali robovati neće.<br />
+<br />
 Kordun gori al’ se predat neće<br />
 dok se zemlja oko sunca kreće.<br />
 <br />
@@ -47,6 +50,15 @@ Na Kordunu robovanja nema.<br/>
 <br/>
 To nam vojska druga Tita šeće<br/>
 Više Kordun robovati neće.<br/>
+<br/>
+Zapjevajmo da se gora trese:<br/>
+Oj narodi, ujedinite se!<br/>
+<br/>
+Ostavite i suze i tugu<br/>
+Da fašiste gonimo k’o kugu.<br/>
+<br/>
+Smrkni, svani, mi smo partizani,<br/>
+Oj ustaše, nadajte se nami!<br/>
 <br/>
 Paveliću, zelenih očiju<br/>
 Ćanica ti kupio kočiju.<br/>

@@ -1,5 +1,5 @@
 <?php
-$naslov = "Boj s Talijanima na Čukuru 2. XII 1941.";
+$naslov = "Mileta Bjelivuk - Boj s Talijanima na Čukuru 2. XII 1941.";
 include "../includes/header.php";
 ?>
 
