@@ -31,7 +31,7 @@ Nek pozdravi i oca i majku."<br />
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 245.)</p>
 
-<h2>Druga verzija</h2>
+<h2>II verzija</h2>
 
 Zaplakala i zemlja i trava<br />
 što je seja svog brata izdala<br />

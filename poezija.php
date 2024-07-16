@@ -1331,7 +1331,6 @@ include "includes/header.php";
                 <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
                 <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Kordun)</li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
-                <li><a href="poezija/sa-papuka-rijeke-teku.php">Sa Papuka rijeke teku</a></li>
                 <li><a href="poezija/spustila-se-gusta-magla.php">Spustila se gusta magla</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
                 <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
@@ -1343,7 +1342,7 @@ include "includes/header.php";
                 <li><a href="poezija/zdignite-brati-zastave.php">Zdignite brati zastave</a></li>
                 <li><a href="poezija/moj-saro.php">Moj šaro</a></li>
                 <li><a href="poezija/vi-zidine.php">Vi zidine</a></li>
-                <li><a href="poezija/braca-karas.php">Braća Karas</a></li>
+                <li><a href="poezija/braca-karas.php">Pjesma braći Karas</a></li>
                 <li><a href="poezija/seja-brata-svabama-izdala.php">Seja brata Švabama izdala</a></li>
                 <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
                 <li><a href="poezija/tuzna-ljubav-kad-grme-topovi.php">Tužna ljubav kad grme topovi</a></li>
@@ -1470,9 +1469,9 @@ include "includes/header.php";
                 <li><a href="poezija/nemam-sestre-a-nemam-ni-brata.php">Nemam sestre a nemam ni brata</a></li>
                 <li><a href="poezija/imam-brata-i-dragana-mlada.php">Imam brata i dragana mlada</a></li>
                 <li><a href="poezija/od-valjeva-pa-do-nisa.php">Od Valjeva pa do Niša</a></li>
+                <li><a href="poezija/partizane-nase-ceo-svet-vec-zna.php">Partizane naše ceo svet već zna</a></li>
                 <!-- <li><a href="poezija/jedno-jutro-prije-zore.php">Jedno jutro prije zore</a></li> -->
                 <li><a href="poezija/a-sto-pcinja-mutna-teci.php">A što Pčinja mutna teči babo mori?</a></li>
-                <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a> (epika)</li>
                 <li><a href="poezija/goro-le-goro-zelena.php">Goro le goro zelena</a></li>
                 <li><a href="poezija/devojka-je-ranjenika-nasla.php">Devojka je ranjenika našla</a></li>
                 <li><a href="poezija/moja-ruka-ostala-je-gore.php">Moja ruka ostala je gore</a></li>
@@ -1481,8 +1480,8 @@ include "includes/header.php";
                 <li><a href="poezija/doslo-pismo-od-narodne-vlade.php">Došlo pismo od narodne vlade</a></li>
                 <li><a href="poezija/zuta-dunja-pa-mirise.php">Žuta dunja pa miriše</a></li>
                 <li><a href="poezija/psenica-je-klasala.php">Pšenica je klasala</a></li>
-                <li><a href="poezija/partizane-nase-ceo-svet-vec-zna.php">Partizane naše ceo svet već zna</a></li>
-                <li><a href="poezija/o-radane-visoka-planino.php">Epopeja 1. južnomoravska brigadeo</a> (epika)</li>
+                <li><a href="poezija/bijela-je-klikovala-vila.php">Bijela je klikovala vila</a> (epika)</li>
+                <li><a href="poezija/o-radane-visoka-planino.php">Epopeja 1. južnomoravska brigade</a> (epika)</li>
                 <li><a href="poezija/kralju-pero-trazi-vladu.php">Kralju Pero traži vladu</a></li>
                 <li><a href="poezija/aoj-drazo-izdajico-stara.php">Aoj Dražo izdajico stara</a></li>
                 <li><a href="poezija/drazicevci-junaci-iz-coske.php">Dražićevci junaci iz ćoške</a></li>
