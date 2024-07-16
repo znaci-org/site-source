@@ -9,7 +9,7 @@ include "../includes/header.php";
 
 <p>(<i>pjesma Branka Ćopića koja je postala narodna</i>)</p>
 
-Bolna leži omladinka Mara<br />
+<b>Bolna leži omladinka Mara</b><br />
 sa starom se majkom razgovara.<br />
 <br />
 Mila majko, budi me u zoru,<br />
@@ -66,6 +66,8 @@ Da mi lice kao nekad sine,<br />
 <br />
 Da ga vidim — moje desno krilo,<br />
 Mislim, majko, lakše bi mi bilo.<br />
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 242.)</p>
 
 <h2>III verzija</h2>
 

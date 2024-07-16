@@ -64,6 +64,8 @@ Za slobodu život dao.<br />
 Zato ’ajde kaži rodu<br />
 Da se bori za slobodu."<br />
 
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 252.)</p>
+
 <h2>III verzija</h2>
 
 Na Radanu grob do groba,<br />

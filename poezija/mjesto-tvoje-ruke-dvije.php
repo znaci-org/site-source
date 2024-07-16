@@ -50,7 +50,7 @@ Stegle su me fišeklije,<br/>
 Mjesto tvojih poljubaca<br/>
 Brojim čete od boraca.<br/>
 
-<h2>III verzija</h2>
+<h2>III verzija (Po Kordunu boj se bije)</h2>
 
 Po Kordunu boj se bije,<br />
 Za slobodu krv se lije,<br />
@@ -72,6 +72,8 @@ Al’ boj čujem na sve strane.<br />
 <br />
 Ako dođem živ iz boja,<br />
 Ti ćeš biti ljuba moja.<br />
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 243.)</p>
 
 <h2>IV verzija</h2>
 
