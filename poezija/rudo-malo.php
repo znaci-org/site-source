@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-(<i>narodna pjesma</i>)
+<p>(<i>narodna pjesma</i>)</p>
 
 Rudo malo ispod Varde visa<br/>
 Da'l o tebi istorija pisa<br/>
