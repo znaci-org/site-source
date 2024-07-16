@@ -1455,7 +1455,7 @@ include "includes/header.php";
                 <li><a href="poezija/podigli-se-sremci.php">Podigli se Sremci</a></li>
                 <li><a href="poezija/kad-su-sremci-krenuli.php">Kad su Sremci krenuli</a></li>
                 <li><a href="poezija/kad-brigada-preko-brda-krene.php">Kad brigada preko brda krene</a></li>
-                <li><a href="poezija/majko-kadinjace.php">Majko Kadinjače</a></li>
+                <!-- <li><a href="poezija/majko-kadinjace.php">Majko Kadinjače</a></li> -->
                 <li><a href="poezija/zdravo-tito-boljsevice.php">Zdravo Tito boljševiče</a></li>
                 <li><a href="poezija/druze-tito-mole-te-djevojke.php">Druže Tito mole te djevojke</a></li>
                 <li><a href="poezija/necu-majko-za-cetnika.php">Neću majko za četnika</a></li>
@@ -1494,6 +1494,24 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h3>Partizanske pesme iz Crne Gore</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
+            <ul>
+                <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
+                <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
+                <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
+                <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
+                <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
+                <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
+                <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
+                <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
+                <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
+                <li><a href="poezija/svi-cetnicki-kapetani.php">Svi četnički kapetani</a></li>
+                <li><a href="poezija/crnogorska-partizanka.php">Crnogorska partizanka</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h3>Partizanske pesme iz Slovenije</h3>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
             <ul>
@@ -1511,24 +1529,6 @@ include "includes/header.php";
                 <li><a href="poezija/pociva-jezero-v-tihoti.php">Počiva jezero v tihoti</a></li>
                 <li><a href="poezija/kdo-pa-so-ti-mladi-fantje.php">Kdo pa so ti mladi fantje</a></li>
                 <li><a href="poezija/janez-kranjski-janez.php">Janez kranjski Janez</a></li>
-            </ul>
-        </article>
-
-        <article>
-            <h3>Partizanske pesme iz Crne Gore</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
-            <ul>
-                <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
-                <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
-                <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
-                <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
-                <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
-                <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
-                <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
-                <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
-                <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
-                <li><a href="poezija/svi-cetnicki-kapetani.php">Svi četnički kapetani</a></li>
-                <li><a href="poezija/crnogorska-partizanka.php">Crnogorska partizanka</a></li>
             </ul>
         </article>
 
