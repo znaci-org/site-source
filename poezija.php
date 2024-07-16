@@ -1319,7 +1319,7 @@ include "includes/header.php";
                 <li><a href="poezija/ide-ante-u-pohod-kordunu.php">Ide Ante u pohod Kordunu</a></li>
                 <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd u partizane</a></li>
                 <li><a href="poezija/ostavicu-staru-majku.php">Ostaviću staru majku</a></li>
-                <li><a href="poezija/kordunaska-osma-divizija.php">Kordunaška Osma divizija</a></li>
+                <li><a href="poezija/kordunaska-osma-divizija.php">Pjesme Osme kordunaške divizije</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/pjesme-slavonskih-partizana.php">Pjesme slavonskih partizana</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
@@ -1328,8 +1328,8 @@ include "includes/header.php";
                 <li><a href="poezija/pjesma-milanu-caksiranu.php">Pjesma Milanu Čakširanu</a></li>
                 <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
                 <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
-                <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Sinjska krajina)</li>
-                <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Kordun)</li>
+                <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Boj na Čilašu)</li>
+                <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Boj kod Petkovice)</li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
                 <li><a href="poezija/spustila-se-gusta-magla.php">Spustila se gusta magla</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
