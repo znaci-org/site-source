@@ -1398,41 +1398,35 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h3>Partizanske pesme iz Crne Gore</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
+            <h3>Partizanske pesme iz Makedonije</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg/80px-Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg.png" alt="">
             <ul>
-                <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
-                <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
-                <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
-                <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
-                <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
-                <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
-                <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
-                <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
-                <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
-                <li><a href="poezija/svi-cetnicki-kapetani.php">Svi četnički kapetani</a></li>
-                <li><a href="poezija/crnogorska-partizanka.php">Crnogorska partizanka</a></li>
-            </ul>
-        </article>
-
-        <article>
-            <h3>Partizanske pesme iz Slovenije</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
-            <ul>
-                <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori naš kmet beži</a></li>
-                <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
-                <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
-                <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
-                <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
-                <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
-                <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
-                <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
-                <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
-                <li><a href="poezija/komandant-stane.php">Komandant Stane</a></li>
-                <li><a href="poezija/za-vasjo-je-credo-pasla.php">Za vasjo je čredo pasla</a></li>
-                <li><a href="poezija/pociva-jezero-v-tihoti.php">Počiva jezero v tihoti</a></li>
-                <li><a href="poezija/kdo-pa-so-ti-mladi-fantje.php">Kdo pa so ti mladi fantje</a></li>
-                <li><a href="poezija/janez-kranjski-janez.php">Janez kranjski Janez</a></li>
+                <li><a href="poezija/a-bre-makedonce.php">А бре Македонче</a></li>
+                <li><a href="poezija/bolen-lezi-mile-pop-jordanov.php">Болен ми лежи Миле Поп Јорданов</a></li>
+                <li><a href="poezija/dimce-i-kiro-nalbatot.php">Димче и Киро Налбатот</a></li>
+                <li><a href="poezija/gledaj-me-gledaj-libe.php">Гледај ме гледај либе</a></li>
+                <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
+                <li><a href="poezija/izvikna-stojan-provikna.php">Извикна Стојан провикна</a></li>
+                <li><a href="poezija/kazi-ango-kade-ti-e-momce.php">Кажи Анѓо каде ти е момче</a></li>
+                <li><a href="poezija/mare-mori-mare-zasto-belo-belis.php">Маре мори Маре зашто бело белиш</a></li>
+                <li><a href="poezija/mi-zaplakalo-seloto-vatasa.php">Ми заплакало селото Ваташа</a></li>
+                <li><a href="poezija/mirka-na-ginovi.php">Мирка на Гинови</a></li>
+                <li><a href="poezija/mlada-partizanka-da-stanam.php">Млада партизанка да станам</a></li>
+                <li><a href="poezija/nad-selo-lavci-bitolsko.php">Над село Лавци Битолско</a></li>
+                <li><a href="poezija/ne-placete-stari-majki.php">Не плачете стари мајки</a></li>
+                <li><a href="poezija/od-sofija-zalen-glas-se-slusa.php">Од Софија жален глас се слуша</a></li>
+                <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско реко силна</a></li>
+                <li><a href="poezija/oj-vico-vico-planina.php">Ој Вичо Вичо планина</a></li>
+                <li><a href="poezija/pesna-za-cvetan-dimov.php">Песна за Цветан Димов</a></li>
+                <li><a href="poezija/pesna-za-lazo-trpovski.php">Песна за Лазо Трповски</a></li>
+                <li><a href="poezija/pesna-za-taki-daskalot.php">Песна за Таки Даскалот</a></li>
+                <li><a href="poezija/se-sobrale-germanci-balisti.php">Се собрале Германци, балисти</a></li>
+                <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа мамо</a></li>
+                <li><a href="poezija/slavej-pile-ja-zapri-se.php">Славеј пиле ја запри се</a></li>
+                <li><a href="poezija/srede-azot-zelena-livada.php">Среде Азот зелена ливада</a></li>
+                <li><a href="poezija/taman-se-oblak-zadade.php">Темен се облак зададе</a></li>
+                <li><a href="poezija/tiho-mirka-si-zaspala.php">Тихо Мирка си заспала</a></li>
+                <li><a href="poezija/vo-stred-debarca-ogon-mi-gorit.php">Во стред Дебарца огон ми горит</a></li>
             </ul>
         </article>
 
@@ -1500,35 +1494,41 @@ include "includes/header.php";
         </article>
 
         <article>
-            <h3>Partizanske pesme iz Makedonije</h3>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg/80px-Flag_of_Macedonia_%281944%E2%80%931946%3B_3-5%29.svg.png" alt="">
+            <h3>Partizanske pesme iz Slovenije</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_the_Slovene_Partisans_%283-5%29.svg/80px-Flag_of_the_Slovene_Partisans_%283-5%29.svg.png" alt="">
             <ul>
-                <li><a href="poezija/a-bre-makedonce.php">А бре Македонче</a></li>
-                <li><a href="poezija/bolen-lezi-mile-pop-jordanov.php">Болен ми лежи Миле Поп Јорданов</a></li>
-                <li><a href="poezija/dimce-i-kiro-nalbatot.php">Димче и Киро Налбатот</a></li>
-                <li><a href="poezija/gledaj-me-gledaj-libe.php">Гледај ме гледај либе</a></li>
-                <li><a href="poezija/golem-merak-imam-mamo.php">Голем мерак имам мамо</a></li>
-                <li><a href="poezija/izvikna-stojan-provikna.php">Извикна Стојан провикна</a></li>
-                <li><a href="poezija/kazi-ango-kade-ti-e-momce.php">Кажи Анѓо каде ти е момче</a></li>
-                <li><a href="poezija/mare-mori-mare-zasto-belo-belis.php">Маре мори Маре зашто бело белиш</a></li>
-                <li><a href="poezija/mi-zaplakalo-seloto-vatasa.php">Ми заплакало селото Ваташа</a></li>
-                <li><a href="poezija/mirka-na-ginovi.php">Мирка на Гинови</a></li>
-                <li><a href="poezija/mlada-partizanka-da-stanam.php">Млада партизанка да станам</a></li>
-                <li><a href="poezija/nad-selo-lavci-bitolsko.php">Над село Лавци Битолско</a></li>
-                <li><a href="poezija/ne-placete-stari-majki.php">Не плачете стари мајки</a></li>
-                <li><a href="poezija/od-sofija-zalen-glas-se-slusa.php">Од Софија жален глас се слуша</a></li>
-                <li><a href="poezija/oj-satesko-reko-silna.php">Ој Сатеско реко силна</a></li>
-                <li><a href="poezija/oj-vico-vico-planina.php">Ој Вичо Вичо планина</a></li>
-                <li><a href="poezija/pesna-za-cvetan-dimov.php">Песна за Цветан Димов</a></li>
-                <li><a href="poezija/pesna-za-lazo-trpovski.php">Песна за Лазо Трповски</a></li>
-                <li><a href="poezija/pesna-za-taki-daskalot.php">Песна за Таки Даскалот</a></li>
-                <li><a href="poezija/se-sobrale-germanci-balisti.php">Се собрале Германци, балисти</a></li>
-                <li><a href="poezija/site-si-pojdoa-mamo.php">Сите си појдоа мамо</a></li>
-                <li><a href="poezija/slavej-pile-ja-zapri-se.php">Славеј пиле ја запри се</a></li>
-                <li><a href="poezija/srede-azot-zelena-livada.php">Среде Азот зелена ливада</a></li>
-                <li><a href="poezija/taman-se-oblak-zadade.php">Темен се облак зададе</a></li>
-                <li><a href="poezija/tiho-mirka-si-zaspala.php">Тихо Мирка си заспала</a></li>
-                <li><a href="poezija/vo-stred-debarca-ogon-mi-gorit.php">Во стред Дебарца огон ми горит</a></li>
+                <li><a href="poezija/nas-dom-gori-nas-kmet-bezi.php">Naš dom gori naš kmet beži</a></li>
+                <li><a href="poezija/mati-ob-sinovem-grobu.php">Mati ob sinovem grobu</a></li>
+                <li><a href="poezija/stoji-tam-v-gori-partizan.php">Stoji tam v gori partizan</a></li>
+                <li><a href="poezija/zakaj-sem-partizan.php">Zakaj sem partizan</a></li>
+                <li><a href="poezija/vstani-mladina.php">Vstani mladina</a></li>
+                <li><a href="poezija/sivala-je-deklica-zvezdo.php">Šivala je deklica zvezdo</a></li>
+                <li><a href="poezija/na-oknu-glej-obrazek-bled.php">Na oknu glej obrazek bled</a></li>
+                <li><a href="poezija/v-gori-zeleni.php">V gori zeleni</a></li>
+                <li><a href="poezija/pesem-borcev.php">Pesem borcev</a></li>
+                <li><a href="poezija/komandant-stane.php">Komandant Stane</a></li>
+                <li><a href="poezija/za-vasjo-je-credo-pasla.php">Za vasjo je čredo pasla</a></li>
+                <li><a href="poezija/pociva-jezero-v-tihoti.php">Počiva jezero v tihoti</a></li>
+                <li><a href="poezija/kdo-pa-so-ti-mladi-fantje.php">Kdo pa so ti mladi fantje</a></li>
+                <li><a href="poezija/janez-kranjski-janez.php">Janez kranjski Janez</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Partizanske pesme iz Crne Gore</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_the_Serbian_Partisans_%283-5%29.svg/80px-Flag_of_the_Serbian_Partisans_%283-5%29.svg.png" alt="">
+            <ul>
+                <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
+                <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
+                <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
+                <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
+                <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
+                <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
+                <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
+                <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
+                <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
+                <li><a href="poezija/svi-cetnicki-kapetani.php">Svi četnički kapetani</a></li>
+                <li><a href="poezija/crnogorska-partizanka.php">Crnogorska partizanka</a></li>
             </ul>
         </article>
 
