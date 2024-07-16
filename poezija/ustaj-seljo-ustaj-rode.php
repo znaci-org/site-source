@@ -44,6 +44,8 @@ Ni pobjede bez pušaka.<br />
 Kad je srca u junaka,<br />
 Biće boja i pušaka.<br />
 
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 217.)</p>
+
 <h2>III verzija</h2>
 
 Ustaj, seljo, ustaj rode,<br>

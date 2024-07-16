@@ -72,23 +72,29 @@ Tvojom borbom nestalo je jada.<br />
 Druže Tito, jagodo iz rose,<br />
 Sa tobom se narodi ponose.<br />
 <br/>
-Druže Tito, naš narodni sine,<br />
-Kličemo ti s Grmeča planine.<br />
-<br />
 Dok se Tito po zemlji nam šeće,<br />
 S nama drugi komandovat' neće.<br />
 <br/>
 Ovo nam je pjesma najmilija -<br />
 Da nam živi Tito i Partija.<br />
 <br />
-Druže Tito, ti narodni sine<br/>
-Tebi narod pjeva od miline.<br/>
+Druže Tito, naš narodni sine,<br />
+Kličemo ti s Grmeča planine.<br />
+<br />
+Druže Tito, naš narodni sine,<br />
+Pjevamo ti pjesme od miline. <br />
+<br/>
+Drug nam Tito izda’ naređenje:<br/>
+Svi u borbu za oslobođenje.<br/>
 <br/>
 Rujna zora sa istoka rudi<br/>
 Drug nam Tito cijeli narod budi.<br/>
 <br/>
 Druže Tito naše desno krilo<br/>
 Da te nije, ne bi ni nas bilo.<br/>
+<br/>
+Druže Tito, naše čedo milo,<br/>
+Da te nije, ne bi ni nas bilo.<br/> 
 <br/>
 Druže Tito ljubičice bijela,<br/>
 Tebe voli omladina cijela.<br/>

@@ -1,15 +1,14 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Komandante laže svako";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Komandante laže svako</h1>
+<h1><?php echo $naslov ?></h1>
 
-(<i>narodna pjesma Korduna</i>)
+<p>(<i>narodna pjesma Korduna</i>)</p>
 
-<p>
 Kako živim, 'oćeš čuti,<br>
 Kad me pitaš, kazaću ti:<br>
 Kuća mi je izgorela,<br>
@@ -30,4 +29,5 @@ I Antu bi izdurao.<br>
 Komandante, laže svako<br>
 Ko god kaže da je sa mnom<br>
 Ratovati tako lako!<br>
-</p>
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 221.)</p>

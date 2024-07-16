@@ -29,3 +29,5 @@ Osam dana čuli su se živi,<br/>
 Dušmanima ni dužni ni krivi,<br/>
 Po naredbi poglavnika svoga<br/>
 Pavelića Anta krvavoga.<br/>
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 222.)</p>
