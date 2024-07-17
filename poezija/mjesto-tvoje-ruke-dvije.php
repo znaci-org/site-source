@@ -127,7 +127,7 @@ na me švabo bombe baca.<br />
 
 <p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
 
-<h2>Ja u vojsku sad polazim</h2>
+<h2>VII verzija (Ja u vojsku sad polazim)</h2>
 
 Ja u vojsku sad polazim<br/>
 I zeleno polje gazim,<br/>
@@ -143,3 +143,26 @@ Moja Stoja džemper plete,<br/>
 A po meni bombe lete.<br/>
 
 <p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 70.)</p>
+
+<h2>VIII verzija (Listaj, goro, teci vodo)</h2>
+
+Listaj, goro, teci vodo,<br/>
+gledaj mala kud ja odo'.<br/>
+Ja zeleno polje gazim,<br/>
+i u borbu ja odlazim.<br/>
+<br/>
+Osta mala da uzdiše,<br/>
+maramicom suze briše.<br/>
+Nemoj mala, nemoj tako,<br/>
+ni mom srcu nije lako.<br/>
+<br/>
+O ljubavi nema zbora,<br/>
+u borbu se ići mora.<br/>
+Mjesto tvoga lica fina,<br/>
+grlim pušku karabina.<br/>
+Mjesto tvoje ruke dvije,<br/>
+stegle su me fišeklije.<br/>
+Mjesto tvojih poljubaca,<br/>
+brojim čete od boraca.<br/>
+
+<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>

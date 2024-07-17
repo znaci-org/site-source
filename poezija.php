@@ -684,6 +684,7 @@ include "includes/header.php";
                 <li><a href="poezija/djevojka-kurir.php">Djevojka kurir</a></li>
                 <li><a href="poezija/staro-pismo.php">Staro pismo</a></li>
                 <li><a href="poezija/jablanka.php">Jablanka</a> (poema)</li>
+                <li><a href="poezija/zastava.php">Zastava</a> (poema)</li>
             </ul>
         </article>
 
@@ -751,6 +752,14 @@ include "includes/header.php";
             <h4>Džemil Džemo Krvavac</h4>
             <ul>
                 <li><a href="poezija/zasto-ne-mogu-da-zaspim.php">Zašto ne mogu da zaspim</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Miladin Bižić</h4>
+            <ul>
+              <li><a href="poezija/pjesma-o-selu-prkosu.php">Pjesma o selu Prkosu</a> (epika)</li>
+              <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
             </ul>
         </article>
 
@@ -1313,7 +1322,7 @@ include "includes/header.php";
                 <li><a href="poezija/sume-najlepsa-vam-hvala.php">Šume šume najlepša vam hvala</a></li>
                 <li><a href="poezija/tu-su-jednu-majku-uvatili.php">Tu su jednu majku uvatili</a></li>
                 <li><a href="poezija/prste-celo-na-cetvero.php">Pršte čelo na četvero</a></li>
-                <li><a href="poezija/oca-nemam-majke-sestre.php">Petrova mi gora mati</a></li>
+                <li><a href="poezija/petrova-mi-gora-mati.php">Petrova mi gora mati</a></li>
                 <li><a href="poezija/siroce-sam-bez-ikoga-svoga.php">Siroče sam bez ikoga svoga</a></li>
                 <li><a href="poezija/sjetimo-se-drugarice-lani.php">Sjetimo se drugarice lani</a></li>
                 <li><a href="poezija/u-bunkeru-sjedim.php">U bunkeru sjedim</a></li>
@@ -1359,7 +1368,6 @@ include "includes/header.php";
                 <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
                 <li><a href="poezija/1941.php">1941.</a> (epika)</li>
                 <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
-                <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
                 <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
                 <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
                 <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>

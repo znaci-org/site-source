@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Đuro Đapić - Poletilo jato vrana";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Poletilo jato vrana</h1>
+<h1><?php echo $naslov ?></h1>
 
 (<i>narodna pjesma Sinjske krajine</i>)
 

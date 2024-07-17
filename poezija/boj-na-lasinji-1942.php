@@ -205,4 +205,4 @@ Do pobjede borbu nastaviti.<br />
 
 <hr>
 
-<p>Spjevao Miladin Bižić-Lako u Petrovoj gori 28. II 1942. godine dok je ležao ranjen u bolnici. Bižić je borac od 1941. godine i bio je u sastavu kordunaških jedinica na Žumberku. Njegov rukopis s mnogo pjesama dao mi je prof. Mile Dakić. Na Bižića je mnogo utjecala tragedija sela Prkosa što je i opisao u svojim pjesmama. Mnoge njegove pjesme su recitovane na partizanskim priredbama, pa ih se sjećaju mnogi borci. Dosta ih je i izgubljeno.</p>
+<p>Spjevao Miladin Bižić-Lako iz Prkosa, u Petrovoj gori 28. II 1942. godine dok je ležao ranjen u bolnici. Bižić je borac od 1941. godine i bio je u sastavu kordunaških jedinica na Žumberku. Njegov rukopis s mnogo pjesama dao mi je prof. Mile Dakić. Na Bižića je mnogo utjecala tragedija sela Prkosa što je i opisao u svojim pjesmama. Mnoge njegove pjesme su recitovane na partizanskim priredbama, pa ih se sjećaju mnogi borci. Dosta ih je i izgubljeno.</p>

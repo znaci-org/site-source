@@ -1,15 +1,13 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Ацо Шопов - Ко челик сме ние";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Ацо Шопов - Ко челик сме ние</h1>
+<h1><?php echo $naslov ?></h1>
 
-<p>
-  (<i>Марш на Трета македонска бригада</i>)
-</p>
+<p>(<i>Марш на Трета македонска бригада</i>)</p>
 
 Ко челик сме ние со Титови сили<br/>
 Стив Наумов стои пред нас като штит,<br/>
@@ -43,6 +41,9 @@ include "../includes/header.php";
 
 <p>(1944)</p>
 
-<img src="https://znaci.org/images/13204.jpg"><br>
+<hr>
 
+<p>Pesmu je komponovao njegov saborac Панче Пешев.</p>
+
+<img src="https://znaci.org/images/13204.jpg"><br>
 <small>Borci partizanskog bataljona Stevan Naumov 3. makedonske brigade, 1944.</small>

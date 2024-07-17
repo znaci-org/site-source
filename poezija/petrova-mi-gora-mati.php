@@ -41,8 +41,25 @@ Biti srećan, slobodan.<br>
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 247.)</p>
 
+<h2>II verzija</h2>
+
+Petrova mi gora mati,<br/>
+suho lišće krevet moj.<br/>
+Iz nje idem svakog dana<br/>
+u krvavi teški boj.<br/>
+<br/>
+Ako padnem ja, drugovi,<br/>
+u tom teškom boju,<br/>
+pod drvetom iskopajte<br/>
+tada raku moju.<br/>
+<br/>
+Neka sunce vazda sija<br/>
+na zeleni grobak moj.<br/>
+Neka slavuj pjesmu pjeva,<br/>
+o slobodi toj našoj.<br/>
+
 <hr>
 
 <p>Ovu pjesmu spjevali su u jesen 1941. godine dr Savo Zlatić i još nekoliko drugova koji su radili u partizanskoj bolnici na Vrletnim stijenama u Petrovoj gori. Oni su smišljali riječi i prilagođavali ih melodiji iz ruskog filma „Put u život“, ali je pjesma satkana od stvarnosti tih dana na Kordunu. Tada su ustaše ostavljale na svom tragu puste kordunaške kuće, a ostajali su živi samo oni koji su našli zaštitu u šumi i u partizanskim odredima.</p>
 
-<p>Tvorcima ove pjesme bilo je to prvo i posljednje pjesničko ogledanje, a pokazuje ljudsku potrebu da se u teškim momentima pjesmom izrazi svoja osjećanja. I pored potresne teme, a možda zbog strane melodije, ova vrlo lijepa pjesma nije ipak masovno primljena, pa su je pjevali uglavnom drugovi intelektualci koji su bili učesnici NOB na Kordunu. Pjesma „Petrova mi gora mati“ snimljena je i na gramofonsku ploču.</p>
+<p>Tvorcima ove pjesme bilo je to prvo i posljednje pjesničko ogledanje, a pokazuje ljudsku potrebu da se u teškim momentima pjesmom izrazi svoja osjećanja. I pored potresne teme, a možda zbog strane melodije, ova vrlo lijepa pjesma nije ipak masovno primljena, pa su je pjevali uglavnom drugovi intelektualci koji su bili učesnici NOB na Kordunu. Pjesma „Petrova mi gora mati“ snimljena je i na gramofonsku ploču. (Stanko Opačić-Ćanica)</p>

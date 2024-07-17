@@ -45,7 +45,7 @@ obadva su dođe partizana.
 
 <p>(iz Miroslav Špiler, Partizanske narodne pjesme iz Like, 1941- 1943.)</p>
 
-<h2>IV verzija</h2>
+<h2>IV verzija (Alaj volim u kolu igrati)</h2>
 
 Alaj volim u kolu igrati,<br/>
 Kad se sa mnom partizan uhvati.<br/>
@@ -64,3 +64,5 @@ Koji pušku primiti ne smije.<br/>
 <br/>
 Što valjalo pušku pripasalo,<br/>
 Samo smeće oko kuće šeće.<br/>
+
+<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>

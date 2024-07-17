@@ -47,7 +47,26 @@ a još dalje djela od junaka!<br/>
 <br>
 <img src="skenovi/aoj goro goro.jpg" alt="">
 
-<h2>III verzija (Aoj Psunju goro prolistana)</h2>
+<h2>III verzija</h2>
+
+Aoj, goro, goro svakojaka,<br>
+partizanskih puna si junaka.<br>
+<br>
+Tvoje lišće nad njima se vije,<br>
+i pod sobom osvetnike krije.<br>
+<br>
+Kad i ljute mećave divljaju,<br>
+partizani čete razvijaju.<br>
+<br>
+Svi su pošli nosit' karabine,<br>
+da sloboda svima nama sine.<br>
+<br>
+Silna goro, sežeš do oblaka,<br>
+a još dalje djela od junaka.<br>
+
+<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>
+
+<h2>IV verzija (Aoj Psunju goro prolistana)</h2>
 
 Aoj Psunju, goro prolistana<br/>
 puna li si mladih partizana!<br/>

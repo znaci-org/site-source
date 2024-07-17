@@ -50,3 +50,19 @@ Ti si svoja razavila krila,<br/>
 I postala naša majka mila.<br/>
 
 <p>(Sergije Dimitrijević, Crnotravske i leskovačke narodne pesme oslobodilačkog rata i revolucije, Beograd, 1967., str. 77.)</p>
+
+<h2>IV verzija</h2>
+
+Goro, goro, zelenijeh grana,<br/>
+ti si puna mladih partizana.<br/>
+<br/>
+Goro, goro, zelenoga lista,<br/>
+ti si puna mladih komunista.<br/>
+<br/>
+Ti si svoja raširila krila<br/>
+I postala naša majka mila.<br/>
+<br/>
+Svakoj majci treba da je dika,<br/>
+koja ima sina osvetnika.<br/>
+
+<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>

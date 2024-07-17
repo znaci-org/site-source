@@ -74,3 +74,25 @@ Kraj Drvara stojiš ponosita.<br/>
 <br/>
 Tvoje jele šire svoje grane,<br/>
 I čuvaju mlade partizane.<br/>
+
+<h2>V verzija</h2>
+
+Pjevaj, majko, kad u borbu pođem,<br/>
+al' ne plači ako ti ne dođem.<br/>
+<br/>
+Mila majko, to je tvoja dika,<br/>
+što ti imaš narodnog vojnika.<br/>
+<br/>
+Ja se borim i drugovi moji,<br/>
+da fašizam više ne postoji.<br/>
+<br/>
+Neću žalit' svoje mlade krvi,<br/>
+za slobodu proliću je prvi.<br/>
+<br/>
+Moga brata ranila granata,<br/>
+žao mi je što i mene nije.<br/>
+<br/>
+Nas dva brata oba ratujemo,<br/>
+ne plač' majko ako poginemo.<br/>
+
+<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>
