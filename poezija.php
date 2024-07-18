@@ -1319,6 +1319,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-narode-like-i-korduna.php">Oj narode Like i Korduna</a></li>
                 <li><a href="poezija/izgubila-krsevita-lika.php">Izgubila krševita Lika</a></li>
                 <li><a href="poezija/pola-like-u-pepelu-lezi.php">Pola Like u pepelu leži</a></li>
+                <li><a href="poezija/na-kordunu-sunce-pomrcalo.php">Na Kordunu sunce pomrčalo</a></li>
                 <li><a href="poezija/sam-je-mirko-pusku-zadobio.php">Sam je Mirko pušku zadobio</a></li>
                 <li><a href="poezija/razvila-se-jedna-jela-vita.php">Razvila se jedna jela vita</a></li>
                 <li><a href="poezija/kordun-bosna-banija-i-lika.php">Kordun Bosna Banija i Lika</a></li>
@@ -1345,6 +1346,7 @@ include "includes/header.php";
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
                 <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara nema partizana</a> (Marku Oreškoviću)</li>
+                <li><a href="poezija/pjesma-nikoli-kunicu.php">U fašista mnogo mitraljeza (Pjesma Nikoli Kuniću)</a></li>
                 <li><a href="poezija/pjesma-milanu-caksiranu.php">Pjesma Milanu Čakširanu</a></li>
                 <li><a href="poezija/sloboda-se-spaliti-ne-moze.php">Sloboda se spaliti ne može</a></li>
                 <li><a href="poezija/kod-drvara-zvonce-zvoni.php">Kod Drvara zvonce zvoni</a></li>
@@ -1353,6 +1355,7 @@ include "includes/header.php";
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
                 <li><a href="poezija/spustila-se-gusta-magla.php">Spustila se gusta magla</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
+                <li><a href="poezija/kad-pavelic-preko-kupe-brodi.php">Kad Pavelić preko Kupe brodi</a></li>
                 <li><a href="poezija/pavelicu-bijesno-pseto.php">Paveliću bijesno pseto</a></li>
                 <li><a href="poezija/pavelicu-tvoja-vojska-place.php">Paveliću tvoja vojska plače</a></li>
                 <li><a href="poezija/na-kordunu-francetic-je-pao.php">Na Kordunu Francetić je pao</a></li>
