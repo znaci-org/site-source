@@ -65,4 +65,4 @@ Koji pušku primiti ne smije.<br/>
 Što valjalo pušku pripasalo,<br/>
 Samo smeće oko kuće šeće.<br/>
 
-<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>
+<p>(Kotar Vrginmost u NO borbi, Beograd 1980.)</p>

@@ -65,4 +65,4 @@ I postala naša majka mila.<br/>
 Svakoj majci treba da je dika,<br/>
 koja ima sina osvetnika.<br/>
 
-<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>
+<p>(Kotar Vrginmost u NO borbi, Beograd 1980.)</p>

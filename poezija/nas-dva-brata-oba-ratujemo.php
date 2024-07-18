@@ -95,4 +95,4 @@ Moga brata ranila granata,<br/>
 Nas dva brata oba ratujemo,<br/>
 ne plač' majko ako poginemo.<br/>
 
-<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>
+<p>(Kotar Vrginmost u NO borbi, Beograd 1980.)</p>

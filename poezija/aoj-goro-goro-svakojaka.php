@@ -64,7 +64,7 @@ da sloboda svima nama sine.<br>
 Silna goro, sežeš do oblaka,<br>
 a još dalje djela od junaka.<br>
 
-<p>(Dušan Baić, Kotar Vrginmost u NOB, Beograd 1980.)</p>
+<p>(Kotar Vrginmost u NO borbi, Beograd 1980.)</p>
 
 <h2>IV verzija (Aoj Psunju goro prolistana)</h2>
 

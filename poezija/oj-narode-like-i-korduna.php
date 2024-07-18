@@ -83,7 +83,32 @@ Da ćemo se do kraja boriti.<br/>
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 217.)</p>
 
-<h2>V verzija (Sastala se Krajina sa Likom)</h2>
+<h2>V verzija</h2>
+
+Oj, narode, Like i Korduna,<br/>
+došlo vrijeme da se diže buna,<br/>
+protiv sviju tvojih ugnjetača,<br/>
+ustaša i tuđih osvajača.<br/>
+<br/>
+Sastali se Kordunaši s Likom,<br/>
+ne daju se pokoriti nikom.<br/>
+<br/>
+Kordunaško ravno polje,<br/>
+cvili narod od nevolje.<br/>
+Cvili jadan ne zna šta će,<br/>
+ne zna šta će, ni kuda će.<br/>
+<br/>
+Koga rodi Kordun i Banija,<br/>
+tog' ne plaši krvava haljina.<br/>
+<br/>
+Kunemo se našem drugu Titi,<br/>
+da ćemo se do kraja boriti.<br/>
+Donijećemo sreću i slobodu,<br/>
+hrvatskome i srpskom narodu.<br/>
+
+<p>(Kotar Vrginmost u NO borbi, Beograd 1980.)</p>
+
+<h2>VI verzija (Sastala se Krajina sa Likom)</h2>
 
 Sastala se Krajina sa Likom,<br/>
 pa se ne da pokoriti nikom.<br/>
