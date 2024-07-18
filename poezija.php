@@ -760,6 +760,7 @@ include "includes/header.php";
             <ul>
               <li><a href="poezija/pjesma-o-selu-prkosu.php">Pjesma o selu Prkosu</a> (epika)</li>
               <li><a href="poezija/boj-na-lasinji-1942.php">Boj na Lasinji 1942.</a> (epika)</li>
+              <li><a href="poezija/pismo-ranjenog-partizana-zeni.php">Pismo ranjenog partizana ženi</a></li>
             </ul>
         </article>
 
@@ -782,6 +783,14 @@ include "includes/header.php";
             <h4>Ervin Lah - Tugomir</h4>
             <ul>
                 <li><a href="poezija/na-strazi.php">Na straži</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Timotije Timo Cikuša</h4>
+            <ul>
+              <li><a href="poezija/zlocin-u-selu-liplju.php">Zločin u selu Liplju</a> (epika)</li>
+              <li><a href="poezija/izbjeglice.php">Izbjeglice</a> (epika)</li>
             </ul>
         </article>
 
@@ -1353,6 +1362,7 @@ include "includes/header.php";
                 <li><a href="poezija/poletilo-jato-vrana.php">Poletilo jato vrana</a> (Boj na Čilašu)</li>
                 <li><a href="poezija/poletelo-jato-vrana.php">Poletelo jato vrana</a> (Boj kod Petkovice)</li>
                 <li><a href="poezija/dalmacija-biser-grana.php">Dalmacija biser grana</a></li>
+                <li><a href="poezija/na-kordunu-vatra-sijeva.php">Na Kordunu vatra sijeva</a></li>
                 <li><a href="poezija/spustila-se-gusta-magla.php">Spustila se gusta magla</a></li>
                 <li><a href="poezija/komandante-laze-svako.php">Komandante laže svako</a></li>
                 <li><a href="poezija/kad-pavelic-preko-kupe-brodi.php">Kad Pavelić preko Kupe brodi</a></li>

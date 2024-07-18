@@ -108,3 +108,16 @@ Do Žumberka i Zagreba grada.<br/>
 Mila goro, ne otkri nam traga.“<br/>
 
 <p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 233.)</p>
+
+<h2>U boj idu Kordunaši</h2>
+
+Što se ono od Vojnića praši?<br/>
+Ono u boj idu Kordunaši.<br/>
+A na čelu ide prethodnica,<br/>
+To je četa hrabrog omladinca.<br/>
+Mlada četa mlada komandira<br/>
+Koja ne da fašistima mira.<br/>
+To je četa našeg sivog tića,<br/>
+Komandira Uroš Opačića.<br/>
+
+<p>(Narodne pjesme Korduna, sakupio i uredio Stanko Opačić-Ćanica, Zagreb: Prosvjeta, 1971, str. 239.)</p>
