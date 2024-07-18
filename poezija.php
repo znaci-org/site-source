@@ -1265,6 +1265,11 @@ include "includes/header.php";
             <ul>
                 <li><a href="poezija/oci.php">Oči</a></li>
                 <li><a href="poezija/ko-celik-sme-nie.php">Ко челик сме ние</a></li>
+                <li><a href="poezija/borbata-na-drenak.php">Борбата на Дренак</a></li>
+                <li><a href="poezija/odredot-goce-delcev-izdaden.php">Одредот „Гоце Делчев“ издаден</a></li>
+                <li><a href="poezija/pretsmrtno-pismo-na-eden-partizan.php">Претсмртно писмо на еден партизан</a></li>
+                <li><a href="poezija/karpos.php">Карпош</a></li>
+                <li><a href="poezija/borba.php">Борба</a></li>
             </ul>
         </article>
 
