@@ -62,41 +62,32 @@ To se meni dopadaše.<br/>
 
 U logoru boljševika<br />
 Kažu da je moja dika;<br />
-<br />
 Tri mjeseca ima više,<br />
 Ne dolazi niti piše.<br />
-<br />
 Ja sam s njima juče bila<br />
 Na planini Durmitoru.<br />
-<br />
 Sedela sam kraj logora<br />
 I gledala boljševike,<br />
 Partizane bez razlike.<br />
-<br />
 Što najljepše viđeh to je:<br />
 Kod njih ima discipline<br />
 I drugarski oni žive.<br />
-<br />
 Slušala sam čas čitanja,<br />
 Lenjinova vaspitanja,<br />
-<br />
 I gledala drugaricu<br />
 Kako zbori za pravicu.<br />
-<br />
 I još viđeh na barjaku:<br />
 Srp i čekić, petokraku.<br />
-<br />
 Ispod toga dva tri slova,<br />
 Ime druga Molotova.<br />
-<br />
 Iznad svega Staljin piše:<br />
 Robovanja nema više!<br />
-<br />
 Sunce granu zora sinu,<br />
 Ja odlećeh niz planinu.<br />
-<br />
 I ostavih boljševike,<br />
 Staljinove udarnike.<br />
+
+(Vladimir Dedijer, Dnevnik, knjiga I (str. 178), Beograd 1945.)
 
 <h2>IV verzija</h2>
 
