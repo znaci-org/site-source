@@ -28,6 +28,10 @@ hr {
     opacity: 0.85;
 }
 
+pre {
+  font-family: unset;
+}
+
 button {
     cursor: pointer;
     min-width: 28px;

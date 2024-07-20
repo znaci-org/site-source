@@ -1422,6 +1422,7 @@ include "includes/header.php";
                 <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
                 <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
                 <li><a href="poezija/oj-drugovi-iz-pete-brigade.php">Oj drugovi iz Pete brigade</a></li>
+                <li><a href="poezija/igra-kolo-sve-partizan.php">Igra kolo sve partizan</a></li>
                 <li><a href="poezija/romanija-ivo.php">Romanija Ivo</a></li>
                 <li><a href="poezija/evo-puni-mjesec-dana-progonimo-talijana.php">Evo puni mjesec dana progonimo Talijana</a></li>
                 <li><a href="poezija/bjela-vilo-kazi-pravo.php">B’jela vilo kaži pravo</a></li>

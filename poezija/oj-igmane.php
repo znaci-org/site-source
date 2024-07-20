@@ -23,3 +23,9 @@ Svi pevaju umesto da ječe.</p>
 Kroz teškoće herojski se bore.<br>
 A brigada doneće nam spasa,<br>
 Od fašista neće biti glasa.</p>
+
+<p>(Savo Orović, ratni dnevnik 1941-1945, Beograd 1972.)</p>
+
+<hr>
+
+<p>(Spevao jedan od učesnika marša, N. Divljan)</p>

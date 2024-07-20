@@ -43,7 +43,7 @@ Otvara nam od slobode vrata,<br/>
 Sa herojskom Crvenom armijom,<br/>
 Na svijetu vojskom najslavnijom,<br/>
 Lance skida slovenskome rodu —<br/>
-Smrt fašizmu — Sloboda narodu!<br/>
+Smrt fašizmu — sloboda narodu!<br/>
 
 <p>(Savo Orović, ratni dnevnik 1941-1945, Beograd 1972.)</p>
 
