@@ -1541,6 +1541,7 @@ include "includes/header.php";
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
+                <li><a href="poezija/pogibija-scepana-djukica.php">Pogibija Šćepana Đukića</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
                 <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
