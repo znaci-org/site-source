@@ -71,7 +71,7 @@ Mnogo ih je već palo za Marka,
 A i još će — žalosna im majka.
 </pre>
 
-<p>(Savo Orović, ratni dnevnik 1941-1945 (str. 230), Beograd 1972.)</p>
+<p>(Savo Orović, ratni dnevnik 1941-1945, Beograd 1972.)</p>
 
 <h2>IV verzija (Cjeloj Lici žalo srce bije)</h2>
 
