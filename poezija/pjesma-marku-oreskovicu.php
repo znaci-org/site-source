@@ -40,13 +40,40 @@ za slobodu živote će dati.<br/>
 
 <img src="skenovi/Pjesma Marku Oreskovicu.jpg" alt="">
 
-<h2>II verzija</h2>
+<h2>II verzija (Ličkom vođi od ustanka)</h2>
 
 <img src="skenovi/Ličkom vođi od ustanka.jpg" alt="">
 
 <p>(Franjo Židovec, Popijevke iz borbe i izgradnje, 1954.)</p>
 
-<h2>III verzija</h2>
+<h2>III verzija (Ličkom vođi od ustanka)</h2>
+
+<pre>
+C’jeloj Lici žalost srce bije 
+Što joj nema dičnoga Krntije, 
+
+Što joj nema vođe od ustanka, 
+Prvog vođe Orešković Marka. 
+
+Drug je Marko hrvatskoga roda, 
+Al’ je majka srpskoga naroda. 
+
+Oj, četnici, jađena vam majka, 
+Platićete Orešković Marka.
+
+Četnici nam ubiše junaka,
+Hrabrog borca Orešković Marka.
+
+Otkad junak u zemljici leži
+Naše srce za osvetom teži.
+
+Mnogo ih je već palo za Marka,
+A i još će — žalosna im majka.
+</pre>
+
+<p>(Savo Orović, ratni dnevnik 1941-1945 (str. 230), Beograd 1972.)</p>
+
+<h2>IV verzija (Cjeloj Lici žalo srce bije)</h2>
 
 Cjeloj Lici žalo srce bije,<br />
 što joj nesta dičnoga Krntije.<br />

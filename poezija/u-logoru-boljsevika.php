@@ -9,47 +9,67 @@ include "../includes/header.php";
 
 <p>(<i>narodna pjesma iz Crne Gore, poznata i kao Durmitorska vila</i>)</p>
 
-U logoru boljševika<br/>
-Kažu da je moja dika,<br/>
-<br/>
-Šest mjeseci ima više<br/>
-Nit’ dolazi, nit’ mi piše<br/>
-<br/>
-Bijela vilo sa planine,<br/>
-Kaži gdje su baze njine?<br/>
-<br/>
-Progovara bijela vila:<br/>
-— Ja sam juče s njima bila<br/>
-<br/>
-Na planini Durmitora,<br/>
-Sjedjela sam kraj logora<br/>
-<br/>
-I gledala boljševike,<br/>
-Partizane osvetnike;<br/>
-<br/>
-Gledala sam kolektive,<br/>
-I drugarski kako žive;<br/>
-<br/>
-A najljepše kod njih to je:<br/>
-Da nemaju riječ „moje“,<br/>
-<br/>
-Nego za sve kažu „naše“,<br/>
-Što se meni dopadaše.<br/>
-<br/>
-Gledala sam drugaricu<br/>
-Kako zbori za pravicu;<br/>
-<br/>
-Slušala sam čas čitanja,<br/>
-Lenjinova vaspitanja —<br/>
-<br/>
-Ne vjeruju u nebesa<br/>
-već u Marksa i Engelsa.<br/>
+<pre>
+U logoru boljševika
+Kažu da je moja dika,
 
-<p>(zapisao Savo Orović u svom „Ratnom dnevniku" prema kazivanju boraca)</p>
+Šest mjeseci ima više
+Nit’ dolazi, nit’ mi piše
+
+Bijela vilo sa planine,
+Kaži gdje su baze njine?
+
+Progovara bijela vila:
+— Ja sam juče s njima bila
+
+Na planini Durmitora,
+Sjedjela sam kraj logora
+
+I gledala boljševike,
+Partizane osvetnike;
+
+Gledala sam kolektive,
+I drugarski kako žive;
+
+A najljepše kod njih to je:
+Da nemaju riječ „moje“,
+
+Nego za sve kažu „naše“,
+Što se meni dopadaše.
+
+Gledala sam drugaricu
+Kako zbori za pravicu;
+
+Slušala sam čas čitanja,
+Lenjinova vaspitanja —
+
+Ne vjeruju u nebesa
+već u Marksa i Engelsa.
+
+U Lenjina i Staljina,
+Sveta su im djela njina.
+
+I još viđeh na barjaku
+Srp i čekić, petokraku,
+
+Ispod toga dva tri slova,
+Ime druga Molotova;
+
+Iznad svega Staljin piše:
+„Robovanja nema, više“.
+
+Zora svanu, sunce sijnu,
+Ja odlećeh u planinu,
+
+I ostavih boljševike,
+Partizanske udarnike.
+</pre>
+
+<p>(Savo Orović, ratni dnevnik 1941-1945, Beograd 1972.)</p>
 
 <h2>II verzija</h2>
 
-<p>sve isto kao I verzija osim ovoga:</p>
+<p>isto kao I verzija osim ovoga:</p>
 
 A najljepše kod njih što je,<br/>
 Kod njih nema riječ moje,<br/>

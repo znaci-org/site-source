@@ -48,3 +48,7 @@ Sve će zemlje jedno biti,<br/>
 Narodi će grlit svi,<br/>
 I u složnom radu bratskom<br/>
 Svi će složno živjeti.<br/>
+
+<p>(nastala približno maja 1942.)</p>
+
+<p>(Savo Orović, ratni dnevnik 1941-1945 (str. 228), Beograd 1972.)</p>

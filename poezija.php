@@ -1293,6 +1293,14 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Filip Bulajić</h4>
+            <ul>
+              <li><a href="poezija/crnogorskim-partizanima.php">Crnogorskim partizanima</a> (epika)</li>
+              <li><a href="poezija/crnogorskim-partizanima-2.php">Crnogorskim partizanima II</a> (epika)</li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Desanka Maksimović</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Desanka_Maksimovi%C4%87_stara_slika.jpg" alt="">
             <ul>
@@ -1354,7 +1362,6 @@ include "includes/header.php";
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/pjesme-slavonskih-partizana.php">Pjesme slavonskih partizana</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
-                <li><a href="poezija/izgubismo-drug-stojana.php">Izgubismo drug Stojana</a></li>
                 <li><a href="poezija/nema-drugara-nema-partizana.php">Nema drugara nema partizana</a> (Marku Oreškoviću)</li>
                 <li><a href="poezija/pjesma-nikoli-kunicu.php">U fašista mnogo mitraljeza (Pjesma Nikoli Kuniću)</a></li>
                 <li><a href="poezija/pjesma-milanu-caksiranu.php">Pjesma Milanu Čakširanu</a></li>
@@ -1536,12 +1543,12 @@ include "includes/header.php";
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
                 <li><a href="poezija/palim-drugovima-u-bici-na-pljevljima.php">Palim drugovima u bici na Pljevljima</a></li>
-                <li><a href="poezija/crnogorskim-partizanima.php">Crnogorskim partizanima</a> (epika)</li>
                 <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/pogibija-scepana-djukica.php">Pogibija Šćepana Đukića</a></li>
+                <li><a href="poezija/mladost-na-omci.php">Mladost na omči</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
                 <li><a href="poezija/o-lasicu-o-majore.php">O Lašiću o majore</a></li>
