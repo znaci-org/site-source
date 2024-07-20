@@ -57,6 +57,9 @@ Oj narodi, ujedinite se!<br/>
 Ostavite i suze i tugu<br/>
 Da fašiste gonimo k’o kugu.<br/>
 <br/>
+Složili se Srbi i Hrvati<br/>
+Oj, fašisti, što će narod da vas mlati.<br/>
+<br/>
 Smrkni, svani, mi smo partizani,<br/>
 Oj ustaše, nadajte se nami!<br/>
 <br/>

@@ -1232,6 +1232,7 @@ include "includes/header.php";
         <article>
             <h4>Dušan Kostić</h4>
             <ul>
+                <li><a href="poezija/moskva.php">Moskva</a></li>
                 <li><a href="poezija/kolona-u-noci.php">Kolona u noći</a></li>
                 <li><a href="poezija/volujak.php">Volujak</a></li>
                 <li><a href="poezija/piva.php">Piva</a></li>
@@ -1531,6 +1532,9 @@ include "includes/header.php";
                 <li><a href="poezija/listaj-goro-cvjetaj-cvijece.php">Listaj goro cvjetaj cvijeće</a></li>
                 <li><a href="poezija/u-logoru-boljsevika.php">U logoru boljševika</a></li>
                 <li><a href="poezija/pljevaljska-bitka.php">Pljevaljska bitka</a></li>
+                <li><a href="poezija/palim-drugovima-u-bici-na-pljevljima.php">Palim drugovima u bici na Pljevljima</a></li>
+                <li><a href="poezija/crnogorskim-partizanima.php">Crnogorskim partizanima</a> (epika)</li>
+                <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/podigla-se-buna-od-kozuna.php">Podigla se buna od kožuna</a></li>
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
@@ -1587,7 +1591,6 @@ include "includes/header.php";
                 <li><a href="poezija/oj-cetnici.php">Oj četnici</a></li>
                 <li><a href="poezija/oj-ustase.php">Oj ustaše</a></li>
                 <li><a href="poezija/oj-hitleru-ti-si-prvi.php">Oj Hitleru ti si prvi</a></li>
-                <li><a href="poezija/vladimiru-ilicu-lenjinu.php">Vladimiru Iliču Lenjinu</a></li>
                 <li><a href="poezija/moj-maksime.php">Moj Maksime</a></li>
                 <li><a href="poezija/pozdrav-iz-tamnice.php">Pozdrav iz tamnice</a></li>
                 <li><a href="poezija/omladinke-hajte-u-boj-s-nama.php">Omladinke hajte u boj s nama</a></li>

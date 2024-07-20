@@ -9,7 +9,7 @@ include "../includes/header.php";
 
 <p>(<i>narodna pesma</i>)</p>
 
-Prošlo je punih 18 leta<br/>
+Prošlo je punih osamnaest leta<br/>
 Od kad ne gleda beloga sveta,<br/>
 Veliki vođa radničke klase,<br/>
 Nekad prezrene narodne mase.<br/>
@@ -48,7 +48,11 @@ Na njegovo mesto došo je novi,<br/>
 Taj koji sav svet spasava sada<br/>
 Veliki Staljin, sva naša nada.<br/>
 <br/>
-Živeo Staljin!.... Lenjinu slava!....<br/>
+Živeo Staljin! Lenjinu slava!<br/>
 Velikom tvorcu narodnih prava.<br/>
 
-<p>(1942)</p>
+<p>(Savo Orović, ratni dnevnik 1941-1945, Beograd 1972.)</p>
+
+<hr>
+
+<p>Recitovao dr Simo Milošević 20. januara 1942. godine, povodom 18-godišnjice smrti Lenjinove.</p>
