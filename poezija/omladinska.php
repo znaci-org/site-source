@@ -7,35 +7,122 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-Omladinci, omladinke,<br>
-Velik nas je broj,<br>
-Protiv ropstva i fašizma<br>
-Pošli smo u boj.<br>
-<br>
-Niz planine, reke, staze,<br>
-Nove pute, nove staze,<br>
-Omladinske noge gaze,<br>
-Eto nas!<br>
-<br>
-Hej, zasučimo rukave, znoj neka<br>
-Izgradićemo novoga čoveka.<br>
-<br>
-Protiv svega što ne valja<br>
-Dižemo svoj glas.<br>
-Mi u radu i slobodi<br>
-Vidimo svoj spas.<br>
-<br>
-U drugarstvu i prirodi<br>
-Po oluji, burnoj vodi<br>
-Naš brod samo napred brodi,<br>
-Eto nas!<br>
-<br>
-Hej, zasučimo rukave, znoj neka<br>
-Izgradićemo novoga čoveka.<br>
+<p>(<i>takođe poznata kao Omladinska himna</i>)</p>
+
+<pre>
+Omladinci, omladinke,
+Velik nas je broj;
+Protiv rata i fašizma
+Pošli smo u boj.
+
+Niz planine reke slaze,
+Nove pute, nove staze
+Omladinske note gaze,
+Eto nas.
+
+Hej zasucimo rukave znojne,
+Izgradićemo novoga čoveka.
+
+Protiv svega što ne valja
+Dižemo svoj glas,
+Mi u radu i slobodi
+Vidimo svoj spas.
+
+Niz planine reke slaze
+Nove pute, nove staze
+Omladinske noge gaze,
+Eto nas.
+
+Hej, zasucimo rukave znojne
+Izgradićemo novoga čoveka.
+</pre>
+
+<p>(Savo Orović, ratni dnevnik 1941-1945 (str. 504), Beograd 1972.)</p>
 
 <h2>II verzija</h2>
 
-Omladinci, omladinke<br> 
-velik nas je broj, <br>
-protiv rata i fašizma <br>
-svi ćemo u boj!<br>
+<pre>
+Omladinci, omladinke,
+Velik nas je broj,
+Protiv ropstva i fašizma
+Pošli smo u boj.
+
+Niz planine, reke, staze,
+Nove pute, nove staze,
+Omladinske noge gaze,
+Eto nas!
+
+Hej, zasučimo rukave, znoj neka
+Izgradićemo novoga čoveka.
+
+Protiv svega što ne valja
+Dižemo svoj glas.
+Mi u radu i slobodi
+Vidimo svoj spas.
+
+U drugarstvu i prirodi
+Po oluji, burnoj vodi
+Naš brod samo napred brodi,
+Eto nas!
+
+Hej, zasučimo rukave, znoj neka
+Izgradićemo novoga čoveka.
+</pre>
+
+<h2>III verzija</h2>
+
+<pre>
+Omladinci, omladinke
+velik nas je broj,
+protiv rata i fašizma
+svi ćemo u boj!
+</pre>
+
+<h2>IV verzija (sačuvao Mirko Raković)</h2>
+
+<pre>
+Omladinci – Omladinke -
+Velik nas je broj,
+Protiv rata i fašizma
+Stupajte u boj.
+
+Kroz planine, reke, baze,
+Omladinske noge gaze,
+Nove pute – nove staze,
+Eto nas.
+
+Hej – zasučimo rukave,
+Znoj neka se lije
+I junačka bitka bije,
+Izgradit ćemo novoga čoveka.
+
+Protiv svega što ne valja
+Dižemo svoj glas,
+Mi u radu i slobodi
+Vidimo svoj spas.
+
+Kroz planine, reke, baze,
+Omladinske noge gaze,
+Nove pute – nove staze,
+Eto nas.
+
+Hej – zasučimo rukave,
+Znoj neka se lije
+I junačka bitka bije,
+Izgradit ćemo novoga čoveka.
+
+Mladost svoju za slobodu
+Ne žalimo mi,
+Za svoj narod – svi u borbu
+Poći ćemo svi.
+
+Kroz planine, reke, baze,
+Omladinske noge gaze,
+Nove pute – nove staze,
+Eto nas.
+
+Hej – zasučimo rukave,
+Znoj neka se lije
+I junačka bitka bije,
+Izgradit ćemo novoga čoveka.
+</pre>

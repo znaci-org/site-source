@@ -154,4 +154,6 @@ sliku Tita!<br/>
 
 <hr>
 
+<p>Između više desetina raznih vrsta letaka, kojima su nas Nemci i ustaše zasipali iz aviona po Sremu, jedan je od najinteresantnijih letak o interpretaciji imena druga Tita: „Tajna Internacionalna Teroristička Organizacija“. To i razni klevetnički i senzacionalistički pamfleti o poreklu, životu i radu druga Tita, objavljeni u fašističkoj štampi u Berlinu itd., i preko radio-stanica i reakcionarnih listova u Londonu, Njujorku i Cirihu, inspirisali su našeg pesnika Radovana Zogovića da napiše veličanstvenu „Pjesmu o biografiji druga Tita“. (Savo Orović)</p>
+
 <p>Na priredbi Kazališta narodnog oslobođenja u Drvaru 5. aprila 1944. Afrić je spremio odlomak Zogovićeve »Pesme o biografiji druga Tita« kao horsku recitaciju.</p>
