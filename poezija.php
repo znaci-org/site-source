@@ -807,6 +807,7 @@ include "includes/header.php";
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Skender_Kulenovi%C4%87_u_NOB.jpg/100px-Skender_Kulenovi%C4%87_u_NOB.jpg" alt="">
             <ul>
                 <li><a href="poezija/stojanka-majka-knezopoljka.php">Stojanka majka Knežopoljka</a> (poema)</li>
+                <li><a href="poezija/pismo-jove-stanivuka-crvenoarmejcu.php">Pismo Jove Stanivuka crvenoarmejcu Nikolaju Ivanoviću Krilovu</a></li>
                 <li><a href="poezija/pismo-izdajici.php">Pismo izdajici</a></li>
                 <li><a href="poezija/na-pravi-put-sam-ti-majko-iziso.php">Na pravi put sam ti, majko, izišo</a> (poema)</li>
             </ul>

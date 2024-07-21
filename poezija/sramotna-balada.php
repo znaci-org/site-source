@@ -39,6 +39,8 @@ a Draža i Poglavnik jezicima miču, ko da i oni piju
 a zatim slatko ližu — svoje krvave usne.
 </pre>
 
+<p>(1942.)</p>
+
 <hr>
 
 <p>Povodom sprege ustaša i četnika za zajedničku borbu protiv partizana, Radovan Zogović je spevao pesmu „Sramotna balada".</p>

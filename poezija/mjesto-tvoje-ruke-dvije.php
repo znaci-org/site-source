@@ -50,6 +50,8 @@ Stegle su me fišeklije,<br/>
 Mjesto tvojih poljubaca<br/>
 Brojim čete od boraca.<br/>
 
+<p>(Savo Orović, ratni dnevnik 1941-1945 (str. 446), Beograd 1972.)</p>
+
 <h2>III verzija (Po Kordunu boj se bije)</h2>
 
 Po Kordunu boj se bije,<br />
