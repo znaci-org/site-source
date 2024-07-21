@@ -80,3 +80,5 @@ i Srp i Čekić srmeni.
 Duva rumen razvigor
 molim brzi odgovor
 </pre>
+
+<p>(1942.)</p>
