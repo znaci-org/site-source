@@ -1407,6 +1407,7 @@ include "includes/header.php";
                 <li><a href="poezija/zdignite-brati-zastave.php">Zdignite brati zastave</a></li>
                 <li><a href="poezija/moj-saro.php">Moj šaro</a></li>
                 <li><a href="poezija/vi-zidine.php">Vi zidine</a></li>
+                <li><a href="poezija/vene-lisce-vene-gora.php">Vene lišće vene gora</a></li>
                 <li><a href="poezija/braca-karas.php">Pjesma braći Karas</a></li>
                 <li><a href="poezija/seja-brata-svabama-izdala.php">Seja brata Švabama izdala</a></li>
                 <li><a href="poezija/bratac-seju-zove-u-vojnike.php">Bratac seju zove u vojnike</a></li>
