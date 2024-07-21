@@ -1303,6 +1303,29 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Dragić Mandić</h4>
+            <ul>
+              <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
+              <li><a href="poezija/kordunaska-osma-divizija.php">Pjesme Osme kordunaške divizije</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Mileta Bjelivuk</h4>
+            <ul>
+              <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
+              <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Dragoslav Ognjanović</h4>
+            <ul>
+              <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Desanka Maksimović</h4>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Desanka_Maksimovi%C4%87_stara_slika.jpg" alt="">
             <ul>
@@ -1360,7 +1383,6 @@ include "includes/header.php";
                 <li><a href="poezija/ide-ante-u-pohod-kordunu.php">Ide Ante u pohod Kordunu</a></li>
                 <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd u partizane</a></li>
                 <li><a href="poezija/ostavicu-staru-majku.php">Ostaviću staru majku</a></li>
-                <li><a href="poezija/kordunaska-osma-divizija.php">Pjesme Osme kordunaške divizije</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/pjesme-slavonskih-partizana.php">Pjesme slavonskih partizana</a></li>
                 <li><a href="poezija/smrt-stojana-matica.php">Smrt Stojana Matića</a></li>
@@ -1393,11 +1415,7 @@ include "includes/header.php";
                 <li><a href="poezija/nije-narod-unistiti-lako.php">Nije narod uništiti lako</a></li>
                 <li><a href="poezija/to-je-bilo-dvanaestoga-juna.php">To je bilo dvanaestoga juna</a></li>
                 <li><a href="poezija/u-zagrebu-polupani-dvori.php">U Zagrebu polupani dvori</a></li>
-                <li><a href="poezija/pocetak-ustanka-na-kordunu.php">Početak ustanka na Kordunu</a> (epika)</li>
                 <li><a href="poezija/1941.php">1941.</a> (epika)</li>
-                <li><a href="poezija/boj-s-talijanima-na-cukuru-1941.php">Boj s Talijanima na Čukuru</a> (epika)</li>
-                <li><a href="poezija/boj-na-ljubovu.php">Boj na Ljubovu</a> (epika)</li>
-                <li><a href="poezija/o-ljudima-kad-su-ljudi-bili.php">O ljudima kad su ljudi bili</a> (epika)</li>
                 <li><a href="poezija/omladino-diko-naseg-roda.php">Omladino diko našeg roda</a></li>
                 <li><a href="poezija/pjesmu-pjevam-mladih-proletera.php">Pjesmu pjevam mladih proletera</a></li>
                 <li><a href="poezija/kordunaski-dvostih.php">Kordunaški dvostih</a></li>
