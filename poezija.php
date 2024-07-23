@@ -1382,6 +1382,7 @@ include "includes/header.php";
                 <li><a href="poezija/ide-vojska-i-pjesma-se-ori.php">Ide vojska i pjesma se ori</a></li>
                 <li><a href="poezija/ide-ante-u-pohod-kordunu.php">Ide Ante u pohod Kordunu</a></li>
                 <li><a href="poezija/curo-hajd-u-partizane.php">Curo hajd u partizane</a></li>
+                <li><a href="poezija/drugarice-hajd-u-borbu-s-nama.php">Drugarice hajd u borbu s nama</a></li>
                 <li><a href="poezija/ostavicu-staru-majku.php">Ostaviću staru majku</a></li>
                 <li><a href="poezija/dvanaesta-je-majka-slavonije.php">Dvanaesta je majka Slavonije</a></li>
                 <li><a href="poezija/pjesme-slavonskih-partizana.php">Pjesme slavonskih partizana</a></li>
