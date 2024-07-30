@@ -34,6 +34,8 @@ snažan i tvrd ko grad,<br />
 u njemu svakom hleba,<br />
 svima sloboda i rad.<br />
 
+<p>(<i>zapisao Mirko Raković</i>)</p>
+
 <h2>II verzija</h2>
 
 Žandarski kundak nam je plata<br />

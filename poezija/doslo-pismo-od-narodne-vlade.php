@@ -70,4 +70,4 @@ koja ima brata proletera<br />
 Bog ubio svaku onu snašu<br />
 koja rodi sina za ustašu.<br />
 
-<p>(<i>zabeležena u Vojvodini</i>)</p>
+<p>(<i>zapisao Mirko Raković</i>)</p>

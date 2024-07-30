@@ -65,6 +65,8 @@ a ja odoh gori Romaniji.<br />
 Na nebu se vijaju oblaci,<br />
 Romanijom crveni barjaci.<br />
 
+<p>(<i>zapisao Mirko Raković</i>)</p>
+
 <hr>
 
 <p>Partizanski guslar Radovan Vuković je na Romaniji ispjevao "Romanijo visokoga visa", pa je Danon zapisao i komponovao.</p>

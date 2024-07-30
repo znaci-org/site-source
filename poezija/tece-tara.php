@@ -7,16 +7,16 @@ include "../includes/header.php";
 
 <h1>Junus Međedović - Teče Tara</h1>
 
-(<i>pjesma je postala narodna i ima više verzija</i>)
+<p>(<i>pjesma je postala narodna i ima više verzija</i>)</p>
 
-<p>
-  Teče Tara, teče Tara<br />
-  kroz taj crnogorski kraj<br />
-  i raznosi sve do kraja<br />
-  partizanske borbe žar<br />
-  <br />
-  Dok se Tarom glas prolama<br />
-  tu se bije teški boj<br />
-  krv se lije dolinama<br />
-  i lije znoj – za narod svoj<br />
-</p>
+Teče Tara, teče Tara<br />
+kroz taj crnogorski kraj<br />
+i raznosi sve do kraja<br />
+partizanske borbe žar<br />
+<br />
+Dok se Tarom glas prolama<br />
+tu se bije teški boj<br />
+krv se lije dolinama<br />
+i lije znoj – za narod svoj<br />
+
+<p>(<i>zapisao Mirko Raković</i>)</p>
