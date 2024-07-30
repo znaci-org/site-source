@@ -126,3 +126,5 @@ Znoj neka se lije
 I junačka bitka bije,
 Izgradit ćemo novoga čoveka.
 </pre>
+
+<p>(<i>zapisao Mirko Raković</i>)</p>

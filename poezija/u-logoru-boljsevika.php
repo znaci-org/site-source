@@ -169,6 +169,8 @@ pa pod ruku metno tašnu<br />
 uzo seme u desnicu<br />
 seje ječam i pšenicu.<br />
 
+<p>(<i>zapisao Mirko Raković</i>)</p>
+
 <h2>VI verzija (Bijela vilo sa planine)</h2>
 
 Bijela vilo sa planine<br />
