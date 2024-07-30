@@ -89,7 +89,7 @@ neka hrabro na braniku stoje !<br />
 I sestricu, moje rosno cveće,<br />
 da joj bratac više doći neće."<br />
 
-<p>(<i>zabeležena u Vojvodini nakon 2000-te</i>)</p>
+<p>(<i>zapisao Mirko Raković</i>)</p>
 
 <h2>IV verzija</h2>
 

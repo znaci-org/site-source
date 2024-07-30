@@ -121,7 +121,7 @@ snažno grli parabela.<br />
 Mjesto tvojih poljubaca,<br />
 na me švabo bombe baca.<br />
 
-<p>(zabeležena u Vojvodini nakon 2000-te)</p>
+<p>(<i>zapisao Mirko Raković</i>)</p>
 
 <h2>VI verzija (Kad u borbu ja polazim)</h2>
 

@@ -45,6 +45,8 @@ nema nama Matića Stojana.
 /što nam nema Matića Stojana/ 
 </pre>
 
+<p>(<i>zapisao Mirko Raković</i>)</p>
+
 <h1>Izgubismo drug Stojana</h1>
 
 <pre>

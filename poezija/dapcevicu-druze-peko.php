@@ -77,6 +77,8 @@ naše su te gore dale.<br />
 Ono su ti ljute zmije,<br />
 druga Peka divizije.<br />
 
+<p>(<i>zapisao Mirko Raković</i>)</p>
+
 <h2>IV  verzija</h2>
 
 Čiji ono borci biše,<br/>

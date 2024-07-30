@@ -92,6 +92,8 @@ i u Srinu dok uvire,
 ne da Savi da umire.
 </pre>
 
+<p>(<i>zapisao Mirko Raković</i>)</p>
+
 <h2>III verzija</h2>
 
 <pre>

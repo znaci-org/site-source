@@ -37,47 +37,45 @@ include "../includes/header.php";
   I ja ću ti nosit karabinu.
 </p>
 
-<h2>Druga verzija</h2>
+<h2>II verzija</h2>
 
-<p>
-  Romanijo, jezerom se zvala,<br>
-  Ti si naše jabuke obrala,<br>
-  Sve jabuke neženjene momke.<br>
-  <br>
-  Sve devojke udajte se redom,<br>
-  Nas je Tito oženio «Bredom»,<br>
-  <br />
-  Puškom «Zorkom», njalepšom devojkom,<br>
-  Curom finom, lakim karabinom<br>
-  <br />
-  Za djevera – kratka revolvera.<br>
-  Fišeklije – svastike i prije<br>
-  <br />
-  Mjesto popa – granata od topa,<br>
-  Starog svata – «Šarac» oko vrata
-</p>
+Romanijo, jezerom se zvala,<br>
+Ti si naše jabuke obrala,<br>
+Sve jabuke neženjene momke.<br>
+<br>
+Sve devojke udajte se redom,<br>
+Nas je Tito oženio «Bredom»,<br>
+<br />
+Puškom «Zorkom», njalepšom devojkom,<br>
+Curom finom, lakim karabinom<br>
+<br />
+Za djevera – kratka revolvera.<br>
+Fišeklije – svastike i prije<br>
+<br />
+Mjesto popa – granata od topa,<br>
+Starog svata – «Šarac» oko vrata<br>
 
-<h2>Treća verzija</h2>
+<h2>III verzija</h2>
 
-<p>
-  Romanijo, jezerom se zvala,<br />
-  ti si naše jabuke obrala:<br />
-  <br />
-  Sve jabuke – neženjene momke,<br />
-  ostaše nam sirotne djevojke.<br />
-  <br />
-  Sve djevojke, ugajte se redom,<br />
-  nas je Tito oženio Bredom,<br />
-  <br />
-  Puškom Zorkom – lijepom djevojkom;<br />
-  curom finom – lakim karabinom.<br />
-  <br />
-  Za djevera – laka levorvera,<br />
-  fišeklije – svastike i prije.<br />
-  <br />
-  Mjesto popa – granate od topa,<br />
-  starog svata – šarac oko vrata.<br />
-</p>
+Romanijo, jezerom se zvala,<br />
+ti si naše jabuke obrala:<br />
+<br />
+Sve jabuke – neženjene momke,<br />
+ostaše nam sirotne djevojke.<br />
+<br />
+Sve djevojke, ugajte se redom,<br />
+nas je Tito oženio Bredom,<br />
+<br />
+Puškom Zorkom – lijepom djevojkom;<br />
+curom finom – lakim karabinom.<br />
+<br />
+Za djevera – laka levorvera,<br />
+fišeklije – svastike i prije.<br />
+<br />
+Mjesto popa – granate od topa,<br />
+starog svata – šarac oko vrata.<br />
+
+<p>(<i>zapisao Mirko Raković</i>)</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pu%C5%A1ke_partizanke.jpg" alt=""><br>
 <small>Čuvene puške "partizanke" proizvedene u fabrici oružja u oslobođenom Užicu, tokom Užičke republike 1941.</small>

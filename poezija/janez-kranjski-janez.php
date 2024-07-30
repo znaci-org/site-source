@@ -28,3 +28,26 @@ naša so pravica.<br/>
 <br/>
 Živela svoboda 3x<br/>
 našega naroda.<br/>
+
+<h2>II verzija (Kam greš, kranjski Janez)</h2>
+
+<pre>
+Kam greš, kranjski Janez,  
+kam odhajaš danes?  
+Grem v partizane,  
+med junake zbrane.  
+Vdignimo zastavo:  
+belo, rdeče, plavo.  
+Bela, rdeča, plava  
+naša je zastava.  
+Gor na vrh Triglava  
+slovenska je zastava.  
+Gor na njej pa piše:  
+da vso sužnost briše,  
+živeli Primorci!  
+To so naši borci.  
+Živela svoboda  
+slovenskega naroda
+</pre>
+
+<p>(<i>zapisao Mirko Raković</i>)</p>
