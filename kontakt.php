@@ -5,7 +5,7 @@ include "includes/header.php";
 
 <h2>Kontakt</h2>
 
-<p>Biblioteku Znaci je pokrenuo drug <a href="/PoezijuCeSviPisati.html">Goran Despotović (1957-2022)</a> oko <a href="https://web.archive.org/web/20101230101118/http://www.znaci.net/">2010.</a> godine, u cilju očuvanja istine o Drugom svetskom ratu u Jugoslaviji. Nakon njegove smrti, sajt su nastavili da održavaju Goranovi prijatelji sa raznih strana sveta.</p>
+<p>Biblioteku Znaci je pokrenuo drug <b><a href="/PoezijuCeSviPisati.html">Goran Despotović</a></b> oko <a href="https://web.archive.org/web/20101230101118/http://www.znaci.net/">2010.</a> godine, u cilju očuvanja istine o Drugom svetskom ratu u Jugoslaviji. Nakon njegove smrti, sajt su nastavili da održavaju Goranovi prijatelji sa raznih strana sveta.</p>
 
 <p>Projektu možete pomoći tako što ćete nam slati izvornu građu koja nedostaje - zbornike dokumenata, knjige sećanja, fotografije, poeziju...</p>
 
