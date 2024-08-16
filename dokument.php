@@ -22,7 +22,7 @@ include_once('css/izvor.php');
         if ($datum_prikaz == "0000-00-00.") $datum_prikaz = " nepoznat";
         ?>
         <b>Datum: </b><span><?php echo $datum_prikaz . "."; ?></span>
-        <small>(napomena: neki datumi su okvirni)</small>
+        <!-- <small>(napomena: neki datumi su okvirni)</small> -->
         <br>
         <b>Oblast:</b> <?php echo $dokument->oblast_prevedeno; ?><br>
         <b>Dokument izdali:</b> <?php echo $dokument->pripadnost; ?><br>
