@@ -14,7 +14,7 @@
   .podeok {
     overflow-y: auto;
     padding: 0 4px;
-    background: #eee;
+    background: #f1f1f1;
   }
 
   .podeok a {
