@@ -363,7 +363,7 @@ $pogodak=-1;
 <?php
 for ($ii=1;$ii<$broj_poglavlja+1;$ii++) {
 	
-	$slika=array('</td><td align=' . '"' . 'center' . '"' . ' rowspan=' . $broj_poglavlja . ' width=' . '"' . '70%' . '"' . '><center><img src=' . '"' . '/images/NARA/T' . $rec . '_' . $roll . '/' . $ova_strana_str . '"' . ' width=' . '"' . '100%' . '"' . '>','','','','','','','','','','','','','','','','','','','','','','','','','','','','','');
+	$slika=array('</td><td style="vertical-align:top"' . ' rowspan=' . $broj_poglavlja . ' width=' . '"' . '70%' . '"' . '><center><img src=' . '"' . '/images/NARA/T' . $rec . '_' . $roll . '/' . $ova_strana_str . '"' . ' width=' . '"' . '100%' . '"' . '>','','','','','','','','','','','','','','','','','','','','','','','','','','','','','');
 	$spx='<tr><td vAlign=top ' . $boja[$ii] . '> <a href=' . chr(34) . $_SERVER['PHP_SELF'] . "?rec=" . $rec . '&broj=' . $img[$ii-1] . '&roll=' . $roll . '"' . '>' . $opis_n[$ii-1] . ' - ' . $opis_e[$ii-1] . ', ' . $dt1[$ii-1] . ' - ' . $dt2[$ii-1] . '</a>' . $sp4 . $frm[$ii-1] . $slika[$ii-1] . $sp5;
 	echo $spx;
 	echo "\n";
