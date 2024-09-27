@@ -23,3 +23,8 @@ Ako nemate puno iskustva u radu sa git sistemom za održavanje verzija izvornog 
 ```
 php -S localhost:8000
 ```
+
+## TODO
+
+- admin panel
+- izlistati hronologiju NOB, svih i važnijih opciono
