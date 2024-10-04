@@ -1448,6 +1448,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-kozaro-ne-treba-ti-kise.php">Oj Kozaro ne treba ti kiše</a></li>
                 <li><a href="poezija/oj-kozarske-vite-jele.php">Oj kozarske vite jele</a></li>
                 <li><a href="poezija/druga-sosu-ubila-je-mina.php">Druga Šošu ubila je mina</a></li>
+                <li><a href="poezija/doso-kurjak-sa-planine.php">Došo Kurjak sa planine</a></li>
                 <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
                 <li><a href="poezija/nas-je-tito-ozenio-bredom.php">Nas je Tito oženio Bredom</a></li>
                 <li><a href="poezija/oj-drugovi-iz-pete-brigade.php">Oj drugovi iz Pete brigade</a></li>
