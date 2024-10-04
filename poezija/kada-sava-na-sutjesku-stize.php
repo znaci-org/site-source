@@ -43,3 +43,5 @@ proleterske prošle jedinice!
 U toj krvi i u ognju vrelu  
 heroj Sava bio je na čelu.
 </pre>
+
+<p>(zabeležio Mirko Raković)</p>
