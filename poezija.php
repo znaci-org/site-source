@@ -1649,6 +1649,7 @@ include "includes/header.php";
                 <li><a href="poezija/bil-se-mogli-mrtvi-ustajati.php">Bil se mogli mrtvi ustajati?</a></li>
                 <li><a href="poezija/raste-snaga-raste-vjera.php">Raste snaga raste vjera</a></li>
                 <li><a href="poezija/smrt-brace-ribar.php">Smrt braće Ribar</a></li>
+                <li><a href="poezija/kada-sava-na-sutjesku-stize.php">Kada Sava na Sutjesku stiže</a></li>
                 <li><a href="poezija/drug-tito-u-boj-zove.php">Drug Tito u boj zove</a></li>
                 <li><a href="poezija/kompartijo-mirisavo-cvijece.php">Kompartijo mirisavo cvijeće</a></li>
                 <li><a href="poezija/cetnici-i-partizani.php">Četnici i partizani</a></li>
