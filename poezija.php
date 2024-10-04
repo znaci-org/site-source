@@ -1575,6 +1575,7 @@ include "includes/header.php";
                 <li><a href="poezija/sa-tenka-sava-zbori.php">A sa tenka Sava zbori</a></li>
                 <li><a href="poezija/u-bistrici-kraj-zelena-luga.php">U Bistrici kraj zelena luga</a></li>
                 <li><a href="poezija/pogibija-scepana-djukica.php">Pogibija Šćepana Đukića</a></li>
+                <li><a href="poezija/lezi-drago-u-ranama.php">Leži Drago u ranama</a></li>
                 <li><a href="poezija/mladost-na-omci.php">Mladost na omči</a></li>
                 <li><a href="poezija/sandzaklije.php">Sandžaklije</a></li>
                 <li><a href="poezija/dapcevicu-druze-peko.php">Dapčeviću druže Peko</a></li>
@@ -1654,6 +1655,7 @@ include "includes/header.php";
                 <li><a href="poezija/kralju-petre-necemo-te-amo.php">Kralju Petre nećemo te amo</a></li>
                 <li><a href="poezija/sad-je-vojska-nasa-jaka.php">Sad je vojska naša jaka</a></li>
                 <li><a href="poezija/zbogom-ostaj-bunkeru-na-drini.php">Zbogom ostaj bunkeru na Drini</a></li>
+                <li><a href="poezija/u-tamnici-med-cetiri-zida.php">U tamnici međ četiri zida</a></li>
                 <li><a href="poezija/srp-i-cekic-celicni.php">Srp i čekić čelični</a></li>
                 <li><a href="poezija/pravda-jaca-nego-sila.php">Pravda jača nego sila</a></li>
                 <li><a href="poezija/katjusa.php">Katjuša</a></li>

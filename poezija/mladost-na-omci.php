@@ -28,3 +28,5 @@ Jovanka, danas te vidjeh u smrti nasmejanu.
 </pre>
 
 <p>(Savo Orović, ratni dnevnik 1941-1945 (str. 221), Beograd 1972.)</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Joka_Baleti%C4%87.jpg" alt="">
