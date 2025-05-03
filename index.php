@@ -48,7 +48,6 @@ include "includes/header.php";
         Grupa autora: SVET O TITU 1980.</span></a>
   </p>
 
-<section class="knjige">
   <h3>Periodika</h3>
   <?php
   $konekcija = mysqli_connect("", getenv('MYSQL_UN'), getenv('MYSQL_PW'), getenv('MYSQL_DB'));
