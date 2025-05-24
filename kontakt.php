@@ -9,6 +9,6 @@ include "includes/header.php";
 
 <p>Projektu možete pomoći tako što ćete nam slati izvornu građu koja nedostaje - zbornike dokumenata, knjige sećanja, fotografije, poeziju...</p>
 
-<p>Email: <a href='mailt&#111;&#58;zn%&#54;1c&#37;&#54;9&#46;org&#64;gm&#97;il%2E%63om'>&#122;&#110;aci&#46;or&#103;&#64;&#103;&#109;&#97;il&#46;com</a></p>
+<p>Email: <a href='&#109;&#97;ilto&#58;%6&#50;ibliot&#37;&#54;5ka%7An&#37;61ci&#64;%67&#109;ail&#46;&#99;&#111;&#109;'>bibliotekazna&#99;i&#64;gmail&#46;&#99;&#111;m</a></p>
 
 <!-- <?php include "includes/footer.php"; ?> -->
