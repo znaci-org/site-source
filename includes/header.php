@@ -11,6 +11,19 @@ $filename = basename($_SERVER['SCRIPT_FILENAME']);
   <meta content="Biblioteka Znaci, baza podataka o drugom svetskom ratu na tlu Jugoslavije. " name="description">
   <title><?php echo $naslov; ?> | Biblioteka Znaci</title>
   <link rel="stylesheet" href="/normal.css" />
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+  <script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#periodika" ).accordion({
+      collapsible: true,
+      active: false,
+      heightStyle: "content"
+    });
+  } );
+  </script>
 
   <?php if ($fotografija) { ?>
     <meta property="og:type" content="article">

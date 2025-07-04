@@ -49,6 +49,10 @@ include "includes/header.php";
   </p>
 
   <h3>Periodika</h3>
+  <table width="80%" border="1">
+        <tr>
+          <td>
+  <div id="periodika">
   <?php
   $konekcija = mysqli_connect("", getenv('MYSQL_UN'), getenv('MYSQL_PW'), getenv('MYSQL_DB'));
   mysqli_set_charset($konekcija, 'utf8');
@@ -62,7 +66,8 @@ include "includes/header.php";
     $sediste = $red00['sediste'];
     $god_izdanja = $red0['god'];
     echo "<p>";
-    echo "&nbsp;&nbsp;&#9658;&nbsp;" . $red0['naziv_periodike'] . ", " . $izdavac . ", "  . $sediste . "</p>";
+    echo "&nbsp;&nbsp;&nbsp;" . $red0['naziv_periodike'] . ", " . $izdavac . ", "  . $sediste . "</p>";
+    echo "<div>";
     $upit1 = "SELECT DISTINCT god FROM brojevi WHERE broj_periodike = " . $red0['broj_periodike'] . " ORDER BY god;";
     $rezultat1 = mysqli_query($konekcija, $upit1);
     while ($red1 = mysqli_fetch_assoc($rezultat1)) {
@@ -75,9 +80,14 @@ include "includes/header.php";
       }
       echo "</p>";
     }
+    echo "</div>";
     echo "\n";
   }
   ?>
+  </div>
+          </td>
+        </tr>
+  </table>
 
   <h3>Sve knjige, po redosledu postavljanja, najsvežije na vrhu</h3>
   <?php
