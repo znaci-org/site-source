@@ -1747,8 +1747,12 @@ include "includes/header.php";
               <tr>
                 <td>
                   <p>
+                    <a href="/00003/2085.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+                        Dr. Tomaž Teropšić: KOZJANSKI ODRED, Knjiga 1</span></a>
+                  </p>
+                  <p>
                     <a href="/00003/2086.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
-                        Dr. Tomaž Teropšić: KOZJANSKI ODRED</span></a>
+                        Dr. Tomaž Teropšić: KOZJANSKI ODRED, Knjiga 2</span></a>
                   </p>
                   <p>
                     <a href="/00002/400.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
