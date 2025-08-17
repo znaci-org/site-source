@@ -1747,6 +1747,10 @@ include "includes/header.php";
               <tr>
                 <td>
                   <p>
+                    <a href="/00003/2086.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+                        Dr. Tomaž Teropšić: KOZJANSKI ODRED</span></a>
+                  </p>
+                  <p>
                     <a href="/00002/400.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
                         Milivoje Stankovi&#263;: PRVI &#352;UMADIJSKI PARTIZANSKI ODRED</span></a>
                   </p>
@@ -2031,6 +2035,10 @@ include "includes/header.php";
         </tr>
         <tr>
           <td>
+			<p>
+				<a href="/00003/2087.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
+					Dr. Tomaž Teropšić: ŠTAJERSKA V PLAMENIH</span></a>
+			</p>
             <p>
               <a href="/00003/608.htm" target="_blank"><span>&nbsp;&nbsp;&#9658;&nbsp;
                   Grupa autora: NOB MAKEDONIJE</span></a>
