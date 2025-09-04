@@ -8,7 +8,7 @@ include "../includes/header.php";
 <h1><?php echo $naslov ?></h1>
 
 Taj putnik što krade iz sviju očiju mir,<br/>
-šta traži, i ko je, šta krije njegovo ćutanje2<br/>
+šta traži, i ko je, šta krije njegovo ćutanje<br/>
 Oči su mu mirne, kao jezera s odblescima,<br/>
 Nit prete kao klopka niti kao tajni vir,<br/>
 ali on seje Nepoznato nevidljivim pokretima<br/>
