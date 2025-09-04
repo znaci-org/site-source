@@ -550,6 +550,7 @@ include "includes/header.php";
             <h4>Kosta Kočo Racin</h4>
             <ul>
                 <li><a href="poezija/ispanska-balada.php">Испанска балада</a></li>
+                <li><a href="poezija/smrtta-na-asturiskiot-rudar.php">Смртта на астурискиот рудар</a></li>
             </ul>
         </article>
 

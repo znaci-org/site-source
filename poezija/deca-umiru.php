@@ -115,4 +115,4 @@ U Španiji se rešava sudbina naroda i čovečanstva!
 Cvile pred smrt mala, nevina deca!
 </pre>
 
-<p>(Objavljana u časopisu Dimitrovac broj 7, od 25. 08. 1937. godine)</p>
+<p>(objavljena u časopisu Dimitrovac broj 7, od 25. 08. 1937. godine)</p>
