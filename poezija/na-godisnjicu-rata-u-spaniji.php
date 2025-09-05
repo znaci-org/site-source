@@ -70,3 +70,5 @@ jedna se mladost neće
 pognuti više.
 Neće više.
 </pre>
+
+<p>(iz zbirke "Poezija bunta i otpora")</p>

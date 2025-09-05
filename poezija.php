@@ -569,6 +569,13 @@ include "includes/header.php";
                 <li><a href="poezija/zvijezde-i-covjek-u-samici.php">Zvijezde i čovjek u samici</a></li>
             </ul>
         </article>
+        
+        <article>
+            <h4>Radovan Zogović</h4>
+            <ul>
+                <li><a href="poezija/krila.php">Krila</a></li>
+            </ul>
+        </article>
 
         <article>
             <h4>Oskar Davičo</h4>
