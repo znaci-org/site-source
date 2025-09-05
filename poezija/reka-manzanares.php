@@ -1,11 +1,11 @@
 <?php
-$naslov = "Poezija NOB";
+$naslov = "Čedomir Minderović - Reka Manzanares";
 include "../includes/header.php";
 ?>
 
 <a href="/poezija.php">◀ Poezija NOB</a>
 
-<h1>Čedomir Minderović - Reka Manzanares</h1>
+<h1><?php echo $naslov ?></h1>
 
 <pre>
 Čuješ li: šumi i krči, propinje se i ključa.

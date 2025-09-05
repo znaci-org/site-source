@@ -577,6 +577,13 @@ include "includes/header.php";
                 <li><a href="poezija/krila.php">Krila</a></li>
             </ul>
         </article>
+        
+        <article>
+            <h4>Igo Gruden</h4>
+            <ul>
+                <li><a href="poezija/silvestrova-zdravica.php">Silvestrova zdravica</a></li>
+            </ul>
+        </article>
 
         <article>
             <h4>Oskar Davičo</h4>
