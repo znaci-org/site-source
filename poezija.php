@@ -578,6 +578,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Tanasije Mladenović</h4>
+            <ul>
+                <li><a href="poezija/na-godisnjicu-rata-u-spaniji.php">Na godišnjicu rata u Španiji</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
