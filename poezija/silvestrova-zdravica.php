@@ -7,7 +7,7 @@ include "../includes/header.php";
 
 <h1><?php echo $naslov ?></h1>
 
-<pre>    
+<pre>
 Morda smo zadnjikrat nocoj se zbrali
 tovariši brez doma na obali:
 zakaj nihče slovesa ne zapoje?
