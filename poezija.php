@@ -571,7 +571,7 @@ include "includes/header.php";
                 <li><a href="poezija/zvijezde-i-covjek-u-samici.php">Zvijezde i čovjek u samici</a></li>
             </ul>
         </article>
-        
+
         <article>
             <h4>Radovan Zogović</h4>
             <ul>
@@ -579,6 +579,13 @@ include "includes/header.php";
             </ul>
         </article>
         
+        <article>
+            <h4>Savo Dragojević</h4>
+            <ul>
+                <li><a href="poezija/nase-pismo.php">Naše pismo</a></li>
+            </ul>
+        </article>
+
         <article>
             <h4>Igo Gruden</h4>
             <ul>
