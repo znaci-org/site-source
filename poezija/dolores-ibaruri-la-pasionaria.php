@@ -45,3 +45,5 @@ Dolores Ibaruri — La Pasionaria
 </pre>
 
 <p>(27. maj 1976)</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/%C4%90or%C4%91e_Andrejevi%C4%87_Kun%2C_grafika_iz_%C5%A0panije.jpg" alt=""></p>

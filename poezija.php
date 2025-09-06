@@ -609,6 +609,13 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Vladimir Nastić</h4>
+            <ul>
+                <li><a href="poezija/blagoju-parovicu.php">Blagoju Paroviću</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Anonimne / narodne pesme</h4>
             <ul>
                 <li><a href="poezija/no-pasaran.php">No pasaran</a></li>
