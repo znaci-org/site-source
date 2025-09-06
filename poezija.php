@@ -544,6 +544,7 @@ include "includes/header.php";
             <h4>Vladimir Čerkez</h4>
             <ul>
                 <li><a href="poezija/braniocima-barcelone.php">Braniocima Barcelone</a></li>
+                <li><a href="poezija/dolores-ibaruri-la-pasionaria.php">Dolores Ibaruri La Pasionaria</a></li>
                 <li><a href="poezija/espanja.php">Espanja</a> (poema)</li>
             </ul>
         </article>
