@@ -515,6 +515,7 @@ include "includes/header.php";
             <h4>Čedomir Minderović</h4>
             <ul>
                 <li><a href="poezija/posle-iruna.php">Posle Iruna</a></li>
+                <li><a href="poezija/reka-manzanares.php">Reka Manzanares</a></li>
             </ul>
         </article>
 
@@ -522,6 +523,13 @@ include "includes/header.php";
             <h4>Dušan Matić</h4>
             <ul>
                 <li><a href="poezija/broj-4-21-35.php">Broj 4-21-35</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Jovan Popović</h4>
+            <ul>
+                <li><a href="poezija/deca-umiru.php">Deca umiru</a></li>
             </ul>
         </article>
 
@@ -535,6 +543,8 @@ include "includes/header.php";
         <article>
             <h4>Vladimir Čerkez</h4>
             <ul>
+                <li><a href="poezija/braniocima-barcelone.php">Braniocima Barcelone</a></li>
+                <li><a href="poezija/dolores-ibaruri-la-pasionaria.php">Dolores Ibaruri La Pasionaria</a></li>
                 <li><a href="poezija/espanja.php">Espanja</a> (poema)</li>
             </ul>
         </article>
@@ -543,6 +553,7 @@ include "includes/header.php";
             <h4>Kosta Kočo Racin</h4>
             <ul>
                 <li><a href="poezija/ispanska-balada.php">Испанска балада</a></li>
+                <li><a href="poezija/smrtta-na-asturiskiot-rudar.php">Смртта на астурискиот рудар</a></li>
             </ul>
         </article>
 
@@ -563,9 +574,44 @@ include "includes/header.php";
         </article>
 
         <article>
+            <h4>Radovan Zogović</h4>
+            <ul>
+                <li><a href="poezija/krila.php">Krila</a></li>
+            </ul>
+        </article>
+        
+        <article>
+            <h4>Savo Dragojević</h4>
+            <ul>
+                <li><a href="poezija/nase-pismo.php">Naše pismo</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Igo Gruden</h4>
+            <ul>
+                <li><a href="poezija/silvestrova-zdravica.php">Silvestrova zdravica</a></li>
+            </ul>
+        </article>
+
+        <article>
             <h4>Oskar Davičo</h4>
             <ul>
                 <li><a href="poezija/cinjenice.php">Činjenice</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Tanasije Mladenović</h4>
+            <ul>
+                <li><a href="poezija/na-godisnjicu-rata-u-spaniji.php">Na godišnjicu rata u Španiji</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <h4>Vladimir Nastić</h4>
+            <ul>
+                <li><a href="poezija/blagoju-parovicu.php">Blagoju Paroviću</a></li>
             </ul>
         </article>
 
@@ -1449,6 +1495,7 @@ include "includes/header.php";
                 <li><a href="poezija/oj-kozarske-vite-jele.php">Oj kozarske vite jele</a></li>
                 <li><a href="poezija/druga-sosu-ubila-je-mina.php">Druga Šošu ubila je mina</a></li>
                 <li><a href="poezija/doso-kurjak-sa-planine.php">Došo Kurjak sa planine</a></li>
+                <li><a href="poezija/pogibija-kurjaka.php">Pogibija Veljka Lukića–Kurjaka</a></li>
                 <li><a href="poezija/pjesma-vladi-segrtu.php">Pjesma Vladi Šegrtu</a></li>
                 <li><a href="poezija/izgubismo-drug-solaju.php">Izgubismo drug Šolaju</a></li>
                 <li><a href="poezija/romanijo-visokoga-visa.php">Romanijo visokoga visa</a></li>
