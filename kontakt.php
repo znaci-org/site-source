@@ -9,7 +9,7 @@ include "includes/header.php";
 
 <p>Projektu možete pomoći tako što ćete nam slati izvornu građu koja nedostaje - zbornike dokumenata, knjige sećanja, fotografije, poeziju...</p>
 
-<p>Email: <a href='&#109;&#97;ilto&#58;%6&#50;ibliot&#37;&#54;5ka%7An&#37;61ci&#64;%67&#109;ail&#46;&#99;&#111;&#109;'>bibliotekazna&#99;i&#64;gmail&#46;&#99;&#111;m</a></p>
+<p><b>Email:</b> <a href='&#109;&#97;ilto&#58;%6&#50;ibliot&#37;&#54;5ka%7An&#37;61ci&#64;%67&#109;ail&#46;&#99;&#111;&#109;'>bibliotekazna&#99;i&#64;gmail&#46;&#99;&#111;m</a></p>
 
 <p><b>Bitna napomena:</b> Na upite o informacijama ne odgovaramo jer takve odgovore nemamo. Mi samo objavljujemo elektronske knjige. Sve informacije koje vas zanimaju morate sami tražiti u knjigama. Nemamo podatke o vašim precima, nemamo detaljne podatke o svim učesnicima drugog svetskog rata, ne znamo šta se dešavalo u vašem selu i slično.</p>
 
