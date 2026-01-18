@@ -121,7 +121,7 @@ include "includes/header.php";
   ?>
 
 
-    <a href="/00003/1001.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;
+    <a href="/00003/2571.pdf" target="_blank"><span>&nbsp;&nbsp;&#9658;
         Sergej Flere, Rudi Klanjšek: Was Tito’s Yugoslavia totalitarian?</span></a> </p>
 
   <tr>
