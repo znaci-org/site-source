@@ -23,10 +23,10 @@ Dostić će vas, zmije, osvetnička strijela<br>
 Iznad naših brda, dolina i sela.</p>
 
 <p>Kukavice, vrane,<br>
-Psi tušinskih kurva,<br>
+Psi tuđinskih kurva,<br>
 U dno naše rane<br>
 Bijes će da vas surva,<br>
-Od otrovâ njenih kosti će vam gnjiti,<br>
+Od otrova njenih kosti će vam gnjiti,<br>
 Dok se ne nasiti, dok se ne nasiti.</p>
 
 <p>Naše ljute guje<br>
